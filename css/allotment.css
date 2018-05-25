@@ -5,7 +5,8 @@ body {
 
 /* MAIN */
 
-body.main .hero-area {
+body.main .hero-area,
+body.index .hero-area {
     background-image: url(images/blossom3.jpg);
 }
 
@@ -14,6 +15,7 @@ body.burnside .hero-area {
 }
 
 body.main .hero-area .overlay,
+body.index .hero-area .overlay,
 body.burnside .hero-area .overlay {
     background: none;
 }
