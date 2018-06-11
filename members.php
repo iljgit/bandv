@@ -24,7 +24,7 @@
             echo $page;
         ?>
     </style>
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
    
         <script>
             function showAGM() {
@@ -64,30 +64,27 @@
             <div class="row">
                 <div class="col-xs-12"><h3>At a glance</h3></div>
             </div>
+
+            <!--div class="row">
+                <div class="col-xs-12">
+                    <h4>Feature</h4><p>
+                    Many of us may already know how to use weed block on that stubborn patch on our plots.  But you have to learn somehow and this article 
+                    by Andy K at Burnside gives a spade by spade guide to how to get the best results.  And you never know, even old hands may learn a thing or three...</p>
+                </div>
+            </div-->
+
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading text-center"><h4><i class="fa fa-newspaper-o" aria-hidden="true"></i>&nbsp;News</h4></div>
+                        <div class="panel-heading text-center"><h4><i class="fa fa-newspaper-o" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;News</h4></div>
                         <div class="panel-body">
                             <ul>
-                            
-                                <li><span style="color: black; font-weight: bold;">
-                                    Burnside Burn Bin, Saturday 02 June 2018 - 10:00 to 14:00
-                                </span></li>
-                                
-                                <br>
                                 
                                 <li><a href="community/diabetesuk.php">
                                     <span style="color: darkred">
                                         Tina from Burnside has been doing her bit for Diabetes UK and now she would like your help...
                                     </span>
                                 </a></li>
-                                
-                                <br>
-                                
-                                <li><span onclick="document.querySelector('#gdpr').scrollIntoView({ behavior: 'smooth'});" style="cursor: pointer; color: #404040;">
-                                    GDPR - what it's all about
-                                </span></li>
                                 
                                 <br>
                                 
@@ -107,7 +104,7 @@
                 
                 <div class="col-xs-12 col-sm-6">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading text-center"><h4>About us</h4></div>
+                        <div class="panel-heading text-center"><h4><i class="fa fa-users" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;About us</h4></div>
                         <div class="panel-body">
                             <ul>
 
