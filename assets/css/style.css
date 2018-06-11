@@ -25,6 +25,10 @@
 		padding: 0px;
 	} */
 
+html {
+    height: 100%;
+}
+
 body { 
 	background: #ffffff;
         /*background: rgba(0, 160, 0, 0.1);*/
@@ -412,7 +416,7 @@ a:focus {
 
 #blue {
 	/*background: #00b3fe;*/
-        background-color: #4b692b;
+        background-color: transparent;
         /*background-image: url(/assets/css/images/banner.jpg);*/
         /*background-position: right center;*/
         background-size: cover;
@@ -424,9 +428,10 @@ a:focus {
 }
 
 #blue h3 {
-	color: white;
+	color: #4b692b;
 	margin-left: 15px;
-        text-shadow: 2px 2px  5px #404040;
+    /*text-shadow: 1px 1px 0px #597c33;*/
+    font-size: 2em;
 }
 
 .ctitle {
