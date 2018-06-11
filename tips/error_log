@@ -1,0 +1,2 @@
+[27-Sep-2017 20:47:11 UTC] PHP Warning:  file_get_contents(assets/css/style.css): failed to open stream: No such file or directory in /home/burnside/public_html/tips/leaf-miner.php on line 24
+[27-Sep-2017 20:47:16 UTC] PHP Warning:  file_get_contents(assets/css/style.css): failed to open stream: No such file or directory in /home/burnside/public_html/tips/leaf-miner.php on line 24

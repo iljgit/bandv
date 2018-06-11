@@ -1,0 +1,36 @@
+body {
+    background: rgb(2, 116, 2);
+    color: black;
+}
+
+/* MAIN */
+
+.hero-area {
+    background-image: url(images/blossom3.jpg);
+}
+
+.hero-area .overlay {
+    background: none;
+}
+
+.transparent-background {
+    background: rgba(128, 128, 128, 0.8);
+    border-radius: 10px;
+    border: 1px solid transparent;
+}
+
+.banner-content {
+    background: rgba(128, 128, 128, 0.6);
+    border-radius: 10px;
+    border: 1px solid transparent;
+}
+
+.banner-content h3,
+.banner-content h4 {
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.parallux-area .overlay {
+    background: none;
+}
