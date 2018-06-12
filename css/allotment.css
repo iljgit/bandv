@@ -45,3 +45,9 @@ body.burnside .hero-area .overlay {
 .border-top-generic {
     padding-top: 40px !important;
 }
+
+@media (max-width: 767px) {
+    .banner-area {
+        /*height: 250px;*/
+    }
+}
