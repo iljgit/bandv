@@ -143,10 +143,10 @@ a:focus {
 .navbar-default {
 	/*background-color: #384452;*/
         /*background-color: rgba(0, 160, 0, 1);*/
-        background-image: url(/assets/img/navbar-background5.jpg);
+        background-image: url(/assets/img/navbar-background7.jpg);
         background-color: #4b692b;
         background-repeat: no-repeat;
-        background-size: contain;
+        background-size: 100% auto;
 	border-color: transparent;
         background-position: top left;
 }
@@ -154,7 +154,7 @@ a:focus {
 .dropdown-menu {
 	/*background: #384452;*/
         /*background-color: rgba(0, 160, 0, 1);*/
-        background-color: #968047;
+        background-color: #4b692b;
 }
 
 .dropdown-menu > li > a {
@@ -809,8 +809,7 @@ emphasis {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff !important;
-  /*background-color: rgba(0, 160, 0, 1) !important;*/
-  background-color: rgba(149, 69, 53, 1) !important; #954535
+  background-color: rgba(0, 160, 0, 1) !important;
 }
 
 .nav-pills > li > a,
@@ -933,4 +932,28 @@ emphasis {
   -webkit-transform-origin: 50% 100%;
   -ms-transform-origin: 50% 100%;
   -o-transform-origin: 50% 100%;
+}
+
+
+/* Lists with hand pointer */
+ul.pointer { padding-left:20px; list-style:none; }
+ul.pointer li { margin-bottom:10px; }
+ul.pointer li:before {    
+    font-family: 'FontAwesome';
+    content: '\f0a4';
+    margin:0 0px 0 -20px;
+    color: green;
+}
+
+/* Backgrounds */
+.feature-background {
+    background: linear-gradient(rgba(255, 0, 0, 0.2), rgba(200, 0, 0, 0.2));
+}
+
+.highlight-background {
+    background: linear-gradient(rgba(0, 255, 0, 0.2), rgba(0, 200, 0, 0.2));
+}
+
+.lowlight-background {
+    background: linear-gradient(rgba(245, 253, 166, 0.2), rgba(226, 204, 3, 0.2));
 }
