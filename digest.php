@@ -222,6 +222,15 @@ A toddler was found chewing on a slug.  After the initial surge of disgust the p
                         
                         <div id="tips" class="tab-pane fade">
                             <h3>Tips<br><br></h3>
+
+                            <p>
+                                <a href="tips/weed-block.php">
+                                    <span class="blog-title">Making your plot weed-free</span><br>
+                                    <span class="blog-subtitle">Getting rid of weeds - a step-by-step guide</span><br>
+                                    <span class="blog-author">Andy K - Burnside</span>
+                                </a>
+                            </p>
+
                             <p>
                                 <a href="tips/tomato-blight.php">
                                     <span class="blog-title">Tomato blight</span><br>

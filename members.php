@@ -65,20 +65,27 @@
                 <div class="col-xs-12"><h3>At a glance</h3></div>
             </div>
 
-            <!--div class="row">
+            <div class="row">
                 <div class="col-xs-12">
-                    <h4>Feature</h4><p>
-                    Many of us may already know how to use weed block on that stubborn patch on our plots.  But you have to learn somehow and this article 
-                    by Andy K at Burnside gives a spade by spade guide to how to get the best results.  And you never know, even old hands may learn a thing or three...</p>
+                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
+                        <div class="panel-heading feature-background text-center"><h4><i class="fa fa-bullhorn" aria-hidden="true" style="color: #ff0000;"></i>&nbsp;Featured item</h4></div>
+                        <div class="panel-body"><p>
+                            <img src="assets/img/weedblock.jpg" style="width: 20%;" class="img-responsive img-thumbnail pull-left margin"/>
+                            <img src="assets/img/weedblock2.jpg" style="width: 20%;" class="img-responsive img-thumbnail pull-right margin"/>
+                            Many of us may already know how to use weed block on that stubborn patch on our plots.  But you have to learn somehow and this article 
+                            by Andy K at Burnside gives a spade by spade guide to how to get the best results.  And you never know, even old hands may learn a thing or three...</p>
+                            <p>Click <a href="tips/weed-block.php">here</a> for the full article.
+                        </p></div>
+                    </div>
                 </div>
-            </div-->
+            </div>
 
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading text-center"><h4><i class="fa fa-newspaper-o" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;News</h4></div>
+                        <div class="panel-heading highlight-background text-center"><h4><i class="fa fa-newspaper-o" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;News</h4></div>
                         <div class="panel-body">
-                            <ul>
+                            <ul class="pointer">
                                 
                                 <li><a href="community/diabetesuk.php">
                                     <span style="color: darkred">
@@ -104,9 +111,9 @@
                 
                 <div class="col-xs-12 col-sm-6">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading text-center"><h4><i class="fa fa-users" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;About us</h4></div>
+                        <div class="panel-heading highlight-background text-center"><h4><i class="fa fa-users" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;About us</h4></div>
                         <div class="panel-body">
-                            <ul>
+                            <ul class="pointer">
 
                                 <li><a href="store.php" style="color: #404040;">
                                     The Society's store is open for 2018. Drop by for a bargain, a cuppa and a chat.
@@ -147,7 +154,11 @@
             </div>            
             
             <div class="row">
-                <div class="col-xs-12"><h3>Documents</h3></div>
+                <div class="col-xs-12">
+                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
+                        <div class="panel-heading lowlight-background text-center"><h4><i class="fa fa-file-text-o" aria-hidden="true" style="color: #000000;"></i>&nbsp;Documents</h4></div>
+                    </div>
+                </div>
             </div>
             <div class="row">
                 <div id="gdpr" class="col-xs-3 mtop">GDPR<br>
