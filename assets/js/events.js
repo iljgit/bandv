@@ -1,6 +1,24 @@
 var events = {
     events: [
         {
+                id: '24 Jul 2018 19:30',
+                title: 'Society AGM - 7:30pm start at St Martin\'s Church Hall, Suez Road',
+                start: '24 Jul 2018 19:30',
+                end:  '24 Jul 2018 21:00'
+        },
+        {
+                id: '01 Sep 2018 12:00',
+                title: 'Vinery Road summer party',
+                start: '01 Sep 2018 12:00',
+                end:  '01 Sep 2018 17:00'
+        },
+        {
+                id: '15 Sep 2018 12:00',
+                title: 'Burnside summer party',
+                start: '15 Sep 2018 12:00',
+                end:  '15 Sep 2018 17:00'
+        },
+        {
                 id: '02 Jun 2018 10:00',
                 title: 'Burnside burn bin 10-14 - weather permitting',
                 start: '02 Jun 2018 10:00',

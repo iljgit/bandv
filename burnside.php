@@ -97,7 +97,23 @@ There is an apiary on the Burnside site, near the burn-bin. Honey is available a
                     <p>&nbsp;</p>
                     
                     <p><h4>Plot map</h4>(click for a larger version)<br></p>
-                    <p><a href="assets/img/burnside_plot_map.jpg" target="map"><img class="img-responsive img-thumbnail" src="assets/img/burnside_plot_map.jpg" />
+                    <p><a href="assets/img/burnside_plot_map.jpg" target="map"><img class="img-responsive img-thumbnail" src="assets/img/burnside_plot_map.jpg" /></p><br>
+                    
+                    <p>
+                        <div class="pull-left" style="position: inline-block; width: 33%;">
+                            <figure class="figure pull-left" style="width: 100%">
+                                <img src="assets/img/andy.jpg" class="figure-img img-fluid rounded" alt="Andy Kurdynowski" style="width: 110%;">
+                                <figcaption class="figure-caption">Andy Kurdynowski</figcaption>
+                            </figure>
+                        </div>
+                        
+                        <div class="pull-right" style="position: inline-block; width: 40%;">                        
+                            <figure class="figure pull-right">
+                                <img src="assets/img/mattheww.jpg" class="figure-img img-fluid rounded" alt="Matthew Whitelegg" style="width: 100%;">
+                                <figcaption class="figure-caption">Matthew Whitelegg</figcaption>
+                            </figure>
+                        </div>
+                    </p>
                                         
                     
                 </div>

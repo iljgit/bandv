@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Useful information about Burnside and Vinery Road allotments, South Cambridge.  Rules, regulations, minutes, news, tips.">
+    <meta name="description" content="Useful information about Burnside and Vinery Road Allotments Society, South Cambridge.  Rules, regulations, minutes, news, tips.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
@@ -58,6 +58,33 @@
             <div class="row">
                 <div class="col-xs-12">
                     <p class="large-text">Too busy to check the rest of the site?  Bookmark this page and come back regularly for all the latest news, views and information.</p>
+                    <hr>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
+                    <p class="large-text">Got something on your mind? Need some help? Got some advice? Want to share your experience?</p>
+                    <p class="large-text">Contact us at <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> with your thoughts. And don't forget to visit the <b>Digest</b> and <b>Information</b> pages.</p>
+                    <hr>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
+                    <p class="large-text">The Society always welcomes volunteers and right now there are vacancies on the Committee for members from Vinery Road.</p>
+                    <p class="large-text">The two sites only function through the help and support of a small number of members. Please don't leave it up to someone else: 
+                    contact Mark at <a href="mailto:chair@burnsideandvineryallotments.org">chair@burnsideandvineryallotments.org</a></p>
+                    <hr>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
+                    <h3 class="large-text">Bored?</h3>
+                    <p class="large-text">You've done all the no-digging you can take.  The tomatoes are so plentiful they are harvesting themselves.  So, what better way to spend a couple of minutes than completing the Society's summer quiz?</p>
+                    <p class="large-text">No, don't answer that - instead go to the <a href="quiz2.php"><i>Digest</i>'s <i>Quiz</i></a> page.  There is even a miniscule prize...</p>
+                    <hr>
                 </div>
             </div>
             
@@ -66,16 +93,30 @@
             </div>
 
             <div class="row">
-                <div class="col-xs-12">
+                <div class="col-xs-12 col-sm-6">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
                         <div class="panel-heading feature-background text-center"><h4><i class="fa fa-bullhorn" aria-hidden="true" style="color: #ff0000;"></i>&nbsp;Featured item</h4></div>
                         <div class="panel-body"><p>
-                            <img src="assets/img/weedblock.jpg" style="width: 20%;" class="img-responsive img-thumbnail pull-left margin"/>
+                            <p><img src="assets/img/weedblock.jpg" style="width: 20%;" class="img-responsive img-thumbnail pull-left margin"/>
                             <img src="assets/img/weedblock2.jpg" style="width: 20%;" class="img-responsive img-thumbnail pull-right margin"/>
                             Many of us may already know how to use weed block on that stubborn patch on our plots.  But you have to learn somehow and this article 
-                            by Andy K at Burnside gives a spade by spade guide to how to get the best results.  And you never know, even old hands may learn a thing or three...</p>
+                            by Andy K at Burnside gives a spade by spade guide to how to get the best results. </p><br>
+                            <p>And you never know, even old hands may learn a thing or three...</p>
                             <p>Click <a href="tips/weed-block.php">here</a> for the full article.
                         </p></div>
+                    </div>
+                </div>
+                
+                <div class="col-xs-12 col-sm-6">
+                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
+                        <div class="panel-heading feature-background text-center"><h4><i class="fa fa-calendar" aria-hidden="true" style="color: #ff0000;"></i>&nbsp;Dates for your diary</h4></div>
+                        <div class="panel-body">
+                            <ul class="calendar">
+                                <li>Society AGM - Tuesday 24<sup>th</sup> July.<br>St Martin's Church Hall, Suez Road, 7:30pm start.</li>
+                                <li>Vinery Road summer party - Saturday 1<sup>st</sup> September.  <u>All</u> society members welcome.</li>
+                                <li>Burnside summer party - Saturday 15<sup>th</sup> September.  <u>All</u> society members welcome.</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -86,10 +127,24 @@
                         <div class="panel-heading highlight-background text-center"><h4><i class="fa fa-newspaper-o" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;News</h4></div>
                         <div class="panel-body">
                             <ul class="pointer">
+                            
+                                <li><a href="community.php">
+                                    <span  style="color: #404040;">
+                                        Soil, waste and an MSc student who needs our help<i class="fa fa-star fa-glow"></i>
+                                    </span>
+                                </a></li>
+                            
+                                <li><a href="https://www.baracambridge.org/" target="bara">
+                                    <span  style="color: #404040;">
+                                        We welcome members of Birdwood Area Residents Association to our web site <i class="fa fa-star fa-glow"></i>
+                                    </span>
+                                </a></li>
                                 
-                                <li><a href="community/diabetesuk.php">
-                                    <span style="color: darkred">
-                                        Tina from Burnside has been doing her bit for Diabetes UK and now she would like your help...
+                                <br>
+                                
+                                <li><a href="community/diabetesuk.php"  style="color: #404040;">
+                                    <span>
+                                        Tina from Burnside has been doing her bit for Diabetes UK.  Read how she has been getting on...
                                     </span>
                                 </a></li>
                                 
@@ -122,7 +177,7 @@
                                 <br>
                                 
                                 <li><a href="notices.php" style="color: #404040;">
-                                    Take a look at our new noticeboard.<br><b>1 offer</b>
+                                    Take a look at our new noticeboard.<br><b>1 offer, 6 for sale</b>
                                 </a></li>
                                 
                                 <br>
@@ -139,53 +194,15 @@
                                 
                                 <br>
                                 
-                                <li><span onclick="document.querySelector('#rules').scrollIntoView({ behavior: 'smooth'});" style="cursor: pointer; color: #404040;">
-                                    Current Allotment Rules
-                                </span></li>
+                                <li><a href="documents.php"><span style="color: #404040;">
+                                    Current Allotment Rules and Regulations
+                                </span></a></li>
                             </ul>
                         </div>
                     </div>  
                 </div>
 
             </div>
-            
-            <div class="row">
-                <div class="col-xs-12"><hr></div>
-            </div>            
-            
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading lowlight-background text-center"><h4><i class="fa fa-file-text-o" aria-hidden="true" style="color: #000000;"></i>&nbsp;Documents</h4></div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div id="gdpr" class="col-xs-3 mtop">GDPR<br>
-                    <button class="btn btn-xs btn-primary"><a href="assets/docs/Burnside and Vinery Allotments GDPR.pdf" target="doc">PDF</a></button>
-                </div>
-                <div id="rules" class="col-xs-3 mtop">Rules<br>
-                    <button class="btn btn-xs btn-primary"><a href="assets/docs/Allotment Rules.pdf" target="doc">PDF</a></button>
-                </div>
-                <div class="col-xs-3 mtop">Constitution<br>
-                    <button class="btn btn-xs btn-primary"><a href="assets/docs/Constitution_15-10-2015.pdf" target="doc">PDF</a></button>
-                </div>
-                <div class="col-xs-3 mtop">Burnside Burn-bin<br>
-                    <button class="btn btn-xs btn-primary"><a href="assets/docs/BurnBin.pdf" target="doc">PDF</a></button>
-                </div>
-                <div class="col-xs-3 mtop">AGM Minutes<br>
-                    <select class="form-control inline" id="agm" style="width: auto; display: inline-block;">
-                        <option value="assets/docs/2017 AGM.pdf" selected>2017</option>
-                        <option value="assets/docs/2016 AGM.pdf">2016</option>
-                    </select>&nbsp;
-                    <button class="btn btn-xs btn-primary inline" onclick="showAGM();">PDF</button>
-                </div>
-
-                <div class="col-xs-3 mtop">TJ Kids @ Vinery<br>
-                    <button class="btn btn-xs btn-primary"><a href="assets/docs/TJKids.pdf" target="doc">PDF</a></button>
-                </div>
-            </div>
-            
             
             <div class="row"><div class="col-xs-12">&nbsp;</div></div>
             

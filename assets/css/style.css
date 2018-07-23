@@ -669,19 +669,23 @@ hr.news {
     content: "";
 }
 
-blockquote::before{
+blockquote {
+    padding-top: 20px;
+}
+
+xblockquote::before{
   content: "\201C"; /*Unicode for Left Double Quote*/
   
   /*Font*/
   font-family: Georgia, serif;
-  font-size: 60px;
+  font-size: 40px;
   font-weight: bold;
   color: #999;
   
   /*Positioning*/
   position: absolute;
   left: 10px;
-  top:25px;
+  top: 35px;
 }
 
 blockquote::after{
@@ -943,6 +947,22 @@ ul.pointer li:before {
     content: '\f0a4';
     margin:0 0px 0 -20px;
     color: green;
+}
+
+/* Lists with calendar icon */
+ul.calendar { padding-left:20px; list-style:none; }
+ul.calendar li { margin-bottom:10px;}
+ul.calendar li:before {    
+    font-family: 'FontAwesome';
+    content: '\f073';
+    margin:0 5px 0 -20px;
+    color: red;
+}
+
+/* Font Awesome */
+.fa-glow {
+    color: red;
+    text-shadow: 3px 3px 5px #a0a0a0;
 }
 
 /* Backgrounds */

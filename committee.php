@@ -95,29 +95,16 @@
             </div>
             <div class="row margin-bottom">
                 <div class="col-xs-12 col-md-6">
-                    <p><h4><span class="text-primary">Burnside site co-manager:</span> Matthew Whitelegg - Burnside</h4><br></p><p></p>
-                    <p class="large-text">
+                    <p><h4><span class="text-primary">Treasurer and Burnside site co-manager:</span> Matthew Whitelegg - Burnside</h4><br></p><p></p>
+                    <p>
                     <img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/mattheww.jpg"/> 
                     <blockquote>
                     I started on the allotment in the Spring of 2009. Since then we have enjoyed abundant crops of bindweed and mare’s tail. As well as tending the plot I have the role of Burnside site manager along with Andy K. Over the years this has involved letting out plots to new tenants and generally working on the site as a whole.
                     </blockquote>
                     </p>
-                    <!--p class="large-text text-center"><a href="mailto:secretary@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;secretary@burnsideandvineryallotments.org</a>
-                    </p-->
-                </div>
-                <div class="col-xs-12 col-md-6">
-                    <p><h4><span class="text-primary">Treasurer:</span> Andy Livesey - Vinery Road</h4><br></p><p></p>
-                    <p class="large-text">
-                    <img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/alivesey.jpg"/> 
-                    <blockquote>
-                    I have enjoyed working a plot on Vinery for nearly 20 years, I joined the committee in 2009 and took over from Trevor Taylor as Treasurer. I can be spotted on site most lunchtimes during the growing season and tend to hibernate during the winter.
-                    </blockquote>
-                    </p>
                     <p class="large-text text-center"><a href="mailto:treasurer@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;treasurer@burnsideandvineryallotments.org</a>
                     </p>
                 </div>
-            </div>
-            <div class="row margin-bottom">
                 <div class="col-xs-12 col-md-6">
                     <p><h4><span class="text-primary">Burnside site co-manager:</span> Andy Kurdynowski - Burnside</h4><br></p><p></p>
                     <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/andy.jpg"/> 
@@ -126,17 +113,6 @@
                     </blockquote>
                     </p>
                     <p class="large-text text-center"><a href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;burnsidesitemanager@burnsideandvineryallotments.org</a>
-                    </p>
-                </div>
-                <div class="col-xs-12 col-md-6">
-                    <p><h4><span class="text-primary">Vinery Road site manager:</span> Glynn Gorick - Vinery Road</h4><br></p><p></p>
-                    <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/glynngorick.jpg"/> 
-                    <blockquote>
-                    Barb and I started our plots with friend Heather in 2008. I joined the committee in 2012 and have since been the Vinery site manager.
-We try and promote full use of plots and social events. Martin has filmed us on site for 'earth matters mill road tv'. There are improvements to make and plenty of projects to work on.
-                    </blockquote>
-                    </p>
-                    <p class="large-text text-center"><a href="mailto:vinerysitemanager@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;vinerysitemanager@burnsideandvineryallotments.org</a>
                     </p>
                 </div>
             </div>

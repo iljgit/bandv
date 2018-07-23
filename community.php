@@ -68,7 +68,7 @@
             
             <div class="row">
                 <div class="col-xs-12">
-                    <p class="large-text">Vinery Road and Burnside allotments support a number of community and charitable projects.<br><br>
+                    <p class="large-text">Vinery Road and Burnside allotments support a number of community, charitable and research projects.<br><br>
                     For those not in the know, here is a little information about what is going on.
                     </p>
                     <hr><br>
@@ -76,6 +76,22 @@
             </div>
             
             <div class="row">
+            
+                <div class="col-xs-12 col-md-6">
+                    <p>                        
+                        <span class="blog-title">Soil and Waste in Cambridge</span><br>
+                        <span class="blog-subtitle">
+                            
+<p>My name is Kim Graham and I am a doing an MSc in Agroecology and Food Security at Coventry University. I live in Cambridge and am passionate about supporting local food systems, and so I am doing my final thesis around this. This questionnaire is designed to help me learn more about the practices of people who grow in allotments and community gardens in Cambridge to do with soil and waste. By completing this questionnaire, you will help me understand how soil nutrition and waste recycling may be contributing to a more environmentally friendly and socially equitable food system locally. Thanks very much for your interest, and if you would like to know more about the research project, get involved further with it, or simply have any questions, feel free to contact me at <a href="mailto:grahamk6@uni.coventry.ac.uk">grahamk6@uni.coventry.ac.uk</a>.</p>
+<p>The link to the questionnaire is: <a href="https://coventry.onlinesurveys.ac.uk/cgsmembersquestionnaire" target="q">https://coventry.onlinesurveys.ac.uk/cgsmembersquestionnaire</a>, and you need the password <b>KGMSC2018</b> to access it. </p>
+<p>Let me know if you have any questions about this and many thanks again for your help.</p>
+<p>Best wishes,</p>
+<p>Kim</p>
+                            
+                        </span>
+                    </p>
+                </div>
+                
                 <div class="col-xs-12 col-md-6">
                     <p>                        
                         <span class="blog-title">Diabetes UK</span><br>

@@ -77,10 +77,15 @@ The site meeting place and store is known as ‘the Pavilion’ and is named aft
 </p>
 
 <p>The Store at Burnside is open at certain times in the year. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. Click <a href="store.php">here</a> for store details.</p>
-
+<!--
 <p><br><b>Site Manager</b>: Glynn Gorick<br>
                     <a href="mailto:vinerysitemanager@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;vinerysitemanager@burnsideandvineryallotments.org</a>
                     </p>
+                    
+                    <p>
+                        <img class="img-responsive img-rounded thumbnail-lg pull-center" src="assets/img/glynngorick.jpg"/> 
+                    </p>
+                    -->
 
                 </div>
                 
@@ -93,7 +98,9 @@ The site meeting place and store is known as ‘the Pavilion’ and is named aft
                     <p>&nbsp;</p>
                     
                     <p><h4>Plot map</h4>(click for a larger version)<br></p>
-                    <p><a href="assets/img/vinery_plot_map.jpg" target="map"><img class="img-responsive img-thumbnail" style=" height: 400px;" src="assets/img/vinery_plot_map.jpg" />
+                    <p><a href="assets/img/vinery_plot_map.jpg" target="map"><img class="img-responsive img-thumbnail" style=" height: 400px;" src="assets/img/vinery_plot_map.jpg" /></p><br>
+                    
+                    
                     
                     
                     

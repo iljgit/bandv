@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside and Vinery Road Allotments, South Cambridge, are run by a single committee.  The two, thriving sites provide a friendly, well-run environment for new allotment holders and seasoned hands alike.">
+    <meta name="description" content="Burnside and Vinery Road Allotments Society, South Cambridge, is run by a single committee.  The two, thriving sites provide a friendly, well-run environment for new allotment holders and seasoned hands alike.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
@@ -82,7 +82,12 @@
                     <div class="row">
                         <div class="col-xs-12">
                                 <h2>Welcome to our web site</h2>
-                                <h7><i>Society members might want to jump straight to the new <a href="members.php"><b>Members</b></a> page.</i></h7>
+                                <h7>
+                                    <i>
+                                        Society members might want to jump straight to the new <a href="members.php"><b>Members</b></a> page to see our featured article on 
+                                        making your plot weed-free, and to read about Tina's fund-raising for Diabetes UK.
+                                    </i>
+                                </h7>
                         </div>
                     </div>
                     

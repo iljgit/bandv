@@ -70,6 +70,27 @@
             <div class="row">
                 <div class="col-xs-12">
                 <h2>Diabetes UK Swim 22</h2>
+                <p class="large-text">
+                In Spring 2018, Tina set herself a challenge to raise money for Diabetes UK.  You can read about what she set out to do below.  Here she updates us on her progress:
+                </p>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
+                <hr>
+                <p class="text text-info large-text">
+                I wanted to thank everyone from the society who has generously donated seedlings and cash, bringing the allotment total to over £40.  Thank you!  I think it is truly marvellous as well as encouraging my colleagues to have a try at growing their own!  This brings my total raised so far to <b>£1430</b> and I will continue to pull in some cash as we sell excess produce (though I have been reluctant to sell too many of our strawberries!). <br><br>
+                With very best wishes and gratitude<br>Tina x<br>
+                <i class="text pull-right" style="font-size:80%">12<sup>th</sup> June 2018</i><br>
+                </p>
+                <hr><br>
+                </div>
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
+                <h3>The Challenge - March 2018</h3>
 <p class="large-text">
 <img class="img-thumbnail pull-left" style="width: 30%; margin-right: 20px; margin-bottom: 20px;" src="images/diabetes_swim_22.jpg" />
 Three months ago I set myself a crazy challenge which stemmed from Diabetes UK Swim 22 initiative to swim 22 miles (the width of the Channel) in my local pool over a period of 3 months.  
