@@ -97,12 +97,12 @@
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
                         <div class="panel-heading feature-background text-center"><h4><i class="fa fa-bullhorn" aria-hidden="true" style="color: #ff0000;"></i>&nbsp;Featured item</h4></div>
                         <div class="panel-body"><p>
-                            <p><img src="assets/img/weedblock.jpg" style="width: 20%;" class="img-responsive img-thumbnail pull-left margin"/>
-                            <img src="assets/img/weedblock2.jpg" style="width: 20%;" class="img-responsive img-thumbnail pull-right margin"/>
-                            Many of us may already know how to use weed block on that stubborn patch on our plots.  But you have to learn somehow and this article 
-                            by Andy K at Burnside gives a spade by spade guide to how to get the best results. </p><br>
-                            <p>And you never know, even old hands may learn a thing or three...</p>
-                            <p>Click <a href="tips/weed-block.php">here</a> for the full article.
+                            <p><img src="tips/images/weedschick.jpg" style="width: 40%;" class="img-responsive img-thumbnail pull-left margin"/>
+                            
+                            Weeds get a bad press - and not always justifiably! Joan from Burnside has learned how to make a virtue out of necessity - 
+                            how to make her crops and weeds co-exist.
+                            </p>
+                            <p>Click <a href="tips/weeds.php">here</a> for the full article.
                         </p></div>
                     </div>
                 </div>

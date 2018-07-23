@@ -67,6 +67,14 @@
             <div class="row">
                 <div class="col-xs-12">
                     <p>
+                        <a href="tips/weeds.php">
+                            <span class="blog-title">Weeds - an alternative view</span><br>
+                            <span class="blog-subtitle">Learning to live with weeds</span><br>
+                            <span class="blog-author">Joan - Burnside</span>
+                        </a>
+                    </p>
+
+                    <p>
                         <a href="tips/weed-block.php">
                             <span class="blog-title">Making your plot weed-free</span><br>
                             <span class="blog-subtitle">Getting rid of weeds - a step-by-step guide</span><br>
