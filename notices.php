@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside has a community-run store for the Burnside and Vinery Road allotment holders.  It offers basic allotment necessities at competitive prices.">
+    <meta name="description" content="Burnside has a community-run store for the Burnside and Vinery Road Society allotment holders.  It offers basic allotment necessities at competitive prices.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>The Store: Burnside Allotments Site</title>
+    <title>The noticeboard : Burnside Allotments Site</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -68,7 +68,114 @@
             </div>
 	 
             <div class="row">
-                <div class="col-xs-12 col-lg-3">                    
+                
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
+                                </div><br>For sale
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/kneeler.jpg" />
+                            Garden kneeler - as new. £3
+                        </blockquote>
+                    </div>                    
+                    
+                </div>
+                
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
+                                </div><br>For sale
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/yellowbucket.jpg" />
+                            Yellow plastic trug - new. £9.50 (two available)
+                        </blockquote>
+                    </div>                    
+                    
+                </div>
+                
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
+                                </div><br>For sale
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/bluebucket.jpg" />
+                            Blue plastic trug - new. £5
+                        </blockquote>
+                    </div>                    
+                    
+                </div>
+                
+            </div>
+            <div class="row">
+                
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
+                                </div><br>For sale
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/foldingbarrow.jpg" />
+                            Folding barrow - as new. £20
+                        </blockquote>
+                    </div>                    
+                    
+                </div>
+                
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
+                                </div><br>For sale
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/greenbarrow.jpg" />
+                            Large wheelbarrow - puncture-free tyre - new. £63
+                        </blockquote>
+                    </div>                    
+                    
+                </div>
+                
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
+                                </div><br>For sale
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/blackbarrow.jpg" />
+                            Builder's wheelbarrow - new. £50
+                        </blockquote>
+                    </div>                    
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-lg-4">                    
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
