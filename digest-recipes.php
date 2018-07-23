@@ -71,6 +71,13 @@
                 </div>
             </div>
             <div class="row">
+            <div class="col-xs-6 col-md-4" style="padding-bottom: 30px;">
+                    <a href="recipes/chillijam.php">
+                        <span class="blog-title">Tomato and Chilli Jam</span><br>
+                        <span class="blog-subtitle">A sparky accompaniment to cheese, meat and fish.</span><br>
+                        <span class="blog-author">Joan - Burnside</span>
+                    </a>
+                </div>
                 <div class="col-xs-6 col-md-4" style="padding-bottom: 30px;">
                     <a href="recipes/smore.php">
                         <span class="blog-title">Smores</span><br>

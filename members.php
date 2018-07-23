@@ -127,6 +127,12 @@
                         <div class="panel-heading highlight-background text-center"><h4><i class="fa fa-newspaper-o" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;News</h4></div>
                         <div class="panel-body">
                             <ul class="pointer">
+
+                                <li><a href="recipes/chillijam.php">
+                                    <span  style="color: #404040;">
+                                        A recipe for tomato and chilli jam - guaranteed to warm the cockles of your heart<i class="fa fa-star fa-glow"></i>
+                                    </span>
+                                </a></li>
                             
                                 <li><a href="community.php">
                                     <span  style="color: #404040;">
