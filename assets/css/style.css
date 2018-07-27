@@ -673,6 +673,10 @@ blockquote {
     padding-top: 20px;
 }
 
+body.committee blockquote {
+    font-family: 'Karla', cursive; 
+}
+
 xblockquote::before{
   content: "\201C"; /*Unicode for Left Double Quote*/
   

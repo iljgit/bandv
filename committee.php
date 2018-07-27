@@ -44,7 +44,7 @@
         </script>
   </head>
 
-  <body onload="">
+  <body onload="" class="committee">
 
     <!-- Fixed navbar -->
    <?php include "menu_snippet.html" ?>
