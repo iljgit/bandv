@@ -112,7 +112,6 @@
                         <div class="panel-heading feature-background text-center"><h4><i class="fa fa-calendar" aria-hidden="true" style="color: #ff0000;"></i>&nbsp;Dates for your diary</h4></div>
                         <div class="panel-body">
                             <ul class="calendar">
-                                <li>Society AGM - Tuesday 24<sup>th</sup> July.<br>St Martin's Church Hall, Suez Road, 7:30pm start.</li>
                                 <li>Vinery Road summer party - Saturday 1<sup>st</sup> September.  <u>All</u> society members welcome.</li>
                                 <li>Burnside summer party - Saturday 15<sup>th</sup> September.  <u>All</u> society members welcome.</li>
                             </ul>
