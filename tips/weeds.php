@@ -124,14 +124,16 @@ And it may be counter-intuitive, but leaving a few weeds undisturbed can attract
         <div class="row">
             <div class="col-xs-12">
 <h4>You can eat some weeds</h4>
-<p><img src="images/weedsfh.jpg" class="img-responsive img-thumbnail pull-left margin" style="width: 40%;"/>
+<p><img src="images/weedsnettle.jpg" class="img-responsive img-thumbnail pull-left margin" style="width: 40%;"/>
 Fat hen was eaten by Iron Age people as a grain, and the leaves are edible too. It was commonly eaten until the 16th century, 
 when it began to be replaced by things like cabbage and spinach, but it is still cultivated in parts of India as a food crop. 
 Ground elder was reputedly eaten as salad by the Romans and of course nettles can be used for soup, not to mention a fertiliser: 
 visit <a href="http://www.nettles.org.uk/nettles/activities/nettlemanure.asp" target"info">http://www.nettles.org.uk/nettles/activities/nettlemanure.asp</a> for instructions on making a plant food from nettles (if you can stand the smell while you brew it)
 </p>
 
-<p>Plenty of other weeds are still eaten today. According to treehugger.com the following weeds are edible: dandelion, purslane, clover, lamb’s quarters, plantain, 
+<p>Plenty of other weeds are still eaten today. According to 
+<a href="https://www.treehugger.com/lawn-garden/eat-dandelions-9-edible-garden-weeds.html" target="info">https://www.treehugger.com/lawn-garden/eat-dandelions-9-edible-garden-weeds.html</a> 
+the following weeds are edible: dandelion, purslane, clover, lamb’s quarters, plantain, 
 chickweed, and wild amaranth. And there is much advice on the web about uses of edible weeds: see, for example <a href="http://www.abc.net.au/news/health/2016-05-12/edible-weeds-and-how-you-can-use-them/7406004" target="info">
 http://www.abc.net.au/news/health/2016-05-12/edible-weeds-and-how-you-can-use-them/7406004</a></p>
 
@@ -145,7 +147,7 @@ http://www.abc.net.au/news/health/2016-05-12/edible-weeds-and-how-you-can-use-th
 <p>Some say that really pesky weeds such as couch grass and bindweed should just be burnt. 
 But others believe that, provided they are dried out before being added to a compost heap, followed by covering the dried pile for a few months, 
 they can make very good compost. As a non-driver with limited ability to take heavy stuff offsite, 
-I include practically all weeds in my compost heap (woody material goes to the Burn Bin of course – more shameless plugging,). 
+I include practically all weeds in my compost heap (woody material goes to the Burn Bin of course – more shameless plugging). 
 It all rots down eventually to usable compost and I don’t think this causes my plot to be any weedier than average.</p>
 
 <h4>Some weeds are actually good for the soil</h4>
