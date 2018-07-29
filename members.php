@@ -25,16 +25,16 @@
         ?>
     </style>
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-   
+
         <script>
-            function showAGM() {
-                var s = document.getElementById('agm').value;
-                window.open(s, 'agm');
-            }
+            <?php
+                $page = file_get_contents('assets/js/whatsnew.js');
+                echo $page;
+            ?>
         </script>
   </head>
 
-  <body onload="">
+  <body onload="WNew.display();">
 
     <!-- Fixed navbar -->
    <?php include "menu_snippet.html" ?>
@@ -89,32 +89,45 @@
             </div>
             
             <div class="row">
-                <div class="col-xs-12"><h3>At a glance</h3></div>
+                <div class="col-xs-12"><h2>At a glance</h2></div>
             </div>
 
             <div class="row">
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading feature-background text-center"><h4><i class="fa fa-bullhorn" aria-hidden="true" style="color: #ff0000;"></i>&nbsp;Featured item</h4></div>
-                        <div class="panel-body"><p>
-                            <p><img src="tips/images/weedschick.jpg" style="width: 40%;" class="img-responsive img-thumbnail pull-left margin"/>
-                            
-                            Weeds get a bad press - and not always justifiably! Joan from Burnside has learned how to make a virtue out of necessity - 
-                            how to make her crops and weeds co-exist.
-                            </p>
-                            <p>Click <a href="tips/weeds.php">here</a> for the full article.
-                        </p></div>
+                        <div class="panel-heading" style="background: none; border: none;"><h3>Featured Article</h3></div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <img src="assets/img/feature_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
+                                </div>
+                                <div class="col-xs-9">
+                                    <p>
+                                        <img src="tips/images/weedschick.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
+                                        Weeds get a bad press - and not always justifiably! Joan from Burnside has learned how to make a virtue out of necessity - 
+                                        how to make her crops and weeds co-exist.
+                                    </p>
+                                    <p>Click <a href="tips/weeds.php">here</a> for the full article.</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                
-                <div class="col-xs-12 col-sm-6">
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading feature-background text-center"><h4><i class="fa fa-calendar" aria-hidden="true" style="color: #ff0000;"></i>&nbsp;Dates for your diary</h4></div>
+                        <div class="panel-heading" style="background: none; border: none;"><h3>What's new in the last 2 weeks</h3></div>
                         <div class="panel-body">
-                            <ul class="calendar">
-                                <li>Vinery Road summer party - Saturday 1<sup>st</sup> September.  <u>All</u> society members welcome.</li>
-                                <li>Burnside summer party - Saturday 15<sup>th</sup> September.  <u>All</u> society members welcome.</li>
-                            </ul>
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <img src="assets/img/new_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
+                                </div>
+                                <div class="col-xs-9">
+                                    <span id="whatsnew"></span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -123,89 +136,108 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading highlight-background text-center"><h4><i class="fa fa-newspaper-o" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;News</h4></div>
-                        <div class="panel-body">
-                            <ul class="pointer">
+                    <div class="panel-heading" style="background: none; border: none;"><h3>Dates for your diary</h3></div>
+                        <div class="panel-body"><p>
+                            <img src="assets/img/time_cartoon.jpg" style="width: 40%;" class="img-responsive img-thumbnail pull-left margin"/>
+                                <p>Vinery Road summer party - Saturday 1<sup>st</sup> September.  <u>All</u> society members welcome.</p>
+                                <p>Burnside summer party - Saturday 15<sup>th</sup> September.  <u>All</u> society members welcome.</p>
+                        </div>
+                    </div>
+                </div>
 
-                                <li><a href="recipes/chillijam.php">
-                                    <span  style="color: #404040;">
-                                        A recipe for tomato and chilli jam - guaranteed to warm the cockles of your heart<i class="fa fa-star fa-glow"></i>
-                                    </span>
-                                </a></li>
-                            
-                                <li><a href="community.php">
-                                    <span  style="color: #404040;">
-                                        Soil, waste and an MSc student who needs our help<i class="fa fa-star fa-glow"></i>
-                                    </span>
-                                </a></li>
-                            
-                                <li><a href="https://www.baracambridge.org/" target="bara">
-                                    <span  style="color: #404040;">
-                                        We welcome members of Birdwood Area Residents Association to our web site <i class="fa fa-star fa-glow"></i>
-                                    </span>
-                                </a></li>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
+                    <div class="panel-heading" style="background: none; border: none;"><h3>About us</h3></div>
+                        <div class="panel-body"><p>
+                            <img src="assets/img/about_cartoon.jpg" style="width: 40%;" class="img-responsive img-thumbnail pull-left margin"/>            
                                 
-                                <br>
+                                <p><a href="twitter.php">
+                                    See what we are saying on Twitter <i>@burnvine</i>
+                                </a></p>
                                 
-                                <li><a href="community/diabetesuk.php"  style="color: #404040;">
-                                    <span>
-                                        Tina from Burnside has been doing her bit for Diabetes UK.  Read how she has been getting on...
-                                    </span>
-                                </a></li>
-                                
-                                <br>
-                                
-                                <li><a href="tips/tomato-blight.php" style="color: #404040;">
-                                    Tomato blight and what one fed up plot holder is doing about it...
-                                </a></li>
-                                
-                                <br>
-                                
-                                <li><a href="links.php" style="color: #404040;">
-                                    A reminder of a popular item last year about Blight Watch.
-                                </a></li>
-                            </ul>
+                                <p><a href="documents.php"><span>
+                                    Current Allotment Rules and Regulations
+                                </span></a></p>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
+                        <div class="panel-heading" style="background: none; border: none;"><h3>In case you missed it the first time round</h3></div>
+                        <div class="panel-body">
+
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <img src="assets/img/browse_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
+                                </div>
+                                <div class="col-xs-9">
+                                    <ul class="pointer">
+
+                                        <li><a href="recipes/chillijam.php">
+                                            <span  style="color: #404040;">
+                                                A recipe for tomato and chilli jam - guaranteed to warm the cockles of your heart<i class="fa fa-star fa-glow"></i>
+                                            </span>
+                                        </a></li>
+
+                                        <br>
+                                    
+                                        <li><a href="community.php">
+                                            <span  style="color: #404040;">
+                                                Soil, waste and an MSc student who needs our help<i class="fa fa-star fa-glow"></i>
+                                            </span>
+                                        </a></li>
+
+                                        <br>
+                                    
+                                        <li><a href="https://www.baracambridge.org/" target="bara">
+                                            <span  style="color: #404040;">
+                                                We welcome members of Birdwood Area Residents Association to our web site <i class="fa fa-star fa-glow"></i>
+                                            </span>
+                                        </a></li>
+                                        
+                                        <br>
+                                        
+                                        <li><a href="community/diabetesuk.php"  style="color: #404040;">
+                                            <span>
+                                                Tina from Burnside has been doing her bit for Diabetes UK.  Read how she has been getting on...
+                                            </span>
+                                        </a></li>
+                                        
+                                        <br>
+                                        
+                                        <li><a href="tips/tomato-blight.php" style="color: #404040;">
+                                            Tomato blight and what one fed up plot holder is doing about it...
+                                        </a></li>
+                                        
+                                        <br>
+                                        
+                                        <li><a href="links.php" style="color: #404040;">
+                                            A reminder of a popular item last year about Blight Watch.
+                                        </a></li>
+
+                                        <br>
+                                        
+                                        <li><a href="notices.php" style="color: #404040;">
+                                            Take a look at our new noticeboard.<br><b>1 offer, 6 for sale</b>
+                                        </a></li>
+                                        
+                                        <br>
+                                        
+                                        <li><a href="links.php" style="color: #404040;">
+                                            Visit our links page for a new site with lots of exciting ideas for getting children involved in gardening.  A new beginner's guide has been added recently.
+                                        </a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>                    
                 </div>
-                
-                <div class="col-xs-12 col-sm-6">
-                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading highlight-background text-center"><h4><i class="fa fa-users" aria-hidden="true" style="color: #4b692b;"></i>&nbsp;About us</h4></div>
-                        <div class="panel-body">
-                            <ul class="pointer">
 
-                                <li><a href="store.php" style="color: #404040;">
-                                    The Society's store is open for 2018. Drop by for a bargain, a cuppa and a chat.
-                                </a></li>
-                            
-                                <br>
-                                
-                                <li><a href="notices.php" style="color: #404040;">
-                                    Take a look at our new noticeboard.<br><b>1 offer, 6 for sale</b>
-                                </a></li>
-                                
-                                <br>
-                                
-                                <li><a href="links.php" style="color: #404040;">
-                                    Visit our links page for a new site with lots of exciting ideas for getting children involved in gardening.  A new beginner's guide has been added recently.
-                                </a></li>
-                                
-                                <br>
-                                
-                                <li><a href="twitter.php" style="color: #404040;">
-                                    See what we are saying on Twitter <i>@burnvine</i>
-                                </a></li>
-                                
-                                <br>
-                                
-                                <li><a href="documents.php"><span style="color: #404040;">
-                                    Current Allotment Rules and Regulations
-                                </span></a></li>
-                            </ul>
-                        </div>
-                    </div>  
-                </div>
 
             </div>
             
