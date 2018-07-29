@@ -10,6 +10,7 @@
 ################################################################# */ 
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
+@import url(http://fonts.googleapis.com/css?family=Concert+One);
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
@@ -674,7 +675,8 @@ blockquote {
 }
 
 body.committee blockquote {
-    font-family: 'Karla', cursive; 
+    padding-top: 0;
+    font-family: 'Concert One', cursive; 
 }
 
 xblockquote::before{

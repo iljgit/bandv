@@ -85,12 +85,8 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6">
-                    <p><h4><span class="text-primary">Vice chairman:</span> Barry South - Vinery Road</h4><br></p><p></p>
-                    <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/BarrySouth2.jpg"/> <blockquote>
-                    Moved to a bigger house but smaller garden (yard!) in 2007 and my wife got me a plot on the Vinery site. Chopped it out of the nettles, brambles and couch grass and have been there ever since growing stuff you can't buy in the shops or is much better fresh! I'm a relative newcomer to the committee but as Vice Chairman am happy to consider the accommodation  of all legal vices!
-                    </blockquote></p>
-                    <p class="large-text text-center"><a href="mailto:vice-chair@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;vice-chair@burnsideandvineryallotments.org</a>
-                    </p>
+                    <p><h4><span class="text-primary">Vice chairman:</span><i>currently vacant</i></h4><br></p><p></p>
+                    <p>The committee would like to thank Barry South for all his contributions to the committee over the past few years</p>
                 </div>
             </div>
             <div class="row margin-bottom">
@@ -166,10 +162,11 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6">
-                    <!--p><h4><span class="text-primary">Committee member:</span> John McGill - Burnside</h4><br></p><p></p>
-                    <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/johnmcgill.jpg"/> <blockquote>
-                    I've had a plot at Burnside since about 2010 and have been on the committee since 2014. I've always found it a very friendly environment, with great collaboration among all other lot-holders.
-                    </blockquote></p-->
+                    <p><h4><span class="text-primary">Committee member:</span> Jason Daff - Vinery</h4><br></p><p></p>
+                    <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/JasonDaff.jpg"/> <blockquote>
+                    I joined the Vinery Road site in 2015 shortly after moving to Cambridge, but I’ve had several allotments previously in various parts of the country where I have lived for work or study. I’m still getting to grips with our very dry East Anglian climate, free-draining loamy soil and the various resident pests and diseases! I guess I am an allotment traditionalist; 
+                    I enjoy digging, 'ordinary' vegetables and growing in straight rows! Follow my horticultural exploits on Twitter @JasonDaff 
+                    </blockquote></p>
                 </div>
             </div>
             <!--div class="row margin-bottom">
