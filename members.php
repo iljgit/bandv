@@ -102,12 +102,12 @@
                                     <img src="assets/img/feature_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
                                 </div>
                                 <div class="col-xs-9">
-                                    <p>
+                                    <p class="large-text">
                                         <img src="tips/images/weedschick.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
                                         Weeds get a bad press - and not always justifiably! Joan from Burnside has learned how to make a virtue out of necessity - 
                                         how to make her crops and weeds co-exist.
                                     </p>
-                                    <p>Click <a href="tips/weeds.php">here</a> for the full article.</p>
+                                    <p class="large-text">Click <a href="tips/weeds.php"><button class="btn btn-info">here</button></a> for the full article.</p>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +125,7 @@
                                     <img src="assets/img/new_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
                                 </div>
                                 <div class="col-xs-9">
-                                    <span id="whatsnew"></span>
+                                    <ul id="whatsnew" class="search large-text"></ul>
                                 </div>
                             </div>
                         </div>
@@ -134,35 +134,53 @@
             </div>
 
             <div class="row">
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
                     <div class="panel-heading" style="background: none; border: none;"><h3>Dates for your diary</h3></div>
-                        <div class="panel-body"><p>
-                            <img src="assets/img/time_cartoon.jpg" style="width: 40%;" class="img-responsive img-thumbnail pull-left margin"/>
-                                <p>Vinery Road summer party - Saturday 1<sup>st</sup> September.  <u>All</u> society members welcome.</p>
-                                <p>Burnside summer party - Saturday 15<sup>th</sup> September.  <u>All</u> society members welcome.</p>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <img src="assets/img/time_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
+                                </div>
+                                <div class="col-xs-9">
+                                    <ul class="calendar large-text">
+                                        <li>Burnside Volunteering Day - Sunday 2<sup>nd</sup> September<br>
+                                        Start at 10:00. Tidy and seed the orchard, clear some historically overgrown plots for re-letting, 
+                                        spruce up and prep for party day. Drinks available all day, lunch time BBQ, bring a cake if you can.</li>
+                                        <li>Vinery Road summer party - Sunday 9<sup>th</sup> September. <span style="color:red;">NEW DATE</span><br><u>All</u> society members welcome.</li>
+                                        <li>Burnside summer party - Saturday 15<sup>th</sup> September.<br><u>All</u> society members welcome.</li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-xs-12 col-sm-6">
+            </div>
+            
+            <div class="row">
+                <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
                     <div class="panel-heading" style="background: none; border: none;"><h3>About us</h3></div>
-                        <div class="panel-body"><p>
-                            <img src="assets/img/about_cartoon.jpg" style="width: 40%;" class="img-responsive img-thumbnail pull-left margin"/>            
-                                
-                                <p><a href="twitter.php">
-                                    See what we are saying on Twitter <i>@burnvine</i>
-                                </a></p>
-                                
-                                <p><a href="documents.php"><span>
-                                    Current Allotment Rules and Regulations
-                                </span></a></p>
-
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <img src="assets/img/about_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>    
+                                </div>
+                                <div class="col-xs-9"> 
+                                <ul class="search large-text">                              
+                                        <li><a href="twitter.php">
+                                            See what we are saying on Twitter <i>@burnvine</i> ...
+                                        </a></li>
+                                        
+                                        <li><a href="documents.php"><span>
+                                            Current Allotment Rules and Regulations ...
+                                        </span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-
             </div>
 
             <div class="row">
@@ -176,7 +194,7 @@
                                     <img src="assets/img/browse_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
                                 </div>
                                 <div class="col-xs-9">
-                                    <ul class="pointer">
+                                    <ul class="pointer large-text">
 
                                         <li><a href="recipes/chillijam.php">
                                             <span  style="color: #404040;">

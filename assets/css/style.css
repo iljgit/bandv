@@ -965,6 +965,20 @@ ul.calendar li:before {
     color: red;
 }
 
+/* Lists with search icon */
+ul.search { padding-left:20px; list-style:none; }
+ul.search li { margin-bottom:10px;}
+ul.search li:before {    
+    font-family: 'FontAwesome';
+    content: '\f002';
+    margin:0 5px 0 -20px;
+    color: blue;
+}
+
+ul.search a {
+    color: black;
+}
+
 /* Font Awesome */
 .fa-glow {
     color: red;

@@ -61,9 +61,16 @@ var WNew = {
         for (i = 0; i < data.length; i++) {
             datum = data[i];
 
-            op += `<a href="${datum.target}">${datum.title} - <i>${datum.date}</i><p>
-            ${datum.detail}
-            </p></a>`;
+            if (datum.target) {
+                op += `<li><a href="${datum.target}">${datum.title} - <i>${datum.date}</i><p>
+                ${datum.detail} ...
+                </p></a></li>`;
+            }
+            else {
+                op += `<li>${datum.title} - <i>${datum.date}</i><p>
+                ${datum.detail}
+                </p></li>`;   
+            }
         }
 
         this.tgt.innerHTML = op;
