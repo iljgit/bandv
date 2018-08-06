@@ -145,10 +145,22 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <li>Burnside Volunteering Day - Sunday 2<sup>nd</sup> September<br>
-                                        Start at 10:00. Tidy and seed the orchard, clear some historically overgrown plots for re-letting, 
-                                        spruce up and prep for party day. Drinks available all day, lunch time BBQ, bring a cake if you can.</li>
-                                        <li>Vinery Road summer party - Sunday 9<sup>th</sup> September. <span style="color:red;">NEW DATE</span><br><u>All</u> society members welcome.</li>
-                                        <li>Burnside summer party - Saturday 15<sup>th</sup> September.<br><u>All</u> society members welcome.</li>
+                                            <i>Start at 10:00. Tidy and seed the orchard, clear some historically overgrown plots for re-letting, 
+                                            spruce up and prep for party day. Drinks available all day, lunch time BBQ, bring a cake if you can.</i>
+                                        </li>
+                                        <li>Vinery Road summer party - Sunday 9<sup>th</sup> September. <span style="color:red;">NEW DATE</span><br><i><u>All</u> society members welcome.</i></li>
+                                        <li>Burnside Flag Week - 8th to 15th September<br>
+                                            <i>Get your flag flying ready for Party Day. Fly your country flag. Fly your team flag. 
+                                            Design and make your own flag. 3ft x 5ft country flags are available on eBay for less than £3.00. Let’s add a mass of colour to the site for the 15<sup>th</sup>!</i>
+                                        </li>
+                                        <li>Burnside summer party - Saturday 15<sup>th</sup> September.<br>
+                                            <i><u>All</u> society members welcome. 
+                                            All the usual fun & more, plus music, games, raffle, BBQ, shared food.</i>
+                                        </li>
+                                        <li>Burnside Children's Get-together - Sunday 23<sup>rd</sup> September<br>
+                                            <i>The first, children & family socialising event. Come and make new friends so that attending site with 
+                                            parents is less boring.  Details to follow.</i>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>

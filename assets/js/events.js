@@ -1,20 +1,40 @@
 var events = {
     events: [
         {
+                id: '23 Sep 2015',
+                title: 'Burnside inaugural Children\'s Get-together',
+                start: '23 Sep 2018 00:00:00.0',
+                end:  '23 Sep 2018',
+                allDay: true
+        },
+        {
+                id: '08 Sep 2015',
+                title: 'Burnside flag week',
+                start: '08 Sep 2018 00:00:00.0',
+                end:  '16 Sep 2018',
+                allDay: true
+        },
+        {
+                id: '02 Sep 10:00',
+                title: 'Burnside volunteering day',
+                start: '02 Sep 10:00',
+                end:  '02 Sep 17:00'
+        },
+        {
                 id: '24 Jul 2018 19:30',
                 title: 'Society AGM - 7:30pm start at St Martin\'s Church Hall, Suez Road',
                 start: '24 Jul 2018 19:30',
                 end:  '24 Jul 2018 21:00'
         },
         {
-                id: '01 Sep 2018 12:00',
-                title: 'Vinery Road summer party',
-                start: '01 Sep 2018 12:00',
-                end:  '01 Sep 2018 17:00'
+                id: '09 Sep 2018 12:00',
+                title: 'Vinery Road summer party - details to follow',
+                start: '09 Sep 2018 12:00',
+                end:  '09 Sep 2018 17:00'
         },
         {
                 id: '15 Sep 2018 12:00',
-                title: 'Burnside summer party',
+                title: 'Burnside summer party - details to follow',
                 start: '15 Sep 2018 12:00',
                 end:  '15 Sep 2018 17:00'
         },
@@ -364,9 +384,7 @@ var events = {
                 forceURL: 'https://www.nsalg.org.uk/growing-advice/monthly-advice/' + m.toLowerCase() +'/',
                 allDay: true
             };
-            
-            console.log(event.start);
-            
+                        
             this.events.push(event);
             
             d.setMonth(d.getMonth() + 1);

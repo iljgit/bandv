@@ -190,7 +190,7 @@
 	 <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <div id="calendar" style="min-height: 400px"></div>
+                    <div id="calendar" style="min-height: 500px; margin-bottom: 40px;"></div>
                 </div>
             </div>
 	 </div>
