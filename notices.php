@@ -111,9 +111,9 @@
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
                                     <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
-                                </div><br>For sale
+                                </div><br><span style="color: red;">Sold</span>
                             </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/bluebucket.jpg" />
+                            <img class="img-responsive img-thumbnail" style="width: 100%; opacity: 0.2;" src="assets/img/notices/bluebucket.jpg" />
                             Blue plastic trug - new. £5
                         </blockquote>
                     </div>                    

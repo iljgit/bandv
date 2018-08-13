@@ -1,10 +1,16 @@
 var WNew = {
     data: [
         {
+            date: '13 Aug 2018',
+            target: 'notices.php',
+            title: 'Noticeboard',
+            detail: 'There are still some items for sale thorugh the store'
+        },
+        {
             date: '06 Aug 2018',
             target: 'calendar.php?select=01-Sep-2018',
             title: 'New dates for your diary',
-            detail: 'Burnside volunteering day, flag week and party.  Vinery party.'
+            detail: 'Burnside volunteering day, flag week and party.  Vinery party'
         },
         {
             date: '29 Jul 2018',

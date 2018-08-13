@@ -70,14 +70,14 @@
                 </div>
             </div>
             
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12">
                     <p class="large-text">The Society always welcomes volunteers and right now there are vacancies on the Committee for members from Vinery Road.</p>
                     <p class="large-text">The two sites only function through the help and support of a small number of members. Please don't leave it up to someone else: 
                     contact Mark at <a href="mailto:chair@burnsideandvineryallotments.org">chair@burnsideandvineryallotments.org</a></p>
                     <hr>
                 </div>
-            </div>
+            </div-->
             
             <div class="row">
                 <div class="col-xs-12">
@@ -250,12 +250,6 @@
                                             A reminder of a popular item last year about Blight Watch.
                                         </a></li>
 
-                                        <br>
-                                        
-                                        <li><a href="notices.php" style="color: #404040;">
-                                            Take a look at our new noticeboard.<br><b>1 offer, 6 for sale</b>
-                                        </a></li>
-                                        
                                         <br>
                                         
                                         <li><a href="links.php" style="color: #404040;">
