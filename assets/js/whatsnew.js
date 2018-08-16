@@ -13,10 +13,10 @@ var WNew = {
             detail: 'Burnside volunteering day, flag week and party.  Vinery party'
         },
         {
-            date: '29 Jul 2018',
+            date: '16 Aug 2018',
             target: 'committee.php',
             title: 'Committee changes',
-            detail: 'Barry South leaves and Jason Daff joins'
+            detail: 'New committee members'
         },
         {
             date: '25 Jul 2018',

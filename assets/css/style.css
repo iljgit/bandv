@@ -10,7 +10,7 @@
 ################################################################# */ 
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
-@import url(http://fonts.googleapis.com/css?family=Concert+One);
+@import url(http://fonts.googleapis.com/css?family=Dosis);
 /*@import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;*/
 
@@ -39,7 +39,7 @@ body {
         color: #202020;
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
-        font-size: 16px;
+    font-size: 16px;
 	}
 	
 body[type="news"] .panel-body p {
@@ -676,7 +676,7 @@ blockquote {
 
 body.committee blockquote {
     padding-top: 0;
-    font-family: 'Concert One', cursive; 
+    font-family: 'Dosis', cursive; 
 }
 
 xblockquote::before{

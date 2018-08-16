@@ -129,22 +129,7 @@
                 </div>
                 
             </div>
-            <!--div class="row margin-bottom">
-                <div class="col-xs-12 col-md-6">
-                    <p><h4><span class="text-primary">Committee member:</span> Martin Salmon - Vinery Road</h4><br></p><p></p>
-                    <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/martinsalmon.jpg"/> 
-                    <blockquote>
-                    I started with a small plot about five years ago as a complete beginner and I now work two half plots. I joined the committee in 2016. I make Vinery Allotment Updates for Mill Road TV with Glynn. These can be accessed via youtube: they offer great insights and are a great way of picking up tips and advice.
-                    </blockquote>
-                    </p>
-                </div>
-                <div class="col-xs-12 col-md-6">
-                    <p><h4><span class="text-primary">Committee member:</span> John McGill - Burnside</h4><br></p><p></p>
-                    <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/johnmcgill.jpg"/> <blockquote>
-                    I've had a plot at Burnside since about 2010 and have been on the committee since 2014. I've always found it a very friendly environment, with great collaboration among all other lot-holders.
-                    </blockquote></p>
-                </div>
-            </div-->
+            
             <div class="row margin-bottom">
                 <div class="col-xs-12 col-md-6">
                     <p><h4><span class="text-primary">Committee member:</span> John McGill - Burnside</h4><br></p><p></p>
@@ -166,6 +151,13 @@
                     <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/JasonDaff.jpg"/> <blockquote>
                     I joined the Vinery Road site in 2015 shortly after moving to Cambridge, but I’ve had several allotments previously in various parts of the country where I have lived for work or study. I’m still getting to grips with our very dry East Anglian climate, free-draining loamy soil and the various resident pests and diseases! I guess I am an allotment traditionalist; 
                     I enjoy digging, 'ordinary' vegetables and growing in straight rows! Follow my horticultural exploits on Twitter @JasonDaff 
+                    </blockquote></p>
+                </div>
+
+                <div class="col-xs-12 col-md-6">
+                    <p><h4><span class="text-primary">Committee member:</span> Katrina Hopkins - Vinery</h4><br></p><p></p>
+                    <p><!--img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/JasonDaff.jpg"/--> <blockquote>
+                    I have a half plot on the Vinery Road site, which I look after together with my partner.  I find it really rewarding to spend time on the allotment, and eat fresh produce we have grown from seed.  I joined the committee in July 2018.
                     </blockquote></p>
                 </div>
             </div>
