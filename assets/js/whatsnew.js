@@ -64,7 +64,7 @@ var WNew = {
         }
 
         if (data.length === 0) {
-            this.tgt.innerHTML = 'Nothing to look at here - move along now...';
+            this.tgt.innerHTML = 'Nothing to look at here - move along now...<br>Better still, why not write an article for the web site?';
             return;
         }
 

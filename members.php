@@ -103,11 +103,11 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        <img src="tips/images/weedschick.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
-                                        Weeds get a bad press - and not always justifiably! Joan from Burnside has learned how to make a virtue out of necessity - 
-                                        how to make her crops and weeds co-exist.
+                                        <img src="/assets/img/Phil/2.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
+                                        Starting out with a new plot can be daunting, especially if you are having an allotment for the first time.  
+                                        Stella, Les and Phil at Burnside faced just that in 2016.
                                     </p>
-                                    <p class="large-text">Click <a href="tips/weeds.php"><button class="btn btn-info">here</button></a> for the full article.</p>
+                                    <p class="large-text">Click <a href="digest/newbie.php"><button class="btn btn-info">here</button></a> for the story of their first year.</p>
                                 </div>
                             </div>
                         </div>
