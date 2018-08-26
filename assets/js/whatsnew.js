@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '25 Aug 2018',
+            target: 'index.php',
+            title: 'Home page',
+            detail: 'New photo'
+        },
+        {
             date: '13 Aug 2018',
             target: 'notices.php',
             title: 'Noticeboard',
