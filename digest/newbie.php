@@ -40,7 +40,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Cherry Hinton Brook and its Friends</h3>
+				<h3>Getting to grips with an allotment</h3>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -67,7 +67,7 @@
             
             <div class="row">
                 <div class="col-xs-12">
-                    <h1 class="text-center">New to Burnside<br><br></h1>
+                    <h1 xclass="text-center">New to Burnside<br><br></h1>
                     <div class="large-text row">
                     <img class="img-thumbnail img-responsive pull-right margin" style="width: 30%;" src="/assets/img/Phil/1.jpg"/>Things wouldn’t be the same without our plot now. We started on bonfire night 2016 and have enjoyed every digging, weeding, planting, watering, harvesting second of it. We were really impressed by the warm welcome and help we got from our “near neighbours”. Other plot holders helped with temporary shed space for spades and wellies, gifts of slabs for our shed base, unwanted tools and spare plants.</div>
                     
