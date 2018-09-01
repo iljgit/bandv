@@ -61,6 +61,13 @@
                     <hr>
                 </div>
             </div>
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <p class="large-text" style="color:darkred">Don't forget: Burnside volunteering day Sunday 2nd, Vinery and Burnside summer parties coming up.</p>
+                    <hr>
+                </div>
+            </div>
             
             <div class="row">
                 <div class="col-xs-12">
