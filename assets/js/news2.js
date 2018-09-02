@@ -8,7 +8,7 @@ var news = {
                 "<p>Lots of jobs were tackled: tidying the orchard, clearing the hazel hedge of weeds, clearing plots waiting to be let, demolishing a (hopefully) unwanted shed, " +
                 "cutting hedges, creating a new toilet waste disposal area (Andy and Matthew really meant business - they weren't simply going through the motions!).  Lots of communal " +
                 "food and drink was enjoyed.  Many pairs of legs were exposed to the sun.  Many tales of monster carrots were swapped.</p>" +
-                "<p>It was yet another great community weekend, with so many people helping to keep the site in tip top order. A big THANK YOU to ervyone who was able to help, not only from the site team but also from all of the tenants and site visitors.</p>",                
+                "<p>It was yet another great community weekend, with so many people helping to keep the site in tip top order. A big THANK YOU to everyone who was able to help, not only from the site team but also from all of the tenants and site visitors.</p>",                
                 date:  '01 Sep 2018',
                 expires: '02 Oct 2018 17:00',
                 images:[
