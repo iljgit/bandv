@@ -64,7 +64,7 @@
 
             <div class="row">
                 <div class="col-xs-12">
-                    <p class="large-text" style="color:darkred">Don't forget: Burnside volunteering day Sunday 2nd, Vinery and Burnside summer parties coming up.</p>
+                    <p class="large-text" style="color:darkred">Don't forget: Vinery and Burnside summer parties coming up.</p>
                     <hr>
                 </div>
             </div>
@@ -151,10 +151,6 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <li>Burnside Volunteering Day - Sunday 2<sup>nd</sup> September<br>
-                                            <i>Start at 10:00. Tidy and seed the orchard, clear some historically overgrown plots for re-letting, 
-                                            spruce up and prep for party day. Drinks available all day, lunch time BBQ, bring a cake if you can.</i>
-                                        </li>
                                         <li>Vinery Road summer party - Sunday 9<sup>th</sup> September. <span style="color:red;">NEW DATE</span><br><i><u>All</u> society members welcome.</i></li>
                                         <li>Burnside Flag Week - 8th to 15th September<br>
                                             <i>Get your flag flying ready for Party Day. Fly your country flag. Fly your team flag. 

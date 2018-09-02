@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '02 Sep 2018',
+            target: 'news.php',
+            title: 'Burnside Volunteering Weekend',
+            detail: 'The weekend of the 1<sup>st</sup> and 2<sup>nd</sup> was a huge success and really enoyable'
+        },
+        {
             date: '25 Aug 2018',
             target: 'index.php',
             title: 'Home page',

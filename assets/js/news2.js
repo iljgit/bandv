@@ -1,6 +1,37 @@
-// next id 32
+// next id 33
 var news = {
     news: [
+        {
+                title: "Burnside Volunteering Weekend - 1st and 2nd September 2018",
+                id: 32, 
+                body: "<p>With summer making a welcome return, it was time for Burnsiders to get their dusters out and give their site a quick clean and polish.</p>" +
+                "<p>Lots of jobs were tackled: tidying the orchard, clearing the hazel hedge of weeds, clearing plots waiting to be let, demolishing a (hopefully) unwanted shed, " +
+                "cutting hedges, creating a new toilet waste disposal area (Andy and Matthew really meant business - they weren't simply going through the motions!).  Lots of communal " +
+                "food and drink was enjoyed.  Many pairs of legs were exposed to the sun.  Many tales of monster carrots were swapped.</p>" +
+                "<p>It was yet another great community weekend, with so many people helping to keep the site in tip top order. A big THANK YOU to ervyone who was able to help, not only from the site team but also from all of the tenants and site visitors.</p>",                
+                date:  '01 Sep 2018',
+                expires: '02 Oct 2018 17:00',
+                images:[
+                    {src: 'assets/img/bvdaysep2018/D71_5301.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5301_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5303.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5303_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5305.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5305_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5307.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5307_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5308.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5308_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5310.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5310_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5312.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5312_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5313.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5313_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5316.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5316_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5317.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5317_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5320.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5320_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5321.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5321_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5322.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5322_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5323.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5323_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5324.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5324_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5325.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5325_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5332.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5332_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5334.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5334_tn.jpg'},
+                ]
+        },
         {
                 title: "Burnside Volunteering Day - Saturday 24th March",
                 id: 31, 
