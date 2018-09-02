@@ -30,6 +30,23 @@ var news = {
                     {src: 'assets/img/bvdaysep2018/D71_5325.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5325_tn.jpg'},
                     {src: 'assets/img/bvdaysep2018/D71_5332.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5332_tn.jpg'},
                     {src: 'assets/img/bvdaysep2018/D71_5334.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5334_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5326.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5326_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5328.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5328_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5333.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5333_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5335.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5335_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5336.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5336_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5337.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5337_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5339.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5339_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5342.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5342_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5343.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5343_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5345.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5345_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5347.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5347_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5348.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5348_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5349.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5349_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5351.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5351_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5353.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5353_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5354.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5354_tn.jpg'},
+                    {src: 'assets/img/bvdaysep2018/D71_5355.jpg', thumbnail: 'assets/img/bvdaysep2018/D71_5355_tn.jpg'}
                 ]
         },
         {
