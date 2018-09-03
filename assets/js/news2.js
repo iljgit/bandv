@@ -2,13 +2,13 @@
 var news = {
     news: [
         {
-                title: "Burnside Volunteering Weekend - 1st and 2nd September 2018",
+                title: "Burnside Volunteering Day - 2nd September 2018",
                 id: 32, 
-                body: "<p>With summer making a welcome return, it was time for Burnsiders to get their dusters out and give their site a quick clean and polish.</p>" +
-                "<p>Lots of jobs were tackled: tidying the orchard, clearing the hazel hedge of weeds, clearing plots waiting to be let, demolishing a (hopefully) unwanted shed, " +
-                "cutting hedges, creating a new toilet waste disposal area (Andy and Matthew really meant business - they weren't simply going through the motions!).  Lots of communal " +
-                "food and drink was enjoyed.  Many pairs of legs were exposed to the sun.  Many tales of monster carrots were swapped.</p>" +
-                "<p>It was yet another great community weekend, with so many people helping to keep the site in tip top order. A big THANK YOU to everyone who was able to help, not only from the site team but also from all of the tenants and site visitors.</p>",                
+                body: `<p>To everyone who helped on the day and to those who played their part the day before, WELL DONE AND THANK-YOU.</p>
+
+<p>Volunteers arrived early and were allocated a variety of planned tasks. Weeding the hazels next to the Snakey Path fence, clearing the plot planned for future raised beds, clearing an area near the toilet and installing sunken bins for the storage of toilet waste, cutting back the Ancaster way hedge, and refurbishing recently acquired used garden furniture, to name just a few. At lunchtime we shared a well-earned and tasty BBQ, after which many people worked on for the rest of the day until gone 5 o’clock.</p>
+                
+<p>Not a cloud in the sky all day and barely a breath of wind, what a wonderful day to spend working together to help tidy and improve the allotment site for everyone. </p>`,       
                 date:  '01 Sep 2018',
                 expires: '02 Oct 2018 17:00',
                 images:[
