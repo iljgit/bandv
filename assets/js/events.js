@@ -1,21 +1,42 @@
 var events = {
     events: [
         {
-                id: '23 Sep 2015',
+                id: '06 Oct 2018',
+                title: 'Deadline for arrival by post or through the Burnside Store letterbox of rents and seed orders',
+                start: '06 Oct 2018 00:00:00.0',
+                end:  '06 Oct 2018',
+                allDay: true
+        },
+        {
+                id: '06 Oct 2018v2',
+                title: 'Pay in person for rents and seed orders at Burnside Store',
+                start: '06 Oct 2018 10:30',
+                end:  '06 Oct 2018 12:00',
+                allDay: false
+        },
+        {
+                id: '07 Oct 2018',
+                title: 'Pay in person for rents and seed orders at Vinery Pavillion',
+                start: '07 Oct 2018 10:30',
+                end:  '07 Oct 2018 12:00',
+                allDay: false
+        },
+        {
+                id: '23 Sep 2018',
                 title: 'Burnside inaugural Children\'s Get-together',
                 start: '23 Sep 2018 00:00:00.0',
                 end:  '23 Sep 2018',
                 allDay: true
         },
         {
-                id: '08 Sep 2015',
+                id: '08 Sep 2018',
                 title: 'Burnside flag week',
                 start: '08 Sep 2018 00:00:00.0',
                 end:  '16 Sep 2018',
                 allDay: true
         },
         {
-                id: '02 Sep 10:00',
+                id: '02 Sep 2018 10:00',
                 title: 'Burnside volunteering day',
                 start: '02 Sep 10:00',
                 end:  '02 Sep 17:00'

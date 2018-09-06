@@ -64,7 +64,29 @@
 
             <div class="row">
                 <div class="col-xs-12">
-                    <p class="large-text" style="color:darkred">Don't forget: Vinery and Burnside summer parties coming up.</p>
+                    <p class="large-text">You should have received an email about annual rents, plot use and King's Seeds.  
+                    If you haven't, please contact <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> so 
+                    we can work out why you haven't had it.  The contents of the email are shown below:</p>
+                    <blockquote style="font-family: 'Karla', cursive; font-size: 1.2em;">
+                    <p>Dear Plot Holder/Associate,</p>
+                    <p><ol>
+                    <li><b>Allotment Rent</b>: The coming year’s tenancy rent and society membership fee demands are due to be sent out shortly.<br><br>
+                    Payment is due on the 1st October 2018. This year it will be possible to pay by electronic bank transfer. However, there will be the usual opportunity to pay in person:<ul>
+
+                    <li>Burnside Store Saturday 6th Oct 10.30-12.00</li>
+                    <li>Vinery Pavillion Sunday 7th Oct 10.30-12.00</li>
+                    </ul><br>
+                    You will also be able to post your rent payment and seed order via royal mail or through the Burnside store letter box, to arrive before October 7th.
+                    </li><br>
+                    <li><b>Plot Use</b>: We now have a large and growing waiting list.  If you no longer wish to cultivate your plot or you wish to reduce from a full 
+                    plot to a half plot, could you please let the Society know asap by contacting the relevant site rep, preferably by email, 
+                    <a href="mailto:burnsidesitemanager@burnsideandvineryallotments.org">burnsidesitemanager@burnsideandvineryallotments.org</a> or 
+                    <a href="mailto:vineryplotallocation@burnsideandvineryallotments.org">vineryplotallocation@burnsideandvineryallotments.org</a>
+                    </li><br>
+                    <li><b>King's Seed catalogues and seed potato order forms</b>: These are available now for you to collect from the Vinery Pavilion or the Burnside Toilet. 
+                    </li>
+                    </ol> 
+                    </blockquote>
                     <hr>
                 </div>
             </div>
@@ -86,14 +108,14 @@
                 </div>
             </div-->
             
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12">
                     <h3 class="large-text">Bored?</h3>
                     <p class="large-text">You've done all the no-digging you can take.  The tomatoes are so plentiful they are harvesting themselves.  So, what better way to spend a couple of minutes than completing the Society's summer quiz?</p>
                     <p class="large-text">No, don't answer that - instead go to the <a href="quiz2.php"><i>Digest</i>'s <i>Quiz</i></a> page.  There is even a miniscule prize...</p>
                     <hr>
                 </div>
-            </div>
+            </div-->
             
             <div class="row">
                 <div class="col-xs-12"><h2>At a glance</h2></div>
