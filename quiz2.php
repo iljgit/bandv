@@ -59,6 +59,19 @@
           [1, 2, 3, 4, 5, 6, 7]
         ];
 
+        values = [
+          'COWSLIP',
+          'A  P  S',
+          'NODIG I',
+          'N  R  L',
+          'A  A  A',
+          ' GLEY R',
+          '   A  O',
+          ' H    S',
+          ' O    A',
+          'DETHAME'
+        ];
+
         coloureds = [
           [3, 6],
           [],
@@ -86,7 +99,7 @@
             if (def.includes(col)) {
               style = coloured.includes(col) ? 'background-color: #c0c0c0; ' : '';
               style = ` style="${style}width:20px;border: 1px solid #a0a0a0; text-align: center;"`;
-              td.innerHTML = `<input ${style} type="text" maxlength="1"/>`;
+              td.innerHTML = `<input ${style} type="text" maxlength="1" value="${values[row][col - 1]}"/>`;
             }
             tr.appendChild(td);
           }
@@ -172,14 +185,19 @@
 
     <div class="row">
 	 		<div class="col-xs-12">
+        <h4>That was the quiz that was</h4>
+        <p>If you wanted to take part in the Summer Quiz - <b>you are too late!</b><p>
+        <p>The winners will be announced shortly.  For anyone who didn't get all the answers, they are filled in below.</p>
+        <p>Look out for the next quiz.</p>
+      </div>
+    </div>
+
+    <div class="row">
+	 		<div class="col-xs-12">
 	 			<h4>How to play</h4>
 	 			<p>Below are 9 allotment-related questions.  You need to find the answers and then fit them 
         into the grid.  If you have done it properly, the letters in the shaded boxes can be re-arranged 
         to make the name of a well-known garden plant.</p>
-        <p>When you have filled it all in, send an email to<br>
-        &nbsp;&nbsp;&nbsp;<a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a><br>
-        with the subject <i>Summer Quiz</i> and include your name, site and the answer to the plant anagram.</p><p>On the 
-        1st September we will choose one successful entrant from each site as the winner.</p>
       </div>
     </div>
 
@@ -195,6 +213,7 @@
             <p>
             <b>1.</b> This Gardener's World presenter has been off our screens this year because of illness. 
             What is their surname? (2,5)</p>
+            <p style="color: darkred">(Rachel) De Thame<br><br></p>
           </div>
         </div>
 
@@ -203,12 +222,14 @@
             <p><b>2. </b>What is the scientific name for this allotment pest? (5,5)<br>
             <img src="assets/img/quiz2/1.jpg" class="img img-responsive img-thumbnail" style="width: 50%;"/>
             </p>
+            <p style="color: darkred">Psila Rosae<br><br></p>
           </div>
         </div>
 
         <div class="row">
           <div class="col-xs-12">
             <p><b>3. </b>Charles Dowding is well known for this style of gardening. (2,3)</p>
+            <p style="color: darkred">No dig<br><br></p>
           </div>
         </div>
 
@@ -217,12 +238,14 @@
             <p><b>4. </b>This is an example of what type of plant? (7)<br>
             <img src="assets/img/quiz2/2.jpg" class="img img-responsive img-thumbnail" style="width: 50%;"/>
             </p>
+            <p style="color: darkred">Spiraea<br><br></p>
           </div>
         </div>
 
         <div class="row">
           <div class="col-xs-12">
             <p><b>5. </b>This type of tool sounds like something a well-known fictional character might use. (3)</p>
+            <p style="color: darkred">Hoe (hoe)<br><br></p>
           </div>
         </div>
 
@@ -230,6 +253,7 @@
           <div class="col-xs-12">
             <p><b>6. </b>This is an example of what type of plant? (5)<br>
             <img src="assets/img/quiz2/3.jpg" class="img img-responsive img-thumbnail" style="width: 50%;"/>
+            <p style="color: darkred">Canna<br><br></p>
             </p>
           </div>
         </div>
@@ -237,6 +261,7 @@
         <div class="row">
           <div class="col-xs-12">
             <p><b>7. </b>A sticky waterlogged soil lacking in oxygen, typically grey to blue in colour. (4)</p>
+            <p style="color: darkred">Gley<br><br></p>
           </div>
         </div>
 
@@ -245,6 +270,7 @@
             <p><b>8. </b>What is the common name of this plant? (7)<br>
             <img src="assets/img/quiz2/4.jpg" class="img img-responsive img-thumbnail" style="width: 50%;"/>
             </p>
+            <p style="color: darkred">Cowslip</p>
           </div>
         </div>
 
@@ -266,7 +292,7 @@
 
         <div class="row"><br>
           <h4>Unscrambled plant name</h4><br>
-          <p><input type="text" id="answer1" style="width: 90%;"/></p>
+          <p><input type="text" id="answer1" style="width: auto;" value="WISTERIA"/></p>
         </div>
 
       </div><!--answers-->

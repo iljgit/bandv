@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '07 Sep 2018',
+            target: 'quiz2.php',
+            title: 'Summer 2018 Quiz',
+            detail: 'Answers to our quiz'
+        },
+        {
             date: '02 Sep 2018',
             target: 'news.php',
             title: 'Burnside Volunteering Day',
