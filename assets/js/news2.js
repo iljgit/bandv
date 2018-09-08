@@ -1,6 +1,19 @@
-// next id 33
+// next id 34
 var news = {
     news: [
+        {
+                title: "Burnside Flag Week - Week commencing 8<sup>th</sup> September",
+                id: 33, 
+                body: `<p>In the lead up to the Burnside summer party on the 15<sup>th</sup> September, plot holders are being encouraged to decorate their plots with flags.
+                
+                Here is a gallery of what is being flown.</p>`,       
+                date:  '08 Sep 2018',
+                expires: '08 Oct 2018 17:00',
+                images:[
+                    {src: 'assets/img/flytheflag/20180908_152834_resized.jpg', thumbnail: 'assets/img/flytheflag/20180908_152834_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180908_153851_resized.jpg', thumbnail: 'assets/img/flytheflag/20180908_153851_resized_tn.jpg'}
+                ]
+        },
         {
                 title: "Burnside Volunteering Day - 2nd September 2018",
                 id: 32, 

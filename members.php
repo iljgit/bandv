@@ -74,7 +74,7 @@
                     Payment is due on the 1st October 2018. This year it will be possible to pay by electronic bank transfer. However, there will be the usual opportunity to pay in person:<ul>
 
                     <li>Burnside Store Saturday 6th Oct 10.30-12.00</li>
-                    <li>Vinery Pavillion Sunday 7th Oct 10.30-12.00</li>
+                    <li>Vinery Pavilion Sunday 7th Oct 10.30-12.00</li>
                     </ul><br>
                     You will also be able to post your rent payment and seed order via royal mail or through the Burnside store letter box, to arrive before October 7th.
                     </li><br>
@@ -173,12 +173,12 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <li>Vinery Road summer party - Sunday 9<sup>th</sup> September. <span style="color:red;">NEW DATE</span><br><i><u>All</u> society members welcome.</i></li>
+                                        <li>Vinery Road summer party - Sunday 9<sup>th</sup> September starting at 14:30. <br><i><u>All</u> society members welcome.</i></li>
                                         <li>Burnside Flag Week - 8th to 15th September<br>
                                             <i>Get your flag flying ready for Party Day. Fly your country flag. Fly your team flag. 
                                             Design and make your own flag. 3ft x 5ft country flags are available on eBay for less than £3.00. Let’s add a mass of colour to the site for the 15<sup>th</sup>!</i>
                                         </li>
-                                        <li>Burnside summer party - Saturday 15<sup>th</sup> September.<br>
+                                        <li>Burnside summer party - Saturday 15<sup>th</sup> September starting at 13:00.<br>
                                             <i><u>All</u> society members welcome. 
                                             All the usual fun & more, plus music, games, raffle, BBQ, shared food.</i>
                                         </li>

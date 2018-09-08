@@ -50,13 +50,13 @@ var events = {
         {
                 id: '09 Sep 2018 12:00',
                 title: 'Vinery Road summer party - details to follow',
-                start: '09 Sep 2018 12:00',
+                start: '09 Sep 2018 14:30',
                 end:  '09 Sep 2018 17:00'
         },
         {
                 id: '15 Sep 2018 12:00',
                 title: 'Burnside summer party - details to follow',
-                start: '15 Sep 2018 12:00',
+                start: '15 Sep 2018 13:00',
                 end:  '15 Sep 2018 17:00'
         },
         {
