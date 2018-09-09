@@ -14,7 +14,9 @@ var news = {
                     {src: 'assets/img/flytheflag/20180908_153851_resized.jpg', thumbnail: 'assets/img/flytheflag/20180908_153851_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180909_114516_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_114516_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180909_114851_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_114851_resized_tn.jpg'},
-                    {src: 'assets/img/flytheflag/20180909_115542_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_115542_resized_tn.jpg'}
+                    {src: 'assets/img/flytheflag/20180909_115542_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_115542_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180909_115802_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_115802_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180909_115925_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_115925_resized_tn.jpg'}
                 ]
         },
         {
