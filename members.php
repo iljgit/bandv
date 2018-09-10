@@ -173,7 +173,6 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <li>Vinery Road summer party - Sunday 9<sup>th</sup> September starting at 14:30. <br><i><u>All</u> society members welcome.</i></li>
                                         <li>Burnside Flag Week - 8th to 15th September<br>
                                             <i>Get your flag flying ready for Party Day. Fly your country flag. Fly your team flag. 
                                             Design and make your own flag. 3ft x 5ft country flags are available on eBay for less than £3.00. Let’s add a mass of colour to the site for the 15<sup>th</sup>!</i>

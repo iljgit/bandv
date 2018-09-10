@@ -1,6 +1,41 @@
-// next id 34
+// next id 35
 var news = {
     news: [
+        {
+                title: "The Vinery Road summer party - 2018",
+                id: 34, 
+                body: `<p>Thank you to everyone who attended the Vinery Road Summer Party on Sunday 9th September. Plot-holders were not put-off by the strong breeze and while it was a struggle to keep the gazebos anchored to the ground it didn’t stop the Vinery community enjoying a BBQ and selection of creative salads, side dishes, pies, quiches, breads and desserts which showed off some of our fantastic produce. 
+                </p><p>
+                Guests were entertained by a coconut shy and giant Jenga borrowed from Jen and Nicks wedding, as well as a Tombola of useful gardening items. Vinery stalwart and former site manager Glynn Gorick was presented with a bottle to thank him for his excellent service to the site.
+                </p><p>
+                Special thanks to the party organising group (Neena, Katrina, Jen, Tom and Jason) for pulling everything together and making the afternoon so enjoyable. 
+                <p>
+                Here are some pictures of the fun that was had.</p>`,       
+                date:  '08 Sep 2018',
+                expires: '08 Oct 2018 17:00',
+                images:[
+                    {src: 'assets/img/vinery2018/D71_5374.jpg', thumbnail: 'assets/img/vinery2018/D71_5374_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5375.jpg', thumbnail: 'assets/img/vinery2018/D71_5375_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5376.jpg', thumbnail: 'assets/img/vinery2018/D71_5376_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5377.jpg', thumbnail: 'assets/img/vinery2018/D71_5377_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5379.jpg', thumbnail: 'assets/img/vinery2018/D71_5379_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5380.jpg', thumbnail: 'assets/img/vinery2018/D71_5380_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5381.jpg', thumbnail: 'assets/img/vinery2018/D71_5381_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5382.jpg', thumbnail: 'assets/img/vinery2018/D71_5382_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5383.jpg', thumbnail: 'assets/img/vinery2018/D71_5383_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5384.jpg', thumbnail: 'assets/img/vinery2018/D71_5384_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5386.jpg', thumbnail: 'assets/img/vinery2018/D71_5386_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5387.jpg', thumbnail: 'assets/img/vinery2018/D71_5387_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5388.jpg', thumbnail: 'assets/img/vinery2018/D71_5388_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5395.jpg', thumbnail: 'assets/img/vinery2018/D71_5395_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5396.jpg', thumbnail: 'assets/img/vinery2018/D71_5396_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5398.jpg', thumbnail: 'assets/img/vinery2018/D71_5398_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5400.jpg', thumbnail: 'assets/img/vinery2018/D71_5400_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5401.jpg', thumbnail: 'assets/img/vinery2018/D71_5401_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5402.jpg', thumbnail: 'assets/img/vinery2018/D71_5402_tn.jpg'},
+                    {src: 'assets/img/vinery2018/D71_5403.jpg', thumbnail: 'assets/img/vinery2018/D71_5403_tn.jpg'}
+                ]
+        },
         {
                 title: "Burnside Flag Week - Week commencing 8<sup>th</sup> September",
                 id: 33, 
@@ -17,7 +52,16 @@ var news = {
                     {src: 'assets/img/flytheflag/20180909_115542_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_115542_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180909_115802_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_115802_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180909_115925_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_115925_resized_tn.jpg'},
-                    {src: 'assets/img/flytheflag/20180909_123046_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_123046_resized_tn.jpg'}
+                    {src: 'assets/img/flytheflag/20180909_123046_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_123046_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_172721_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_172721_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_173035_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_173035_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_173221_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_173321_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_173522_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_173522_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_174118_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_174118_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_174142_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_174142_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_174310_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_174310_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_174419_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_174419_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_175713_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_175713_resized_tn.jpg'}
                 ]
         },
         {
