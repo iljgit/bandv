@@ -45,6 +45,7 @@ var news = {
                 date:  '08 Sep 2018',
                 expires: '08 Oct 2018 17:00',
                 images:[
+                    {src: 'assets/img/flytheflag/20180911_160312_resized.jpg', thumbnail: 'assets/img/flytheflag/20180911_160312_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180908_152834_resized.jpg', thumbnail: 'assets/img/flytheflag/20180908_152834_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180908_153851_resized.jpg', thumbnail: 'assets/img/flytheflag/20180908_153851_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180909_114516_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_114516_resized_tn.jpg'},
