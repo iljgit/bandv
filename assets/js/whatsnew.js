@@ -7,7 +7,7 @@ var WNew = {
             detail: 'Pictures and a report of the Vinery Road summer party'
         },
         {
-            date: '10 Sep 2018',
+            date: '13 Sep 2018',
             target: 'news.php',
             title: 'Burnside Flag Week',
             detail: 'Pictures of Burnside Flag Week'

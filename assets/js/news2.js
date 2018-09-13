@@ -42,9 +42,24 @@ var news = {
                 body: `<p>In the lead up to the Burnside summer party on the 15<sup>th</sup> September, plot holders are being encouraged to decorate their plots with flags.
                 
                 Here is a gallery of what is being flown.</p>`,       
-                date:  '08 Sep 2018',
+                date:  '13 Sep 2018',
                 expires: '08 Oct 2018 17:00',
                 images:[
+                        {src: 'assets/img/flytheflag/20180913_163955.jpg', thumbnail: 'assets/img/flytheflag/20180913_163955_tn.jpg'},
+                        {src: 'assets/img/flytheflag/20180913_164230.jpg', thumbnail: 'assets/img/flytheflag/20180913_164230_tn.jpg'},
+                        {src: 'assets/img/flytheflag/20180913_164317.jpg', thumbnail: 'assets/img/flytheflag/20180913_164317_tn.jpg'},
+                        //{src: 'assets/img/flytheflag/20180913_164346.jpg', thumbnail: 'assets/img/flytheflag/20180913_164346_tn.jpg'},
+                        {src: 'assets/img/flytheflag/20180913_164539.jpg', thumbnail: 'assets/img/flytheflag/20180913_164539_tn.jpg'},
+                        //{src: 'assets/img/flytheflag/20180913_164608.jpg', thumbnail: 'assets/img/flytheflag/20180913_164608_tn.jpg'},
+                        {src: 'assets/img/flytheflag/20180913_164759.jpg', thumbnail: 'assets/img/flytheflag/20180913_164759_tn.jpg'},
+                        {src: 'assets/img/flytheflag/20180913_165343.jpg', thumbnail: 'assets/img/flytheflag/20180913_165343_tn.jpg'},
+                        {src: 'assets/img/flytheflag/20180913_165607.jpg', thumbnail: 'assets/img/flytheflag/20180913_165607_tn.jpg'},
+                        {src: 'assets/img/flytheflag/20180913_171410.jpg', thumbnail: 'assets/img/flytheflag/20180913_171410_tn.jpg'},
+
+                        {src: 'assets/img/flytheflag/DSC07783.jpg', thumbnail: 'assets/img/flytheflag/DSC07783_tn.jpg'},
+                        {src: 'assets/img/flytheflag/DSC07784.jpg', thumbnail: 'assets/img/flytheflag/DSC07784_tn.jpg'},
+                        {src: 'assets/img/flytheflag/DSC07787.jpg', thumbnail: 'assets/img/flytheflag/DSC07787_tn.jpg'},                        
+
                     {src: 'assets/img/flytheflag/20180911_160312_resized.jpg', thumbnail: 'assets/img/flytheflag/20180911_160312_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180908_152834_resized.jpg', thumbnail: 'assets/img/flytheflag/20180908_152834_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180908_153851_resized.jpg', thumbnail: 'assets/img/flytheflag/20180908_153851_resized_tn.jpg'},
@@ -56,7 +71,7 @@ var news = {
                     {src: 'assets/img/flytheflag/20180909_123046_resized.jpg', thumbnail: 'assets/img/flytheflag/20180909_123046_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180910_172721_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_172721_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180910_173035_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_173035_resized_tn.jpg'},
-                    {src: 'assets/img/flytheflag/20180910_173221_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_173321_resized_tn.jpg'},
+                    {src: 'assets/img/flytheflag/20180910_173221_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_173221_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180910_173522_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_173522_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180910_174118_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_174118_resized_tn.jpg'},
                     {src: 'assets/img/flytheflag/20180910_174142_resized.jpg', thumbnail: 'assets/img/flytheflag/20180910_174142_resized_tn.jpg'},
