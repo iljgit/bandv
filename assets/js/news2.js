@@ -1,6 +1,62 @@
-// next id 35
+// next id 36
 var news = {
     news: [
+        {
+                title: "The Burnside summer party - 2018",
+                id: 35, 
+                body: `
+                <p>
+                The week before the party was Flag Week on the Burnside site, celebrating diversity and individuality, with a friendly and communal spirit. There were plenty of country flags and some lovely home-made ones flying. You’ll find a photo gallery of the flags on this web site - 
+                </p><p>
+                Party preparations had been underway for several days but a dedicated group of volunteers completed additional jobs on the morning of the 15th before tenants, partners, family and friends began arriving at 1pm. These jobs included hanging out bunting, setting up tables and chairs, preparing the Tombola and the food and drinks tables, setting up the BBQs and building a children’s teepee. 
+                </p><p>
+                This year’s game, the “Oh So Simple Scavenger Hunt”, was prepared by Andy K. It was almost as fiendish as last year’s game, in spite of Andy’s protestations to the contrary, but most teams eventually solved the puzzles and the anagram by using the instruction sheets and wandering round the site to find Andy’s amazingly elaborate clues. That said, about half the teams fell into Andy’s equally elaborate and carefully planned trap and gave the incorrect answer! The winner, randomly selected from the correct answers, received an insulated picnic back-pack. 
+                </p><p>
+                Small prizes were also presented to Ingrid and Kate, joint winners of the online summer quiz on the website. Watch the website for another online quiz before too long!!
+                </p><p>
+                As always, the children were enthralled by Andy’s wind up gramophone, playing Glenn Miller, Frank Sinatra and Debbie Reynolds, to name just a few. It was great to see that you don’t need today’s technology to entertain young and old.
+                </p><p>
+                A huge variety of food to share was brought along and devoured during the afternoon, including lots of lovely homemade salads to accompany the bbq, with tea, coffee and cake later on. The party went on until nearly 6pm, practically everything had been consumed, and all left saying what a lovely afternoon it had been. 
+                </p><p>
+                Many thanks to all the helpers, all who brought food to share, and all who donated prizes to the Tombola, funds from which help to pay towards the cost of the afternoon. A very special thank you to Andy K for his massive amount of work, not least in preparing the scavenger hunt. We look forward to seeing everyone at the next Burnside event: keep an eye on the website, emails and the notice boards.                
+                </p>
+                <p>A great day - and here are some pictures to help remember it.</p>`,       
+                date:  '16 Sep 2018',
+                expires: '16 Oct 2018 17:00',
+                images2:[
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '04'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '06'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '08'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '19'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '23'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '25'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '27'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '28'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '29'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '35'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '41'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '42'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '43'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '48'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '60'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '62'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '69'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '70'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '72'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '75'},
+                    {prefix: 'assets/img/bparty2018/D71_54', src: '83'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_1231', src: '04'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_1231', src: '18'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_1322', src: '14'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_1322', src: '24'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_1326', src: '32'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_1326', src: '40'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_155', src: '029'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_155', src: '106'},
+                    {prefix: 'assets/img/bparty2018/IMG_20180915_155', src: '241'},
+
+                ]
+        },
         {
                 title: "The Vinery Road summer party - 2018",
                 id: 34, 
@@ -547,7 +603,8 @@ var news = {
     },
     
     getAll: function() {
-        var i, item, d = new Date(), ret = '', news = this.news, el, els, html, j, img, fdate, tdate, d = (new Date()).setHours(0,0,0,0).valueOf();
+        var i, item, d = new Date(), ret = '', news = this.news, el, els, html, j, img, fdate, tdate, 
+                d = (new Date()).setHours(0,0,0,0).valueOf(), prefix;
         
         news.sort(this.sort);
         
@@ -578,6 +635,23 @@ var news = {
                                 '</div>' +
                             '</div>';
             }
+            else if (item.images2 && item.images2.length > 0) {
+                inner = '<div class="row">' +
+                            '<div class="col-xs-12">' +
+                                '<div id="links" name="links">';
+                
+                for (j = 0; j < item.images2.length; j++) {
+                    img = item.images2[j];
+                    prefix = img.prefix === undefined ? prefix : img.prefix;
+                    inner += '<a href="' + (prefix || '') + img.src + '.jpg" title="' + (img.title || '') + '" style="display:inline-block; padding-left: 10px;">' +
+                                '<img class="gallery-thumbnail thumbnail-md img-responsive img-rounded" src="' + (prefix || '') + img.src + '_tn.jpg" alt="' + (img.title || '') + '">' +
+                            '</a>';
+                }
+                
+                inner +=        '</div>' +
+                            '</div>' +
+                        '</div>';
+        }
             
             html = '<div class="panel panel-default">' +
                 '<div class="panel-heading">' +

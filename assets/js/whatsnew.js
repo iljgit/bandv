@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '16 Sep 2018',
+            target: 'news.php',
+            title: 'Burnside Summer Party',
+            detail: 'Pictures and a report of the Burnside summer party'
+        },
+        {
             date: '10 Sep 2018',
             target: 'news.php',
             title: 'Vinery Summer Party',

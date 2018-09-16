@@ -132,11 +132,11 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        <img src="/assets/img/Phil/2.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
-                                        Starting out with a new plot can be daunting, especially if you are having an allotment for the first time.  
-                                        Stella, Les and Phil at Burnside faced just that in 2016.
+                                        <img src="/assets/img/martinsalmon.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
+                                        In 2016, Martin from Vinery Road presented a series of videos for the Mill Road TV station "Earth Matters" about 
+                                        the Vinery Road site and his tips for running an allotment.
                                     </p>
-                                    <p class="large-text">Click <a href="digest/newbie.php"><button class="btn btn-info">here</button></a> for the story of their first year.</p>
+                                    <p class="large-text">Click <a href="videos.php"><button class="btn btn-info">here</button></a> for the videos.</p>
                                 </div>
                             </div>
                         </div>
@@ -173,14 +173,6 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <li>Burnside Flag Week - 8th to 15th September<br>
-                                            <i>Get your flag flying ready for Party Day. Fly your country flag. Fly your team flag. 
-                                            Design and make your own flag. 3ft x 5ft country flags are available on eBay for less than £3.00. Let’s add a mass of colour to the site for the 15<sup>th</sup>!</i>
-                                        </li>
-                                        <li>Burnside summer party - Saturday 15<sup>th</sup> September starting at 13:00.<br>
-                                            <i><u>All</u> society members welcome. 
-                                            All the usual fun & more, plus music, games, raffle, BBQ, shared food.</i>
-                                        </li>
                                         <li>Burnside Children's Get-together - Sunday 23<sup>rd</sup> September<br>
                                             <i>The first, children & family socialising event. Come and make new friends so that attending site with 
                                             parents is less boring.  Details to follow.</i>
