@@ -6,7 +6,7 @@ var news = {
                 id: 35, 
                 body: `
                 <p>
-                The week before the party was Flag Week on the Burnside site, celebrating diversity and individuality, with a friendly and communal spirit. There were plenty of country flags and some lovely home-made ones flying. You’ll find a photo gallery of the flags on this web site - 
+                The week before the party was Flag Week on the Burnside site, celebrating diversity and individuality, with a friendly and communal spirit. There were plenty of country flags and some lovely home-made ones flying. You’ll find a photo gallery of the flags below.
                 </p><p>
                 Party preparations had been underway for several days but a dedicated group of volunteers completed additional jobs on the morning of the 15th before tenants, partners, family and friends began arriving at 1pm. These jobs included hanging out bunting, setting up tables and chairs, preparing the Tombola and the food and drinks tables, setting up the BBQs and building a children’s teepee. 
                 </p><p>
