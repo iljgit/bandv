@@ -39,7 +39,7 @@ var news = {
                     {prefix: 'assets/img/bparty2018/D71_54', src: '43'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '48'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '60'},
-                    {prefix: 'assets/img/bparty2018/D71_54', src: '62'},
+                    //{prefix: 'assets/img/bparty2018/D71_54', src: '62'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '69'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '70'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '72'},
