@@ -1,10 +1,16 @@
 var WNew = {
     data: [
         {
-            date: '16 Sep 2018',
+            date: '22 Sep 2018',
+            target: 'documents.php',
+            title: 'AGM',
+            detail: 'The minutes of the 2018 AGM are now available'
+        },
+        {
+            date: '21 Sep 2018',
             target: 'news.php',
             title: 'Burnside Summer Party',
-            detail: 'Pictures and a report of the Burnside summer party'
+            detail: 'New pictures and a report of the Burnside summer party'
         },
         {
             date: '10 Sep 2018',

@@ -22,11 +22,11 @@ var events = {
                 allDay: false
         },
         {
-                id: '23 Sep 2018',
-                title: 'Burnside inaugural Children\'s Get-together',
-                start: '23 Sep 2018 00:00:00.0',
-                end:  '23 Sep 2018',
-                allDay: true
+                id: '30 Sep 2018',
+                title: 'Burnside inaugural Children\'s Get-together - Revised Date',
+                start: '30 Sep 2018 10:00',
+                end:  '30 Sep 2018 12:00',
+                allDay: false
         },
         {
                 id: '08 Sep 2018',
