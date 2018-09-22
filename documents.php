@@ -112,7 +112,8 @@
                             </td>
                             <td>
                                 <select class="form-control inline" id="agm" style="width: auto; display: inline-block;">
-                                    <option value="assets/docs/2017 AGM.pdf" selected>2017</option>
+                                    <option value="assets/docs/2018 AGM.pdf" selected>2018</option>
+                                    <option value="assets/docs/2017 AGM.pdf">2017</option>
                                     <option value="assets/docs/2016 AGM.pdf">2016</option>
                                 </select>&nbsp;
                                 <button class="btn btn-xs btn-primary inline" onclick="showAGM();">PDF</button>
