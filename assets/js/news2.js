@@ -37,7 +37,6 @@ var news = {
                     {prefix: 'assets/img/bparty2018/D71_54', src: '29'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '30'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '35'},
-                    {prefix: 'assets/img/bparty2018/D71_54', src: '38'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '42'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '43'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '48'},
