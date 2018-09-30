@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '29 Sep 2018',
+            target: 'news.php',
+            title: 'Sad news of our Honorary President, Trevor Taylor',
+            detail: 'Trevor passed away on 19th September 2018'
+        },
+        {
             date: '22 Sep 2018',
             target: 'documents.php',
             title: 'AGM',

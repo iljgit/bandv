@@ -64,6 +64,15 @@
 
             <div class="row">
                 <div class="col-xs-12">
+                    <div style="border: 5px solid black; padding: 10px;">
+                    <h2 class="text-center">Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h2>
+                    <p>Click <a href="news.php"><button class="btn btn-default">here</button></a> for more details.</p>
+                    </div>
+                </div>
+            </div<
+
+            <div class="row">
+                <div class="col-xs-12">
                     <p class="large-text">You should have received an email about annual rents, plot use and King's Seeds.  
                     If you haven't, please contact <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> so 
                     we can work out why you haven't had it.  The contents of the email are shown below:</p>
