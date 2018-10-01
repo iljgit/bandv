@@ -182,9 +182,7 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <li>Burnside Children's Get-together - Sunday 30<sup>rd</sup> September <i class="fa fa-star fa-glow"></i> <span style="color: red;">REVISED DATE</span><br>
-                                            <i>The first, children & family socialising event. Come and make new friends so that attending site with 
-                                            parents is less boring.  Details to follow.</i>
+                                        <li>Rent payments are now due.  See the top of this page for more details.
                                         </li>
                                     </ul>
                                 </div>

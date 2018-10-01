@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '01 Oct 2018',
+            target: 'recipes/quince.php',
+            title: 'Quince paste recipe',
+            detail: 'Joan from Burnside has a great recipe for quince paste'
+        },
+        {
             date: '29 Sep 2018',
             target: 'news.php',
             title: 'Sad news of our Honorary President, Trevor Taylor',
