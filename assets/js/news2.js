@@ -504,7 +504,9 @@ var news = {
          {
                 title: "Sad news of our Honorary President",
                 id: 7,
-                body: `<h2>Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h2>
+                body: `
+                <img class="img-rounded img-responsive" src="/assets/img/trevor.jpg" style="margin: 0 auto;" />
+                <h2 class="text-center">Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h2>
 
                 <p>His burial will take place at the
                 
