@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '05 Oct 2018',
+            target: 'news.php',
+            title: 'The first Burnside Allotment children\'s gathering',
+            detail: 'A really fun get-together for children of all ages'
+        },
+        {
             date: '01 Oct 2018',
             target: 'recipes/quince.php',
             title: 'Quince paste recipe',

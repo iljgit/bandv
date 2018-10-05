@@ -69,14 +69,20 @@
                     <p>Click <a href="news.php"><button class="btn btn-default">here</button></a> for more details.</p>
                     </div>
                 </div>
-            </div<
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <hr>
+                </div>
+            </div>
 
             <div class="row">
                 <div class="col-xs-12">
                     <p class="large-text">You should have received an email about annual rents, plot use and King's Seeds.  
                     If you haven't, please contact <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> so 
                     we can work out why you haven't had it.  The contents of the email are shown below:</p>
-                    <blockquote style="font-family: 'Karla', cursive; font-size: 1.2em;">
+                    <blockquote style="font-family: 'Courgette', cursive; font-size: 1.2em;">
                     <p>Dear Plot Holder/Associate,</p>
                     <p><ol>
                     <li><b>Allotment Rent</b>: The coming year’s tenancy rent and society membership fee demands are due to be sent out shortly.<br><br>
@@ -141,11 +147,13 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        <img src="/assets/img/martinsalmon.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
-                                        In 2016, Martin from Vinery Road presented a series of videos for the Mill Road TV station "Earth Matters" about 
-                                        the Vinery Road site and his tips for running an allotment.
+                                        <img src="/recipes/images/courgette-curry2.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
+                                        If you have ever had the real pleasure of tasting Smita's cooking, you will want to try one of her recipes for 
+                                        yourself.  If you haven't had the pleasure, you don't know what you are missing, but you can do the next best 
+                                        thing and cook her courgette curry for yourself.
                                     </p>
-                                    <p class="large-text">Click <a href="videos.php"><button class="btn btn-info">here</button></a> for the videos.</p>
+                                    <p class="large-text">Click <a href="recipes/courgette-curry.php"><button class="btn btn-info">here</button></a> 
+                                    for the recipe.</p>
                                 </div>
                             </div>
                         </div>

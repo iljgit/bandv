@@ -1,6 +1,27 @@
-// next id 36
+// next id 37
 var news = {
     news: [
+        {
+                title: "The first Burnside Allotment children's gathering - September 2018",
+                id: 36, 
+                body: `
+                <p>
+                The first Burnside Allotment children's gathering took place at the end of September. Families came with their children and brought a snack or 
+                activity to share. 
+                </p><p>
+                We spent a morning together talking and sharing food at the picnic area. 
+                There were activities to suit all types of parents and children: the artistic made animals out of conkers, the acrobatic walked the slack line 
+                (a thick elastic tightrope) and the brave went for a ride in a bin which had been cleaned in readiness for use as a water butt. 
+                Those children who still had energy to spare played with the parachute, while others had a relaxing game of quoits. 
+                </p><p>
+                Thank you to all the families for turning up and making it a successful event. We will go on to have a children's gathering once a season. For the winter meet up we are planning to have a fire for cooking s'mores and more. 
+                </p><p>
+                If anyone would like to be on the mailing list for the children's gatherings or has any ideas for activities please contact 
+                Rachel on <a href="mailto:rachel.epoche@gmail.com">rachel.epoche@gmail.com</a>.
+                </p>`,       
+                date:  '05 Oct 2018',
+                expires: '16 Jan 2019 17:00'
+        },
         {
                 title: "The Burnside summer party - 2018",
                 id: 35, 
