@@ -1,6 +1,22 @@
 var events = {
     events: [
         {
+                id: '07 Oct 2018',
+                title: 'Burnside volunteering day',
+                start: '27 Oct 2018 12:00',
+                end:  '27 Oct 2018 19:00',
+                allDay: false,
+                forceURL: '/news.php'
+        },
+        {
+                id: '09 Oct 2018',
+                title: 'Trevor Taylor\'s funeral',
+                start: '09 Oct 2018 14:15',
+                end:  '09 Oct 2018 15:15',
+                allDay: false,
+                forceURL: '/news.php'
+        },
+        {
                 id: '06 Oct 2018',
                 title: 'Deadline for arrival by post or through the Burnside Store letterbox of rents and seed orders',
                 start: '06 Oct 2018 00:00:00.0',

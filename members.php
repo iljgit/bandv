@@ -66,7 +66,7 @@
                 <div class="col-xs-12">
                     <div style="border: 5px solid black; padding: 10px;">
                     <h2 class="text-center">Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h2>
-                    <p>Click <a href="news.php"><button class="btn btn-default">here</button></a> for more details.</p>
+                    <p>Click <a href="news.php?select=7"><button class="btn btn-default">here</button></a> for more details.</p>
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <li>Rent payments are now due.  See the top of this page for more details.
+                                        <a href="news.php"><li>Bursnide volunteering day and get-together - Sat 27<sup>th</sup> October</a>
                                         </li>
                                     </ul>
                                 </div>

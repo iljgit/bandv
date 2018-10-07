@@ -1,6 +1,38 @@
-// next id 37
+// next id 38
 var news = {
     news: [
+        {
+                title:'Burnside voluteering day and get-together - Sat 27<sup<th</sup> October',
+                id: 37,
+                body: `<p>Dear Burnsiders,</p>
+                <p>
+                Before the evenings start to draw in, on the afternoon of Saturday October 27<sup>th</sup>, from mid-day, we plan to have another 
+                Burnside volunteering session. We will finally prepare and sow the orchard with slow grow grass seed, hopefully move a 
+                small shed around to the picnic area to store garden furniture, and tidy around the toilet area.
+                </p><p>                
+                There will be a Burn Bin all afternoon for communal and individual non-compostable allotment waste. 
+                If you want to dispose of stuff in the Burn Bin, there are two simple things to remember:<ul class="large-text">
+                
+                <li>Stamp on the roots and shake off any soil. Soil quickly clogs up the Burn Bin air vents.</li>
+                
+                <li>Spread your waste out on your plot in the weeks before the 27th so that it is as dry as possible. 
+                Damp waste slows the burn and produces more smoke.</li>
+
+                </ul>
+                </p><p>                
+                From about 5pm there will be an End of Season Celebration, with a variety of food and drink.
+                </p><p>                
+                Current plans are for a chicken and baked potatoes in the Burn Bin oven.  Later we will also light the old cut-down Burn Bin to 
+                allow cooking of sausages-on-sticks and SMORES etc. There will be soup and hot and cold drinks.
+                </p><p>                
+                Come and join in for as much of the afternoon and / or evening as you like, and why not bring some food to share.
+                </p><p>                
+                This is all of course weather permitting. The forecasts are now very good, and we’ll know well in advance so keep an eye on the 
+                web site and notice boards, just in case.
+                </p>`,
+                date: '07 Oct 2018',
+                expires: '28 Oct 2018'
+        },
         {
                 title: "The first Burnside Allotment children's gathering - September 2018",
                 id: 36, 
@@ -317,7 +349,7 @@ var news = {
                 "<p><br></p>"+
                 "<p>Here are some pictures of the toilet as it was being built.</p>",                
                 date:  '24 Oct 2017',
-                expires: '24 Nov 2018 17:00',
+                expires: '24 Nov 2017 17:00',
                 images:[
                     {src: 'assets/img/toilet/0.jpg', thumbnail: 'assets/img/toilet/0_tn.jpg'},
                     {src: 'assets/img/toilet/1.jpg', thumbnail: 'assets/img/toilet/1_tn.jpg'},

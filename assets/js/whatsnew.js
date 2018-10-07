@@ -1,8 +1,14 @@
 var WNew = {
     data: [
         {
+            date: '07 Oct 2018',
+            target: 'news.php?select=37',
+            title: 'Burnside voluteering day and get-together - Sat 27<sup>th</sup> October',
+            detail: 'A Burnside volunteering day before winter draws on'
+        },
+        {
             date: '05 Oct 2018',
-            target: 'news.php',
+            target: 'news.php?select=36',
             title: 'The first Burnside Allotment children\'s gathering',
             detail: 'A really fun get-together for children of all ages'
         },
@@ -14,7 +20,7 @@ var WNew = {
         },
         {
             date: '29 Sep 2018',
-            target: 'news.php',
+            target: 'news.php?select=7',
             title: 'Sad news of our Honorary President, Trevor Taylor',
             detail: 'Trevor passed away on 19th September 2018'
         },
