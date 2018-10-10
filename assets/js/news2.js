@@ -561,9 +561,7 @@ var news = {
                 <img class="img-rounded img-responsive" src="/assets/img/trevor.jpg" style="margin: 0 auto;" />
                 <h2 class="text-center">Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h2>
 
-                <p>His burial will take place at the
-                
-                <b>Woodland Burial Ground, Barton on Tuesday, 9th October at 2.15pm.</b></p>
+                <p>His burial took place at the Woodland Burial Ground, Barton on Tuesday, 9th October.</p>
                 
                 <p>Trevor Taylor was our Honorary President, and The Vinery Road “Trevor Taylor Pavilion” is named in his honour. 
                 In addition to 40 years’ service to Burnside &Vinery as secretary and treasurer, Trevor was also NSALG treasurer and East Anglia rep 

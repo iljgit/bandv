@@ -67,7 +67,7 @@
                     <div style="border: 5px solid black; padding: 10px;">
                         <h2 class="text-center">Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h2>
                         <img src="assets/img/trevor2.jpg" class="img-thumbnail margin" style="width: 100%;">
-                        <p class="large-text">His burial will take place at the Woodland Burial Ground, Barton today, Tuesday, 9th October, at 2.15pm</p>
+                        <p class="large-text">His burial took place at the Woodland Burial Ground, Barton on Tuesday, 9th October.</p>
                         <p class="large-text">Click <a href="news.php?select=7"><button class="btn btn-default">here</button></a> for more details.</p>
                     </div>
                 </div>
