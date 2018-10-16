@@ -1,10 +1,10 @@
 var WNew = {
     data: [
         {
-            date: '07 Oct 2018',
-            target: 'news.php?select=37',
-            title: 'Burnside voluteering day and get-together - Sat 27<sup>th</sup> October',
-            detail: 'A Burnside volunteering day before winter draws on'
+            date: '17 Oct 2018',
+            target: 'digest/annual2018.php',
+            title: 'Annual experiments',
+            detail: 'Joan from Burnside has chronicled her year on year assaults on the vegetable world'
         },
         {
             date: '05 Oct 2018',
