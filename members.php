@@ -163,7 +163,7 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <a href="news.php"><li>Bursnide volunteering day and get-together - Sat 27<sup>th</sup> October</a>
+                                        <a href="news.php"><li>Burnside volunteering day and get-together - Sat 27<sup>th</sup> October</a>
                                         </li>
                                     </ul>
                                 </div>
