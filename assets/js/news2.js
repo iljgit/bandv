@@ -1,8 +1,20 @@
-// next id 38
+// next id 39
 var news = {
     news: [
         {
-                title:'Burnside voluteering day and get-together - Sat 27<sup<th</sup> October',
+                title:'Vinery Road Burn Bin - Saturday 3rd November',
+                id: 38,
+                body: `<p>
+                On Saturday 3rd November at 1pm we will be lighting the Burn Bin. Plotholders are invited to bring along their woody waste and contribute to 
+                manning the bin on the day.</p>
+                <p>Do NOT dump woody waste on the communal plot and expect others to dispose of it on your behalf.</p>
+                <p>If the weather is not suitable on the Saturday we will try again on the Sunday. 
+                </p>`,
+                date: '16 Oct 2018',
+                expires: '04 Nov 2018'
+        },    
+        {
+                title:'Burnside volunteering day and get-together - Sat 27<sup<th</sup> October',
                 id: 37,
                 body: `<p>Dear Burnsiders,</p>
                 <p>

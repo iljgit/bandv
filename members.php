@@ -163,8 +163,8 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <a href="news.php"><li>Burnside volunteering day and get-together - Sat 27<sup>th</sup> October</a>
-                                        </li>
+                                        <a href="news.php?select=37"><li>Burnside volunteering day and get-together - Sat 27<sup>th</sup> October</li></a>
+                                        <a href="news.php?select=38"><li>Vinery Road Burn Bin - Sat 3<sup>rd</sup> November</li></a>
                                     </ul>
                                 </div>
                             </div>

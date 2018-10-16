@@ -1,12 +1,20 @@
 var events = {
     events: [
         {
+                id: '16 Oct 2018',
+                title: 'Vinery Road Burn Bin',
+                start: '03 Nov 2018 13:00',
+                end:  '03 Nov 2018 16:00',
+                allDay: false,
+                forceURL: '/news.php?select=38'
+        },
+        {
                 id: '07 Oct 2018',
                 title: 'Burnside volunteering day',
                 start: '27 Oct 2018 12:00',
                 end:  '27 Oct 2018 19:00',
                 allDay: false,
-                forceURL: '/news.php'
+                forceURL: '/news.php?select=37'
         },
         {
                 id: '09 Oct 2018',
