@@ -120,13 +120,11 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        <img src="/recipes/images/courgette-curry2.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
-                                        If you have ever had the real pleasure of tasting Smita's cooking, you will want to try one of her recipes for 
-                                        yourself.  If you haven't had the pleasure, you don't know what you are missing, but you can do the next best 
-                                        thing and cook her courgette curry for yourself.
+                                        <img src="/digest/annualimages/ComputerHotline_-_Physalis-peruviana-(coqueret)--31-07.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
+                                        Joan from Burnside has chronicled her year on year assaults on the vegetable world.
                                     </p>
-                                    <p class="large-text">Click <a href="recipes/courgette-curry.php"><button class="btn btn-info">here</button></a> 
-                                    for the recipe.</p>
+                                    <p class="large-text">Click <a href="digest/annual2018.php"><button class="btn btn-info">here</button></a> 
+                                    for what worked and what, erm,  didn't work quite so well.</p>
                                 </div>
                             </div>
                         </div>
@@ -163,7 +161,6 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <a href="news.php?select=37"><li>Burnside volunteering day and get-together - Sat 27<sup>th</sup> October</li></a>
                                         <a href="news.php?select=38"><li>Vinery Road Burn Bin - Sat 3<sup>rd</sup> November</li></a>
                                     </ul>
                                 </div>

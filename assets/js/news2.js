@@ -1,6 +1,45 @@
-// next id 39
+// next id 40
 var news = {
     news: [
+        {
+                title: "The Burnside Volunteering Day - October 2018",
+                id: 39, 
+                body: `
+                <p>
+                The afternoon was cold, windy and showery, however that didn’t put off the keen helpers and Burn Bin users. The orchard is at 
+                last fully grass seeded, and it should look gorgeous in the spring. The uplift of the area behind the toilet was started and 
+                that will now be continued over the coming weeks, plus the plot where future raised beds are planned was further progressed.
+                </p><p>
+                Rain precautions were taken, with an area near to the Burn Bin covered with a tarpaulin, so when the rain did set in later 
+                in the day, those consuming the Burn Bin cooked chicken and baked potatoes were at least dry, if not too warm. 
+                </p><p>
+                Everybody 
+                loved Andy’s special surprise, which was the tree in the picnic area mound beautifully illuminated with hundreds of fairy 
+                lights, switched on as dusk fell.
+                </p><p>
+                It was a busy and enjoyable afternoon, even if not quite as planned. 
+                </p>
+                `,       
+                date:  '28 Oct 2018',
+                expires: '31 Dec 2018 23:00',
+                images2:[
+                    {prefix: 'assets/img/bvdoct18/D71_62', src: '90'},
+                    {prefix: 'assets/img/bvdoct18/D71_62', src: '91'},
+                    {prefix: 'assets/img/bvdoct18/D71_62', src: '93'},
+                    {prefix: 'assets/img/bvdoct18/D71_62', src: '96'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '03'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '04'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '06'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '07'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '08'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '11'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '14'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '17'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '21'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '22'},
+                    {prefix: 'assets/img/bvdoct18/D71_63', src: '24'},
+                ]
+        },
         {
                 title:'Vinery Road Burn Bin - Saturday 3rd November',
                 id: 38,
@@ -43,7 +82,7 @@ var news = {
                 web site and notice boards, just in case.
                 </p>`,
                 date: '07 Oct 2018',
-                expires: '28 Oct 2018'
+                expires: '27 Oct 2018'
         },
         {
                 title: "The first Burnside Allotment children's gathering - September 2018",
