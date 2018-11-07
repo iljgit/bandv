@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '06 Nov 2018',
+            target: 'news.php?select=38',
+            title: 'Vinery Road Burn Bin - 3<sup>rd</sup> November 2018',
+            detail: 'A good opportunity to clear the site of woody waste'
+        },
+        {
             date: '28 Oct 2018',
             target: 'news.php?select=39',
             title: 'Burnside Volunteering Day - October 2018',
@@ -15,7 +21,7 @@ var WNew = {
         {
             date: '05 Oct 2018',
             target: 'news.php?select=36',
-            title: 'The first Burnside Allotment children\'s gathering',
+            title: 'The first Burnside Allotment href="news.php?select=38"children\'s gathering',
             detail: 'A really fun get-together for children of all ages'
         },
         {

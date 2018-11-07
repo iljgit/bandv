@@ -21,7 +21,7 @@ var news = {
                 </p>
                 `,       
                 date:  '28 Oct 2018',
-                expires: '31 Dec 2018 23:00',
+                expires: '31 Mar 2019 23:00',
                 images2:[
                     {prefix: 'assets/img/bvdoct18/D71_62', src: '90'},
                     {prefix: 'assets/img/bvdoct18/D71_62', src: '91'},
@@ -44,13 +44,17 @@ var news = {
                 title:'Vinery Road Burn Bin - Saturday 3rd November',
                 id: 38,
                 body: `<p>
-                On Saturday 3rd November at 1pm we will be lighting the Burn Bin. Plotholders are invited to bring along their woody waste and contribute to 
-                manning the bin on the day.</p>
-                <p>Do NOT dump woody waste on the communal plot and expect others to dispose of it on your behalf.</p>
-                <p>If the weather is not suitable on the Saturday we will try again on the Sunday. 
+                On Saturday 3rd November we had a communal burning session, timed to coincide with Guy Fawkes weekend.  We were able to burn a lot of woody waste that 
+                had built up over the past year. A gentle northerly wind ensured any smoke was blown up the plots towards the school. 
+                Several plotholders brought along barrowfulls of prunings to burn through the afternoon. 
+                </p><p>
+                Thanks to everyone who helped out, especially Graham, Tom, Katrina, Ed and Jason.  . 
                 </p>`,
-                date: '16 Oct 2018',
-                expires: '04 Nov 2018'
+                date: '06 Nov 2018',
+                expires: '01 May 2019',
+                images2:[
+                        {prefix: 'assets/img/vineryburnnov18/', src: 'bonfire'}
+                ]
         },    
         {
                 title:'Burnside volunteering day and get-together - Sat 27<sup<th</sup> October',
@@ -126,7 +130,7 @@ var news = {
                 </p>
                 <p>A great day - and here are some pictures to help remember it.</p>`,       
                 date:  '16 Sep 2018',
-                expires: '16 Oct 2018 17:00',
+                expires: '16 Mar 2019 17:00',
                 images2:[
                     {prefix: 'assets/img/bparty2018/D71_54', src: '04'},
                     {prefix: 'assets/img/bparty2018/D71_54', src: '06'},
@@ -178,7 +182,7 @@ var news = {
                 <p>
                 Here are some pictures of the fun that was had.</p>`,       
                 date:  '08 Sep 2018',
-                expires: '08 Oct 2018 17:00',
+                expires: '08 Mar 2019 17:00',
                 images:[
                     {src: 'assets/img/vinery2018/D71_5374.jpg', thumbnail: 'assets/img/vinery2018/D71_5374_tn.jpg'},
                     {src: 'assets/img/vinery2018/D71_5375.jpg', thumbnail: 'assets/img/vinery2018/D71_5375_tn.jpg'},

@@ -161,7 +161,8 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <a href="news.php?select=38"><li>Vinery Road Burn Bin - Sat 3<sup>rd</sup> November</li></a>
+                                        <!-- PUT NEWS HERE -->
+                                        Nothing on the immediatte horizon.  Let us know if there is an event coming up.
                                     </ul>
                                 </div>
                             </div>
@@ -209,17 +210,9 @@
                                 <div class="col-xs-9">
                                     <ul class="pointer large-text">
 
-                                        <li><a href="recipes/chillijam.php">
+                                        <li><a href="recipes/quince.php">
                                             <span  style="color: #404040;">
-                                                A recipe for tomato and chilli jam - guaranteed to warm the cockles of your heart<i class="fa fa-star fa-glow"></i>
-                                            </span>
-                                        </a></li>
-
-                                        <br>
-                                    
-                                        <li><a href="community.php">
-                                            <span  style="color: #404040;">
-                                                Soil, waste and an MSc student who needs our help<i class="fa fa-star fa-glow"></i>
+                                                A recipe for quince paste (a little bit more than "take one quince and beat it to a pulp").</i>
                                             </span>
                                         </a></li>
 
@@ -227,19 +220,11 @@
                                     
                                         <li><a href="https://www.baracambridge.org/" target="bara">
                                             <span  style="color: #404040;">
-                                                We welcome members of Birdwood Area Residents Association to our web site <i class="fa fa-star fa-glow"></i>
+                                                We welcome members of Birdwood Area Residents Association to our web site <!--i class="fa fa-star fa-glow"--></i>
                                             </span>
                                         </a></li>
                                         
-                                        <br>
-                                        
-                                        <li><a href="community/diabetesuk.php"  style="color: #404040;">
-                                            <span>
-                                                Tina from Burnside has been doing her bit for Diabetes UK.  Read how she has been getting on...
-                                            </span>
-                                        </a></li>
-                                        
-                                        <br>
+                                        <!--br>
                                         
                                         <li><a href="tips/tomato-blight.php" style="color: #404040;">
                                             Tomato blight and what one fed up plot holder is doing about it...
@@ -249,7 +234,7 @@
                                         
                                         <li><a href="links.php" style="color: #404040;">
                                             A reminder of a popular item last year about Blight Watch.
-                                        </a></li>
+                                        </a></li-->
 
                                         <br>
                                         
