@@ -176,7 +176,7 @@
 		 		<div class="hline"></div>
 		 			<p>
                             The Vinery Road Permanent Allotment Society<br>
-21 St Matthews Gardens<br>Cambridge<br>CB1 2PH
+92 Coleridge Road<br>Cambridge<br>CB1 3PJ
                             </
 	 		</div>
 	 	</div><! --/row -->
