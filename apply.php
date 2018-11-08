@@ -120,8 +120,13 @@
 	 		<div class="col-xs-12 col-md-8">
 	 			<h4>Apply for a plot</h4>
 	 			<div class="hline"></div>
-		 			<p>If you are interested in renting a plot please complete the following form and we will be in touch as soon as we can.</p>
-		 			<p>Fields highlighed with <span style="color: red">*</span> are mandatory.</p>
+         <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; background: rgba(0, 0, 255, 0.2); padding:10px;">
+         Both sites, Vinery Road and Burnside, are currently fully let. You are welcome to apply and join either or both sites' waiting list. 
+         However, new applicants are very unlikely to be offered a plot within the next 12 months. 
+         </div>
+         <br>
+		 			<p class="large-text">If you are interested in renting a plot please complete the following form and we will be in touch as soon as we can.</p>
+		 			<p class="large-text">Fields highlighed with <span style="color: red">*</span> are mandatory.</p>
 		 			<span role="form">
 					  <div class="form-group required">
 					    <label for="name">Your Name</label>
@@ -174,7 +179,7 @@
 	 		<div class="col-xs-12 col-md-4">
 		 		<h4>Our registered address</h4>
 		 		<div class="hline"></div>
-		 			<p>
+		 			<p class="large-text">
                             The Vinery Road Permanent Allotment Society<br>
 92 Coleridge Road<br>Cambridge<br>CB1 3PJ
                             </
@@ -229,7 +234,7 @@
 			  <h4 class="modal-title" id="popupheadercontent">Modal Header</h4>
 			</div>
 			<div class="modal-body" id="popupbody">
-			  <p>Some text in the modal.</p>
+			  <p class="large-text">Some text in the modal.</p>
 			</div>
 			<div class="modal-footer" id="popupfooter">
 			  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
