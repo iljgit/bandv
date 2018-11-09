@@ -162,7 +162,7 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-                                        Nothing on the immediatte horizon.  Let us know if there is an event coming up.
+                                        Nothing on the immediate horizon.  Let us know if there is an event coming up.
                                     </ul>
                                 </div>
                             </div>

@@ -2,6 +2,12 @@ var WNew = {
     data: [
         {
             date: '09 Nov 2018',
+            target: 'burnside.php',
+            title: 'Burnside orchard',
+            detail: 'A list of the trees to be found in the orchard (near the Store)'
+        },
+        {
+            date: '09 Nov 2018',
             target: 'documents.php',
             title: 'Latest accounts',
             detail: 'The accounts for the year ending September 2017 are now available'

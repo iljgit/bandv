@@ -72,7 +72,8 @@
 
 <p>The Store at Burnside is open at certain times in the year. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. Click <a href="store.php">here</a> for store details.</p>
 
-<p>A communal orchard was planted near the Burnside entrance in 2015: members will be welcome to pick fruit from this once it is established.</p>
+<p>A communal orchard was planted near the Burnside entrance in 2015: members will be welcome to pick fruit from this once it is established. 
+Click <a class="" href="/assets/docs/orchardlistnov2018.pdf" target="orchard">here</a> for a list of the trees.</p>
 
 <p>A ‘Burn Bin’ facility is available for the disposal of non-compostable green waste. Burn days take place when the weather and the wind conditions are suitable. Click <a href="assets/docs/BurnBin.pdf" target="burnbin">here</a> for Burn Bin information and regulations.</p>
 
