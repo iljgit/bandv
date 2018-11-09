@@ -31,6 +31,11 @@
                 var s = document.getElementById('agm').value;
                 window.open(s, 'agm');
             }
+
+            function showAccounts() {
+                var s = document.getElementById('accounts').value;
+                window.open(s, 'accounts');
+            }
         </script>
   </head>
 
@@ -117,6 +122,18 @@
                                     <option value="assets/docs/2016 AGM.pdf">2016</option>
                                 </select>&nbsp;
                                 <button class="btn btn-xs btn-primary inline" onclick="showAGM();">PDF</button>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                Society Accounts
+                            </td>
+                            <td>
+                                <select class="form-control inline" id="accounts" style="width: auto; display: inline-block;">
+                                    <option value="assets/docs/accounts2017.pdf" selected>Year ending September 2017</option>
+                                </select>&nbsp;
+                                <button class="btn btn-xs btn-primary inline" onclick="showAccounts();">PDF</button>
                             </td>
                         </tr>
                         

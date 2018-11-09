@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '09 Nov 2018',
+            target: 'documents.php',
+            title: 'Latest accounts',
+            detail: 'The accounts for the year ending September 2017 are now available'
+        },
+        {
             date: '06 Nov 2018',
             target: 'news.php?select=38',
             title: 'Vinery Road Burn Bin - 3<sup>rd</sup> November 2018',
