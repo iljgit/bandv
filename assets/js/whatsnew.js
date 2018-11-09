@@ -7,10 +7,10 @@ var WNew = {
             detail: 'The accounts for the year ending September 2017 are now available'
         },
         {
-            date: '06 Nov 2018',
+            date: '08 Nov 2018',
             target: 'news.php?select=38',
             title: 'Vinery Road Burn Bin - 3<sup>rd</sup> November 2018',
-            detail: 'A good opportunity to clear the site of woody waste'
+            detail: 'A good opportunity to clear the site of woody waste - now with more pictures'
         },
         {
             date: '28 Oct 2018',

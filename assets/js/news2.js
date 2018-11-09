@@ -53,7 +53,17 @@ var news = {
                 date: '06 Nov 2018',
                 expires: '01 May 2019',
                 images2:[
-                        {prefix: 'assets/img/vineryburnnov18/', src: 'bonfire'}
+                        {prefix: 'assets/img/vineryburnnov18/', src: 'bonfire'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_296', src: '7'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_296', src: '8'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_296', src: '9'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_297', src: '3'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_297', src: '6'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_297', src: '8'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_297', src: '9'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_298', src: '6'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_298', src: '8'},
+                        {prefix: 'assets/img/vineryburnnov18/IMG_298', src: '9'}
                 ]
         },    
         {
