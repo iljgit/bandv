@@ -76,10 +76,11 @@ There are 3 chicken projects, a 3m wide pond, and plans for a bee hive.</p>
 The site meeting place and store is known as ‘the Pavilion’ and is named after Trevor Taylor, who gave many years of service to the committee. It has a coded lock so tenants can use it and make hot drinks.
 </p>
 
-<p>The Store at Burnside is open at certain times in the year. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. Click <a href="store.php">here</a> for store details.</p>
+<p>The Store at Burnside is open at certain times in the year. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. 
+Click <a class="btn btn-info" href="store.php">here</a> for store details.</p>
 <!--
 <p><br><b>Site Manager</b>: Glynn Gorick<br>
-                    <a href="mailto:vinerysitemanager@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;vinerysitemanager@burnsideandvineryallotments.org</a>
+                    <a class="btn btn-info" href="mailto:vinerysitemanager@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;vinerysitemanager@burnsideandvineryallotments.org</a>
                     </p>
                     
                     <p>
@@ -89,7 +90,7 @@ The site meeting place and store is known as ‘the Pavilion’ and is named aft
 
                 </div>
                 
-                <div class="col-xs-0 col-md-2">&nbsp;</div>
+                <div class="hidden-xs col-md-2">&nbsp;</div>
                 
                 <div class="col-xs-12 col-md-5"><br>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1042.2244472882196!2d0.15259340908407742!3d52.19980184299595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTLCsDExJzU5LjMiTiAwwrAwOScxMy4zIkU!5e1!3m2!1sen!2suk!4v1481566054083&zoom=12" xwidth="600 xheight="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen></iframe>

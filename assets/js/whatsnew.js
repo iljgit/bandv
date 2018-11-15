@@ -1,6 +1,18 @@
 var WNew = {
     data: [
         {
+            date: '15 Nov 2018',
+            target: 'digest/trevortaylor.php',
+            title: 'Trevor Taylor',
+            detail: 'As a tribute to Trevor Taylor, our Honorary President, we have set up a Weeder\s Digest page dedicated to the enduring impact he had on the Society'
+        },
+        {
+            date: '15 Nov 2018',
+            target: 'videos.php',
+            title: 'When Radio 105 visited Vinery Road',
+            detail: 'It has taken a while for us to catch up, but here is a really interesting interview with the chicken co-op (coop?) at Vinery Road'
+        },
+        {
             date: '09 Nov 2018',
             target: 'burnside.php',
             title: 'Burnside orchard',

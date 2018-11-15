@@ -148,7 +148,7 @@ a:focus {
         background-image: url(/assets/img/navbar-background8.jpg);
         background-color: #4b692b;
         background-repeat: no-repeat;
-        background-size: 100% auto;
+        background-size: cover;
 	border-color: transparent;
         background-position: top left;
 }
@@ -1000,4 +1000,12 @@ ul.search a {
 
 .lowlight-background {
     background: linear-gradient(rgba(245, 253, 166, 0.2), rgba(226, 204, 3, 0.2));
+}
+
+
+/* Menu override */
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #ffffff !important;
+    }
 }
