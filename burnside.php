@@ -91,7 +91,7 @@ There is an apiary on the Burnside site, near the burn-bin. Honey is available a
                 
                 </div>
                 
-                <div class="col-md-2 hidden-xs">&nbsp;</div>
+                <div class="col-md-2 hidden-xs hidden-sm">&nbsp;</div>
                 
                 <div class="col-xs-12 col-md-5"><br>
                     <iframe src="https://www.google.com/maps/embed?z=13&pb=!1m18!1m12!1m3!1d520.6283304236833!2d0.1579339500009567!3d52.19282952200698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTLCsDExJzM0LjIiTiAwwrAwOSczMC41IkU!5e1!3m2!1sen!2suk!4v1481567031652" xwidth="600" xheight="450" frameborder="0" style="border:0; width:100%;" allowfullscreen></iframe>
