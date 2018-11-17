@@ -58,14 +58,8 @@
             <div class="row">
                 <div class="col-xs-12">
                     <p class="large-text">Too busy to check the rest of the site?  Bookmark this page and come back regularly for all the latest news, views and information.</p>
-                    <hr>
-                </div>
-            </div>
-            
-            <div class="row">
-                <div class="col-xs-12">
-                    <p class="large-text">Got something on your mind? Need some help? Got some advice? Want to share your experience?</p>
-                    <p class="large-text">Contact us at <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> with your thoughts. And don't forget to visit the <b>Digest</b> and <b>Information</b> pages.</p>
+                    <p class="large-text">Got something on your mind? Need some help? Got some advice? Want to share your experience? 
+                    Contact us at <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> with your thoughts. And don't forget to visit the <b>Digest</b> and <b>Information</b> pages.</p>
                     <hr>
                 </div>
             </div>
@@ -145,7 +139,8 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-                                        Nothing on the immediate horizon.  Let us know if there is an event coming up.
+                                        <!--Nothing on the immediate horizon.  Let us know if there is an event coming up.-->
+                                        <li><a href="calendar.php">Burnside Burn Bin - Saturday 24<sup>th</sup> November, 10:00 - 13:00, weather permitting.</a></li>
                                     </ul>
                                 </div>
                             </div>

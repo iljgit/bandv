@@ -968,6 +968,9 @@ ul.calendar li:before {
 ul.calendar li:nth-child(even) {
     color: #808080;
 }
+ul.calendar a {
+    color: black;
+}
 
 /* Lists with search icon */
 ul.search { padding-left:20px; list-style:none; }
