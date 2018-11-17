@@ -97,11 +97,12 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        <img src="/digest/annualimages/ComputerHotline_-_Physalis-peruviana-(coqueret)--31-07.jpg" style="width: 30%;" class="img-responsive img-thumbnail pull-right margin"/>
-                                        Joan from Burnside has chronicled her year on year assaults on the vegetable world.
+                                        Joan from Burnside has put together a history of the Allotment Society, 
+                                        from its very beginnings through to the present day.  This is just in time for National 
+                                        "Explore Your Archive" week.
                                     </p>
-                                    <p class="large-text">Click <a href="digest/annual2018.php"><button class="btn btn-info">here</button></a> 
-                                    for what worked and what, erm,  didn't work quite so well.</p>
+                                    <p class="large-text">Click <a href="/history.php"><button class="btn btn-info">here</button></a> 
+                                    for what she has discovered so far.</p>
                                 </div>
                             </div>
                         </div>
