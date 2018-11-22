@@ -142,6 +142,7 @@
                                         <!-- PUT NEWS HERE -->
                                         <!--Nothing on the immediate horizon.  Let us know if there is an event coming up.-->
                                         <li><span xhref="calendar.php" style="color: red; font-weight: bold;">Burnside Burn Bin - Saturday 24<sup>th</sup> November, cancelled due to the weather forecast.</span></li>
+                                        <li><span xhref="calendar.php">Water supplies at both sites will be turned off shortly - Friday 23<sup>rd</sup> November.</span></li>
                                     </ul>
                                 </div>
                             </div>
