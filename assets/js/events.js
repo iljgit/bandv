@@ -2,7 +2,7 @@ var events = {
     events: [
         {
                 id: '17 Nov 2018',
-                title: 'Burnside Burn Bin',
+                title: 'Burnside Burn Bin CANCELLED',
                 start: '24 Nov 2018 10:00',
                 end:  '24 Nov 2018 13:00',
                 allDay: false

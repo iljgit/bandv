@@ -141,7 +141,7 @@
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
                                         <!--Nothing on the immediate horizon.  Let us know if there is an event coming up.-->
-                                        <li><a href="calendar.php">Burnside Burn Bin - Saturday 24<sup>th</sup> November, 10:00 - 13:00, weather permitting.</a></li>
+                                        <li><span xhref="calendar.php" style="color: red; font-weight: bold;">Burnside Burn Bin - Saturday 24<sup>th</sup> November, cancelled due to the weather forecast.</span></li>
                                     </ul>
                                 </div>
                             </div>
