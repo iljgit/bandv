@@ -71,7 +71,7 @@
 	 		<div class="col-xs-12">
         <p class="large-text">Every day we are bombarded with adverts - they are almost literally everywhere.  Well, now they are here too!  Why should we be left out?</p>
         <p class="large-text">
-          Below are 10 TV adverts from yesteryear.  All you have to do in each case is name the product and the manufacturer. Send your answers to 
+          Below are 10 TV adverts from yesteryear.  All you have to do in each case is <b>name the product and the manufacturer</b>. Send your answers to 
           <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> by the 31st December.  
           One correct answer will be selected at random for a small (very small) prize.
         </p>

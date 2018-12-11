@@ -140,7 +140,9 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-                                        Nothing on the immediate horizon - it's that time of year.  Drop us a line if you know different.
+                                        <a href="calendar.php"><li>
+                                            Burnside Burn Bin - Saturday December 15th from 10:00 till 14:00, weather permitting.
+                                        </li></a>
                                     </ul>
                                 </div>
                             </div>

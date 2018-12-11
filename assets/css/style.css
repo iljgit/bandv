@@ -115,19 +115,19 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	color: darkred;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
+	color: darkred;
 	font-weight: 700;
-	font-size: 12px;
-        text-shadow: 1px 1px 2px #404040;
+	font-size: 13px;
+    text-shadow: 1px 1px 2px #404040;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: white;
-        text-shadow: 1px 1px 2px #404040;
+	color: darkred;
+    text-shadow: 1px 1px 2px #404040;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -145,10 +145,10 @@ a:focus {
 .navbar-default {
 	/*background-color: #384452;*/
         /*background-color: rgba(0, 160, 0, 1);*/
-        background-image: url(/assets/img/navbar-background8.jpg);
+        background-image: url(/assets/img/navbar-background10.jpg);
         background-color: #4b692b;
-        background-repeat: no-repeat;
-        background-size: cover;
+        background-repeat: repeat;
+        background-size: contain;
 	border-color: transparent;
         background-position: top left;
 }
