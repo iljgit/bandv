@@ -1,10 +1,10 @@
 var WNew = {
     data: [
         {
-            date: '11 Dec 2018',
+            date: '11 Jan 2019',
             target: 'quiz3.php',
-            title: 'Our festive quiz',
-            detail: 'Thought you\'d got off lightly, didn\'t you!  No chance - here is this Christmas\' festive quiz.'
+            title: 'Christmas quiz',
+            detail: 'Here are the answers to our festive quiz.'
         },
         {
             date: '15 Nov 2018',

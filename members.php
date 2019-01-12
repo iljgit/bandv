@@ -140,8 +140,8 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-                                        <a href="calendar.php"><li>
-                                            Burnside Burn Bin - Saturday December 15th from 10:00 till 14:00, weather permitting.
+                                        <a href="calendar.php?select=10 Apr 2019"><li>
+                                            Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
                                         </li></a>
                                     </ul>
                                 </div>

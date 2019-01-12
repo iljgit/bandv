@@ -1,6 +1,12 @@
 var events = {
     events: [
         {
+                id: '10 Apr 2019 19:30',
+                title: 'Society AGM - 7:30pm start at St Martin\'s Church Hall, Suez Road',
+                start: '10 Apr 2019 19:30',
+                end:  '10 Apr 2019 21:00'
+        },
+        {
                 id: '15 Dec 2018',
                 title: 'Burnside Burn Bin',
                 start: '15 Dec 2018 10:00',

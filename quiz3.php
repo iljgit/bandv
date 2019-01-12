@@ -69,11 +69,8 @@
 
     <div class="row">
 	 		<div class="col-xs-12">
-        <p class="large-text">Every day we are bombarded with adverts - they are almost literally everywhere.  Well, now they are here too!  Why should we be left out?</p>
         <p class="large-text">
-          Below are 10 TV adverts from yesteryear.  All you have to do in each case is <b>name the product and the manufacturer</b>. Send your answers to 
-          <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> by the 31st December.  
-          One correct answer will be selected at random for a small (very small) prize.
+          Below are 10 TV adverts from yesteryear.  All you had to do in each case was name the product and the manufacturer. The answers are below.
         </p>
       </div>
     </div>
@@ -82,10 +79,12 @@
 	 		<div class="col-xs-12 col-sm-6">
 	 			<h4>Question 1</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/1.jpg" />
+         <p>Smash, Cadbury</p>
       </div>
       <div class="col-xs-12 col-sm-6">
 	 			<h4>Question 2</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/2.jpg" />
+         <p>Tango, Britvic</p>
       </div>
     </div>
 
@@ -95,10 +94,12 @@
 	 		<div class="col-xs-12 col-sm-6">
 	 			<h4>Question 3</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/3.jpg" />
+         <p>Hovis, Premier Foods</p>
       </div>
       <div class="col-xs-12 col-sm-6">
 	 			<h4>Question 4</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/4.jpg" />
+         <p>Gold Blend coffee, Nestle</p>
       </div>
     </div>
 
@@ -108,23 +109,27 @@
 	 		<div class="col-xs-12 col-sm-6">
 	 			<h4>Question 5</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/5.jpg" />
+         <p>Sugar Puffs, Quaker</p>
       </div>
       <div class="col-xs-12 col-sm-6">
 	 			<h4>Question 6</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/6.jpg" />
+         <p>Hamlet cigars, Hamlet</p>
       </div>
     </div>
 
     <div class="row"><div class="col-xs-12">&nbsp;</div></div>
-
+   
     <div class="row">
 	 		<div class="col-xs-12 col-sm-6">
 	 			<h4>Question 7</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/7.jpg" />
+         <p> PG Tips tea, Unilever</p>
       </div>
       <div class="col-xs-12 col-sm-6">
 	 			<h4>Question 8</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/8.jpg" />
+         <p>Country Life butter, Dairy Crest</p>
       </div>
     </div>
 
@@ -134,10 +139,12 @@
 	 		<div class="col-xs-12 col-sm-6">
 	 			<h4>Question 9</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/9.jpg" />
+         <p>Dairy Milk, Cadbury</p>
       </div>
       <div class="col-xs-12 col-sm-6">
 	 			<h4>Question 10</h4>
          <img class="img img-responsive img-thumbnail" style="width: 100%;" src="assets/img/quiz_xmas_18/10.jpg" />
+         <p>Durex XXL, SSL International</p>
       </div>
     </div>
 
