@@ -1,6 +1,12 @@
 var events = {
     events: [
         {
+                id: '26 Jan 2019',
+                title: 'Provisional Potato Pick-up Day - details to follow',
+                start: '26 Jan 2019 10:00',
+                end:  '26 Jan 2019 12:00'
+        },
+        {
                 id: '10 Apr 2019 19:30',
                 title: 'Society AGM - 7:30pm start at St Martin\'s Church Hall, Suez Road',
                 start: '10 Apr 2019 19:30',
