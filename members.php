@@ -64,14 +64,22 @@
                 </div>
             </div>
             
-            <!--div class="row">
-                <div class="col-xs-12">
-                    <p class="large-text">The Society always welcomes volunteers and right now there are vacancies on the Committee for members from Vinery Road.</p>
-                    <p class="large-text">The two sites only function through the help and support of a small number of members. Please don't leave it up to someone else: 
-                    contact Mark at <a href="mailto:chair@burnsideandvineryallotments.org">chair@burnsideandvineryallotments.org</a></p>
+            <div class="row">
+                <div class="col-xs-3">
+                    <p class="large-text"><img src="/assets/img/crisps.jpg" style="width: 100%;" class="img img-responsive img-thumbnail"/>
+                </div>
+                <div class="col-xs-9">
+                    <h2 style="margin-top: 0px; padding-top: 0px;">Seed Potatoes</h2>
+                    <p class="large-text">
+                    Seed potato orders will be available to be picked up from the <b>Burnside Store</b> on Sunday 27<sup>th</sup> January between 10 and 12.
+                    </p>
+                    <p class="large-text">
+                    Please make every effort to collect your order on Sunday morning, either in person or by asking a friend. Every order not collected makes extra work for the volunteers 
+                    who have sorted the orders and who will spend Sunday morning handing those orders out.
+                    </p>
                     <hr>
                 </div>
-            </div-->
+            </div>
             
             <!--div class="row">
                 <div class="col-xs-12">
@@ -141,7 +149,7 @@
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
                                         <a href="calendar.php"><li>
-                                            Provisional potato pick-up day: 26th January.  Details to follow.
+                                            Potato pick-up day: Sunday 27th January, 10:00-12:00, Burnside Store.
                                         </li></a>
                                         <a href="calendar.php?select=10 Apr 2019"><li>
                                             Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
