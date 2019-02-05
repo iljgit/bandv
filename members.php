@@ -64,7 +64,7 @@
                 </div>
             </div>
             
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-3">
                     <p class="large-text"><img src="/assets/img/crisps.jpg" style="width: 100%;" class="img img-responsive img-thumbnail"/>
                 </div>
@@ -79,7 +79,7 @@
                     </p>
                     <hr>
                 </div>
-            </div>
+            </div-->
             
             <!--div class="row">
                 <div class="col-xs-12">
@@ -148,9 +148,6 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-                                        <a href="calendar.php"><li>
-                                            Potato pick-up day: Sunday 27th January, 10:00-12:00, Burnside Store.
-                                        </li></a>
                                         <a href="calendar.php?select=10 Apr 2019"><li>
                                             Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
                                         </li></a>
