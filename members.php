@@ -32,6 +32,42 @@
                 echo $page;
             ?>
         </script>
+        <script>
+            function enlarge(src) {
+                let d = document.createElement('div');
+                d.setAttribute('name', 'ilj');
+                d.style.width = '100%';
+                d.style.height = '100%';
+                d.style.backgroundColor = 'rgba(64, 64, 64, 0.4)';
+                d.style.backgroundImage = `url(${src})`;
+                d.style.backgroundSize = 'contain';
+                d.style.backgroundRepeat = 'no-repeat';
+                d.style.backgroundPosition = 'center center';
+                d.style.cursor = 'pointer';
+                d.style.position = 'fixed';
+                d.style.top = '0px';
+                d.style.left = '0px';
+                d.style.zIndex = '9999';
+
+                let c = document.createElement('div');
+                c.style.position = 'absolute';
+                c.style.right = '10px';
+                c.style.top = '10px';
+                c.style.height = 'auto';
+                c.style.width = 'auto';
+                c.innerHTML = '<i class="fa fa-times" aria-hidden="true" style="color: darkred; font-size: 36px;"></i>';
+                d.appendChild(c);
+
+                document.body.style.overflow = 'hidden';
+                
+                document.body.appendChild(d);
+
+                d.onclick = () => {
+                    document.body.style.overflow = 'auto';
+                    document.body.removeChild(d);
+                }
+            }
+        </script>
   </head>
 
   <body onload="WNew.display();">
@@ -148,6 +184,18 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
+                                        
+                                            <div class="row" onclick="enlarge('/assets/img/nuffieldseed2019.jpg');" style="cursor: pointer;">
+                                                <div class="col-xs-12 col-sm-9">
+                                                    <li>Nuffield Road Allotment Society is having a <i>Seed and Seedling</i> day on Saturday 23<sup>rd</sup> February, 
+                                                    11:00 to 15:00, at Brown's Field Community Centre, 31A Green End Rd, Cambridge CB4 1RU<br><br>
+                                                    Click for more information.</li>
+                                                </div>
+                                                <div class="col-sm-3 xs-hidden">
+                                                    <img class="img-responsive img-thumbnail" src="/assets/img/nuffieldseed2019.jpg" style="width: 100%;"/>
+                                                </div> 
+                                            </div> 
+                                        
                                         <a href="calendar.php?select=10 Apr 2019"><li>
                                             Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
                                         </li></a>
