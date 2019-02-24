@@ -59,7 +59,7 @@
 	 BODY
 	 ***************************************************************************************************************** -->
 
-	 <div class="container">            
+	 <div class="container large-text">            
             <div class="row">
                 
                 <div class="col-xs-12 col-md-5"><h2 class="">Burnside Plots and Facilities</h2>

@@ -59,7 +59,7 @@
 	 CONTACT WRAP
 	 ***************************************************************************************************************** -->
 
-	 <div class="container">
+	 <div class="container large-text">
             <div class="row">
                 <div class="col-xs-12">
                     <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
@@ -90,8 +90,13 @@
                     <h2>Burnside Library</h2>
                     <img src="assets/img/library.jpg" class="img-responsive img-rounded img-thumbnail" style="width: 100%; margin-right: 10px; margin-bottom: 10px;"/>
                     <p>
-                        The Burnside store now has an ever-expanding library of gardening books, predominantly vegetables and fruit, and a few vegetable related cook books. You can browse the books when the store is open, or you can borrow a book, in which case all you need to do is enter your name and the date borrowed in the lending book, then enter the returned date when you bring the book back.<br><br>
-If you have any books, along the same lines, that you would like to donate to the library they will be gratefully accepted. Furthermore, if you spot a nice veg growing book, for example in a charity shop or a book sale, why not buy it, read it yourself, and then donate it to the library. We should soon have a very useful resource available to all plot holders.
+                        The Burnside library has been moved from the Store to, where else, the toilet.  It comprises an ever-expanding library of gardening books, predominantly vegetables and fruit, 
+                        and a few vegetable related cook books. If the hammering on the toilet door gets too much, you can borrow a book, 
+                        in which case all you need to do is enter your name and the date borrowed in the lending book, then enter the returned date 
+                        when you bring the book back.<br><br>
+If you have any books, along the same lines, that you would like to donate to the library they will be gratefully accepted. 
+Furthermore, if you spot a nice veg growing book, for example in a charity shop or a book sale, why not buy it, read it yourself, 
+and then donate it to the library. We should soon have a very useful resource available to all plot holders.
                     </p>
                 </div>
             </div>

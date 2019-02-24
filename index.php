@@ -77,7 +77,7 @@
 	 SERVICE LOGOS
 	 ***************************************************************************************************************** -->
 	 <div id="service">
-	 	<div class="container">
+	 	<div class="container large-text">
                                 
                     <div class="row">
                         <div class="col-xs-12">

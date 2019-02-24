@@ -184,18 +184,11 @@
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-                                        
-                                            <div class="row" onclick="enlarge('/assets/img/nuffieldseed2019.jpg');" style="cursor: pointer;">
-                                                <div class="col-xs-12 col-sm-9">
-                                                    <li>Nuffield Road Allotment Society is having a <i>Seed and Seedling</i> day on Saturday 23<sup>rd</sup> February, 
-                                                    11:00 to 15:00, at Brown's Field Community Centre, 31A Green End Rd, Cambridge CB4 1RU<br><br>
-                                                    Click for more information.</li>
-                                                </div>
-                                                <div class="col-sm-3 xs-hidden">
-                                                    <img class="img-responsive img-thumbnail" src="/assets/img/nuffieldseed2019.jpg" style="width: 100%;"/>
-                                                </div> 
-                                            </div> 
-                                        
+
+                                        <a href="calendar.php?select=02 Mar 2019"><li>
+                                            Burnside burn-bin, weather-permitting, Saturday 2<sup>nd</sup> March, 10-2
+                                        </li></a>
+                                                                                
                                         <a href="calendar.php?select=10 Apr 2019"><li>
                                             Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
                                         </li></a>

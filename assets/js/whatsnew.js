@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '24 Feb 2019',
+            target: 'burnsideorchard.php',
+            title: 'The Community Orchard at Burnside',
+            detail: 'There have been some exciting new developments'
+        },
+        {
             date: '11 Jan 2019',
             target: 'quiz3.php',
             title: 'Christmas quiz',
