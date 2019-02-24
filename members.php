@@ -141,12 +141,11 @@
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        Joan from Burnside has put together a history of the Allotment Society, 
-                                        from its very beginnings through to the present day.  This is just in time for National 
-                                        "Explore Your Archive" week.
+                                        Penny from Burnside had a vision for a community orchard.  She wanted to help preserve local varities of apples, while making a 
+                                        positive contribution to our local environment.
                                     </p>
-                                    <p class="large-text">Click <a href="/history.php"><button class="btn btn-info">here</button></a> 
-                                    for what she has discovered so far.</p>
+                                    <p class="large-text">Click <a href="/burnsideorchard.php"><button class="btn btn-info">here</button></a> 
+                                    for the full story</p>
                                 </div>
                             </div>
                         </div>
