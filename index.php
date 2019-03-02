@@ -99,7 +99,7 @@
                     
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
-                            <img src="assets/img/jbaproduce3.jpg" class="img-responsive img-rounded" style="width: 100%;"/>
+                            <img src="assets/img/blossom19.jpg" class="img-responsive img-rounded" style="width: 100%;"/>
                             <p class="text-right"><i>Joan - Burnside</i></p>
                         </div>
                         <div class="col-sm-12 col-md-6">
@@ -129,8 +129,8 @@
                     
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
-                            <img src="assets/img/blossom1.jpg" class="img-responsive img-rounded" style="width: 100%"/>
-                            <p class="text-right"><i>Matthew - Burnside</i></p>
+                            <img src="assets/img/daffodil.jpg" class="img-responsive img-rounded" style="width: 100%"/>
+                            <p class="text-right"><i>Joan - Burnside</i></p>
                         </div>
                         <div class="col-sm-12 col-md-6">
                             <p>A full plot is approximately 50 metres by 5 metres; a half plot is approximately 25 metres by 5 metres.</p>
