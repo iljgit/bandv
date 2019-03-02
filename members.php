@@ -152,7 +152,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
             <div class="row">
                 <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading" style="background: none; border: none;"><h3>Featured Article</h3></div>
+                        <div class="panel-heading" style="background: none; border: none;"><h3>Featured</h3></div>
                         <div class="panel-body">
                             <div class="row">
                                 <div class="col-xs-3">
@@ -165,6 +165,12 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                     </p>
                                     <p class="large-text">Click <a href="/burnsideorchard.php"><button class="btn btn-info">here</button></a> 
                                     for the full story</p>
+                                    <p><hr></p>
+                                    <p class="large-text">The Society is pleased to support the Friends of Cherry Hinton Brook.</p>
+                                    <p class="large-text">
+                                    Click <a href="/community/brookfriends.php"><button class="btn btn-info">here</button></a> 
+                                    for what they are all about.
+                                    </p>
                                 </div>
                             </div>
                         </div>
