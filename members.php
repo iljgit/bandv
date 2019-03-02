@@ -99,6 +99,25 @@
                     <hr>
                 </div>
             </div>
+
+            <div class="row">
+                <div class="col-xs-12" style="border: 5px solid black; border-radius: 10px; padding: 10px;">                
+<p class="large-text">
+<h3>Sad news about one of Burnside’s longstanding tenants: Giuseppe (Joe) Cordaro passed away suddenly on February 6th.</h3>
+</p>
+<p class="large-text">
+Giuseppe was a popular character who loved spending time on his plots near the store and being part of the Burnside community. 
+Over recent years he had gradually given up allotment space, allowing new people to have a chance at working a plot. 
+</p>
+<p class="large-text">
+He was well known for helping new tenants with advice and lending them tools to get started. He will be sadly missed on the site. 
+A number of plotholders have been in touch with the Society to share memories of his generosity, his cheerful encouragement to fellow tenants and his invaluable gardening advice. 
+</p>
+<p class="large-text">
+His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 March at 2.30pm.
+</p>
+                </div>
+            </div>
             
             <!--div class="row">
                 <div class="col-xs-3">
