@@ -84,8 +84,7 @@
                                 <h2>Welcome to our web site</h2>
                                 <h7>
                                     <i>
-                                        Society members might want to jump straight to the new <a href="members.php"><b>Members</b></a> page to see our featured article on 
-                                        making your plot weed-free, and to read about Tina's fund-raising for Diabetes UK.
+                                        Society members might want to jump straight to the <a href="members.php"><b>Members</b></a> page to see what is going on in our Society.
                                     </i>
                                 </h7>
                         </div>
