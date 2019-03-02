@@ -160,7 +160,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        Penny from Burnside had a vision for a community orchard.  She wanted to help preserve local varities of apples, while making a 
+                                        Penny from Burnside had a vision for a community orchard.  She wanted to help preserve local varieties of apples, while making a 
                                         positive contribution to our local environment.
                                     </p>
                                     <p class="large-text">Click <a href="/burnsideorchard.php"><button class="btn btn-info">here</button></a> 
@@ -202,10 +202,6 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-
-                                        <a href="calendar.php?select=02 Mar 2019"><li>
-                                            Burnside burn-bin, weather-permitting, Saturday 2<sup>nd</sup> March, 10-2
-                                        </li></a>
                                                                                 
                                         <a href="calendar.php?select=10 Apr 2019"><li>
                                             Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
