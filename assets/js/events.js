@@ -1,6 +1,27 @@
 var events = {
     events: [
         {
+                id: '28 Apr 2019',
+                title: 'Society Store Grand Re-opening for 2019',
+                start: '28 Apr 2019 10:00',
+                end:  '28 Apr 2019 13:00',
+                allDay: false
+        },
+        {
+                id: '30 Mar 2019',
+                title: `Burnside Children's Get-together, start at 2pm`,
+                start: '30 Mar 2019 14:00',
+                end:  '30 Mar 2019 16:00',
+                allDay: false
+        },
+        {
+                id: '06 Apr 2019',
+                title: 'Burnside Volunteering Day and Burn Bin from 10am',
+                start: '06 apr 2019 10:00',
+                end:  '06 Apr 2019 17:00',
+                allDay: true
+        },
+        {
                 id: '02 Mar 2019',
                 title: 'Burnside Burn Bin',
                 start: '02 Mar 2019 10:00',

@@ -100,8 +100,27 @@
                 </div>
             </div>
 
+            <div class="row" style="">
+                <div class="col-xs-12" style="border: 5px dashed blue; border-radius: 10px; padding: 10px; margin: 10px;margin-bottom: 30px; background-size: cover; background-image: url(/assets/img/celebrate.png)">
+                    <h3 style="color: darkblue;" class="text-center">BURNSIDE CHILDREN’S GET TOGETHER</h3>
+                    <p class="large-text">
+                    A children’s gathering is planned for Saturday 30th March, meeting at the picnic area at 2pm. 
+                    This is a chance for children and their guardians to meet, once a season, to socialise and grow some allotment friendships. 
+                    This will be the winter time gathering as it falls on the day before spring time officially starts! 
+</p>
+<p class="large-text">
+There will be materials to make a spring time craft or Mother’s Day present. 
+If you would like to bring a craft, game or snack to share that would be great. 
+Thanks to everyone showing up and joining in we had a good time last time (remember the ride in the dustbin...), so let’s do it again!
+</p>
+<p class="large-text">
+We will be trying out our new HUGE gazebo, so even if the weather on the day is not as kind as we hope, crafting activities should not be a problem. 
+                    </p>
+                </div>
+            </div>
+
             <div class="row">
-                <div class="col-xs-12" style="border: 5px solid black; border-radius: 10px; padding: 10px;">                
+                <div class="col-xs-12" style="border: 5px solid black; border-radius: 10px; padding: 10px; margin: 10px;">                
 <p class="large-text">
 <h3>Sad news about one of Burnside’s longstanding tenants: Giuseppe (Joe) Cordaro passed away suddenly on February 6th.</h3>
 </p>
@@ -208,9 +227,21 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
+
+                                        <a href="calendar.php?select=30 Mar 2019"><li>
+                                            Children's get-together at Burnside, Saturday 30<sup>th</sup> March, start at 2pm.
+                                        </li></a>
+
+                                        <a href="calendar.php?select=06 Apr 2019"><li>
+                                            Burnside Volunteering Day and Burn bin, Saturday 6<sup>th</sup> April, start at 10am.
+                                        </li></a>
                                                                                 
                                         <a href="calendar.php?select=10 Apr 2019"><li>
                                             Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
+                                        </li></a>
+
+                                        <a href="calendar.php?select=28 Apr 2019"><li>
+                                            Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.
                                         </li></a>
                                     </ul>
                                 </div>
