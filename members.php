@@ -95,13 +95,33 @@
                 <div class="col-xs-12">
                     <p class="large-text">Too busy to check the rest of the site?  Bookmark this page and come back regularly for all the latest news, views and information.</p>
                     <p class="large-text">Got something on your mind? Need some help? Got some advice? Want to share your experience? 
-                    Contact us at <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster@burnsideandvineryallotments.org</a> with your thoughts. And don't forget to visit the <b>Digest</b> and <b>Information</b> pages.</p>
+                    Contact us by emailing the <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> with your thoughts. And don't forget to visit the <b>Digest</b> and <b>Information</b> pages.</p>
                     <hr>
                 </div>
             </div>
 
-            <div class="row" style="">
-                <div class="col-xs-12" style="border: 5px dashed blue; border-radius: 10px; padding: 10px; margin: 10px;margin-bottom: 30px; background-size: cover; background-image: url(/assets/img/celebrate.png)">
+            <div class="row">
+                <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px; background-size: cover;">
+                    <h2 style="color: darkblue;" class="text-center">Trevor Taylor Pavilion Re-dedication</h2>
+                    <h3 class="text-center">Sunday March 31<sup>st</sup> at 3pm, Vinery Road</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-4 col-md-2">
+                    <img src="/assets/img/trevor.jpg" class="img img-responsive img-thumbnail" style="width: 100%;" />
+                </div>
+                <div class="col-xs-8 col-md-10">
+                <p class="large-text">
+                    The specially commissioned Blue Plaque will be unveiled by our guest of honour Ann Taylor.
+                    <br><br>
+Come and join us at this special event, enjoy a cup of tea or coffee and a piece of cake and chat about our friend Trevor, who did so much for our society for such a long time.
+
+                    </p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px; background-size: cover; background-image: url(/assets/img/celebrate.png)">
                     <h3 style="color: darkblue;" class="text-center">BURNSIDE CHILDREN’S GET TOGETHER</h3>
                     <p class="large-text">
                     A children’s gathering is planned for Saturday 30th March, meeting at the picnic area at 2pm. 
@@ -120,7 +140,7 @@ We will be trying out our new HUGE gazebo, so even if the weather on the day is 
             </div>
 
             <div class="row">
-                <div class="col-xs-12" style="border: 5px solid black; border-radius: 10px; padding: 10px; margin: 10px;">                
+                <div class="col-xs-12" style="padding: 10px;">                
 <p class="large-text">
 <h3>Sad news about one of Burnside’s longstanding tenants: Giuseppe (Joe) Cordaro passed away suddenly on February 6th.</h3>
 </p>
@@ -230,6 +250,10 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
 
                                         <a href="calendar.php?select=30 Mar 2019"><li>
                                             Children's get-together at Burnside, Saturday 30<sup>th</sup> March, start at 2pm.
+                                        </li></a>
+
+                                        <a href="calendar.php?select=31 Mar 2019"><li>
+                                            Trevor Taylor Pavilion Re-dedication, Sunday 31<sup>st</sup> March, start at 3pm.
                                         </li></a>
 
                                         <a href="calendar.php?select=06 Apr 2019"><li>

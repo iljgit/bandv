@@ -1,6 +1,13 @@
 var events = {
     events: [
         {
+                id: '31 Mar 2019',
+                title: 'Trevor Taylor Pavilion Re-dedication, 3pm',
+                start: '31 Mar 2019 15:00',
+                end:  '28 Apr 2019 17:00',
+                allDay: false
+        },
+        {
                 id: '28 Apr 2019',
                 title: 'Society Store Grand Re-opening for 2019',
                 start: '28 Apr 2019 10:00',
