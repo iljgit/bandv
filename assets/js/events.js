@@ -4,7 +4,7 @@ var events = {
                 id: '31 Mar 2019',
                 title: 'Trevor Taylor Pavilion Re-dedication, 3pm',
                 start: '31 Mar 2019 15:00',
-                end:  '28 Apr 2019 17:00',
+                end:  '31 Mar 2019 17:00',
                 allDay: false
         },
         {
