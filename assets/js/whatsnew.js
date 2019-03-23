@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '23 Mar 2019',
+            target: 'slug-pellets.php',
+            title: 'Important news about the use of non-organic pest control',
+            detail: 'Changes in the law come into effect in 2020 - are you prepared?'
+        },
+        {
             date: '24 Feb 2019',
             target: 'burnsideorchard.php',
             title: 'The Community Orchard at Burnside',

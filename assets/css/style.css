@@ -100,6 +100,19 @@ a:focus {
 	text-align: center
 }
 
+.parallax { 
+  
+    /* Set a specific height */
+    height: 500px; 
+    width: 100%;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 /*	################################################################
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
