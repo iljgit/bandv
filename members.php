@@ -102,25 +102,17 @@
 
             <div class="row">
                 <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px; background-size: cover;">
-                    <h2 style="color: darkblue;" class="text-center">Trevor Taylor Pavilion Re-dedication</h2>
-                    <h3 class="text-center">Sunday March 31<sup>st</sup> at 3pm, Vinery Road</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-4 col-md-2">
-                    <img src="/assets/img/trevor.jpg" class="img img-responsive img-thumbnail" style="width: 100%;" />
-                </div>
-                <div class="col-xs-8 col-md-10">
-                <p class="large-text">
-                    The specially commissioned Blue Plaque will be unveiled by our guest of honour Ann Taylor.
-                    <br><br>
-Come and join us at this special event, enjoy a cup of tea or coffee and a piece of cake and chat about our friend Trevor, who did so much for our society for such a long time.
-
+                    <h2 style="color: darkblue;" class="text-center">Society AGM</h2>
+                    <h3 class="text-center">Wednesday April 10<sup>th</sup> at 7:30pm, St Martin's Hall, Suez Road</h3>
+                    <p class="large-text">
+                        A reminder that this year's AGM is happening soon.  Everyone is welcome (tenants, family, friends).  
+                        Please note that tenants will be asked to ‘sign in’ at the door, simply by ticking a members list, so that we have a 
+                        record of who is there and who takes part in any voting on the night.
                     </p>
                 </div>
             </div>
 
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px; background-size: cover; background-image: url(/assets/img/celebrate.png)">
                     <h3 style="color: darkblue;" class="text-center">BURNSIDE CHILDREN’S GET TOGETHER</h3>
                     <p class="large-text">
@@ -137,9 +129,9 @@ Thanks to everyone showing up and joining in we had a good time last time (remem
 We will be trying out our new HUGE gazebo, so even if the weather on the day is not as kind as we hope, crafting activities should not be a problem. 
                     </p>
                 </div>
-            </div>
+            </div-->
 
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px;">                
 <p class="large-text">
 <h3>Sad news about one of Burnside’s longstanding tenants: Giuseppe (Joe) Cordaro passed away suddenly on February 6th.</h3>
@@ -156,7 +148,7 @@ A number of plotholders have been in touch with the Society to share memories of
 His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 March at 2.30pm.
 </p>
                 </div>
-            </div>
+            </div-->
             
             <!--div class="row">
                 <div class="col-xs-3">
