@@ -2,7 +2,7 @@
 var news = {
     news: [
         {
-                title: "The Trevor Taylor Pavilion Dedication",
+                title: "The Trevor Taylor Pavilion Re-dedication",
                 id: 40, 
                 body: `
 <p>

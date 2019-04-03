@@ -191,7 +191,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
-                                        The <b>Trevor Taylor Pavilion</b> dedication took place on Sunday 31<sup>st</sup> March 2019
+                                        The <b>Trevor Taylor Pavilion</b> re-dedication took place on Sunday 31<sup>st</sup> March 2019
                                     </p>
                                     <p class="large-text">Click <a href="/news.php"><button class="btn btn-info">here</button></a> 
                                     for more details and pictures of the event.</p>

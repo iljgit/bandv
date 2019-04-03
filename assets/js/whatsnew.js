@@ -3,7 +3,7 @@ var WNew = {
         {
             date: '03 Apr 2019',
             target: 'news.php',
-            title: 'Trevor Taylor Pavilion dedication',
+            title: 'Trevor Taylor Pavilion re-dedication',
             detail: 'A special day commemorating a special person'
         },
         {
