@@ -1,6 +1,53 @@
-// next id 40
+// next id 41
 var news = {
     news: [
+        {
+                title: "The Trevor Taylor Pavilion Dedication",
+                id: 40, 
+                body: `
+<p>
+There was a good turnout at Vinery Road on Sunday March 31st and the weather favoured us with warm sunshine for the rededication of the Trevor Taylor Pavilion. 
+</p>
+<p>
+Built about sixteen years ago, the Pavilion provides storage and refreshment facilities for Vinery tenants.  
+It was named in honour of Trevor for his many years of unstinting service to the Society. 
+After Trevor’s death in September 2018 a blue plaque was commissioned by Andy Kurdynowski to commemorate him so that generations to come will know who he was 
+and why the Pavilion is named after him. 
+</p>
+<p>
+After a short speech by Andy, our guest of honour Ann Taylor unveiled the plaque, now resplendent on the end wall of the Pavilion near the original hand painted ‘Trevor Taylor Pavilion’ sign. Tea and cake were then enjoyed in the Pavilion, along with a small display of documents chosen to illustrate Trevor’s work for the Society and for the allotment movement generally. Thanks especially to Andy and to others on the committee for all the work of commissioning the plaque and organising the event. 
+</p>
+<p>
+Special thanks to Ann for coming along to perform the unveiling. We hope she enjoyed revisiting the site and catching up with old friends.
+</p>
+                `,       
+                date:  '03 April 2019',
+                expires: '03 April 2020 23:00',
+                images2:[
+                    //{prefix: 'assets/img/trevor-taylor-dedication/D71_68', src: '04'},
+                    //{prefix: 'assets/img/trevor-taylor-dedication/D71_681', src: '3'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_681', src: '4'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_681', src: '5'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_681', src: '6'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_681', src: '9'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_682', src: '1'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_682', src: '2'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_682', src: '3'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_682', src: '4'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_682', src: '6'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_682', src: '7'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_682', src: '8'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_683', src: '0'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_683', src: '2'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_683', src: '4'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_683', src: '6'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_683', src: '7'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_683', src: '9'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_684', src: '0'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_684', src: '8'},
+                    {prefix: 'assets/img/trevor-taylor-dedication/D71_685', src: '5'},
+                ]
+        },
         {
                 title: "The Burnside Volunteering Day - October 2018",
                 id: 39, 

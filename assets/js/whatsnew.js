@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '03 Apr 2019',
+            target: 'news.php',
+            title: 'Trevor Taylor Pavilion dedication',
+            detail: 'A special day commemorating a special person'
+        },
+        {
             date: '23 Mar 2019',
             target: 'slug-pellets.php',
             title: 'Important news about the use of non-organic pest control',
@@ -194,7 +200,7 @@ var WNew = {
             datum = data[i];
 
             if (datum.target) {
-                op += `<li><a href="${datum.target}">${datum.title} - <i>${datum.date}</i><p>
+                op += `<li style="padding-bottom: 10px;"><a class="text-primary" href="${datum.target}">${datum.title} - <i style="font-size: 0.8em">Posted ${datum.date}</i><p style="padding-top: 10px;" class="text-secondary">
                 ${datum.detail} ...
                 </p></a></li>`;
             }

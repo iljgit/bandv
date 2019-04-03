@@ -191,17 +191,20 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 </div>
                                 <div class="col-xs-9">
                                     <p class="large-text">
+                                        The <b>Trevor Taylor Pavilion</b> dedication took place on Sunday 31<sup>st</sup> March 2019
+                                    </p>
+                                    <p class="large-text">Click <a href="/news.php"><button class="btn btn-info">here</button></a> 
+                                    for more details and pictures of the event.</p>
+
+                                    <p><hr></p>
+
+                                    <p class="large-text">
                                         Penny from Burnside had a vision for a community orchard.  She wanted to help preserve local varieties of apples, while making a 
                                         positive contribution to our local environment.
                                     </p>
                                     <p class="large-text">Click <a href="/burnsideorchard.php"><button class="btn btn-info">here</button></a> 
                                     for the full story</p>
-                                    <p><hr></p>
-                                    <p class="large-text">The Society is pleased to support the Friends of Cherry Hinton Brook.</p>
-                                    <p class="large-text">
-                                    Click <a href="/community/brookfriends.php"><button class="btn btn-info">here</button></a> 
-                                    for what they are all about.
-                                    </p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -239,14 +242,6 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
-
-                                        <a href="calendar.php?select=30 Mar 2019"><li>
-                                            Children's get-together at Burnside, Saturday 30<sup>th</sup> March, start at 2pm.
-                                        </li></a>
-
-                                        <a href="calendar.php?select=31 Mar 2019"><li>
-                                            Trevor Taylor Pavilion Re-dedication, Sunday 31<sup>st</sup> March, start at 3pm.
-                                        </li></a>
 
                                         <a href="calendar.php?select=06 Apr 2019"><li>
                                             Burnside Volunteering Day and Burn bin, Saturday 6<sup>th</sup> April, start at 10am.
