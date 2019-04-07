@@ -243,9 +243,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                     <ul class="calendar large-text">
                                         <!-- PUT NEWS HERE -->
 
-                                        <a href="calendar.php?select=06 Apr 2019"><li>
-                                            Burnside Volunteering Day and Burn bin, Saturday 6<sup>th</sup> April, start at 10am.
-                                        </li></a>
+                                        <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
                                                                                 
                                         <a href="calendar.php?select=10 Apr 2019"><li>
                                             Society AGM - 10th April 2019, St Martin's Hall, 7:30pm

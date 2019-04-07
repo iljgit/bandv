@@ -1,6 +1,47 @@
-// next id 41
+// next id 42
 var news = {
     news: [
+        {
+                title: "Burnside Volunteering Day - Sat, 6<sup>th</sup> April, 2019",
+                id: 41, 
+                body: `
+<p>
+Although it was dry all day, the weather was a little chilly and gloomy, with the wind in the wrong direction to use the Burn Bin. 
+However, none of that stopped about 25 volunteers taking part. Many stayed all day, enjoying the usual communal spirit and achieving a considerable 
+amount of successful site upkeep. 
+</p>
+<p>
+The area at the Burnside end of the store was cleared of accumulated rubbish, and the timber treatment of the store woodwork is now complete. 
+The water troughs were all cleaned out and refilled. 
+Several bags of litter were picked from both sides of the fencing from the Ancaster way gate towards the estate play area and around the site in general. 
+A large hole in the chain link perimeter fence was repaired, and an enormous amount of ivy which was taking over the trees at the back of the picnic area was 
+cut back and removed, as were some trees which the ivy had killed. The orchard was weeded as were the hazels along Snakey Path.
+</p>
+<p>
+Burnside is a very large site, so it takes a lot of hard work to keep it in tiptop shape and improve it continually. 
+This volunteering day was the latest of many, all of which have been very productive and enjoyable. 
+The volunteers were rewarded with baked potatoes and baked beans done on the Bar-B-Q, plus a variety of additional toppings, and some lovely 
+home-made cakes and biscuits to eat with their tea and coffee. Another GREAT day on the Burnside Allotments. 
+</p>
+                `,       
+                date:  '07 April 2019',
+                expires: '07 July 2020 23:00',
+                images2:[
+                    {prefix: 'assets/img/bvdayapr2019/D71_685', src: '6'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_685', src: '8'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '0'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '1'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '2'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '4'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '5'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '6'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '7'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_686', src: '8'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_687', src: '0'},
+                    {prefix: 'assets/img/bvdayapr2019/D71_687', src: '1'},
+                    //{prefix: 'assets/img/bvdayapr2019/D71_687', src: '4'},
+                ]
+        },
         {
                 title: "The Trevor Taylor Pavilion Re-dedication",
                 id: 40, 

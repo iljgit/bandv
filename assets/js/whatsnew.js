@@ -1,8 +1,14 @@
 var WNew = {
     data: [
         {
+            date: '07 Apr 2019',
+            target: 'news.php?select=41',
+            title: 'Burnside Volunteering Day',
+            detail: 'A gloomy day - but many hands did make light work'
+        },
+        {
             date: '03 Apr 2019',
-            target: 'news.php',
+            target: 'news.php?select=40',
             title: 'Trevor Taylor Pavilion re-dedication',
             detail: 'A special day commemorating a special person'
         },
