@@ -100,18 +100,6 @@
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px; background-size: cover;">
-                    <h2 style="color: darkblue;" class="text-center">Society AGM</h2>
-                    <h3 class="text-center">Wednesday April 10<sup>th</sup> at 7:30pm, St Martin's Hall, Suez Road</h3>
-                    <p class="large-text">
-                        A reminder that this year's AGM is happening soon.  Everyone is welcome (tenants, family, friends).  
-                        Please note that tenants will be asked to ‘sign in’ at the door, simply by ticking a members list, so that we have a 
-                        record of who is there and who takes part in any voting on the night.
-                    </p>
-                </div>
-            </div>
-
             <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px; background-size: cover; background-image: url(/assets/img/celebrate.png)">
                     <h3 style="color: darkblue;" class="text-center">BURNSIDE CHILDREN’S GET TOGETHER</h3>
@@ -244,10 +232,6 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                         <!-- PUT NEWS HERE -->
 
                                         <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
-                                                                                
-                                        <a href="calendar.php?select=10 Apr 2019"><li>
-                                            Society AGM - 10th April 2019, St Martin's Hall, 7:30pm
-                                        </li></a>
 
                                         <a href="calendar.php?select=28 Apr 2019"><li>
                                             Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.
