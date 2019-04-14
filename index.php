@@ -99,7 +99,7 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
                             <img src="assets/img/cake.jpg" class="img-responsive img-rounded" style="width: 100%;"/>
-                            <p class="text-right"><i>Caramelised rhubarb abd custard cake: Joan - Burnside</i></p>
+                            <p class="text-right"><i>Rhubarb (first season crop) and custard cake: Joan - Burnside</i></p>
                         </div>
                         <div class="col-sm-12 col-md-6">
                                 <p>Our two allotment sites, Burnside and Vinery Road, are both in the Romsey Town area of south Cambridge. They are run jointly by a single committee. Both sites have full and half plots, although new tenants are now only allotted half plots in the first instance. There are also some quarter plots at Vinery Road.</p>
