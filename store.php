@@ -75,18 +75,20 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-12 col-md-6">
+                <div class="col-xs-12 col-md-12">
                     <h2>The Store</h2>
                     <img src="assets/img/store.jpg" class="img-responsive img-rounded img-thumbnail" style="width: 100%; margin-right: 10px; margin-bottom: 10px;"/>
                     <p xclass="large-text">
-                        The store has now opened for 2018 and the new price list is shown below, with many prices held for another year.  Stock is good quality and generally below retail prices - and all profits go towards the running of the two sites.<br><br>
-                        The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. It sells essential supplies on weekend mornings during the summer months and is for the use of both Burnside and Vinery Road tenants. It is staffed by volunteers.<br><br>
+                        <p><b>Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.</p></p>
+                        <p>Stock, price lists and seasonal opening times to follow.</p>
+                        <!--p>Stock is good quality and generally below retail prices - and all profits go towards the running of the two sites.</p-->
+                        <p>The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. It sells essential supplies on weekend mornings during the summer months and is for the use of both Burnside and Vinery Road tenants. It is staffed by volunteers.</p>
                         <span class="large-text">
                             <p>For more information email<br><a href="mailto:store@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;store@burnsideandvineryallotments.org</a></p>
                         </span>
                     </p>
                 </div>
-                <div class="col-xs-12 col-md-6">
+                <!--div class="col-xs-12 col-md-6">
                     <h2>Burnside Library</h2>
                     <img src="assets/img/library.jpg" class="img-responsive img-rounded img-thumbnail" style="width: 100%; margin-right: 10px; margin-bottom: 10px;"/>
                     <p>
@@ -98,9 +100,9 @@ If you have any books, along the same lines, that you would like to donate to th
 Furthermore, if you spot a nice veg growing book, for example in a charity shop or a book sale, why not buy it, read it yourself, 
 and then donate it to the library. We should soon have a very useful resource available to all plot holders.
                     </p>
-                </div>
+                </div-->
             </div>
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12">
                     <h4>Store Opening hours</h4>
                     <p>
@@ -506,7 +508,7 @@ and then donate it to the library. We should soon have a very useful resource av
                     
                     
                 </div>
-            </div>
+            </div-->
 	 </div>
 	 
 	<!-- *****************************************************************************************************************
