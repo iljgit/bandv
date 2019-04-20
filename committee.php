@@ -155,10 +155,6 @@
                 </div>
 
                 <div class="col-xs-12 col-md-6">
-                    <p><h4><span class="text-primary">Committee member:</span> Katrina Hopkins - Vinery</h4><br></p><p></p>
-                    <p><!--img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/JasonDaff.jpg"/--> <blockquote>
-                    I have a half plot on the Vinery Road site, which I look after together with my partner.  I find it really rewarding to spend time on the allotment, and eat fresh produce we have grown from seed.  I joined the committee in July 2018.
-                    </blockquote></p>
                 </div>
             </div>
             <!--div class="row margin-bottom">
