@@ -95,7 +95,8 @@
                 <div class="col-xs-12">
                     <p class="large-text">Too busy to check the rest of the site?  Bookmark this page and come back regularly for all the latest news, views and information.</p>
                     <p class="large-text">Got something on your mind? Need some help? Got some advice? Want to share your experience? 
-                    Contact us by emailing the <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> with your thoughts. And don't forget to visit the <b>Digest</b> and <b>Information</b> pages.</p>
+                    Contact us by emailing the <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> with your thoughts. 
+                    And don't forget to visit the <b>Digest</b> and <b>Information</b> pages.</p>
                     <hr>
                 </div>
             </div>
@@ -155,14 +156,14 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                 </div>
             </div-->
             
-            <!--div class="row">
-                <div class="col-xs-12">
-                    <h3 class="large-text">Bored?</h3>
-                    <p class="large-text">You've done all the no-digging you can take.  The tomatoes are so plentiful they are harvesting themselves.  So, what better way to spend a couple of minutes than completing the Society's summer quiz?</p>
-                    <p class="large-text">No, don't answer that - instead go to the <a href="quiz2.php"><i>Digest</i>'s <i>Quiz</i></a> page.  There is even a miniscule prize...</p>
-                    <hr>
+            <div class="row">
+                <div class="col-xs-12" style="border-radius: 20px; border: 2px solid darkred; background: rgba(255, 0, 0, 0.2);">
+                    <center>
+                    <h2 class="large-text">Don't forget!</h2>
+                    <p class="large-text">Society store grand re-opening for 2019, Sunday 28th April, start at 10am.</p>
+                    </center>
                 </div>
-            </div-->
+            </div>
             
             <div class="row">
                 <div class="col-xs-12"><h2>At a glance</h2></div>
@@ -199,8 +200,81 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                     </div>
                 </div>
             </div>
+
+            <div class="row row-eq-height">
+
+                <div class="col-xs-12 col-md-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" style="height: 120px;">
+                            <img src="assets/img/new_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
+                            <h3>What's new</h3>
+                        </div>
+                        <div class="panel-body" style="height:200px; overflow: auto;">
+                            <ul id="whatsnew" class="search large-text"></ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-md-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" style="height: 120px;">
+                            <img src="assets/img/sale-cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
+                            <h3>Noticeboard</h3>
+                        </div>
+                        <div class="panel-body" style="height:200px; overflow: auto;">
+                            <p class="large-text">A shed, wormery, barrows, trugs and a kneeler are available for free or low cost.</p>
+                            <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row row-eq-height">
+
+                <div class="col-xs-12 col-md-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" style="height: 120px;">
+                            <img src="assets/img/time_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
+                            <h3>Diary Dates</h3>
+                        </div>
+                        <div class="panel-body" style="height:200px; overflow: auto;">
+                            <ul class="calendar large-text">
+                                <!-- PUT NEWS HERE -->
+
+                                <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
+
+                                <a href="calendar.php?select=28 Apr 2019"><li>
+                                    Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.
+                                </li></a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-md-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" style="height: 120px;">
+                            <img src="assets/img/about_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
+                            <h3>About us</h3>
+                        </div>
+                        <div class="panel-body" style="height:200px; overflow: auto;">
+                            <ul class="search large-text">                              
+                                <li><a href="twitter.php">
+                                    See what we are saying on Twitter <i>@burnvine</i> ...
+                                </a></li>
+                                
+                                <li><a href="documents.php"><span>
+                                    Current Allotment Rules and Regulations ...
+                                </span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
             
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
                         <div class="panel-heading" style="background: none; border: none;"><h3>What's new in the last 2 weeks</h3></div>
@@ -216,9 +290,9 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                         </div>
                     </div>
                 </div>
-            </div>
+            </div-->
 
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
                     <div class="panel-heading" style="background: none; border: none;"><h3>Dates for your diary</h3></div>
@@ -229,7 +303,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 </div>
                                 <div class="col-xs-9">
                                     <ul class="calendar large-text">
-                                        <!-- PUT NEWS HERE -->
+                                        
 
                                         <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
 
@@ -242,9 +316,9 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                         </div>
                     </div>
                 </div>
-            </div>
+            </div-->
             
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12">
                     <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
                     <div class="panel-heading" style="background: none; border: none;"><h3>About us</h3></div>
@@ -268,7 +342,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                         </div>
                     </div>
                 </div>
-            </div>
+            </div-->
 
             <div class="row">
                 <div class="col-xs-12">

@@ -62,12 +62,30 @@
 	 <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <p>This is the place for all your allotment-related needs and offers. These can be anything from help, to equipment, to sheds and greenhouses, through to plants and produce.</p>
-                    <p>Click <a href="notify.php">here</a> to send us your details.
+                    <p class="large-text">This is the place for all your allotment-related needs and offers. These can be anything from help, to equipment, to sheds and greenhouses, through to plants and produce.</p>
+                    <p class="large-text">Click <a href="notify.php">here</a> to send us your details.
                 </div>
             </div>
 	 
             <div class="row">
+
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note burnside">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside</span><span class="pull-right">26/04/2019</span>
+                                </div><br>Free to a good home
+                            </div>
+                            Shed, 6' x 4', needs a little TLC, but otherwise dry and sound. 
+                            Happy to help with moving, will need 3 or 4 to carry safely. View on Burnside plot 90. 
+                            <cite class="author">Richard<br>7941129044</cite>
+                        </blockquote>
+                    </div>                    
+
+                </div>
                 
                 <div class="col-xs-12 col-lg-4">                    
 
@@ -103,7 +121,7 @@
                     
                 </div>
                 
-                <div class="col-xs-12 col-lg-4">                    
+                <!--div class="col-xs-12 col-lg-4">                    
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
@@ -118,7 +136,7 @@
                         </blockquote>
                     </div>                    
                     
-                </div>
+                </div-->
                 
             </div>
             <div class="row">
