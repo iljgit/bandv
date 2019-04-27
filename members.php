@@ -157,7 +157,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
             </div-->
             
             <div class="row">
-                <div class="col-xs-12" style="border-radius: 20px; border: 2px solid darkred; background: rgba(255, 0, 0, 0.2);">
+                <div class="col-xs-12" style="border-radius: 20px; border: 2px solid darkred; background: rgba(255, 0, 0, 0.1);">
                     <center>
                     <h2 class="large-text">Don't forget!</h2>
                     <p class="large-text">Society store grand re-opening for 2019, Sunday 28th April, start at 10am.</p>
@@ -166,39 +166,57 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
             </div>
             
             <div class="row">
-                <div class="col-xs-12"><h2>At a glance</h2></div>
+                <div class="col-xs-12" style="width: 100%; padding-top: 20px;"><h2 class="text-center">At a glance</h2></div>
             </div>
 
-            <div class="row">
-                <div class="col-xs-12">
-                    <div class="panel panel-default" style="border: none; box-shadow: 0px 0px 0px;">
-                        <div class="panel-heading" style="background: none; border: none;"><h3>Featured</h3></div>
-                        <div class="panel-body">
-                            <div class="row">
-                                <div class="col-xs-3">
-                                    <img src="assets/img/feature_cartoon.jpg" style="width: 100%;" class="img-responsive img-thumbnail"/>
-                                </div>
-                                <div class="col-xs-9">
-                                    <p class="large-text">
-                                        The <b>Trevor Taylor Pavilion</b> re-dedication took place on Sunday 31<sup>st</sup> March 2019
-                                    </p>
-                                    <p class="large-text">Click <a href="/news.php"><button class="btn btn-info">here</button></a> 
-                                    for more details and pictures of the event.</p>
+        </div>
 
-                                    <p><hr></p>
+        <br>
 
-                                    <p class="large-text">
-                                        Penny from Burnside had a vision for a community orchard.  She wanted to help preserve local varieties of apples, while making a 
-                                        positive contribution to our local environment.
-                                    </p>
-                                    <p class="large-text">Click <a href="/burnsideorchard.php"><button class="btn btn-info">here</button></a> 
-                                    for the full story</p>
-                                    
-                                </div>
-                            </div>
+        <div class="container-fluid parallax" style="background-image: url(/assets/img/trevor-taylor-dedication/D71_6848.jpg);"></div>
+
+        <br>
+
+        <div class="container">
+
+            <div class="row row-eq-height">
+
+                <div class="col-xs-12 col-md-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" style="height: 120px;">
+                            <img src="assets/img/feature_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
+                            <h3>Featured</h3>
+                        </div>
+                        <div class="panel-body" style="height:200px; overflow: auto;">
+                        <p class="large-text">
+                            The <b>Trevor Taylor Pavilion</b> re-dedication took place on Sunday 31<sup>st</sup> March 2019
+                        </p>
+                        <p class="large-text">Click <a href="/news.php?select=40"><button class="btn btn-info">here</button></a> 
+                        for more details and pictures of the event.</p>
                         </div>
                     </div>
                 </div>
+
+                <div class="col-xs-12 col-md-6">
+                    <div class="panel panel-default">
+                        <div class="panel-heading" style="height: 120px;">
+                            <img src="assets/img/time_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
+                            <h3>Diary Dates</h3>
+                        </div>
+                        <div class="panel-body" style="height:200px; overflow: auto;">
+                            <ul class="calendar large-text">
+                                <!-- PUT NEWS HERE -->
+
+                                <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
+
+                                <a href="calendar.php?select=28 Apr 2019"><li>
+                                    Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.
+                                </li></a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
             <div class="row row-eq-height">
@@ -231,26 +249,6 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
             </div>
 
             <div class="row row-eq-height">
-
-                <div class="col-xs-12 col-md-6">
-                    <div class="panel panel-default">
-                        <div class="panel-heading" style="height: 120px;">
-                            <img src="assets/img/time_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
-                            <h3>Diary Dates</h3>
-                        </div>
-                        <div class="panel-body" style="height:200px; overflow: auto;">
-                            <ul class="calendar large-text">
-                                <!-- PUT NEWS HERE -->
-
-                                <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
-
-                                <a href="calendar.php?select=28 Apr 2019"><li>
-                                    Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.
-                                </li></a>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-xs-12 col-md-6">
                     <div class="panel panel-default">
@@ -357,9 +355,10 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                 <div class="col-xs-9">
                                     <ul class="pointer large-text">
 
-                                        <li><a href="recipes/quince.php">
+                                        <li><a href="/burnsideorchard.php">
                                             <span  style="color: #404040;">
-                                                A recipe for quince paste (a little bit more than "take one quince and beat it to a pulp").</i>
+                                                Penny from Burnside had a vision for a community orchard.  She wanted to help preserve local varieties of apples, while making a 
+                                                positive contribution to our local environment.
                                             </span>
                                         </a></li>
 
@@ -370,18 +369,6 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                                                 We welcome members of Birdwood Area Residents Association to our web site <!--i class="fa fa-star fa-glow"--></i>
                                             </span>
                                         </a></li>
-                                        
-                                        <!--br>
-                                        
-                                        <li><a href="tips/tomato-blight.php" style="color: #404040;">
-                                            Tomato blight and what one fed up plot holder is doing about it...
-                                        </a></li>
-                                        
-                                        <br>
-                                        
-                                        <li><a href="links.php" style="color: #404040;">
-                                            A reminder of a popular item last year about Blight Watch.
-                                        </a></li-->
 
                                         <br>
                                         
