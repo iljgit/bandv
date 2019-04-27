@@ -133,13 +133,13 @@ a:focus {
 
 .navbar-default .navbar-nav > li > a {
 	color: white;
-	font-weight: 700;
+	font-weight: 900;
 	font-size: 13px;
     text-shadow: 1px 1px 2px #404040;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #000000;
+	color: #f0f0f0;
     text-shadow: 1px 1px 2px #404040;
 }
 
@@ -158,7 +158,7 @@ a:focus {
 .navbar-default {
 	/*background-color: #384452;*/
         /*background-color: rgba(0, 160, 0, 1);*/
-        background-image: url(/assets/img/navbar-backgroundcrocus.jpg);
+        background-image: url(/assets/img/navbar-background-seedling.jpg);
         background-color: #4b692b;
         background-repeat: repeat;
         background-size: contain;
