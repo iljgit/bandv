@@ -74,21 +74,25 @@
                     </div>
                 </div>
             </div>
+        </div>
+
+        <div class="container-fluid parallax" style="background-image: url(/assets/img/storebanner.jpg);"></div>
+
+        <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-md-12">
-                    <h2>The Store</h2>
-                    <img src="assets/img/store.jpg" class="img-responsive img-rounded img-thumbnail" style="width: 100%; margin-right: 10px; margin-bottom: 10px;"/>
-                    <p xclass="large-text">
-                        <p><b>Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.</p></p>
-                        <p>Stock, price lists and seasonal opening times to follow.</p>
-                        <!--p>Stock is good quality and generally below retail prices - and all profits go towards the running of the two sites.</p-->
-                        <p>The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. It sells essential supplies on weekend mornings during the summer months and is for the use of both Burnside and Vinery Road tenants. It is staffed by volunteers.</p>
-                        <span class="large-text">
-                            <p>For more information email<br><a href="mailto:store@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;store@burnsideandvineryallotments.org</a></p>
-                        </span>
+                <div class="col-xs-12">
+                    <br>
+                    <p class="large-text">The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
+                    It sells essential supplies on weekend mornings during the summer months and is for the use of both Burnside and Vinery Road tenants. 
+                    It is staffed by volunteers.</p>
+                    <p class="large-text">
+                        For more information email<br>
+                        <a href="mailto:store@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;store@burnsideandvineryallotments.org</a>
                     </p>
                 </div>
-                <!--div class="col-xs-12 col-md-6">
+            </div>
+            <!--div class="row">
+                <div class="col-xs-12 col-md-6">
                     <h2>Burnside Library</h2>
                     <img src="assets/img/library.jpg" class="img-responsive img-rounded img-thumbnail" style="width: 100%; margin-right: 10px; margin-bottom: 10px;"/>
                     <p>
@@ -100,13 +104,14 @@ If you have any books, along the same lines, that you would like to donate to th
 Furthermore, if you spot a nice veg growing book, for example in a charity shop or a book sale, why not buy it, read it yourself, 
 and then donate it to the library. We should soon have a very useful resource available to all plot holders.
                     </p>
-                </div-->
-            </div>
-            <!--div class="row">
+                </div>
+            </div-->
+            <div class="row">
                 <div class="col-xs-12">
                     <h4>Store Opening hours</h4>
-                    <p>
-                        April - July: Saturday mornings 10-12<br>
+                    <p class="large-text">
+                        Re-opening Sunday April 28<sup>th</sup> 2019, 10 - 4<br><br>
+                        May - July: Saturday mornings 10-12<br><br>
                         Additionally, in May: Sunday mornings 10-12<br><br>
                     </p>
                 </div>
@@ -114,401 +119,47 @@ and then donate it to the library. We should soon have a very useful resource av
             <div class="row">
                 <div class="col-xs-12">
 <h4>
-    Burnside Store Price list 2018
+    Burnside Store Price list 2019
 </h4>
 <table style="border-spacing: 15px; border-collapse:separate;">
     <tbody>
-        <tr>
-            <td valign="top">
-                <p>
-                    Grow Organic 50l
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;6.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Multi-Purpose Compost 75l
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;5.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Peat Free Organic Compost 50l
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;5.50
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    <a
-                        href="https://www.lovethegarden.com/products/growing/levington-tomorite-giant-planter-seaweed" target="store"
-                    >
-                        Tomorite
-                    </a>
-                    Giant deep grow-bag
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;4.75
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Bird netting (4m wide - per m)
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;1.50
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Insect mesh (per m)
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;2.50
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    25mm MDPE pipe for netting loops per m
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    50p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    IROXX organic Slug Killer 1kg
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;7.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Slug Killer 1kg
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;3.50
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    100gsm weed control fabric (5m wide - per m)
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;2.50
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Plastic pegs for weed fabric
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    10p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    4 inch weed fabric staples
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    20p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    9 inch weed fabric staples
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    25p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Tomorite tomato Feed 1lt
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;3.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    <a
-                        href="http://www.maxicrop.co.uk/downloads/Maxicrop-Natural-Fertiliser-Range.pdf" target="store"
-                    >
-                        Maxicrop
-                    </a>
-                    Organic Tomato Feed 1lt
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;6.25
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Garden Twine (green)
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;1.75
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Garden twine (brown)
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;2.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Extra Thick Bamboo Canes 8ft
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;2.50
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Thick Bamboo Canes 8ft
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    80p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Bamboo Canes 6ft
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    30p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Bamboo Canes 4ft
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    25p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Fish, Blood and Bone 1kg
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;1.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Security clutch screws<br><i>prevent shed hinge removal</i>
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    10p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Small seed tray
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    75p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    Permanent marker for plant labels
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;2.50
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    150mm white plant label x10
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    20p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    17gsm Fleece (1.5m - per m)
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    20p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    30gsm Fleece (3m - per m)
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    50p
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    <a href="http://www.reminscotland.com/" target="store">Rock Dust</a>
-                    20kg
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;10.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    <a href="http://www.reminscotland.com/" target="store">Rock Dust</a>
-                    5kg
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;3.00
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <p>
-                    OSMO PRO 4 Organic fertiliser 1kg
-                </p>
-            </td>
-            <td valign="top">
-                <p>
-                    &pound;1.50
-                </p>
-            </td>
-        </tr>
+<tr><td  valign="top">Grow Organic 50L</td><td  valign="top">&pound;6.00</td></tr>
+<tr><td  valign="top">Multi-Purpose Compost 75L</td><td  valign="top">&pound;5.50</td></tr>
+<tr><td  valign="top">Peat Free Organic Compost 60L</td><td  valign="top">&pound;6.00</td></tr>
+<tr><td  valign="top">Tomorite Giant Deep Grow-Bag</td><td  valign="top">&pound;4.00</td></tr>
+<tr><td  valign="top">Bird Netting (4m wide - per m)</td><td  valign="top">&pound;1.50</td></tr>
+<tr><td  valign="top">Standard Insect Mesh1.3mm (3.6m wide - per m)</td><td  valign="top">&pound;4.00</td></tr>
+<tr><td  valign="top">Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td  valign="top">&pound;4.50</td></tr>
+<tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
+<tr><td  valign="top">Organic Slug Killer 650g</td><td  valign="top">&pound;4.00</td></tr>
+<tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
+<tr><td  valign="top">Plastic pegs for weed fabric </td><td  valign="top">10p ea</td></tr>
+<tr><td  valign="top">9 inch weed fabric staples</td><td  valign="top">25p ea</td></tr>
+<tr><td  valign="top">Tomorite tomato Feed 1lt</td><td  valign="top">&pound;3.50</td></tr>
+<tr><td  valign="top">Maxicrop Organic Tomato Feed 1lt</td><td  valign="top">&pound;6.25</td></tr>
+<tr><td  valign="top">Garden Twine (green)</td><td  valign="top">&pound;1.75</td></tr>
+<tr><td  valign="top">Garden twine (brown)</td><td  valign="top">&pound;2.00</td></tr>
+<tr><td  valign="top">Extra Thick Bamboo Canes 8ft</td><td  valign="top">&pound;2.50</td></tr>
+<tr><td  valign="top">Thick Bamboo Canes 8ft – stock due soon</td><td  valign="top">80p ea</td></tr>
+<tr><td  valign="top">Bamboo Canes 6ft</td><td  valign="top">40p ea</td></tr>
+<tr><td  valign="top">Bamboo Canes 4ft</td><td  valign="top">25p ea</td></tr>
+<tr><td  valign="top">Security clutch screws – prevent shed hinge removal</td><td  valign="top">10p ea</td></tr>
+<tr><td  valign="top">Permanent marker for plant labels</td><td  valign="top">&pound;2.50</td></tr>
+<tr><td  valign="top">150mm white plant label x10</td><td  valign="top">20p</td></tr>
+<tr><td  valign="top">17gsm Fleece (1.5m – per m)</td><td  valign="top">20p ea</td></tr>
+<tr><td  valign="top">30gsm Fleece (3m – per m)</td><td  valign="top">50p ea</td></tr>
+<tr><td  valign="top">Rock Dust 20kg</td><td  valign="top">&pound;10.00</td></tr>
+<tr><td  valign="top">Rock Dust 5kg</td><td  valign="top">&pound;3.00</td></tr>
+<tr><td  valign="top">OSMO PRO 4 Organic fertiliser 1kg</td><td  valign="top">&pound;1.50</td></tr>
+<tr><td  valign="top">Fish, Blood and Bone 1kg</td><td  valign="top">&pound;1.00</td></tr>
+<tr><td  valign="top">Chicken Pellets (6X) 1kg</td><td  valign="top">&pound;1.50</td></tr>
     </tbody>
 </table>
 
                     
                     
                 </div>
-            </div-->
+            </div>
 	 </div>
 	 
 	<!-- *****************************************************************************************************************

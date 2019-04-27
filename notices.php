@@ -79,6 +79,7 @@
                                     <span class="pull-left">Burnside</span><span class="pull-right">26/04/2019</span>
                                 </div><br>Free to a good home
                             </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/shed-richard-luck.jpg" />
                             Shed, 6' x 4', needs a little TLC, but otherwise dry and sound. 
                             Happy to help with moving, will need 3 or 4 to carry safely. View on Burnside plot 90. 
                             <cite class="author">Richard<br>7941129044</cite>
