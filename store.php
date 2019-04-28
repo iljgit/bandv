@@ -81,6 +81,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
+                    <h3>The store is now re-open for 2019</h3>
                     <br>
                     <p class="large-text">The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
                     It sells essential supplies on weekend mornings during the summer months and is for the use of both Burnside and Vinery Road tenants. 
@@ -110,10 +111,14 @@ and then donate it to the library. We should soon have a very useful resource av
                 <div class="col-xs-12">
                     <h4>Store Opening hours</h4>
                     <p class="large-text">
-                        Re-opening Sunday April 28<sup>th</sup> 2019, 10 - 4<br><br>
                         May - July: Saturday mornings 10-12<br><br>
                         Additionally, in May: Sunday mornings 10-12<br><br>
                     </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <p class="large-text text-center" style="color: darkred; font-weight: bold;">Jill from Burnside has hand-stitched a limited number of unique aprons and sets of bunting. Get them while you can!</p>
                 </div>
             </div>
             <div class="row">

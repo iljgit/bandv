@@ -160,7 +160,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                 <div class="col-xs-12" style="border-radius: 20px; border: 2px solid darkred; background: rgba(255, 0, 0, 0.1);">
                     <center>
                     <h2 class="large-text">Don't forget!</h2>
-                    <p class="large-text">Society store grand re-opening for 2019, Sunday 28th April, start at 10am.</p>
+                    <p class="large-text">The Store is now open.  Click <a href="/store.php">here</a> for opening times and the price list.</p>
                     </center>
                 </div>
             </div>
@@ -209,9 +209,6 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
 
                                 <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
 
-                                <a href="calendar.php?select=28 Apr 2019"><li>
-                                    Society store grand re-opening for 2019, Sunday 28<sup>th</sup> April, start at 10am.
-                                </li></a>
                             </ul>
                         </div>
                     </div>
