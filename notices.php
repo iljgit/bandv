@@ -95,10 +95,10 @@
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
                                     <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
-                                </div><br>For sale
+                                </div><br><span style="color: red;">Sold</span>
                             </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/kneeler.jpg" />
-                            Garden kneeler - as new. £3
+                            <img class="img-responsive img-thumbnail" style="width: 100%; opacity: 0.4" src="assets/img/notices/kneeler.jpg" />
+                            Garden kneeler
                         </blockquote>
                     </div>                    
                     
@@ -115,7 +115,7 @@
                                 </div><br>For sale
                             </div>
                             <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/yellowbucket.jpg" />
-                            Yellow plastic trug - new. £9.50 (two available)
+                            Yellow plastic trug - new. £9.50
                         </blockquote>
                     </div>                    
                     
