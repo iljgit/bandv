@@ -76,6 +76,25 @@
                         <blockquote class="note burnside">
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside</span><span class="pull-right">29/04/2019</span>
+                                </div><br>Found
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/black-netting-found.jpg" />
+                            This roll of black netting was found blown onto a plot near the toilet at Burnside.
+It has been handed in to the store, where it can be claimed.  It will be retained until the end of May.
+                            <cite class="author">Click <a href="/store.php">here</a> for store opening times</cite>
+                        </blockquote>
+                    </div>                    
+
+                </div>
+
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note burnside">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
                                     <span class="pull-left">Burnside</span><span class="pull-right">26/04/2019</span>
                                 </div><br><span style="color: red;">Sold</span>
                             </div>
