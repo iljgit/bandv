@@ -73,6 +73,23 @@
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">29/04/2018</span>
+                                </div><br>Hand-made aprons
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/aprons.jpg" />
+                            Aprons, lovingly hand-made by Jill from Burnside.  Available from the Store for a minimum donation of &pound;3
+                        </blockquote>
+                    </div>                    
+
+                </div>
+
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
                         <blockquote class="note burnside">
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
@@ -86,41 +103,6 @@ It has been handed in to the store, where it can be claimed.  It will be retaine
                         </blockquote>
                     </div>                    
 
-                </div>
-
-                <div class="col-xs-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note burnside">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside</span><span class="pull-right">26/04/2019</span>
-                                </div><br><span style="color: red;">Sold</span>
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%; opacity: 0.4;" src="assets/img/notices/shed-richard-luck.jpg" />
-                            Shed, 6' x 4'
-                            <cite class="author">Richard</cite>
-                        </blockquote>
-                    </div>                    
-
-                </div>
-                
-                <div class="col-xs-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note general">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
-                                </div><br><span style="color: red;">Sold</span>
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%; opacity: 0.4" src="assets/img/notices/kneeler.jpg" />
-                            Garden kneeler
-                        </blockquote>
-                    </div>                    
-                    
                 </div>
                 
                 <div class="col-xs-12 col-lg-4">                    

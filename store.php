@@ -81,7 +81,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <h3>The store is now re-open for 2019</h3>
+                    <h3>The store is now open for 2019</h3>
                     <br>
                     <p class="large-text">The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
                     It sells essential supplies on weekend mornings during the summer months and is for the use of both Burnside and Vinery Road tenants. 
@@ -118,7 +118,8 @@ and then donate it to the library. We should soon have a very useful resource av
             </div>
             <div class="row">
                 <div class="col-xs-12">
-                    <p class="large-text text-center" style="color: darkred; font-weight: bold;">Jill from Burnside has hand-stitched a limited number of unique aprons and sets of bunting. Get them while you can!</p>
+                    <p class="large-text text-center" style="color: darkred; font-weight: bold;">Jill from Burnside has hand-made a limited number of 
+                    unique aprons and sets of bunting. Get them while you can! See the <a href="notices.php">noticeboard</a> for details.</p>
                 </div>
             </div>
             <div class="row">
@@ -138,7 +139,7 @@ and then donate it to the library. We should soon have a very useful resource av
 <tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
 <tr><td  valign="top">Organic Slug Killer 650g</td><td  valign="top">&pound;4.00</td></tr>
 <tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
-<tr><td  valign="top">Plastic pegs for weed fabric </td><td  valign="top">10p ea</td></tr>
+<tr><td  valign="top">Garden twine (plastic)</td><td  valign="top">&pound;2.50</td></tr>
 <tr><td  valign="top">9 inch weed fabric staples</td><td  valign="top">25p ea</td></tr>
 <tr><td  valign="top">Tomorite tomato Feed 1lt</td><td  valign="top">&pound;3.50</td></tr>
 <tr><td  valign="top">Maxicrop Organic Tomato Feed 1lt</td><td  valign="top">&pound;6.25</td></tr>

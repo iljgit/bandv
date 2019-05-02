@@ -1,6 +1,18 @@
 var WNew = {
     data: [
         {
+            date: '02 May 2019',
+            target: 'committee.php',
+            title: 'New Committee for 2019',
+            detail: 'Your new society committee'
+        },
+        {
+            date: '01 May 2019',
+            target: 'store.php',
+            title: 'New store details for 2019',
+            detail: 'Opening times and price lists'
+        },
+        {
             date: '07 Apr 2019',
             target: 'news.php?select=41',
             title: 'Burnside Volunteering Day',
