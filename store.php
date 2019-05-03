@@ -146,7 +146,7 @@ and then donate it to the library. We should soon have a very useful resource av
 <tr><td  valign="top">Garden Twine (green)</td><td  valign="top">&pound;1.75</td></tr>
 <tr><td  valign="top">Garden twine (brown)</td><td  valign="top">&pound;2.00</td></tr>
 <tr><td  valign="top">Extra Thick Bamboo Canes 8ft</td><td  valign="top">&pound;2.50</td></tr>
-<tr><td  valign="top">Thick Bamboo Canes 8ft – stock due soon</td><td  valign="top">80p ea</td></tr>
+<tr><td  valign="top">Thick Bamboo Canes 8ft</td><td  valign="top">80p ea</td></tr>
 <tr><td  valign="top">Bamboo Canes 6ft</td><td  valign="top">40p ea</td></tr>
 <tr><td  valign="top">Bamboo Canes 4ft</td><td  valign="top">25p ea</td></tr>
 <tr><td  valign="top">Security clutch screws – prevent shed hinge removal</td><td  valign="top">10p ea</td></tr>

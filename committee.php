@@ -79,8 +79,8 @@
                 <div class="col-xs-12  col-md-6">
                     <p><h4><span class="text-primary">Chair</span><br>Penny Henderson - Burnside</h4><br></p><p></p>
                     <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/penny.jpg"/> <blockquote>I took on my plot in 2012, 
-                    I think, as a complete novice vegetable grower, and through regular and intensive effort, it is quite productive. 
-                    I joined the committee in 2013, and take minutes, provide refreshments, and do other tasks suited to my age and gender!</blockquote></p>
+                    I think, as a complete novice vegetable grower, and through regular and intensive effort, it is quite productive.<br>
+                    I joined the committee in 2013.<br><br><br></blockquote></p>
                     <p class="large-text text-center"><a href="mailto:chair@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;chair@burnsideandvineryallotments.org</a>
                     </p>
                 </div>
