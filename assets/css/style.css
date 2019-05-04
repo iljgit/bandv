@@ -160,7 +160,7 @@ a:focus {
         /*background-color: rgba(0, 160, 0, 1);*/
         background-image: url(/assets/img/navbar-background-seedling.jpg);
         background-color: #4b692b;
-        background-repeat: repeat;
+        background-repeat: repeat-x;
         background-size: contain;
 	border-color: transparent;
         background-position: top left;

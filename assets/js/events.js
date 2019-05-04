@@ -1,6 +1,140 @@
 var events = {
     events: [
         {
+                id: '27 Jul 2019',
+                title: 'Store open, 10-12',
+                start: '27 Jul 2019 10:00',
+                end:  '27 Jul 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '20 Jul 2019',
+                title: 'Store open, 10-12',
+                start: '20 Jul 2019 10:00',
+                end:  '20 Jul 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '13 Jul 2019',
+                title: 'Store open, 10-12',
+                start: '13 Jul 2019 10:00',
+                end:  '13 Jul 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '06 Jul 2019',
+                title: 'Store open, 10-12',
+                start: '06 Jul 2019 10:00',
+                end:  '06 Jul 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '29 Jun 2019',
+                title: 'Store open, 10-12',
+                start: '29 Jun 2019 10:00',
+                end:  '29 Jun 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '22 Jun 2019',
+                title: 'Store open, 10-12',
+                start: '22 Jun 2019 10:00',
+                end:  '22 Jun 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '15 Jun 2019',
+                title: 'Store open, 10-12',
+                start: '15 Jun 2019 10:00',
+                end:  '15 Jun 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '08 Jun 2019',
+                title: 'Store open, 10-12',
+                start: '08 Jun 2019 10:00',
+                end:  '08 Jun 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '01 Jun 2019',
+                title: 'Store open, 10-12',
+                start: '01 Jun 2019 10:00',
+                end:  '01 Jun 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '26 May 2019',
+                title: 'Store open, 10-12',
+                start: '26 May 2019 10:00',
+                end:  '26 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '19 May 2019',
+                title: 'Store open, 10-12',
+                start: '19 May 2019 10:00',
+                end:  '19 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '12 May 2019',
+                title: 'Store open, 10-12',
+                start: '12 May 2019 10:00',
+                end:  '12 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '12 May 2019',
+                title: 'Plant Swap @ the Store, 10-12',
+                start: '12 May 2019 10:00',
+                end:  '12 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '05 May 2019',
+                title: 'Store open, 10-12',
+                start: '05 May 2019 10:00',
+                end:  '05 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '25 May 2019',
+                title: 'Store open, 10-12',
+                start: '25 May 2019 10:00',
+                end:  '25 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '18 May 2019',
+                title: 'Store open, 10-12',
+                start: '18 May 2019 10:00',
+                end:  '18 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '11 May 2019',
+                title: 'Store open, 10-12',
+                start: '11 May 2019 10:00',
+                end:  '11 May 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '11 May 2019',
+                title: 'Plant swap @ the Store, 10-12',
+                start: '11 May 2019 10:00',
+                end:  '11 May 2019 12:00',
+                allDay: false
+        },
+
+        {
+                id: '04 May 2019',
+                title: 'Store open, 10-12',
+                start: '04 May 2019 10:00',
+                end:  '04 May 2019 12:00',
+                allDay: false
+        },
+        {
                 id: '31 Mar 2019',
                 title: 'Trevor Taylor Pavilion Re-dedication, 3pm',
                 start: '31 Mar 2019 15:00',

@@ -157,14 +157,22 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
             </div-->
             
             <div class="row">
-                <div class="col-xs-12" style="border-radius: 20px; border: 2px solid darkred; background: rgba(255, 0, 0, 0.1);">
-                    <center>
-                    <h2 class="large-text">Don't forget!</h2>
-                    <p class="large-text">The Store is now open.  Click <a href="/store.php">here</a> for opening times and the price list.</p>
-                    </center>
+                <div class="col-xs-12" style="border-radius: 20px; border: 2px solid darkred; background: rgba(255, 200, 200, 0.05);">
+                    <h2 class="text-center">Plant Swap, 11<sup>th</sup> and 12<sup>th</sup> May</h2>
+                    <img src="/assets/img/plant-swap.jpg" class="hidden-sm hidden-xs img img-responsive img-thumbnail" style="float: left; width: 20%; margin-right: 20px; margin-bottom: 20px;">
+                    <p class="large-text">
+There will be a Plant Swap at the Burnside Store the weekend of the 11th and 12th of May during normal Store opening hours of 10-12. 
+                    </p>
+                    <p class="large-text">
+If you’ve got any surplus veg plants you want to find a good home for, bring them along and swap them for something else you like the look of. 
+No obligation to bring anything; feel free to make a small donation if you just take plants. 
+Why not take a good look round the store at the same time and stop for a cup of tea?
+                    </p>
                 </div>
             </div>
             
+            <hr>
+
             <div class="row">
                 <div class="col-xs-12" style="width: 100%; padding-top: 20px;"><h2 class="text-center">At a glance</h2></div>
             </div>
