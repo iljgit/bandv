@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '06 May 2019',
+            target: 'gallery.php',
+            title: 'Our gallery',
+            detail: 'After unprecedented demand (1 request) the Gallery has been updated'
+        },
+        {
             date: '02 May 2019',
             target: 'committee.php',
             title: 'New Committee for 2019',
