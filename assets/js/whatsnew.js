@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '08 May 2019',
+            target: 'news.php?select=42',
+            title: 'Burnside Kids Springtime Gathering',
+            detail: 'A fun-packed day, enjoyed by children and adults alike'
+        },
+        {
             date: '06 May 2019',
             target: 'gallery.php',
             title: 'Our gallery',

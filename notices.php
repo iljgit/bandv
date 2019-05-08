@@ -73,10 +73,29 @@
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
+                        <blockquote class="note burnside">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside</span><span class="pull-right">08/05/2019</span>
+                                </div><br>Lemon balm <i>(Melissa officinalis)</i>
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/lemon-balm.jpg" />
+                            Hello Burnside allotmenteers, If anyone has some Lemon Balm growing could I dig some up? 
+                            It's a very vigorous plant and won’t mind at all. I’d love to have a bit on my plot to make tea with. 
+                            <cite class="author">Thank you! Rachel<br>rachel.epoche@gmail.com</cite>
+                        </blockquote>
+                    </div>                    
+
+                </div>
+
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
                         <blockquote class="note general">
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside Store</span><span class="pull-right">29/04/2018</span>
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">29/04/2019</span>
                                 </div><br>Hand-made aprons
                             </div>
                             <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/aprons.jpg" />
@@ -97,8 +116,8 @@
                                 </div><br>Found
                             </div>
                             <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/black-netting-found.jpg" />
-                            This roll of black netting was found blown onto a plot near the toilet at Burnside.
-It has been handed in to the store, where it can be claimed.  It will be retained until the end of May.
+                            This roll of black netting was near the toilet.
+It has been handed in to the store.  It will be retained until the end of May.
                             <cite class="author">Click <a href="/store.php">here</a> for store opening times</cite>
                         </blockquote>
                     </div>                    
@@ -121,26 +140,6 @@ It has been handed in to the store, where it can be claimed.  It will be retaine
                     </div>                    
                     
                 </div>
-                
-                <!--div class="col-xs-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note general">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
-                                </div><br><span style="color: red;">Sold</span>
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%; opacity: 0.2;" src="assets/img/notices/bluebucket.jpg" />
-                            Blue plastic trug - new. £5
-                        </blockquote>
-                    </div>                    
-                    
-                </div-->
-                
-            </div>
-            <div class="row">
                 
                 <div class="col-xs-12 col-lg-4">                    
 
@@ -192,8 +191,7 @@ It has been handed in to the store, where it can be claimed.  It will be retaine
                     </div>                    
                     
                 </div>
-            </div>
-            <div class="row">
+
                 <div class="col-xs-12 col-lg-4">                    
 
                     <div class="quote-container postit">

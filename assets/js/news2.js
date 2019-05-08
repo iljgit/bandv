@@ -1,6 +1,26 @@
-// next id 42
+// next id 43
 var news = {
     news: [
+        {
+                title: "Burnside Springtime Kids Gathering - Sat, 30<sup>th</sup> March, 2019",
+                id: 42, 
+                body: `
+<p>
+<img class="img img-responsive img-thumbnail" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 40%;" src="/assets/img/kidsday.jpg" />
+There was a great turn out for the spring time children’s gathering, which is a meet up for the children of Burnside allotments and their carers. 
+Around twenty children attended and at one point at least half of them were in the walnut tree by the picnic area. 
+As it took place just before Mother’s day the children planted some succulents and decorated the pot with a butterfly kite to keep or 
+give to someone who looks after them. This was a real hit for all ages with the youngest enjoying putting the compost into pots with a spoon 
+and the oldest making their own versions of the paper butterfly. We all admired the enormous new pagoda before turning our admiration 
+to the cakes and crumbles inside it. 
+</p>
+<p>
+A big thank you to everyone for being so generous with bringing snacks. The children played endless games of tag, walked the slack line and enjoyed each-others company. The adults played really nicely too. Thank you to everyone who came, I hope to see you at the summer time children’s gathering. Any suggestions, ideas or comments please do get in touch. Rachel (rachel.epoche@gmail.com)
+</p>
+                `,       
+                date:  '08 May 2019',
+                expires: '08 Aug 2019 23:00'
+        },
         {
                 title: "Burnside Volunteering Day - Sat, 6<sup>th</sup> April, 2019",
                 id: 41, 
@@ -26,7 +46,8 @@ home-made cakes and biscuits to eat with their tea and coffee. Another GREAT day
                 `,       
                 date:  '07 April 2019',
                 expires: '07 July 2020 23:00',
-                images2:[
+                images2: newsImages['41'],
+                Ximages2:[
                     {prefix: 'assets/img/bvdayapr2019/D71_685', src: '6'},
                     {prefix: 'assets/img/bvdayapr2019/D71_685', src: '8'},
                     {prefix: 'assets/img/bvdayapr2019/D71_686', src: '0'},

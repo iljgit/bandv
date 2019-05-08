@@ -17,7 +17,53 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     
     <!-- Include files -->
-    <!--script src="assets/js/news2.js"></script-->
+    <script>
+        <?php
+            function endsWith( $str, $sub ) {
+                return ( substr( $str, strlen( $str ) - strlen( $sub ) ) == $sub );
+            }
+
+            $op = 'let newsImages = {';
+            $garray = array(
+                array(
+                    'dir' => '/assets/img/bvdayapr2019',
+                    'id' => '41'
+                )
+            );
+
+            $delim1 = "";
+            foreach ($garray as $g) {
+                $id = $g['id'];
+                $op .= "'$id': [";
+
+                $path = getcwd() . $g['dir'] . '/';
+                $files = array_diff(scandir($path), array('.', '..'));
+                $delim2 = "";
+
+                foreach ($files as $f) {
+                    $file = $path . $f;
+
+                    if (is_file($file) && endsWith($file, '.jpg') && strpos($file, '_tn.jpg') == false) {
+                        $file = $g['dir'] .'/' . $f;
+                        $file = str_replace('.jpg', '', $file);
+                        $op .= $delim2 . "{prefix: '$file', src: ''}";
+                        $delim2 = ",";
+                    }
+                }
+
+                $op .= $delim1 . "]";
+                $delim1 = ",";
+            }
+
+            $op .= "};";
+
+            echo($op);
+
+        ?>
+
+    </script>
+
+
     <script>
         <?php
             $page = file_get_contents('assets/js/news2.js');
@@ -71,15 +117,6 @@
             }
         }
     </script>
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
     
   </head>
 

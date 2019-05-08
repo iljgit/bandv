@@ -215,7 +215,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <ul class="calendar large-text">
                                 <!-- PUT NEWS HERE -->
 
-                                <li>Burnsiders - if you have been waiting for your annual bath, good news!  The troughs were refilled  on 6<sup>th</sup> April
+                                <li>Check the calendar for forthcoming events.</li>
 
                             </ul>
                         </div>
@@ -232,7 +232,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <img src="assets/img/new_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
                             <h3>What's new</h3>
                         </div>
-                        <div class="panel-body" style="height:200px; overflow: auto;">
+                        <div class="panel-body" style="height:240px; overflow: auto;">
                             <ul id="whatsnew" class="search large-text"></ul>
                         </div>
                     </div>
@@ -244,7 +244,8 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <img src="assets/img/sale-cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
                             <h3>Noticeboard</h3>
                         </div>
-                        <div class="panel-body" style="height:200px; overflow: auto;">
+                        <div class="panel-body" style="height:240px; overflow: auto;">
+                            <p class="large-text">Wanted - Lemon Balm</p>
                             <p class="large-text"><b>A roll of black netting was found on the Burnside site on 29/04/2019</b></p>
                             <p class="large-text">Hand-made aprons, a wormery, barrows, and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
