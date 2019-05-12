@@ -28,13 +28,17 @@
                 array(
                     'dir' => '/assets/img/bvdayapr2019',
                     'id' => '41'
+                ),
+                array(
+                    'dir' => '/assets/img/plant-swap-2019',
+                    'id' => '43'
                 )
             );
 
             $delim1 = "";
             foreach ($garray as $g) {
                 $id = $g['id'];
-                $op .= "'$id': [";
+                $op .= "$delim1'$id': [";
 
                 $path = getcwd() . $g['dir'] . '/';
                 $files = array_diff(scandir($path), array('.', '..'));
@@ -51,7 +55,7 @@
                     }
                 }
 
-                $op .= $delim1 . "]";
+                $op .= "]";
                 $delim1 = ",";
             }
 

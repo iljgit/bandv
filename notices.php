@@ -59,7 +59,7 @@
 	 CONTACT WRAP
 	 ***************************************************************************************************************** -->
 
-	 <div class="container">
+	<div class="container">
             <div class="row">
                 <div class="col-xs-12">
                     <p class="large-text">This is the place for all your allotment-related needs and offers. These can be anything from help, to equipment, to sheds and greenhouses, through to plants and produce.</p>
@@ -73,17 +73,35 @@
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
+                        <blockquote class="note vinery">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Vinery</span><span class="pull-right">12/05/2019</span>
+                                </div><br>Globe artichokes to give away</i>
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/globe-artichoke.jpg" />
+                            Hi.  I have a load of globe artichoke plants to give away to anyone who wants them. They are available from my plot at Vinery.
+                            <cite class="author">Em<br>em­_serendipity@yahoo.co.uk</cite>
+                        </blockquote>
+                    </div>                    
+
+                </div>
+
+                <div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
                         <blockquote class="note burnside">
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside</span><span class="pull-right">08/05/2019</span>
+                                    <span class="pull-left">Burnside</span><span class="pull-right">29/04/2019</span>
                                 </div><br>Lemon balm <i>(Melissa officinalis)</i>
                             </div>
                             <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/lemon-balm.jpg" />
                             Hello Burnside allotmenteers, If anyone has some Lemon Balm growing could I dig some up? 
                             It's a very vigorous plant and won’t mind at all. I’d love to have a bit on my plot to make tea with. 
                             <cite class="author">Thank you! Rachel<br>rachel.epoche@gmail.com</cite>
-                        </blockquote>
+                        </blockquote><cite class="author">Thank you! Rachel<br>rachel.epoche@gmail.com</cite>
                     </div>                    
 
                 </div>
@@ -99,11 +117,29 @@
                                 </div><br>Hand-made aprons
                             </div>
                             <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/aprons.jpg" />
-                            Aprons, lovingly hand-made by Jill from Burnside.  Available from the Store for a minimum donation of &pound;3
+                            Aprons, lovingly hand-made by Jill from Burnside.  Available from the Store for a minimum donation of &pound;3<br><br><br><br>
+                            <br><br>
                         </blockquote>
                     </div>                    
 
                 </div>
+
+                <!--div class="col-xs-12 col-lg-4">                    
+
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Burnside Store</span><span class="pull-right">29/04/2019</span>
+                                </div><br>Hand-made aprons
+                            </div>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/aprons.jpg" />
+                            Aprons, lovingly hand-made by Jill from Burnside.  Available from the Store for a minimum donation of &pound;3
+                        </blockquote>
+                    </div>                    
+
+                </div-->
 
                 <div class="col-xs-12 col-lg-4">                    
 
@@ -208,49 +244,10 @@ It has been handed in to the store.  It will be retained until the end of May.
                     </div>                    
                     
                 </div>
-
-                    <!--
-                <div class="col-xs-12 col-lg-3">
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note vinery">
-                            <div class="title"><div style="font-size: 80%; width: 100%;"><span class="pull-left">Vinery</span><span class="pull-right">01/02/03</span></div><br>Offered</div>
-                            One large shed - free to a good home
-                            <cite class="author">Andy Kurdynowski<br>0789 789789</cite>
-                        </blockquote>
-                    </div>                    
-                    
-                </div>
-                
-                <div class="col-xs-12 col-lg-3">
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note burnside">
-                            <div class="title"><span style="font-size: 80%">Burnside</span><br>Wanted</div>
-                            Huge quantities of seamen
-                            <cite class="author">Master Bates</cite>
-                        </blockquote>
-                    </div>                    
-                    
-                </div>
-                
-                <div class="col-xs-12 col-lg-3">
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note general">
-                            <div class="title"><span style="font-size: 80%">Society</span><br>General</div>
-                            Bush trimming for beginners
-                            <cite class="author">Joan</cite>
-                        </blockquote>
-                    </div>                    
-                    
-                </div>
-                
-                -->
-                
+               
             </div>
+
+
             <div class="row">
                 <div class="col-xs-12">&nbsp;</div>
             </div>

@@ -128,7 +128,7 @@
                     
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
-                            <img src="assets/img/blossom19.jpg" class="img-responsive img-rounded" style="width: 100%"/>
+                            <img src="assets/img/blossom20.jpg" class="img-responsive img-rounded" style="width: 100%"/>
                             <p class="text-right"><i>Joan - Burnside</i></p>
                         </div>
                         <div class="col-sm-12 col-md-6">

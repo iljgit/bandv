@@ -1,6 +1,22 @@
-// next id 43
+// next id 44
 var news = {
     news: [
+        {
+                title: "Society Plant Swap - Sat 11<sup>th</sup> and Sun 12<sup>th</sup> May, 2019",
+                id: 43, 
+                body: `
+<p>
+Back by popular demand (or at least at the suggestion of this writer), the ‘annual’ Plant Swap at the Burnside Store went off very successfully over the weekend of 11-12 May. Lots of surplus veg plants were brought along; lots of surplus veg plants went to good homes. 
+</p>
+<p>
+There was a really good variety on offer: tomatoes, basil, spinach, squashes, courgettes, cucumbers, pumpkins, sweetcorn, 
+cauliflower, spring onions, celeriac, artichokes, purple sprouting broccoli, cabbages, chilli peppers, potatoes…  Great to make sure surplus doesn’t go to waste and spread our efforts around.
+</p>
+                `,       
+                date:  '12 May 2019',
+                expires: '12 Sep 2019 23:00',
+                images2: newsImages['43']
+        },
         {
                 title: "Burnside Springtime Kids Gathering - Sat, 30<sup>th</sup> March, 2019",
                 id: 42, 

@@ -156,7 +156,7 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
                 </div>
             </div-->
             
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12" style="border-radius: 20px; border: 2px solid darkred; background: rgba(255, 200, 200, 0.05);">
                     <h2 class="text-center">Plant Swap, 11<sup>th</sup> and 12<sup>th</sup> May</h2>
                     <img src="/assets/img/plant-swap.jpg" class="hidden-sm hidden-xs img img-responsive img-thumbnail" style="float: left; width: 20%; margin-right: 20px; margin-bottom: 20px;">
@@ -171,7 +171,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                 </div>
             </div>
             
-            <hr>
+            <hr-->
 
             <div class="row">
                 <div class="col-xs-12" style="width: 100%; padding-top: 20px;"><h2 class="text-center">At a glance</h2></div>
@@ -245,7 +245,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
-                            <p class="large-text">Wanted - Lemon Balm</p>
+                            <p class="large-text">Wanted - Lemon Balm. Not wanted - globe artichokes</p>
                             <p class="large-text"><b>A roll of black netting was found on the Burnside site on 29/04/2019</b></p>
                             <p class="large-text">Hand-made aprons, a wormery, barrows, and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>

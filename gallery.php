@@ -48,6 +48,11 @@
             $op = '';
             $garray = array(
                 array(
+                    'dir' => '/assets/img/plant-swap-2019',
+                    'title' => 'Society Plant Swap 2019'
+                ),
+
+                array(
                     'dir' => '/assets/img/burnsideorchard19',
                     'title' => 'Burnside Orchard 2019'
                 ),

@@ -1,6 +1,18 @@
 var WNew = {
     data: [
         {
+            date: '12 May 2019',
+            target: '/tips/slug-control.php',
+            title: 'Controlling slugs without a flame-thrower',
+            detail: 'Penny has some tried, tested and cheap ways of keeping your brassicas intact'
+        },
+        {
+            date: '12 May 2019',
+            target: 'news.php?select=43',
+            title: 'Society Plant Swap',
+            detail: 'A really successful weekend of plant giving and getting'
+        },
+        {
             date: '08 May 2019',
             target: 'news.php?select=42',
             title: 'Burnside Kids Springtime Gathering',

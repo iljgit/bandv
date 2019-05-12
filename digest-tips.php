@@ -66,6 +66,15 @@
 	 <div class="container">
             <div class="row">
                 <div class="col-xs-12">
+
+                    <p>
+                        <a href="tips/slug-control.php">
+                            <span class="blog-title">Slugs</span><br>
+                            <span class="blog-subtitle">Keeping them at bay</span><br>
+                            <span class="blog-author">Penny - Burnside</span>
+                        </a>
+                    </p>
+
                     <p>
                         <a href="tips/weeds.php">
                             <span class="blog-title">Weeds - an alternative view</span><br>
