@@ -33,6 +33,10 @@
             ?>
         </script>
 
+        <style type="text/css">
+xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !important;}
+</style>
+
         <script>
             window.twttr = (function(d, s, id) {
                 var js, fjs = d.getElementsByTagName(s)[0],
@@ -41,6 +45,7 @@
                 js = d.createElement(s);
                 js.id = id;
                 js.src = "https://platform.twitter.com/widgets.js";
+                //js.setAttribute('onload', "twttr.events.bind('rendered',function(e) {responsiveTwitterWidget()});");
                 fjs.parentNode.insertBefore(js, fjs);
             
                 t._e = [];
@@ -50,6 +55,20 @@
             
                 return t;
             }(document, "script", "twitter-wjs"));
+
+            function responsiveTwitterWidget(){
+                var widget = $("#twitter-widget-0");
+                var frame_style = widget.attr('style');
+                widget.attr('style', frame_style + ' max-width:none !important; width:100%');
+                return;
+                if(widget) {
+                    var head = widget.contents().find("head")
+                    if (head.length) {
+                        head.append('<style>.timeline { max-width: 100% !important; width: 100% !important; } .timeline .stream { max-width: none !important; width: 100% !important; }</style>');
+                    }
+                    widget.append($('<div class=timeline>'));
+                }
+            }
         </script>
         <script>
             function enlarge(src) {
@@ -304,18 +323,20 @@ Why not take a good look round the store at the same time and stop for a cup of 
                 <div class="col-xs-12 col-md-6">
                     <div class="panel panel-default">
                         <div class="panel-heading" style="height: 120px;">
-                            <img src="assets/img/blog-cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
-                            <div style="float:right; text-align: right; width: 220px;"><a class="twitter-follow-button" href="https://twitter.com/BurnVine">Follow @BurnVine</a></div>
+                            <img src="assets/img/blog-cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>                            
                             <h3>Latest Tweet</h3>
+                            
                         </div>
-                        <div class="panel-body" style="height: 300px; overflow: auto;">
+                        <div class="panel-body" style="height: 300px; overflow: auto; width: 100%;">
+                        <div style="float:right; text-align: right; width: 220px;"><a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/BurnVine">Follow @BurnVine</a></div>
                             <a class="twitter-timeline"
                                 href="https://twitter.com/BurnVine"
                                 data-tweet-limit="1"
-                                xdata-width="300"
-                                data-height="200">
+                                xdata-width="400"
+                                data-height="300">
                                 Tweets by @BurnVine
                             </a>
+                            
                         </div>
                     </div>
                 </div>
