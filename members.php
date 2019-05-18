@@ -182,16 +182,24 @@ His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 Ma
             
             <!--div class="row">
                 <div class="col-xs-3">
-                    <p class="large-text"><img src="/assets/img/crisps.jpg" style="width: 100%;" class="img img-responsive img-thumbnail"/>
+                    <p class="large-text"><img src="/assets/img/engineering-cartoon.jpg" style="width: 100%;" class="img img-responsive img-thumbnail"/>
                 </div>
                 <div class="col-xs-9">
-                    <h2 style="margin-top: 0px; padding-top: 0px;">Seed Potatoes</h2>
+                    <h2 style="margin-top: 0px; padding-top: 0px;">DING DING, Any old Iron, any old iron, any any any old iron!</h2>
                     <p class="large-text">
-                    Seed potato orders will be available to be picked up from the <b>Burnside Store</b> on Sunday 27<sup>th</sup> January between 10 and 12.
+                    During a recent site survey at Burnside, it was noted that there is a significant amount of scrap metal on site, 
+                    dotted about on various plots. Often, this is old stuff from earlier tenants, 
+                    but there also things that have been collected, with all the best intentions of using them on the plot, 
+                    but they haven’t been used and probably never will be. This is your chance to dispose of this scrap with the minimum of fuss, 
+                    AND at the same time allow the society to add to its funds for future projects and to keep rent payments down etc
                     </p>
                     <p class="large-text">
-                    Please make every effort to collect your order on Sunday morning, either in person or by asking a friend. Every order not collected makes extra work for the volunteers 
-                    who have sorted the orders and who will spend Sunday morning handing those orders out.
+                    So if you’d like to take advantage of this, please place any scrap metal in the collection area in front of the Store before June 10th. We will endeavour to segregate aluminium as that fetches a better scrap price than steel.
+                    </p>
+                    <p class="large-text">
+If you are some distance from the Store and are unable to move it that far, simply place it on the track nearest to your plot and let one of the site managers 
+know it is there – email <a href="mailto:burnsidesitemanager@burnsideandvineryallotments.org">burnsidesitemanager@burnsideandvineryallotments.org</a>  - 
+and it will then be collected for you.
                     </p>
                     <hr>
                 </div>
@@ -257,6 +265,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                                 <!-- PUT NEWS HERE -->
 
                                 <li>Check the calendar for forthcoming events.</li>
+                                <li>Don't forget the Store is open.</li>
 
                             </ul>
                         </div>
