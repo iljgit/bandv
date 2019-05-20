@@ -91,25 +91,6 @@
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
-                        <blockquote class="note burnside">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside</span><span class="pull-right">29/04/2019</span>
-                                </div><br>Lemon balm <i>(Melissa officinalis)</i>
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/lemon-balm.jpg" />
-                            Hello Burnside allotmenteers, If anyone has some Lemon Balm growing could I dig some up? 
-                            It's a very vigorous plant and won’t mind at all. I’d love to have a bit on my plot to make tea with. 
-                            <cite class="author">Thank you! Rachel<br>rachel.epoche@gmail.com</cite>
-                        </blockquote><cite class="author">Thank you! Rachel<br>rachel.epoche@gmail.com</cite>
-                    </div>                    
-
-                </div>
-
-                <div class="col-xs-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
                         <blockquote class="note general">
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
