@@ -178,7 +178,10 @@
             <div class="row margin-bottom">
                 <div class="col-xs-12 col-md-6">
                     <p><h4><span class="text-primary">Committee member (non-voting)</span><br>Suzy Ashworth - Associate member</h4><br></p><p></p>
-                    <p><!--img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/JasonDaff.jpg"/--> <blockquote>
+                    <p><img class="img-responsive img-rounded thumbnail-lg pull-right" src="assets/img/suzy-ashworth.jpeg"/> <blockquote>
+                    I joined the committee in 2019 as an associate member as I currently look after a small plot for a friend. 
+                    I am one of those unusual people who loves globe artichokes! 
+                    I also like growing flowers and unusual vegetables - anything that’s pretty or tasty, and preferably both.
                     </blockquote></p>
                 </div>
             </div>
