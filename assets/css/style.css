@@ -704,6 +704,10 @@ blockquote {
 body.committee blockquote {
     padding-top: 0;
     font-family: 'Dosis', cursive; 
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0 !important;
+    margin-inline-end: 0 !important;
 }
 
 xblockquote::before{
