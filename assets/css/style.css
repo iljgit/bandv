@@ -158,10 +158,10 @@ a:focus {
 .navbar-default {
 	/*background-color: #384452;*/
         /*background-color: rgba(0, 160, 0, 1);*/
-        background-image: url(/assets/img/navbar-background-seedling.jpg);
+        background-image: url(/assets/img/navbar-background-summer.jpg);
         background-color: #4b692b;
-        background-repeat: repeat-x;
-        background-size: contain;
+        background-repeat: repeat-y;
+        background-size: cover;
 	border-color: transparent;
         background-position: top left;
 }

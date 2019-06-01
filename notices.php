@@ -98,44 +98,7 @@
                                 </div><br>Hand-made aprons
                             </div>
                             <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/aprons.jpg" />
-                            Aprons, lovingly hand-made by Jill from Burnside.  Available from the Store for a minimum donation of &pound;3<br><br><br><br>
-                            <br><br>
-                        </blockquote>
-                    </div>                    
-
-                </div>
-
-                <!--div class="col-xs-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note general">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside Store</span><span class="pull-right">29/04/2019</span>
-                                </div><br>Hand-made aprons
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/aprons.jpg" />
                             Aprons, lovingly hand-made by Jill from Burnside.  Available from the Store for a minimum donation of &pound;3
-                        </blockquote>
-                    </div>                    
-
-                </div-->
-
-                <div class="col-xs-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note burnside">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside</span><span class="pull-right">29/04/2019</span>
-                                </div><br>Found
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/black-netting-found.jpg" />
-                            This roll of black netting was near the toilet.
-It has been handed in to the store.  It will be retained until the end of May.
-                            <cite class="author">Click <a href="/store.php">here</a> for store opening times</cite>
                         </blockquote>
                     </div>                    
 
@@ -209,7 +172,7 @@ It has been handed in to the store.  It will be retained until the end of May.
                     
                 </div>
 
-                <div class="col-xs-12 col-lg-4">                    
+                <!--div class="col-xs-12 col-lg-4">                    
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
@@ -224,7 +187,7 @@ It has been handed in to the store.  It will be retained until the end of May.
                         </blockquote>
                     </div>                    
                     
-                </div>
+                </div-->
                
             </div>
 

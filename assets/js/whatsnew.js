@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '01 Jun 2019',
+            target: 'https://www.baracambridge.org/news',
+            title: 'Community Action Day 15 June 2019',
+            detail: 'Birdwood Area Residents Association is holding a community action day and needs your help.'
+        },
+        {
             date: '12 May 2019',
             target: '/tips/slug-control.php',
             title: 'Controlling slugs without a flame-thrower',
