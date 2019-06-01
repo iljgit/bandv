@@ -296,7 +296,6 @@ Why not take a good look round the store at the same time and stop for a cup of 
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
                             <p class="large-text">Wanted - Lemon Balm. Not wanted - globe artichokes</p>
-                            <p class="large-text"><b>A roll of black netting was found on the Burnside site on 29/04/2019</b></p>
                             <p class="large-text">Hand-made aprons, barrows, and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>

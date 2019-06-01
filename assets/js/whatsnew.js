@@ -7,6 +7,12 @@ var WNew = {
             detail: 'Birdwood Area Residents Association is holding a community action day and needs your help.'
         },
         {
+            date: '01 Jun 2019',
+            target: '/gallery.php',
+            title: '1<sup>st</sup> Day of Summer 2019',
+            detail: 'Your photos most welcome'
+        },
+        {
             date: '12 May 2019',
             target: '/tips/slug-control.php',
             title: 'Controlling slugs without a flame-thrower',
