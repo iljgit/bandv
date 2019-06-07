@@ -142,24 +142,16 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 </div>
             </div>
 
-            <!--div class="row">
-                <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px; background-size: cover; background-image: url(/assets/img/celebrate.png)">
-                    <h3 style="color: darkblue;" class="text-center">BURNSIDE CHILDREN’S GET TOGETHER</h3>
+            <div class="row">
+                <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px;">
+                    <h3 style="color: darkblue;" class="text-center">Trumpington Allotment Society</h3>
+                    <h4 style="color: darkblue;" class="text-center">Plant Swap - Sun 9<sup>th</sup> June, 10:30 - 12:00</h4>
                     <p class="large-text">
-                    A children’s gathering is planned for Saturday 30th March, meeting at the picnic area at 2pm. 
-                    This is a chance for children and their guardians to meet, once a season, to socialise and grow some allotment friendships. 
-                    This will be the winter time gathering as it falls on the day before spring time officially starts! 
-</p>
-<p class="large-text">
-There will be materials to make a spring time craft or Mother’s Day present. 
-If you would like to bring a craft, game or snack to share that would be great. 
-Thanks to everyone showing up and joining in we had a good time last time (remember the ride in the dustbin...), so let’s do it again!
-</p>
-<p class="large-text">
-We will be trying out our new HUGE gazebo, so even if the weather on the day is not as kind as we hope, crafting activities should not be a problem. 
+                        Trumpington Allotment Society is holding a plant swap this Sunday. Free entry and all are welcome even without anything to swap.
                     </p>
+                    <p>Click <a href="tas.pdf" target="pdf">here</a> for their poster.</p>
                 </div>
-            </div-->
+            </div>
 
             <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px;">                
