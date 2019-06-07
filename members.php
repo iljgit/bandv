@@ -149,7 +149,7 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                     <p class="large-text">
                         Trumpington Allotment Society is holding a plant swap this Sunday. Free entry and all are welcome even without anything to swap.
                     </p>
-                    <p>Click <a href="tas.pdf" target="pdf">here</a> for their poster.</p>
+                    <p class="large-text">Click <a href="tas.pdf" target="pdf">here</a> for their poster.</p>
                 </div>
             </div>
 
@@ -238,10 +238,11 @@ Why not take a good look round the store at the same time and stop for a cup of 
                         </div>
                         <div class="panel-body" style="height:200px; overflow: auto;">
                         <p class="large-text">
-                            The <b>Trevor Taylor Pavilion</b> re-dedication took place on Sunday 31<sup>st</sup> March 2019
+                            From a few years ago, Glynn and Martin from Vinery produced a series of videos about all sorts of aspects of having an allotment. 
+                            And Cambridge 105 came to visit Vinery to talk about keeping chickens.
                         </p>
-                        <p class="large-text">Click <a href="/news.php?select=40"><button class="btn btn-info">here</button></a> 
-                        for more details and pictures of the event.</p>
+                        <p class="large-text">Click <a href="/videos.php">here</a> 
+                        to see and hear what was going on in 2016.</p>
                         </div>
                     </div>
                 </div>
@@ -287,7 +288,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
-                            <p class="large-text">Wanted - Lemon Balm. Not wanted - globe artichokes</p>
+                            <p class="large-text">Globe artichokes - free to any sort of home</p>
                             <p class="large-text">Hand-made aprons, barrows, and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>
