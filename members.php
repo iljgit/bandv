@@ -142,7 +142,7 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 </div>
             </div>
 
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px;">
                     <h3 style="color: darkblue;" class="text-center">Trumpington Allotment Society</h3>
                     <h4 style="color: darkblue;" class="text-center">Plant Swap - Sun 9<sup>th</sup> June, 10:30 - 12:00</h4>
@@ -151,7 +151,7 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                     </p>
                     <p class="large-text">Click <a href="tas.pdf" target="pdf">here</a> for their poster.</p>
                 </div>
-            </div>
+            </div-->
 
             <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px;">                
