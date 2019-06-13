@@ -1,6 +1,13 @@
 var events = {
     events: [
         {
+                id: '29 Jun 2019',
+                title: 'Vinery Volunteering Day from 1pm',
+                start: '29 Jun 2019 13:00',
+                end:  '29 Jun 2019 18:00',
+                allDay: false
+        },
+        {
                 id: '27 Jul 2019',
                 title: 'Store open, 10-12',
                 start: '27 Jul 2019 10:00',

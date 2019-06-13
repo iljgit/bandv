@@ -142,16 +142,16 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 </div>
             </div>
 
-            <!--div class="row">
+            <div class="row">
                 <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px;">
-                    <h3 style="color: darkblue;" class="text-center">Trumpington Allotment Society</h3>
-                    <h4 style="color: darkblue;" class="text-center">Plant Swap - Sun 9<sup>th</sup> June, 10:30 - 12:00</h4>
-                    <p class="large-text">
-                        Trumpington Allotment Society is holding a plant swap this Sunday. Free entry and all are welcome even without anything to swap.
+                    <h3 style="color: darkblue;" class="text-center">Vinery Volunteering Day</h3>
+                    <h4 style="color: darkblue;" class="text-center">Saturday 29<sup>th</sup> June, from 1pm</h4>
+                    <p class="large-text" style="color: blue;">
+                        Certain areas of the site could do with some maintenance and we need your help! 
+                        On Saturday 29th June, from 1pm, we will be meeting collectively to tidy and organise the Communal Compost.
                     </p>
-                    <p class="large-text">Click <a href="tas.pdf" target="pdf">here</a> for their poster.</p>
                 </div>
-            </div-->
+            </div>
 
             <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px;">                
@@ -257,8 +257,9 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <ul class="calendar large-text">
                                 <!-- PUT NEWS HERE -->
 
-                                <li>Check the calendar for forthcoming events.</li>
-                                <li>Don't forget the Store is open.</li>
+                                <!--li>Check the calendar for forthcoming events.</li-->
+                                <li>Vinery Volunteering Day - Sat 29<sup>th</sup> June, from 1pm</li>
+                                <li>Don't forget the Store is open until the end of July</li>
 
                             </ul>
                         </div>

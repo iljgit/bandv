@@ -995,9 +995,9 @@ ul.calendar li:before {
     margin:0 5px 0 -20px;
     color: red;
 }
-ul.calendar li:nth-child(even) {
+/*ul.calendar li:nth-child(even) {
     color: #808080;
-}
+}*/
 ul.calendar a {
     color: black;
 }

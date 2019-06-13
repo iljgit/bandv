@@ -112,12 +112,14 @@
                     </p>
                 </div>
 
-                <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">                    
-                    <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>Mark Talman - Burnside</i></p>
-                    <blockquote class="large-text"><img  class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/mark.jpg"/>
-                    I've had an allotment since 2005, I love to grow what I can't buy, so there's been some odd fruit and veg over the years. Converted to no-dig organic gardening about 7 years ago.
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Vinery site manager</span><br><i>Barry South - Vinery</i></p>
+                    <blockquote class="large-text">
+                        <img class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/BarrySouth2.jpg"/> 
                     </blockquote>
-                </div> 
+                    <p class="large-text text-center"><a href="mailto:vinery@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;vinery</a>
+                    </p>
+                </div>
                 
             </div>
             <div class="row margin-bottom" style="margin-bottom: 10px;">
@@ -170,14 +172,15 @@
                         <img class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/johnmcgill.jpg"/>
                     I've had a plot at Burnside since about 2010 and have been on the committee since 2014. I've always found it a very friendly environment, with great collaboration among all other lot-holders.
                     </blockquote>
-                </div>
+                </div>        
 
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>Barry South - Vinery</i></p>
-                    <blockquote class="large-text">
-                        <img class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/BarrySouth2.jpg"/> 
+                <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">                    
+                    <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>Mark Talman - Burnside</i></p>
+                    <blockquote class="large-text"><img  class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/mark.jpg"/>
+                    I've had an allotment since 2005, I love to grow what I can't buy, so there's been some odd fruit and veg over the years. Converted to no-dig organic gardening about 7 years ago.
                     </blockquote>
-                </div>
+                </div> 
+
             </div>
             <div class="row margin-bottom">
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
