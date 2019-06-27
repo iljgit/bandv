@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '27 Jun 2019',
+            target: '/gallery.php',
+            title: 'Burnside Orchard, Summer 2019',
+            detail: 'Looking good'
+        },
+        {
             date: '01 Jun 2019',
             target: 'https://www.baracambridge.org/news',
             title: 'Community Action Day 15 June 2019',
