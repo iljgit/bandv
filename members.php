@@ -55,7 +55,6 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
             
                 return t;
             }(document, "script", "twitter-wjs"));
-
             function responsiveTwitterWidget(){
                 var widget = $("#twitter-widget-0");
                 var frame_style = widget.attr('style');
@@ -86,7 +85,6 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 d.style.top = '0px';
                 d.style.left = '0px';
                 d.style.zIndex = '9999';
-
                 let c = document.createElement('div');
                 c.style.position = 'absolute';
                 c.style.right = '10px';
@@ -95,11 +93,9 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 c.style.width = 'auto';
                 c.innerHTML = '<i class="fa fa-times" aria-hidden="true" style="color: darkred; font-size: 36px;"></i>';
                 d.appendChild(c);
-
                 document.body.style.overflow = 'hidden';
                 
                 document.body.appendChild(d);
-
                 d.onclick = () => {
                     document.body.style.overflow = 'auto';
                     document.body.removeChild(d);
@@ -143,12 +139,22 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
             </div>
 
             <div class="row">
-                <div class="col-xs-12" style="padding: 10px; margin-bottom: 30px;">
+                <div class="col-xs-12 col-md-6" style="padding: 10px; margin-bottom: 30px;">
                     <h3 style="color: darkblue;" class="text-center">Vinery Volunteering Day</h3>
                     <h4 style="color: darkblue;" class="text-center">Saturday 29<sup>th</sup> June, from 1pm</h4>
                     <p class="large-text" style="color: blue;">
                         Certain areas of the site could do with some maintenance and we need your help! 
                         On Saturday 29th June, from 1pm, we will be meeting collectively to tidy and organise the Communal Compost.
+                    </p>
+                </div>
+                <div class="col-xs-12 col-md-6" style="padding: 10px; margin-bottom: 30px;">
+                    <h3 style="color: darkblue;" class="text-center">Burnside Burn Bin</h3>
+                    <h4 style="color: darkblue;" class="text-center">Sunday 30<sup>th</sup> June, 10 - 12</h4>
+                    <p class="large-text" style="color: blue;">
+                    The forecast is good so, weather permitting, there will be a burn bin at Burnside on Sunday from 10 - 12.
+                    </p>
+                    <p class="large-text" style="color: blue;">
+                    Hot food - chicken and baked potatoes - from the Burn Bin oven at approximately 13:00. Come and join in and perhaps bring some food or drink to share.
                     </p>
                 </div>
             </div>
@@ -259,6 +265,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
 
                                 <!--li>Check the calendar for forthcoming events.</li-->
                                 <li>Vinery Volunteering Day - Sat 29<sup>th</sup> June, from 1pm</li>
+                                <li>Burnside Burn Bin - Sun 30<sup>th</sup> June, 10 - 12.  Food from 1.</li>
                                 <li>Don't forget the Store is open until the end of July</li>
 
                             </ul>
