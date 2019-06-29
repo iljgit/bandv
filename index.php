@@ -98,8 +98,8 @@
                     
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
-                            <img src="assets/img/summer2019.jpg" class="img-responsive img-rounded" style="width: 100%;"/>
-                            <p class="text-right"><i>1<sup>st</sup> day of summer, Joan - Burnside</i></p>
+                            <img src="assets/img/courgetteflower.jpg" class="img-responsive img-rounded" style="width: 100%;"/>
+                            <p class="text-right"><i>Look at that! Sarah - Burnside</i></p>
                         </div>
                         <div class="col-sm-12 col-md-6">
                                 <p>Our two allotment sites, Burnside and Vinery Road, are both in the Romsey Town area of south Cambridge. They are run jointly by a single committee. Both sites have full and half plots, although new tenants are now only allotted half plots in the first instance. There are also some quarter plots at Vinery Road.</p>
@@ -128,8 +128,8 @@
                     
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
-                            <img src="assets/img/kidsday.jpg" class="img-responsive img-rounded" style="width: 100%"/>
-                            <p class="text-right"><i>Burnside kids gathering: Rachel - Burnside</i></p>
+                            <img src="assets/img/summer2019.jpg" class="img-responsive img-rounded" style="width: 100%;"/>
+                            <p class="text-right"><i>1<sup>st</sup> day of summer, Joan - Burnside</i></p>
                         </div>
                         <div class="col-sm-12 col-md-6">
                             <p>A full plot is approximately 50 metres by 5 metres; a half plot is approximately 25 metres by 5 metres.</p>

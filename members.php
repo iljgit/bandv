@@ -139,15 +139,7 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
             </div>
 
             <div class="row">
-                <div class="col-xs-12 col-md-6" style="padding: 10px; margin-bottom: 30px;">
-                    <h3 style="color: darkblue;" class="text-center">Vinery Volunteering Day</h3>
-                    <h4 style="color: darkblue;" class="text-center">Saturday 29<sup>th</sup> June, from 1pm</h4>
-                    <p class="large-text" style="color: blue;">
-                        Certain areas of the site could do with some maintenance and we need your help! 
-                        On Saturday 29th June, from 1pm, we will be meeting collectively to tidy and organise the Communal Compost.
-                    </p>
-                </div>
-                <div class="col-xs-12 col-md-6" style="padding: 10px; margin-bottom: 30px;">
+                <div class="col-xs-12 style="padding: 10px; margin-bottom: 30px;">
                     <h3 style="color: darkblue;" class="text-center">Burnside Burn Bin</h3>
                     <h4 style="color: darkblue;" class="text-center">Sunday 30<sup>th</sup> June, 10 - 12</h4>
                     <p class="large-text" style="color: blue;">
@@ -264,7 +256,6 @@ Why not take a good look round the store at the same time and stop for a cup of 
                                 <!-- PUT NEWS HERE -->
 
                                 <!--li>Check the calendar for forthcoming events.</li-->
-                                <li>Vinery Volunteering Day - Sat 29<sup>th</sup> June, from 1pm</li>
                                 <li>Burnside Burn Bin - Sun 30<sup>th</sup> June, 10 - 12.  Food from 1.</li>
                                 <li>Don't forget the Store is open until the end of July</li>
 
