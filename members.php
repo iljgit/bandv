@@ -138,7 +138,7 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 </div>
             </div>
 
-            <div class="row">
+            <!--div class="row">
                 <div class="col-xs-12 style="padding: 10px; margin-bottom: 30px;">
                     <h3 style="color: darkblue;" class="text-center">Burnside Burn Bin</h3>
                     <h4 style="color: darkblue;" class="text-center">Sunday 30<sup>th</sup> June, 10 - 12</h4>
@@ -149,7 +149,7 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                     Hot food - chicken and baked potatoes - from the Burn Bin oven at approximately 13:00. Come and join in and perhaps bring some food or drink to share.
                     </p>
                 </div>
-            </div>
+            </div-->
 
             <!--div class="row">
                 <div class="col-xs-12" style="padding: 10px;">                
@@ -256,7 +256,6 @@ Why not take a good look round the store at the same time and stop for a cup of 
                                 <!-- PUT NEWS HERE -->
 
                                 <!--li>Check the calendar for forthcoming events.</li-->
-                                <li>Burnside Burn Bin - Sun 30<sup>th</sup> June, 10 - 12.  Food from 1.</li>
                                 <li>Don't forget the Store is open until the end of July</li>
 
                             </ul>
@@ -287,8 +286,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
-                            <p class="large-text">Globe artichokes - free to any sort of home</p>
-                            <p class="large-text">Hand-made aprons, barrows, and a trug are available for low cost.</p>
+                            <p class="large-text">Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>
                     </div>
