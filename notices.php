@@ -73,15 +73,15 @@
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
-                        <blockquote class="note vinery">
+                        <blockquote class="note burnside">
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Vinery</span><span class="pull-right">12/05/2019</span>
-                                </div><br>Globe artichokes to give away</i>
+                                    <span class="pull-left">Burnside</span><span class="pull-right">06/07/2019</span>
+                                </div><br>Free greenhouse frame</i>
                             </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/globe-artichoke.jpg" />
-                            Hi.  I have a load of globe artichoke plants to give away to anyone who wants them. They are available from my plot at Vinery.
-                            <cite class="author">Em<br>em­_serendipity@yahoo.co.uk</cite>
+                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/michael-greenhouse.png" />
+                            A greenhouse frame (no glass) free to anyone who will collect.  Easy to transport intact or take apart.
+                            <cite class="author">Michael - 07847 013565</cite>
                         </blockquote>
                     </div>                    
 

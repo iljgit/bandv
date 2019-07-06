@@ -235,7 +235,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Featured</h3>
                         </div>
                         <div class="panel-body" style="height:200px; overflow: auto;">
-                        <p class="large-text">
+                        <p class="large-text">Untitled
                             From a few years ago, Glynn and Martin from Vinery produced a series of videos about all sorts of aspects of having an allotment. 
                             And Cambridge 105 came to visit Vinery to talk about keeping chickens.
                         </p>
@@ -286,6 +286,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
+                            <p class="large-text">Free greenhouse frame available from Burnside</p>
                             <p class="large-text">Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>
