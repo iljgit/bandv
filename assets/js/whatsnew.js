@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '13 Jul 2019',
+            target: '/vinery.php',
+            title: 'Vinery Species Audit, Summer 2019',
+            detail: 'Jonathan Shanklin of the Cambridge Natural History Society took a group of interested people "species spotting" at Vinery recently.'
+        },
+        {
             date: '27 Jun 2019',
             target: '/gallery.php',
             title: 'Burnside Orchard, Summer 2019',

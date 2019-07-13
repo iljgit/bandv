@@ -151,24 +151,22 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 </div>
             </div-->
 
-            <!--div class="row">
+
+            <div class="row">
                 <div class="col-xs-12" style="padding: 10px;">                
 <p class="large-text">
-<h3>Sad news about one of Burnside’s longstanding tenants: Giuseppe (Joe) Cordaro passed away suddenly on February 6th.</h3>
+<h3>Sad news about one of Burnside’s longstanding tenants: Ken Cotterell passed away on Wednesday July 3<sup>rd</sup>.</h3>
 </p>
 <p class="large-text">
-Giuseppe was a popular character who loved spending time on his plots near the store and being part of the Burnside community. 
-Over recent years he had gradually given up allotment space, allowing new people to have a chance at working a plot. 
+<img src="assets/img/ken-cotterell.png" class="img img-responsive img-thumbnail" style="float: left; margin-right: 20px; margin-bottom: 20px;">
+We are very sorry to announce the death of Ken Cotterell, a Burnside tenant for many years, on Wednesday July 3rd. His funeral is to be held at 
+Cambridge City Crematorium, West Chapel, on Monday July 22nd at 11am. 
 </p>
 <p class="large-text">
-He was well known for helping new tenants with advice and lending them tools to get started. He will be sadly missed on the site. 
-A number of plotholders have been in touch with the Society to share memories of his generosity, his cheerful encouragement to fellow tenants and his invaluable gardening advice. 
-</p>
-<p class="large-text">
-His funeral will be held at the City Cemetery, Newmarket Road, on Wednesday 6 March at 2.30pm.
+No flowers, at the request of Ken’s family, but donations may be made to Arthur Rank Hospice Charities.
 </p>
                 </div>
-            </div-->
+            </div>
             
             <!--div class="row">
                 <div class="col-xs-3">
@@ -234,13 +232,11 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <img src="assets/img/feature_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
                             <h3>Featured</h3>
                         </div>
-                        <div class="panel-body" style="height:200px; overflow: auto;">
-                        <p class="large-text">Untitled
-                            From a few years ago, Glynn and Martin from Vinery produced a series of videos about all sorts of aspects of having an allotment. 
-                            And Cambridge 105 came to visit Vinery to talk about keeping chickens.
+                        <div class="panel-body" style="height:380px; overflow: auto;">
+                        <p class="large-text">
+                        <img src="assets/img/bees.jpg" class="img img-responsive img-thumbnail" style="float: left; margin-right: 10px; width: 50%;">
+                        A swarm of bees on a tree at Burnside, all on their best beehaviour.
                         </p>
-                        <p class="large-text">Click <a href="/videos.php">here</a> 
-                        to see and hear what was going on in 2016.</p>
                         </div>
                     </div>
                 </div>
@@ -251,7 +247,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <img src="assets/img/time_cartoon.jpg" style="height: 100px; float:left; position: relative; margin-right: 20px;" class="img-responsive img-thumbnail margin"/>
                             <h3>Diary Dates</h3>
                         </div>
-                        <div class="panel-body" style="height:200px; overflow: auto;">
+                        <div class="panel-body" style="height:380px; overflow: auto;">
                             <ul class="calendar large-text">
                                 <!-- PUT NEWS HERE -->
 

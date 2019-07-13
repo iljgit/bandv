@@ -66,18 +66,18 @@
                     <p>The Burnside site is approximately 3.32 hectares. There are 99 full plots, about 50 of which are divided and let as half plots.</p>
 
 <p>There are 7 water troughs on the site: these are supplied with water from spring to autumn. Most plots are no further than 25 metres from the nearest water trough. 
-Click <a class="btn btn-info" href="assets/img/btroughs.jpg" target="btroughs">here</a> for a diagram of the site showing the location of water troughs.</p>
+Click <a class="btn-info" href="assets/img/btroughs.jpg" target="btroughs">here</a> for a diagram of the site showing the location of water troughs.</p>
 
 <p>The site also has a composting toilet (opened October 2017) and a picnic area.</p>
 
 <p>The Store at Burnside is open at certain times in the year. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. 
-Click <a class="btn btn-info" href="store.php">here</a> for store details.</p>
+Click <a class="btn-info" href="store.php">here</a> for store details.</p>
 
 <p>A communal orchard was planted near the Burnside entrance in 2015: members will be welcome to pick fruit from this once it is established. 
-Click <a class="btn btn-info" href="/assets/docs/orchardlistnov2018.pdf" target="orchard">here</a> for a list of the trees.</p>
+Click <a class="btn-info" href="/assets/docs/orchardlistnov2018.pdf" target="orchard">here</a> for a list of the trees.</p>
 
 <p>A ‘Burn Bin’ facility is available for the disposal of non-compostable green waste. Burn days take place when the weather and the wind conditions are suitable. 
-Click <a class="btn btn-info" href="assets/docs/BurnBin.pdf" target="burnbin">here</a> for Burn Bin information and regulations.</p>
+Click <a class="btn-info" href="assets/docs/BurnBin.pdf" target="burnbin">here</a> for Burn Bin information and regulations.</p>
 
 
 <p>
