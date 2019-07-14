@@ -282,7 +282,6 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
-                            <p class="large-text">Free greenhouse frame available from Burnside</p>
                             <p class="large-text">Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>

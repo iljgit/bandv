@@ -73,24 +73,6 @@
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
-                        <blockquote class="note burnside">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside</span><span class="pull-right">06/07/2019</span>
-                                </div><br>Free greenhouse frame</i>
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/michael-greenhouse.png" />
-                            A greenhouse frame (no glass) free to anyone who will collect.  Easy to transport intact or take apart.
-                            <cite class="author">Michael - 07847 013565</cite>
-                        </blockquote>
-                    </div>                    
-
-                </div>
-
-                <div class="col-xs-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
                         <blockquote class="note general">
                             <div class="title">
                                 <div style="font-size: 80%; width: 100%;">
