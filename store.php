@@ -10,7 +10,7 @@
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>The Store: Burnside Allotments Site</title>
+    <title>Our own allotment supplies store – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">

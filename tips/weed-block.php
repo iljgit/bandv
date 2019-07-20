@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Making your plot weed-free - Burnside and Vinery Road Allotment Society">
+    <meta name="description" content="There is an art to using weed block. Andy provides an illustrated step-by-step guide to let even a novice gain control over an unruly bit of ground.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Weed-free</title>
+    <title>Weed block: the correct way – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+				<h1>WEED BLOCK</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

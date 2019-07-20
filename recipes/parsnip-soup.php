@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="A flavoursome soup using allotment ingredients with minimal prepartion and cooking time.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Squash Soup</title>
+    <title>Curried parsnip soup – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,8 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+                <h1>Curried Parsnip Soup<h1>
+                <h4><i> Anne Pammenter - Burnside</i></h4>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -80,8 +81,7 @@
             
             <div class="row">
                 <div class="col-xs-12">
-                    <h1>Curried Parsnip Soup<h1>
-                    <h4><i> Anne Pammenter - Burnside</i></h4><br>
+                    
                     <p>
                     A flavoursome soup with a kick - serves 6
                     </p>

@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Tomato and chiili jam is a great way of using up some of your glut of tomatoes (and chllis).  It is a great accompaniment for cheese, meat and fish.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Chilli jam</title>
+    <title>Tomato and chilli jam recipe – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,8 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+            <h1>TOMATO AND CHILLI JAM<h1>
+            <h4><i>Joan - Burnside</i></h4>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -80,8 +81,6 @@
             
             <div class="row">
                 <div class="col-xs-12"><br>
-                    <h1>Tomato and Chilli Jam<h1>
-                    <h4><i>Joan - Burnside</i></h4>
                     <p>
 Summer 2018 finds me with an early glut of tomatoes, so I’ve put some of them to good use by making tomato and chilli jam, a nice accompaniment for cheese, meat, and fish. 
 Or just slap it on your sarnies. The tomatoes I’ve used are Red Alert from Kings, which I sowed towards the end of January. 

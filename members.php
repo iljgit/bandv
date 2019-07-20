@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Useful information about Burnside and Vinery Road Allotments Society, South Cambridge.  Rules, regulations, minutes, news, tips.">
+    <meta name="description" content="Keeping our members informed about the Allotment Society and the Burnside & Vinery Rd sites: news of members, volunteering days, bonfires, parties, hints, tips.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="favicon.ico">
 
-    <title>Members info: Burnside and Vinery Road allotments</title>
+    <title>At a glance information for members – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -115,7 +115,7 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>MEMBERS</h3>
+				<h1>MEMBERS AREA</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

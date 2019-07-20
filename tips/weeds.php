@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside and Vinery Allotments Society suggestions on how to embrace weeds on your plot">
+    <meta name="description" content="Weeds needn’t be the bane of your lives. We aim to redress the balance. Some weeds have a surprising number of virtues and can be used to our advantage.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Embracing weeds</title>
+    <title>Weeds: an alternative view – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+				<h1>WEEDS - AN ALTERNATIVE VIEW</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

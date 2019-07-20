@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside and Vinery Allotments Society suggestions on environmentally friendly ways of controlling slugs and snails">
+    <meta name="description" content="Environmentally friendly ways of controlling slugs and snails.  Especially important since proprietary, unfriendly products will soon no loinger be available.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Controlling Slugs and Snails</title>
+    <title>Eco-friendly pest control – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">

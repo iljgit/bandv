@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Weeder's Digest provides useful allotment and gardening tips.">
+    <meta name="description" content="Tips and tricks for keeping your plot in tip-top condition. Environmentally friendly ways of controlling pests.  All based on actual experience.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Weeders Digest: Tips</title>
+    <title>Allotment tips and tricks – Bursnide & Vinery Cambridge</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST - Tips</h3>
+				<h1>WEEDER'S DIGEST - Tips and tricks for managing the allotment</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

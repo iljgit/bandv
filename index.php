@@ -4,14 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside and Vinery Road Allotments Society, South Cambridge, is run by a single committee.  The two, thriving sites provide a friendly, well-run environment for new allotment holders and seasoned hands alike.">
+    <meta name="description" content="Cambridge’s Burnside and Vinery Rd Allotment Society manages two, well-run allotment sites in the south of the City. Friendly communities and great facilities.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     
     <link rel="shortcut icon" href="favicon.ico"> 
 
-    <title>Burnside and Vinery Allotments: Cambridge UK</title>
+    <title>Welcome to our site – Burnside & Vinery Rd allotments</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -65,10 +65,10 @@
 	 HEADERWRAP
 	 ***************************************************************************************************************** -->
 
-	<div id="blueish">
+	<div id="blue" style="padding-bottom:0; margin-bottom:0;">
 	    <div class="container">
 			<div class="row">
-				<!--h3>HOME</h3-->
+				<h1>BURNSIDE & VINERY RD ALLOTMENT SOCIETY</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -76,7 +76,7 @@
 	<!-- *****************************************************************************************************************
 	 SERVICE LOGOS
 	 ***************************************************************************************************************** -->
-	 <div id="service">
+	 <div id="service" style="padding-top: 0; margin-top: 0;">
 	 	<div class="container large-text">
                                 
                     <div class="row">

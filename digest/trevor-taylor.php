@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Cambridge's Vinery Road and Burnside Allotment Society's late president, Trevor Taylor">
+    <meta name="description" content="Trevor Taylor was a driving force for many years, helping to sustain and grow Burnside and Vinery Road Allotment Society, South Cambridge.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/favicon.ico">
 
-    <title>Trevor Taylor</title>
+    <title>Trevor Taylor past president – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -40,7 +40,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Trevor Taylor</h3>
+				<h1>TREVOR TAYLOR</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -70,7 +70,7 @@
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Obituary</a>
                             </h4>
                         </div>
-                        <div id="collapseOne" class="panel-collapse collapse">
+                        <div id="collapseOne" class="panel-collapse collapse in">
                             <div class="panel-body">
                                 <div class="display:inline-block;">
                                 <h2 class="text-center">Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h2>

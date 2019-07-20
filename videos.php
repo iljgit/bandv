@@ -10,7 +10,7 @@
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Hints, tips and info: Vinery Road Allotment</title>
+    <title>Videos made by our members – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">

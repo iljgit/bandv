@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Cambridge's Burnside allotment and the Friends of the Brook">
+    <meta name="description" content="The Burnside and Vinery Rd allotment is proud to support the work of the Friends of the Brook: Cherry Hinton Brook which runs alongside one side of Burnside.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Friends of the Brook: Burnside allotments, Cambridge UK</title>
+    <title>Friends of Cherry Hinton Brook – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -40,7 +40,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Cherry Hinton Brook and its Friends</h3>
+				<h1>FRIENDS OF CHERRY HINTON BROOK</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

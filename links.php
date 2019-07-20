@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="External links">
+    <meta name="description" content="We like to keep you informed of what is going on with links to local community websites, other allotment websites, and allotment-related site.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Links to external web sites</title>
+    <title>Links to other web sites – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -41,7 +41,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>EXTERNAL LINKS</h3>
+				<h1>LINKS TO OTHER WEBSITES</h>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

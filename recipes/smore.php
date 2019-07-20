@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Smores are a favourite of guides, scouts and just about everyone.  They are a styicky treat, best eaten freshly baked around a campfire, with friends.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Smores</title>
+    <title>Smores: a sweet treat – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,8 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+                <h1>Smores<h1>
+                <h4><i>Andy (well - almost) - Burnside</i></h4>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -80,8 +81,7 @@
             
             <div class="row">
                 <div class="col-xs-12"><br>
-                    <h1>Smores<h1>
-                    <h4><i>Andy Kurdynowski (well - almost) - Burnside</i></h4>
+                    
                     <p>
                     <b>Smore</b> <i>n. A sweet treat.</i>
                     </p>

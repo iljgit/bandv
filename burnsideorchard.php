@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside Community Orchard - new for 2019">
+    <meta name="description" content="Burnside has a community orchard which was planted in 2019.  Wild-flowers grow in-between the trees, encouraging pollinators and wildlife to the site.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="favicon.ico">
 
-    <title>Members info: Burnside Community Orchard</title>
+    <title>Burnside orchard, new in 2019 – Burnside & Vinery Cambridge</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -50,7 +50,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Burnside Community Orchard - 2019</h3>
+				<h1>Burnside Community Orchard - 2019</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

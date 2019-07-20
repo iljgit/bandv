@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="This recipe uses squash but can be easily adapted for other crops such as carrot.  It is a tasty, hearty, warming soup, just right for a cold or gloomy day.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Squash Soup</title>
+    <title>Squash soup: a hearty meal – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,8 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+                <h1>Allotment Squash Soup<h1>
+                 <h4><i>Andy Kurdynowski - Burnside</i></h4>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -80,8 +81,7 @@
             
             <div class="row">
                 <div class="col-xs-12">
-                    <h1>Allotment Squash Soup<h1>
-                    <h4><i>Andy Kurdynowski - Burnside</i></h4><br>
+                    
                     <p>
                     This soup recipe is a starting point guide: you could use other types of squash and add other crops such as carrot (we do). Also you can use the quantities that you have harvested. It will always be a tasty warming soup, BUT sometimes it will turn out especially delicious, so enjoy!
                     </p>

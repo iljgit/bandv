@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Vinery Road Allotments are situated in South Cambridge.  It is a well-run, thriving, friendly community.">
+    <meta name="description" content="Vinery Road Allotments are situated in the heart of Romsey Town, South Cambridge.  It is a well-run, thriving, friendly community with great facilities.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery Allotment: Cambridge UK</title>
+    <title>Vinery Rd allotments – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -52,7 +52,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>VINERY ROAD ALLOTMENTS</h3>
+				<h1>VINERY ROAD ALLOTMENTS</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -119,10 +119,9 @@ Click <a class="btn-info" href="store.php">here</a> for store details.</p>
 				The flora and fauna below are the mainly non-cultivated species they found.<br><br>
             </div>   
 
-					
-            <div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/1.jpg" style="width: 100%;" /><p class="text-center">Sycamore<br><i>Acer pseudoplatanus</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/2.jpg" style="width: 100%;" /><p class="text-center">Ground-elder<br><i>Aegopodium podagraria</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/3.jpg" style="width: 100%;" /><p class="text-center">Fool's Parsley<br><i>Aethusa cynapium</i></p>	</div>	</div><div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/1.jpg" style="width: 100%;" /><p class="text-center">Sycamore<br><i>Acer pseudoplatanus</i></p>	</div>	
+					<div class="row">			
+				<div class="col-xs-12 col-md-4">	
+				<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/1.jpg" style="width: 100%;" /><p class="text-center">Sycamore<br><i>Acer pseudoplatanus</i></p>	</div>	
 			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/2.jpg" style="width: 100%;" /><p class="text-center">Ground-elder<br><i>Aegopodium podagraria</i></p>	</div>	
 			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/3.jpg" style="width: 100%;" /><p class="text-center">Fool's Parsley<br><i>Aethusa cynapium</i></p>	</div>	</div>
 <div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/4.jpg" style="width: 100%;" /><p class="text-center">Creeping Bent<br><i>Agrostis stolonifera</i></p>	</div>	

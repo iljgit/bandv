@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Weeder's Digest provides allotment relevant recipes.">
+    <meta name="description" content="Carrying on a great society tradition, fresh recipe ideas for using your fresh fruit and veg straight from your plot.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Weeders Digest: Recipes</title>
+    <title>Recipes using allotment produce – Burnside & Vinery Cambridge</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST - From Plot to Pot</h3>
+				<h1>WEEDER'S DIGEST - From Plot to Pot</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -79,7 +79,7 @@
                     </a>
                 </div>
                 <div class="col-xs-6 col-md-4" style="padding-bottom: 30px;">
-                    <a href="recipes/chillijam.php">
+                    <a href="recipes/chilli-jam.php">
                         <span class="blog-title">Tomato and Chilli Jam</span><br>
                         <span class="blog-subtitle">A sparky accompaniment to cheese, meat and fish.</span><br>
                         <span class="blog-author">Joan - Burnside</span>

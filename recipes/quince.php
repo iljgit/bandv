@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside and Vinery Road Allotment Society - home grown quince paste recipe">
+    <meta name="description" content="Quince cooks up very nicely into a jelly or a paste (known as membrillo in Spain). It has an aromatic smell and a beautiful orangey colour when cooked.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Quince paste</title>
+    <title>Aromatic quince paste – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,9 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+        <h1>Quince Paste<h1>
+        <h4><i>Joan - Burnside</i></h4>
+
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -66,8 +68,6 @@
           
             <div class="row">
                 <div class="col-xs-12">
-                    <h1>Quince Paste<h1>
-                    <h4><i>Joan - Burnside</i></h4>
                     <p>
 For anyone unfamiliar with quince, it’s a hard fruit related to the pear. You can’t eat it raw, but it cooks up very nicely into a jelly or a paste 
 (the latter is especially popular in Spain, where it is known as membrillo and often paired with their sheep’s milk cheese, Manchego). 

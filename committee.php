@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Socxiety Committee members for Burnside and Vinery Road allotments, South Cambridge.">
+    <meta name="description" content="The Burnside and Vinery Allotment Society committee is comprised of volunteers who work hard to enure the smooth running of the two sites for all its members.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="favicon.ico">
 
-    <title>Committee: Burnside and Vinery Road Allotments</title>
+    <title>Allotment society committee – Burnside & Vinery Cambridge</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -55,7 +55,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>COMMITTEE</h3>
+				<h1>YOUR COMMITTEE</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

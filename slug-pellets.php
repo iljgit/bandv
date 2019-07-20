@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside has a community-run store for the Burnside and Vinery Road allotment holders.  It offers basic allotment necessities at competitive prices.">
+    <meta name="description" content="The NSALG (National Society of Allotment and Leisure Gardeners) web site has some very important information regarding the legailty of using blue slug pellets.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Slug Pellets: Burnside Allotments Site</title>
+    <title>New rules about slug pellets – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -50,7 +50,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-                <h3 style="padding-left: 0; margin-left: 0;">Slug Pellets</h3>
+                <h1style="padding-left: 0; margin-left: 0;">SLUG PELLETS</h1>
                 <p class="large-text">
                     The following is an extract from the NSALG (National Society of Allotment and Leisure Gardeners) web site, including some very important 
                     information regarding the legailty of using blue slug pellets.

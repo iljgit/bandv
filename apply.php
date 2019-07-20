@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Rent a quarter, half or full-sized plot on the Burnside or Vinery plots in South Cambridgeshire.  Contact us for more information.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery</title>
+    <title>Apply for an allotment - Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -102,7 +102,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>APPLY</h3>
+				<h1>APPLY FOR A PLOT</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -118,7 +118,7 @@
 	 <div class="container">
 	 	<div class="row">
 	 		<div class="col-xs-12 col-md-8">
-	 			<h4>Apply for a plot</h4>
+	 			<h4>Contact us if you would like to know more about renting</h4>
 	 			<div class="hline"></div>
          <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; background: rgba(0, 0, 255, 0.2); padding:10px;">
          Both sites, Vinery Road and Burnside, are currently fully let. You are welcome to apply and join either or both sites' waiting list. 

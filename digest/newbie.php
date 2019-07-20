@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Cambridge's Burnside new tenants experience">
+    <meta name="description" content="New plot holders give a very personal (and amusing) view of taking on a plot, deciding what to grow, and making it all happen.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/favicon.ico">
 
-    <title>Thoughts from new tenants: Burnside allotments, Cambridge UK</title>
+    <title>A newbie’s view of plot holding – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -40,7 +40,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Getting to grips with an allotment</h3>
+				<h1>STARTING FROM SCRATCH - A NEW PLOT HOLDER'S VIEW</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

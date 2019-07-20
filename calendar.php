@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Important dates in the Burnside and Vinery Road allotments calendar.">
+    <meta name="description" content="Important dates in the Burnside and Vinery allotment society calendar.  Events, volunteering days, store openings, and burn-bins, and a link to the BBC site for monthly jobs.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1000000">
     <link rel="shortcut icon" href="favicon.ico">
 
-    <title>Important dates: Burnside and Vinery Road allotments</title>
+    <title>Allotment society calendar - Burnside and Vinery Cambridge</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -178,7 +178,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>CALENDAR</h3>
+				<h1>ALLOTMENT SOCIEY CALENDAR</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

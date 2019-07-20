@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The history of Vinery Road and Burnside Allotments Society.">
+    <meta name="description" content="Joan has trawled through the society’s own and public documents to discover the history of Burnside & Vinery Rd allotments in Cambridge">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>History: Vinery Road and Burnside Allotments</title>
+    <title>Origins to present day – Bursnides & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -50,7 +50,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>HISTORY</h3>
+				<h1>HISTORY OF THE SOCIETY</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

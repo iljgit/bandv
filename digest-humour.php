@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Weeder's Digest quirky, allotment humour.">
+    <meta name="description" content="Weeder's Digest: quirky, allotment humour.  Guaranteed to put a smile on your face or a groan in your voice.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Weeders Digest: Allotment Humour</title>
+    <title>Allotment hoe hoe – Burnside & Vinery Cambridge</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST - Funny Hoe Hoe</h3>
+				<h1>WEEDER'S DIGEST - Funny Hoe Hoe</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

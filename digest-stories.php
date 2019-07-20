@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Weeder's Digest tells allotment holders' stories in their own words.">
+    <meta name="description" content="Personal views and experiences from allotmenteers.  Burnside & Vinery Allotment members talking about life on the plot.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Weeders Digest: Your stories</title>
+    <title>Views and experiences from allotmenteers – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -54,7 +54,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST - From the Ground Up</h3>
+				<h1>WEEDER'S DIGEST - From the Ground Up: Personal thoughts and experiences</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -72,7 +72,7 @@
                     <p class="large-text">
                         Joan from Burnside has chronicled her year on year assaults on the vegetable world - 
                         what worked, and what needs to be blamed on someone else, the weather, pests, the price of cheese....<br><br>
-                        <a href="digest/annual2018.php">
+                        <a href="digest/review-2018.php">
                             <button class="btn btn-success">Read more...</button><br>
                         </a>
                     </p>

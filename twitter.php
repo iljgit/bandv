@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside Allotment, in South Cambridge, is a friendly, well-run site catering for new allotment holders and the seasoned 'professionsals' alike.  Good soil and easy access to water make this an ideal location.">
+    <meta name="description" content="Our Twittter feed allows the Twittersphere to get instant information about what is going on in the world of Burnside & Vinery Rd allotments, South Cambridge.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>Burnside Allotment: Twitter</title>
+    <title>Society Twitter feed – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">

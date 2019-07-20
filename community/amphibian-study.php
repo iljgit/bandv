@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Cambridge's Burnside allotment is part of a study into amphibian terrestrial habitat">
+    <meta name="description" content="Burnside was part of a study into amphibian terrestrial habitat.  Our location next to Romsey Lakes and our wildlife areas is ideal for newts, toads and frogs">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Amphibian Study: Burnside allotments, Cambridge UK</title>
+    <title>Amphibian study at Burnside – Bursnide & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -40,7 +40,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>AMPHIBIAN STUDY</h3>
+				<h1>AMPHIBIAN STUDY</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

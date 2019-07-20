@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Smita's aromatic courgette curry is a very quick, simple, and, above all, tasty recipe making the most of fresh allotment produce and mild spices.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Burnside and Vinery: Courgette Curry</title>
+    <title>Aromatic courgette curry – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -53,7 +53,8 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>WEEDER'S DIGEST</h3>
+                <h1>SIMPLE COURGETTE CURRY<h1>
+                <h4><i>Smita - Burnside</i></h4>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
@@ -80,8 +81,6 @@
             
             <div class="row">
                 <div class="col-xs-12">
-                    <h1>Very simple (home cooking style) courgette curry<h1>
-                    <h4><i>Smita - Burnside</i></h4><br>
                     <p>
                     Anyone who was at the Society's summer BBQ will probably have enjoyed Smita's aromatic courgette curry. For those of you who were there, here's a chance 
                     to relive the flavours.  For those of you who weren't there, here's a chance to find out what you missed.</p><p>

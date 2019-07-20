@@ -4,13 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Cambridge's Burnside and Vinery Road Allotment Society - what's worked and what hasn't throughout the year ">
+    <meta name="description" content="Joan from Burnside gives a personal view of what worked and what didn’t for her in 2018, and what she might try another time.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/favicon.ico">
 
-    <title>Annual Experiments: Burnside and Vinery Road Allotments Society, Cambridge UK</title>
+    <title>One particular view of 2018 – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -40,7 +40,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Trial and error (and error, and error...)</h3>
+				<h1>2018 - TRIAL AND ERROR (and error, and error...)</h1>
                 <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joan - Burnside</i>
 			</div><!-- /row -->
 	    </div> <!-- /container -->

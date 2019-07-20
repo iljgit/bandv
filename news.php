@@ -4,14 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="All the latest news from the Burnside and Vinery Road allotments - and beyond.">
+    <meta name="description" content="All the latest news about what is going on in and around the Burnside and Vinery Rd sites. Reports of events, gatherings and general chit-chat.">
     <meta name="author" content="">
     <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
     <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
     <META HTTP-EQUIV="Expires" CONTENT="-100000">
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
-    <title>The latest news: Burnside and Vinery Road allotments</title>
+    <title>Latest news – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -28,11 +28,11 @@
                 array(
                     'dir' => '/assets/img/bvdayapr2019',
                     'id' => '41'
-                ),
+                )/*,
                 array(
                     'dir' => '/assets/img/plant-swap-2019',
                     'id' => '43'
-                )
+                )*/
             );
 
             $delim1 = "";
@@ -135,7 +135,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>NEWS</h3>
+				<h1>NEWS</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->
