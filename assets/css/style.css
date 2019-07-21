@@ -987,12 +987,12 @@ ul.pointer li:before {
 }
 
 /* Lists with calendar icon */
-ul.calendar { padding-left:20px; list-style:none; }
+ul.calendar { padding-left:30px; list-style:none; }
 ul.calendar li { margin-bottom:10px;}
 ul.calendar li:before {    
     font-family: 'FontAwesome';
     content: '\f073';
-    margin:0 5px 0 -20px;
+    margin:0 5px 0 -30px;
     color: red;
 }
 /*ul.calendar li:nth-child(even) {

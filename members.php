@@ -253,7 +253,21 @@ Why not take a good look round the store at the same time and stop for a cup of 
 
                                 <!--li>Check the calendar for forthcoming events.</li-->
                                 <li>Don't forget the Store is open until the end of July</li>
-
+                                <li>
+                                    <a href="calendar.php?select=17-Aug-2019">
+                                        The next Burnside children’s gathering will be on Saturday August 17<sup>th</sup> from 10am to noon at the picnic area
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="calendar.php?select=31-Aug-2019">
+                                        Burnside flag week starting Saturday 31<sup>st</sup> August
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="calendar.php?select=07-Sep-2019">
+                                        Burnside summer party, Saturday September 7<sup>th</sup> - details to follow
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>

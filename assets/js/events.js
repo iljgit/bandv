@@ -1,6 +1,27 @@
 var events = {
     events: [
         {
+                id: '31 Aug 2019',
+                title: 'Burnside Flag Week',
+                start: '31 Aug 2019',
+                end:  '07 Sep 2019',
+                allDay: true
+        },
+        {
+                id: '07 Sep 2019',
+                title: 'Burnside Summer Party',
+                start: '07 Sep 2019 12:00',
+                end:  '07 Sep 2019 17:00',
+                allDay: false
+        },
+        {
+                id: '17 Aug 2019',
+                title: 'Burnside Children\'s Gathering',
+                start: '17 Aug 2019 10:00',
+                end:  '17 Aug 2019 12:00',
+                allDay: false
+        },
+        {
                 id: '30 Jun 2019',
                 title: 'Burnside Burn Bin',
                 start: '30 Jun 2019 10:00',
