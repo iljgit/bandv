@@ -159,11 +159,11 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
 </p>
 <p class="large-text">
 <img src="assets/img/ken-cotterell.png" class="img img-responsive img-thumbnail" style="float: left; margin-right: 20px; margin-bottom: 20px;">
-We are very sorry to announce the death of Ken Cotterell, a Burnside tenant for many years, on Wednesday July 3rd. His funeral is to be held at 
+We are very sorry to announce the death of Ken Cotterell, a Burnside tenant for many years, on Wednesday July 3rd. His funeral was held at 
 Cambridge City Crematorium, West Chapel, on Monday July 22nd at 11am. 
 </p>
 <p class="large-text">
-No flowers, at the request of Ken’s family, but donations may be made to Arthur Rank Hospice Charities.
+Donations may be made to Arthur Rank Hospice Charities.
 </p>
                 </div>
             </div>

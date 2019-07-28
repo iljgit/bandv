@@ -63,6 +63,21 @@
             <div class="row">
                 <div id="gdpr" class="col-xs-12 mtop">
                     <table style="border-spacing: 10px; border-collapse: separate;">
+
+                        <tr>
+                            <td>
+                                Periodically, we like to keep the City Council up-to-date with what has been happening on our two sites.  
+                                The following link will take you to the summary of a document which Penny recently sent detailing 
+                                the major highlights of the last ten years.
+                            </td>
+                            <td>
+                                <a href="assets/docs/council-2019.pdf" target="doc">
+                                <button class="btn btn-xs btn-primary" style="width:90px">
+                                    PDF
+                                </button></a>
+                            </td>
+                        </tr>
+
                         <tr>
                             <td>
                                 <span id="gdpr">GDPR</span>

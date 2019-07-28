@@ -1,6 +1,18 @@
 var WNew = {
     data: [
         {
+            date: '28 Jul 2019',
+            target: '/documents.php',
+            title: `What's happened to the our sites in the last 10 years`,
+            detail: `Click to see a summary of the highlights of what's happened in recent years.`
+        },
+        {
+            date: '28 Jul 2019',
+            target: '/history.php',
+            title: `The Society's history page has some new information`,
+            detail: ''
+        },
+        {
             date: '13 Jul 2019',
             target: '/vinery.php',
             title: 'Vinery Species Audit, Summer 2019',
