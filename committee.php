@@ -116,6 +116,9 @@
                     <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Vinery site manager</span><br><i>Barry South - Vinery</i></p>
                     <blockquote class="large-text">
                         <img class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/BarrySouth2.jpg"/> 
+                        I’ve had a plot on the Vinery site since 2004 growing mostly fruit and veg that you can’t find easily in the supermarkets or that are just better eaten fresh. 
+                        I’m keen to both reclaim the real definition of fresh and minimise food miles. 
+                        Along with Alex and Suzy, I’m responsible for the management of the Vinery site.
                     </blockquote>
                     <p class="large-text text-center"><a href="mailto:vinery@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;vinery</a>
                     </p>
@@ -148,14 +151,6 @@
             </div>
             
             <div class="row margin-bottom" style="margin-bottom: 10px;">
-                <div class="col-xs-12 col-md-6">
-                    <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>Jason Daff - Vinery</i></p>
-                    <blockquote class="large-text">
-                    <img class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;"  src="assets/img/JasonDaff.jpg"/> <blockquote>
-                    I joined the Vinery Road site in 2015 shortly after moving to Cambridge, but I’ve had several allotments previously in various parts of the country where I have lived for work or study. I’m still getting to grips with our very dry East Anglian climate, free-draining loamy soil and the various resident pests and diseases! I guess I am an allotment traditionalist; 
-                    I enjoy digging, 'ordinary' vegetables and growing in straight rows! Follow my horticultural exploits on Twitter @JasonDaff 
-                    </blockquote>
-                </div>
                 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>Maxim Scheremetjew - Burnside</i></p>
@@ -164,15 +159,17 @@
                     I got a half plot for my partner's birthday in 2015 at Burnside, because we both love gardening and we got sick of starting from scratch every time we had to move house. Since then we've loved spending time outside on the plot, showing our two young kids how to grow different sorts of veggies. I joined the committee in 2017 to share my views on all the different topics with a key focus on the website.
                     </blockquote>
                 </div>
-            </div>
-            <div class="row margin-bottom">
+
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>John McGill - Burnside</i></p>
                     <blockquote class="large-text">
                         <img class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/johnmcgill.jpg"/>
                     I've had a plot at Burnside since about 2010 and have been on the committee since 2014. I've always found it a very friendly environment, with great collaboration among all other lot-holders.
                     </blockquote>
-                </div>        
+                </div>
+
+            </div>
+            <div class="row margin-bottom">                        
 
                 <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">                    
                     <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>Mark Talman - Burnside</i></p>
@@ -181,8 +178,6 @@
                     </blockquote>
                 </div> 
 
-            </div>
-            <div class="row margin-bottom">
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member (non-voting)</span><br><i>Suzy Ashworth - Associate member</i></p>
                     <blockquote class="large-text">
@@ -192,6 +187,7 @@
                     I also like growing flowers and unusual vegetables - anything that’s pretty or tasty, and preferably both.
                     </blockquote>
                 </div>
+
             </div>
 
             <div class="row"><div class="col-xs-12">&nbsp;</div></div>

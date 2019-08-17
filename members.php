@@ -138,6 +138,15 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 </div>
             </div>
 
+            <div class="row">
+                <div class="col-xs-12 text-center" style="border: 1px solid blue; border-radius: 10px; padding: 20px; background-color: rgba(0, 0, 255, 0.1);">
+                    <p class="large-text">
+                    Don’t forget, the table outside the Burnside Store is always available for surplus plants. 
+                    Lots of strawberry plants were left there on August 15<sup>th</sup>, but hurry – when they’re gone, they’re gone!
+                    </p>
+                </div>
+            </div>
+
             <!--div class="row">
                 <div class="col-xs-12 style="padding: 10px; margin-bottom: 30px;">
                     <h3 style="color: darkblue;" class="text-center">Burnside Burn Bin</h3>
@@ -150,23 +159,6 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                     </p>
                 </div>
             </div-->
-
-
-            <div class="row">
-                <div class="col-xs-12" style="padding: 10px;">                
-<p class="large-text">
-<h3>Sad news about one of Burnside’s longstanding tenants: Ken Cotterell passed away on Wednesday July 3<sup>rd</sup>.</h3>
-</p>
-<p class="large-text">
-<img src="assets/img/ken-cotterell.png" class="img img-responsive img-thumbnail" style="float: left; margin-right: 20px; margin-bottom: 20px;">
-We are very sorry to announce the death of Ken Cotterell, a Burnside tenant for many years, on Wednesday July 3rd. His funeral was held at 
-Cambridge City Crematorium, West Chapel, on Monday July 22nd at 11am. 
-</p>
-<p class="large-text">
-Donations may be made to Arthur Rank Hospice Charities.
-</p>
-                </div>
-            </div>
             
             <!--div class="row">
                 <div class="col-xs-3">
@@ -252,12 +244,6 @@ Why not take a good look round the store at the same time and stop for a cup of 
                                 <!-- PUT NEWS HERE -->
 
                                 <!--li>Check the calendar for forthcoming events.</li-->
-                                <li>Don't forget the Store is open until the end of July</li>
-                                <li>
-                                    <a href="calendar.php?select=17-Aug-2019">
-                                        The next Burnside children’s gathering will be on Saturday August 17<sup>th</sup> from 10am to noon at the picnic area
-                                    </a>
-                                </li>
                                 <li>
                                     <a href="calendar.php?select=31-Aug-2019">
                                         Burnside flag week starting Saturday 31<sup>st</sup> August
