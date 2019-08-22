@@ -2,6 +2,13 @@ var events = {
     events: [
         {
                 id: '31 Aug 2019',
+                title: 'Burnside Volunteering Day',
+                start: '31 Aug 2019 10:00',
+                end:  '31 Aug 2019 17:00',
+                allDay: false
+        },
+        {
+                id: '31 Aug 2019',
                 title: 'Burnside Flag Week',
                 start: '31 Aug 2019',
                 end:  '07 Sep 2019',
