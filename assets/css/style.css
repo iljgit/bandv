@@ -166,6 +166,10 @@ a:focus {
         background-position: top left;
 }
 
+.navbar-default .container {
+    background-color: rgba(128, 128, 128, 0.45);
+}
+
 .dropdown-menu {
 	/*background: #384452;*/
         /*background-color: rgba(0, 160, 0, 1);*/
@@ -1040,5 +1044,11 @@ ul.search a {
 @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
         color: #ffffff !important;
+        background-repeat: no-repeat;
+        background-size: initial;
+    }
+
+    .navbar-default .container {
+        background-color: transparent;
     }
 }

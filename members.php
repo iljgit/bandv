@@ -142,7 +142,6 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 <div class="col-xs-12 text-center" style="border: 1px solid blue; border-radius: 10px; padding: 20px; background-color: rgba(0, 0, 255, 0.1);">
                     <p class="large-text">
                     Don’t forget, the table outside the Burnside Store is always available for surplus plants. 
-                    Lots of strawberry plants were left there on August 15<sup>th</sup>, but hurry – when they’re gone, they’re gone!
                     </p>
                 </div>
             </div>
@@ -287,7 +286,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
-                            <p class="large-text">Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
+                            <p class="large-text">A greenhouse, in good order, available for <b>free</b>. Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>
                     </div>
