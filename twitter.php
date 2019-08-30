@@ -51,7 +51,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>TWITTER</h3>
+				<h1>TWITTER</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

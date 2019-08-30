@@ -10,7 +10,7 @@
     <META HTTP-EQUIV="Expires" CONTENT="-1">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Supporting Diabetes UK – Burnside & Vinery/title>
+    <title>Supporting Diabetes UK – Burnside & Vinery</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">

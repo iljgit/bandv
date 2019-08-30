@@ -50,7 +50,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>STORE</h3>
+				<h1>STORE</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

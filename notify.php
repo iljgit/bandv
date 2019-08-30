@@ -104,7 +104,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-				<h3>Notice</h3>
+				<h1>Notice</h1>
 			</div><!-- /row -->
 	    </div> <!-- /container -->
 	</div><!-- /blue -->

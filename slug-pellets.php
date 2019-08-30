@@ -50,7 +50,7 @@
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
-                <h1style="padding-left: 0; margin-left: 0;">SLUG PELLETS</h1>
+                <h1 style="padding-left: 0; margin-left: 0;">SLUG PELLETS</h1>
                 <p class="large-text">
                     The following is an extract from the NSALG (National Society of Allotment and Leisure Gardeners) web site, including some very important 
                     information regarding the legailty of using blue slug pellets.
