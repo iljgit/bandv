@@ -69,25 +69,26 @@
 	 
             <div class="row">
 
-            <div class="col-xs-12 col-lg-4">                    
+                <div class="col-xs-12 col-lg-12">                    
 
-                <div class="quote-container postit">
-                    <i class="pin"></i>
-                    <blockquote class="note general">
-                        <div class="title">
-                            <div style="font-size: 80%; width: 100%;">
-                                <span class="pull-left">Private</span><span class="pull-right">29/08/2019</span>
-                            </div><br>Free Greenhouse
-                        </div>
-                        We have a greenhouse in our garden, which we don’t use; it would be good to see it go to a good home. It is 1.95m by 1.60m, 
-                        with a sliding door in one of the shorter sides. It has an auto-opening vent in the top. As far as I can tell all the panes of glass are intact; 
-                        we have a few spares. 
-                        If anyone wants it they are welcome to it, subject to having to come and dismantle it and take it away. We are in St Thomas’ Square
-                        <cite class="author">Hamish<br>07815 081282</cite>
-                    </blockquote>
-                </div>                    
+                    <div class="quote-container postit">
+                        <i class="pin"></i>
+                        <blockquote class="note general">
+                            <div class="title">
+                                <div style="font-size: 80%; width: 100%;">
+                                    <span class="pull-left">Private</span><span class="pull-right">29/08/2019</span>
+                                </div><br>Free Greenhouse
+                            </div>
+                            <center><img class="img-responsive img-thumbnail" style="width: 40%;" src="assets/img/notices/hamish-greenhouse.jpg" /><center>
+                            We have a greenhouse in our garden, which we don’t use; it would be good to see it go to a good home. It is 1.95m by 1.60m, 
+                            with a sliding door in one of the shorter sides. It has an auto-opening vent in the top. As far as I can tell all the panes of glass are intact; 
+                            we have a few spares. 
+                            If anyone wants it they are welcome to it, subject to having to come and dismantle it and take it away. We are in St Thomas’ Square
+                            <cite class="author">Hamish<br>07815 081282</cite>
+                        </blockquote>
+                    </div>                    
 
-            </div>
+                </div>
 
                 <div class="col-xs-12 col-lg-4">                    
 
