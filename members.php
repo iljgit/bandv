@@ -245,11 +245,6 @@ Why not take a good look round the store at the same time and stop for a cup of 
                                 <!--li>Check the calendar for forthcoming events.</li-->
                                 <li>
                                     <a href="calendar.php?select=31-Aug-2019">
-                                        Burnside volunteering day Saturday 31<sup>st</sup> August
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="calendar.php?select=31-Aug-2019">
                                         Burnside flag week starting Saturday 31<sup>st</sup> August
                                     </a>
                                 </li>
@@ -286,7 +281,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
-                            <p class="large-text">A greenhouse, in good order, available for <b>free</b>. Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
+                            <p class="large-text">Recently felled eucalyptus logs. A greenhouse, in good order, available for <b>free</b>. Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>
                     </div>

@@ -69,7 +69,25 @@
 	 
             <div class="row">
 
-                <div class="col-xs-12 col-lg-12">                    
+            <div class="col-xs-12 col-lg-4">                    
+
+                <div class="quote-container postit">
+                    <i class="pin"></i>
+                    <blockquote class="note burnside">
+                        <div class="title">
+                            <div style="font-size: 80%; width: 100%;">
+                                <span class="pull-left">Burnside</span><span class="pull-right">04/09/2019</span>
+                            </div><br>Eucalyptus logs
+                        </div>
+                        <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/notices/eucalyptus-logs.jpg" />
+                        Lovely eucalyptus logs available for free from recently felled tree.  Collection from Burnside (road not site).
+                        <cite class="author">Call or text Cheryl<br>07450 850019</cite>
+                    </blockquote>
+                </div>                    
+
+            </div>
+
+                <div class="col-xs-12 col-lg-8">                    
 
                     <div class="quote-container postit">
                         <i class="pin"></i>
