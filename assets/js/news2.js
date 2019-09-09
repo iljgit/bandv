@@ -1,6 +1,26 @@
-// next id 44
+// next id 45
 var news = {
     news: [
+        {
+                title: "Burnside Summer Party - Sat 7<sup>th</sup> September, 2019",
+                id: 44, 
+                body: `
+<p>
+The Burnside summer party went off very well on Saturday September 8th with a good turnout of family and friends from across the age spectrum. In addition to the bbq, there was a lovely range of homemade food and drink, including savouries, salads and cakes: this writer was particularly taken by the elderflower fizz! 
+</p>
+<p>
+Andy’s Mystery Treasure Hunt with pirate theme went down very well and was apparently not as hideously difficult as some of his previous offerings! It’s a shame we don’t have any photographs of Andy in his pirate gear, complete with inflatable parrot on shoulder... Many thanks to Andy for the extraordinary amount of work that went into the treasure hunt and well done to Tom and friends, overall winners from those who finished it. 
+</p>
+<p>
+Joan’s horticultural quiz turned out to be a bit more taxing for those brave souls who attempted it, even though it was an opportunity to remain seated. Well done to Kate, who won with 7 out of 10. See photo for the quiz: for anyone who’s still itching to know the answers (and look away now if you still want to have a go!), they are as follows: 1=b (radish); 2=g (lettuce); 3=j (lupins); 4=e (white beetroot); 5=k (Brussels sprouts); 6=f (Chinese celery); 7=h (cauliflower); 8=a (kale); 9=d (leeks); and 10=c (melons).
+<p>
+The weather was on the cool side, but it didn’t rain and the sun came out towards the end of the day. All in all a very good day out with nice community spirit. Many thanks to all who helped organise it.
+</p>
+                `,       
+                date:  '09 Sep 2019',
+                expires: '09 Dec 2019 23:00',
+                images2: newsImages['44']
+        },
         {
                 title: "Society Plant Swap - Sat 11<sup>th</sup> and Sun 12<sup>th</sup> May, 2019",
                 id: 43, 
@@ -14,7 +34,7 @@ cauliflower, spring onions, celeriac, artichokes, purple sprouting broccoli, cab
 </p>
                 `,       
                 date:  '12 May 2019',
-                expires: '12 Sep 2019 23:00',
+                expires: '01 Sep 2019 23:00',
                 images2: newsImages['43']
         },
         {

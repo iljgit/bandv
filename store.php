@@ -81,33 +81,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <h3>The store is now open for 2019</h3>
+                    <h3>The store is now closed for 2019.  Open again Spring 2020.</h3>
                     <br>
                     <p class="large-text">The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
                     It sells essential supplies on weekend mornings during the summer months and is for the use of both Burnside and Vinery Road tenants. 
                     It is staffed by volunteers.</p>
                     <p class="large-text">
-                        For more information email<br>
+                        For more information email 
                         <a href="mailto:store@burnsideandvineryallotments.org"><span class="glyphicon glyphicon-envelope"></span>&nbsp;store@burnsideandvineryallotments.org</a>
                     </p>
                 </div>
             </div>
+
             <!--div class="row">
-                <div class="col-xs-12 col-md-6">
-                    <h2>Burnside Library</h2>
-                    <img src="assets/img/library.jpg" class="img-responsive img-rounded img-thumbnail" style="width: 100%; margin-right: 10px; margin-bottom: 10px;"/>
-                    <p>
-                        The Burnside library has been moved from the Store to, where else, the toilet.  It comprises an ever-expanding library of gardening books, predominantly vegetables and fruit, 
-                        and a few vegetable related cook books. If the hammering on the toilet door gets too much, you can borrow a book, 
-                        in which case all you need to do is enter your name and the date borrowed in the lending book, then enter the returned date 
-                        when you bring the book back.<br><br>
-If you have any books, along the same lines, that you would like to donate to the library they will be gratefully accepted. 
-Furthermore, if you spot a nice veg growing book, for example in a charity shop or a book sale, why not buy it, read it yourself, 
-and then donate it to the library. We should soon have a very useful resource available to all plot holders.
-                    </p>
-                </div>
-            </div-->
-            <div class="row">
                 <div class="col-xs-12">
                     <h4>Store Opening hours</h4>
                     <p class="large-text">
@@ -115,14 +101,14 @@ and then donate it to the library. We should soon have a very useful resource av
                         Additionally, in May: Sunday mornings 10-12<br><br>
                     </p>
                 </div>
-            </div>
-            <div class="row">
+            </div-->
+            <!--div class="row">
                 <div class="col-xs-12">
                     <p class="large-text text-center" style="color: darkred; font-weight: bold;">Jill from Burnside has hand-made a limited number of 
                     unique aprons and sets of bunting. Get them while you can! See the <a href="notices.php">noticeboard</a> for details.</p>
                 </div>
-            </div>
-            <div class="row">
+            </div-->
+            <div class="row" style="color: #a0a0a0;">
                 <div class="col-xs-12">
 <h4>
     Burnside Store Price list 2019

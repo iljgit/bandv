@@ -26,6 +26,10 @@
             $op = 'let newsImages = {';
             $garray = array(
                 array(
+                    'dir' => '/assets/img/bquiz2019',
+                    'id' => '44'
+                ),
+                array(
                     'dir' => '/assets/img/bvdayapr2019',
                     'id' => '41'
                 )/*,

@@ -242,17 +242,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <ul class="calendar large-text">
                                 <!-- PUT NEWS HERE -->
 
-                                <!--li>Check the calendar for forthcoming events.</li-->
-                                <li>
-                                    <a href="calendar.php?select=31-Aug-2019">
-                                        Burnside flag week starting Saturday 31<sup>st</sup> August
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="calendar.php?select=07-Sep-2019">
-                                        Burnside summer party, Saturday September 7<sup>th</sup> - details to follow
-                                    </a>
-                                </li>
+                                <li>Check the calendar for forthcoming events.</li>
                             </ul>
                         </div>
                     </div>
