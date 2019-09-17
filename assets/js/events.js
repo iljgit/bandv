@@ -1,6 +1,20 @@
 var events = {
     events: [
         {
+                id: '29 Sep 2019',
+                title: 'Rent and seed / potato orders at Vinery',
+                start: '29 Sep 2019 10:30',
+                end:  '29 Sep 2019 12:00',
+                allDay: false
+        },
+        {
+                id: '28 Sep 2019',
+                title: 'Rent and seed / potato orders at Burnside',
+                start: '28 Sep 2019 10:30',
+                end:  '28 Sep 2019 12:00',
+                allDay: false
+        },
+        {
                 id: '31 Aug 2019',
                 title: 'Burnside Volunteering Day',
                 start: '31 Aug 2019 10:00',

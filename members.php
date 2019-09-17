@@ -139,9 +139,23 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
             </div>
 
             <div class="row">
-                <div class="col-xs-12 text-center" style="border: 1px solid blue; border-radius: 10px; padding: 20px; background-color: rgba(0, 0, 255, 0.1);">
+                <div class="col-xs-12" style="border: 1px solid red; border-radius: 10px; padding: 20px; background-color: rgba(255, 0, 0, 0.05);">
                     <p class="large-text">
-                    Don’t forget, the table outside the Burnside Store is always available for surplus plants. 
+                        Rent payment and seed order / potato order collection dates are as follows:
+                        <ul> 
+
+                            <li class="large-text">Saturday September 28<sup>th</sup> at Burnside Store</li>
+
+                            <li class="large-text">Sunday September 29<sup>th</sup> at Vinery Pavilion</li>
+
+                        </ul>
+                    </p>
+                    <p class="large-text">
+                        Both sessions run from 10.30am till 12 noon. You can go to whichever venue and date is more convenient for you. Bags of autumn onion sets will also be available to purchase on both dates at a pound a bag.
+                    </p>
+                    <p class="large-text">
+                        Alternatively, seed and potato orders can be left in the collection box in the Vinery Pavilion or posted through the Burnside letterbox 
+                        (before October 7<sup>th</sup> at the very latest).
                     </p>
                 </div>
             </div>
@@ -225,8 +239,10 @@ Why not take a good look round the store at the same time and stop for a cup of 
                         </div>
                         <div class="panel-body" style="height:380px; overflow: auto;">
                         <p class="large-text">
-                        <img src="assets/img/bees.jpg" class="img img-responsive img-thumbnail" style="float: left; margin-right: 10px; width: 50%;">
-                        A swarm of bees on a tree at Burnside, all on their best beehaviour.
+                            <center>
+                        <img src="assets/img/bench_squash.jpg" class="img img-responsive img-thumbnail" style="width: 70%;"><br>
+                        A bit of a squash
+        </center>
                         </p>
                         </div>
                     </div>
@@ -242,7 +258,9 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <ul class="calendar large-text">
                                 <!-- PUT NEWS HERE -->
 
-                                <li>Check the calendar for forthcoming events.</li>
+                                <!--li>Check the calendar for forthcoming events.</li-->
+                                <li><a href="calendar.php">Saturday 28<sup>th</sup> September, 10:30 to 12, Burnside Store<br>Rent payment and seed / potato orders</a></li>
+                                <li><a href="calendar.php">Sunday 29<sup>th</sup> September, 10:30 to 12, Vinery Pavilion <br>Rent payment and seed / potato orders</a></li>
                             </ul>
                         </div>
                     </div>
@@ -271,7 +289,7 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <h3>Noticeboard</h3>
                         </div>
                         <div class="panel-body" style="height:240px; overflow: auto;">
-                            <p class="large-text">Recently felled eucalyptus logs. A greenhouse, in good order, available for <b>free</b>. Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
+                            <p class="large-text">Recently felled eucalyptus logs. Hand-made aprons, barrows (not hand-made), and a trug are available for low cost.</p>
                             <p class="large-text">Click <a href="/notices.php">here</a> for more details;</p>
                         </div>
                     </div>
