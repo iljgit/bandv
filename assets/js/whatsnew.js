@@ -1,6 +1,12 @@
 var WNew = {
     data: [
         {
+            date: '30 Sep 2019',
+            target: '/documents.php',
+            title: `2019 AGM`,
+            detail: `Report of this year's AGM - with additional reports to follow.`
+        },
+        {
             date: '28 Jul 2019',
             target: '/documents.php',
             title: `What's happened to the our sites in the last 10 years`,
