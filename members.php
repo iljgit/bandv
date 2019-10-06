@@ -112,6 +112,9 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
 	<!-- *****************************************************************************************************************
 	 BLUE WRAP
 	 ***************************************************************************************************************** -->
+
+     <div class="container-fluid parallax" style="background-image: url(/assets/img/trevor-taylor-dedication/D71_6848.jpg);"></div>
+
 	<div id="blue">
 	    <div class="container">
 			<div class="row">
@@ -124,8 +127,6 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
 	 BODY
 	 ***************************************************************************************************************** -->
 
-     <div class="container-fluid parallax" style="background-image: url(/assets/img/trevor-taylor-dedication/D71_6848.jpg);"></div>
-     <br>
 
 	 <div class="container">            
             <div class="row">
@@ -139,26 +140,19 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
             </div>
 
             <div class="row">
-                <div class="col-xs-12" style="border: 1px solid red; border-radius: 10px; padding: 20px; background-color: rgba(255, 0, 0, 0.05);">
+                <div class="col-xs-12 style="padding: 10px; margin-bottom: 30px;">
+                    <h3 style="color: darkblue;" class="text-center">Burnside Burn Bin</h3>
+                    <h4 style="color: darkblue;" class="text-center">Saturday 12<sup>th</sup> October, 10 - 12:30</h4>
                     <p class="large-text">
-                        Seed and potato orders can be left in the collection box in the Vinery Pavilion or posted through the Burnside letterbox 
-                        (before October 7<sup>th</sup> at the very latest).
+                    <img class="img img-thumbnail img-responsive" src="assets/img/campfire.jpg" style="margin-right: 10px; margin-bottom: 10px; float: left; width: 25%;">
+                    The forecast is good so, weather permitting, there will be a burn bin at Burnside on Saturday from 10 - 12:30. 
+                    Please dry anything you want to burn as much as possible beforehand.
+                    </p>
+                    <p class="large-text">
+                    Hot food from the Burn Bin oven at approximately 13:00. Come and join in and perhaps bring some food or drink to share.
                     </p>
                 </div>
             </div>
-
-            <!--div class="row">
-                <div class="col-xs-12 style="padding: 10px; margin-bottom: 30px;">
-                    <h3 style="color: darkblue;" class="text-center">Burnside Burn Bin</h3>
-                    <h4 style="color: darkblue;" class="text-center">Sunday 30<sup>th</sup> June, 10 - 12</h4>
-                    <p class="large-text" style="color: blue;">
-                    The forecast is good so, weather permitting, there will be a burn bin at Burnside on Sunday from 10 - 12.
-                    </p>
-                    <p class="large-text" style="color: blue;">
-                    Hot food - chicken and baked potatoes - from the Burn Bin oven at approximately 13:00. Come and join in and perhaps bring some food or drink to share.
-                    </p>
-                </div>
-            </div-->
             
             <!--div class="row">
                 <div class="col-xs-3">
@@ -226,9 +220,10 @@ Why not take a good look round the store at the same time and stop for a cup of 
                         </div>
                         <div class="panel-body" style="height:380px; overflow: auto;">
                         <p class="large-text">
-                            <center>
-                        <img src="assets/img/bench_squash.jpg" class="img img-responsive img-thumbnail" style="width: 70%;"><br>
-                        A bit of a squash
+                            <center class="large-text">
+                        <img src="assets/img/slug.jpg" class="img img-responsive img-thumbnail" style="width: 60%; margin-bottom: 10px;"><br>
+                        Don't forget, there are new rules coming in about slug pellets.<br>
+                        <a href="slug-pellets.php">Read more...</a>
         </center>
                         </p>
                         </div>
@@ -245,7 +240,8 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <ul class="calendar large-text">
                                 <!-- PUT NEWS HERE -->
 
-                                <li>Check the calendar for forthcoming events.</li>
+                                <!--li>Check the calendar for forthcoming events.</li-->
+                                <li><a href="calendar.php">Burnside Burn Bin - Saturday 12<sup>th</sup> October, 10 - 12:30</a></li>
                                 
                             </ul>
                         </div>
