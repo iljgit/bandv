@@ -146,7 +146,8 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                     <p class="large-text">
                     <img class="img img-thumbnail img-responsive" src="assets/img/campfire.jpg" style="margin-right: 10px; margin-bottom: 10px; float: left; width: 25%;">
                     The forecast is good so, weather permitting, there will be a burn bin at Burnside on Saturday from 10 - 12:30. 
-                    Please dry anything you want to burn as much as possible beforehand.
+                    Please dry anything you want to burn as much as possible beforehand.<br><br>
+                    Check the web site or Twitter on Saturday for news if anything changes.
                     </p>
                     <p class="large-text">
                     Hot food from the Burn Bin oven at approximately 13:00. Come and join in and perhaps bring some food or drink to share.
