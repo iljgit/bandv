@@ -159,11 +159,11 @@ a:focus {
 	/*background-color: #384452;*/
         /*background-color: rgba(0, 160, 0, 1);*/
         background-image: url(/assets/img/sunflower-background.jpg);/*url(/assets/img/navbar-background-summer.jpg);*/
-        background-color: #4b692b;
-        background-repeat: repeat-y;
+        background-color: rgba(80, 80, 80, 0.4);
+        background-repeat: no-repeat;
         background-size: cover;
-	border-color: transparent;
-        background-position: top left;
+	    border-color: transparent;
+        background-position: top center;
 }
 
 .navbar-default .container {
@@ -1047,7 +1047,8 @@ ul.search a {
 
 
 /* Menu override */
-@media (max-width: 767px) {
+
+@media (max-width: 768px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
         color: #ffffff !important;
         background-repeat: no-repeat;
@@ -1057,4 +1058,35 @@ ul.search a {
     .navbar-default .container {
         background-color: transparent;
     }
+}
+
+.jsslider_image {
+    width: 300px;
+    height: 262.5px;
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    .jsslider_image {
+        width: 600px;
+        height: 450px;
+    }    
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .jsslider_image {
+        width: 800px;
+        height: 600px;
+    }
+    
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .jsslider_image {
+        width: 1000px;
+        height: 750px;
+    }
+    
 }

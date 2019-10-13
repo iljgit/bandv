@@ -16,6 +16,7 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     
     <link rel="stylesheet" href="assets/css/blueimp-gallery.min.css">
+    <script src="assets/js/jssor.slider.min.js"></script>
 
     <!-- Custom styles for this template -->
     <style>
@@ -102,9 +103,21 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 }
             }
         </script>
+
+        <script>
+            let jsSliders = {};
+            function jsSlider(sliders) {
+                console.log('sliders');
+                for (const s of sliders) {
+                    console.log(s);
+                    let options = { $AutoPlay: 1, $LazyLoading: 1 };
+                    jsSliders[s] = new $JssorSlider$(s, options);
+                }
+            }
+        </script>
   </head>
 
-  <body onload="WNew.display();">
+  <body onload="WNew.display(); jsSlider(['jssor_1']);">
 
     <!-- Fixed navbar -->
    <?php include "menu_snippet.html" ?>
@@ -140,18 +153,27 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
             </div>
 
             <div class="row">
-                <div class="col-xs-12 style="padding: 10px; margin-bottom: 30px;">
-                    <h3 style="color: darkblue;" class="text-center">Burnside Burn Bin</h3>
-                    <h4 style="color: darkblue;" class="text-center">Saturday 12<sup>th</sup> October, 10 - 12:30</h4>
-                    <p class="large-text">
-                    <img class="img img-thumbnail img-responsive" src="assets/img/campfire.jpg" style="margin-right: 10px; margin-bottom: 10px; float: left; width: 25%;">
-                    The forecast is good so, weather permitting, there will be a burn bin at Burnside on Saturday from 10 - 12:30. 
-                    Please dry anything you want to burn as much as possible beforehand.<br><br>
-                    Check the web site or Twitter on Saturday for news if anything changes.
-                    </p>
-                    <p class="large-text">
-                    Hot food from the Burn Bin oven at approximately 13:00. Come and join in and perhaps bring some food or drink to share.
-                    </p>
+                <div class="col-xs-12 centered">
+                    <h2>Take a look at some recent photos</h2>
+                    <center>
+                        <div class="jsslider_image" id="jssor_1" style="position:relative;top:0px;left:0px;overflow:hidden;">
+                            <div class="jsslider_image" data-u="slides" style="position:absolute;top:0px;left:0px;overflow:hidden;">
+                                <div><img data-u="image" data-src2="assets/img/recent/1.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/2.jpg" /></div>                                
+                                <div><img data-u="image" data-src2="assets/img/recent/3.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/4.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/5.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/6.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/7.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/8.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/9.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/10.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/11.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/12.jpg" /></div>
+                                <div><img data-u="image" data-src2="assets/img/recent/13.jpg" /></div>
+                            </div>                                
+                        </div>
+                    </center>
                 </div>
             </div>
             

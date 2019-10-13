@@ -1,10 +1,22 @@
 var WNew = {
     data: [
         {
+            date: '13 Oct 2019',
+            target: '/digest/review-2019.php',
+            title: `A look back at 2019`,
+            detail: `Joan from Burnside gives her own view on the 2019 growing season`
+        },
+        {
+            date: '12 Oct 2019',
+            target: '/digest/trevor-taylor.php',
+            title: `The original Weeder's Digest`,
+            detail: `Trevor Taylor was responsible for the first incarnation of Weeder's Digest.  See for yourself what was going on in 2011 - maybe reviving some memories!`
+        },
+        {
             date: '30 Sep 2019',
             target: '/documents.php',
             title: `2019 AGM`,
-            detail: `Report of this year's AGM - with additional reports to follow.`
+            detail: `Report of this year's AGM`
         },
         {
             date: '28 Jul 2019',
