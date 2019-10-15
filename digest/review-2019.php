@@ -119,7 +119,7 @@ As for pumpkins, I said I was going to grow the ugly looking warty-skinned ‘Go
             <div class="row">
                 <div class="col-xs-12">
 <p class="large-text">
-I don’t always grow cucumbers, but I have decided I’d better have a go in 2020 as it is the Year of the Cucumber (who’d have thought it). I intend to go for Salad Bush for a change: 8” fruits, suitable for containers, so I will grow them at home and keep any eye on them there.
+I don’t always grow cucumbers, but I have decided I’d better have a go in 2020 as it is the Year of the Cucumber (who’d have thought it). I intend to go for Salad Bush for a change: 8” fruits, suitable for containers, so I will grow them at home and keep an eye on them there.
 </p>
                 </div>
             </div>

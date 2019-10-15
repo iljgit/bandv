@@ -126,9 +126,9 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
 	 BLUE WRAP
 	 ***************************************************************************************************************** -->
 
-     <div class="container-fluid parallax" style="background-image: url(/assets/img/trevor-taylor-dedication/D71_6848.jpg);"></div>
+     <div class="container-fluid parallax" style="background-image: url(/assets/img/october-2019.jpg);"></div>
 
-	<div id="blue">
+	<div id="blue" style="margin-top:0;">
 	    <div class="container">
 			<div class="row">
 				<h1>MEMBERS AREA</h1>
@@ -263,8 +263,8 @@ Why not take a good look round the store at the same time and stop for a cup of 
                             <ul class="calendar large-text">
                                 <!-- PUT NEWS HERE -->
 
-                                <!--li>Check the calendar for forthcoming events.</li-->
-                                <li><a href="calendar.php">Burnside Burn Bin - Saturday 12<sup>th</sup> October, 10 - 12:30</a></li>
+                                <li>Check the calendar for forthcoming events.</li>
+                                <!--li><a href="calendar.php">Burnside Burn Bin - Saturday 12<sup>th</sup> October, 10 - 12:30</a></li-->
                                 
                             </ul>
                         </div>
