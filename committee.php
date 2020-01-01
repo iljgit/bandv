@@ -171,13 +171,6 @@
             </div>
             <div class="row margin-bottom">                        
 
-                <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">                    
-                    <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member</span><br><i>Mark Talman - Burnside</i></p>
-                    <blockquote class="large-text"><img  class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="assets/img/mark.jpg"/>
-                    I've had an allotment since 2005, I love to grow what I can't buy, so there's been some odd fruit and veg over the years. Converted to no-dig organic gardening about 7 years ago.
-                    </blockquote>
-                </div> 
-
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p class="large-text" style="margin-bottom: 10px;"><span class="text-primary">Committee member (non-voting)</span><br><i>Suzy Ashworth - Associate member</i></p>
                     <blockquote class="large-text">

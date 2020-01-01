@@ -152,6 +152,12 @@ xiframe[id^='twitter-widget-']{ width:100% !important; min-width: 100% !importan
                 </div>
             </div>
 
+            <div class="row" style="margin-bottom: 20px;">
+                <div class="col-xs-12">
+                    <img class="img-responsive" src="assets/docs/2020SeedySunday.jpg" style="margin: 0 auto;"/>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="col-xs-12 centered">
                     <h2>Take a look at some recent photos</h2>
