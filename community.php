@@ -1,164 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Burnside and Vinery is an important part of the South Cambridge community.  We like to support local projects and give back to the wider community where we can.">
-    <meta name="author" content="">
-    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
-    <META HTTP-EQUIV="Expires" CONTENT="-1">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <head>
+        <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/header.php" ?>
+    </head>
+    <body onload="BandV.onload();">
+        <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
-    <title>Community projects supported – Burnside & Vinery Allotments</title>
+        <!-- Banner image -->
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/community/header.jpg);">
+            <h1 id="title"><span class="title-background">Community Projects</span></h1>
+        </div>
 
-    <!-- Bootstrap core CSS -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
-    
-    <link rel="stylesheet" href="assets/css/blueimp-gallery.min.css">
+        <div class="container" id="pagebody">
+                                
+            <div class="row mb" id="home">
 
-    <!-- Custom styles for this template -->
-    <!--link href="assets/css/style.css?<?php echo(rand()); ?>" rel="stylesheet"-->
-    <style>
-        <?php
-            $page = file_get_contents('assets/css/style.css');
-            echo $page;
-        ?>
-    </style>
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
-    
-  </head>
+                <div class="col-12">
+                    <p>
+                        As a Society, we are delighted to be able to support a number of community activities.  Working with our neighbours at both sites 
+                        provides a vital link betweenus as allotment holders, and the communities in which we live.  Over the years we have also been able to help 
+                        people with charitable fund-raising and academics studying flora and fauna.
+                    </p>
+                </div>
 
-  <body class="digest">
+            </div>
 
-    <!-- Fixed navbar -->
-    <?php include "menu_snippet.html" ?>
-    
-	<!-- *****************************************************************************************************************
-	 BLUE WRAP
-	 ***************************************************************************************************************** -->
-	<div id="blue">
-	    <div class="container">
-			<div class="row">
-				<h1>COMMUNITY PROJECTS</h1>
-			</div><!-- /row -->
-	    </div> <!-- /container -->
-	</div><!-- /blue -->
+            <div class="row mb">
 
-	<!-- *****************************************************************************************************************
-	 CONTACT WRAP
-	 ***************************************************************************************************************** -->
-
-	 <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
-                    <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
-                        <div class="slides"></div>
-                        <h3 class="title"></h3>
-                        <a class="prev">‹</a>
-                        <a class="next">›</a>
-                        <a class="close">×</a>
-                        <a class="play-pause"></a>
-                        <ol class="indicator"></ol>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/community/tjkids.jpg)'>TJ Kids</div>
+                        <div class="card-body">TJ Kids is a not-for-profit company delivering extra-curricular activities to children.  
+                        Vinery Road provides a plot where children can learn about growing the food they eat.</div> 
+                        <div class="card-footer"><a href="https://www.tjkids.co.uk/" target="tjkids" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
-            </div>
-            
-            <div class="row">
-                <div class="col-xs-12">
-                    <p class="large-text">Vinery Road and Burnside allotments support a number of community, charitable and research projects.<br><br>
-                    For those not in the know, here is a little information about what is going on.
-                    </p>
-                    <hr><br>
-                </div>
-            </div>
-            
-            <div class="row">
-            
-                <div class="col-xs-12 col-md-6">
-                    <p>                        
-                        <span class="blog-title">Soil and Waste in Cambridge</span><br>
-                        <span class="blog-subtitle">
-                            
-<p>My name is Kim Graham and I am a doing an MSc in Agroecology and Food Security at Coventry University. I live in Cambridge and am passionate about supporting local food systems, and so I am doing my final thesis around this. This questionnaire is designed to help me learn more about the practices of people who grow in allotments and community gardens in Cambridge to do with soil and waste. By completing this questionnaire, you will help me understand how soil nutrition and waste recycling may be contributing to a more environmentally friendly and socially equitable food system locally. Thanks very much for your interest, and if you would like to know more about the research project, get involved further with it, or simply have any questions, feel free to contact me at <a href="mailto:grahamk6@uni.coventry.ac.uk">grahamk6@uni.coventry.ac.uk</a>.</p>
-<p>The link to the questionnaire is: <a href="https://coventry.onlinesurveys.ac.uk/cgsmembersquestionnaire" target="q">https://coventry.onlinesurveys.ac.uk/cgsmembersquestionnaire</a>, and you need the password <b>KGMSC2018</b> to access it. </p>
-<p>Let me know if you have any questions about this and many thanks again for your help.</p>
-<p>Best wishes,</p>
-<p>Kim</p>
-                            
-                        </span>
-                    </p>
-                </div>
-                
-                <div class="col-xs-12 col-md-6">
-                    <p>                        
-                        <span class="blog-title">Diabetes UK</span><br>
-                        <span class="blog-subtitle">
-                            <img src="/community/images/diabetes_swim_22.jpg" style="width: 40%; margin-bottom: 20px; margin-right: 20px;" class="img-thumbnail pull-left" />
-                            Tina, one of the Burnside allotment holders, has been doing her bit (and more besides) for Diabetes UK.  Here she tells us what she has been up to and how you can help.<br>
-                            <a href="community/diabetes-uk.php"><button class="btn btn-success pull-right">More...</button></a>
-                        </span>
-                    </p>
-                </div>
-                
-                <div class="col-xs-12 col-md-6">
-                    <p>                        
-                        <span class="blog-title">Amphibians</span><br>
-                        <span class="blog-subtitle">
-                            <img src="/assets/img/community/newt.jpg" style="width: 40%; margin-bottom: 20px; margin-right: 20px;" class="img-thumbnail pull-left" />
-                            Kate Lewis, an MSc Conservation student at the University College of London, is studying Cambridge allotments to ascertain how important they are as terrestrial habitat for amphibians and reptiles.  Her final report is now in.<br>
-                            <a href="community/amphibian-study.php"><button class="btn btn-success pull-right">More...</button></a>
-                        </span>
-                    </p>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/community/brook.jpg)'>Friends of Cherry Hinton Brook</div>
+                        <div class="card-body">Running just north of Burnside, by Snakey Path, is Cherry Hinton Brook.  The Society allows the Friends to keep its 
+                        equipment in the Store.</div> 
+                        <div class="card-footer"><a href="#friends" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
                 </div>
 
-                <div class="col-xs-12 col-md-6">
-                    <p>
-                        <span class="blog-title">Cherry Hinton Brook and its Friends</span><br>
-                        <span class="blog-subtitle">
-                            <img src="/assets/img/community/brook.jpg" style="width: 40%; margin-bottom: 20px; margin-right: 20px;" class="img-thumbnail pull-left" />
-                            As most Burnside allotments plotholders know, particularly those who use the Burnside gate, Cherry Hinton Brook runs along the north side of the allotments, alongside Snakey Path and Burnside itself...<br>
-                            <a href="community/brook-friends.php"><button class="btn btn-success pull-right">More...</button></a>
-                        </span>
-                    </p>
-                </div>
             </div>
             
-            <div class="row">
-                <div class="col-xs-12">&nbsp;</div>
+        </div><!--container-->
+
+        <div id="friends" class="container-fluid parallax banner" style="background-image: url(/assets/img/community/brook/header.jpg); margin-top: 60px;">
+            <h1 id="title"><span class="title-background">Friends of Cherry Hinton Brook</span></h1>
+        </div>
+
+        <div class="container">
+            <div class="row mb">
+                <div class="col-12">
+                <p>
+                    <img class="img-thumbnail img-responsive pull-left margin" style="width: 30%;" src="/assets/img/community/brook/brook1.jpg"/>As most Burnside allotments plotholders know, particularly those who use the Burnside gate, Cherry Hinton Brook runs along the north side of the allotments, alongside Snakey Path and Burnside itself. The brook rises in Cherry Hinton at Giant’s Grave, just across from the Robin Hood pub, and flows through Cherry Hinton Hall, where it has been formed into a lake, and then proceeds to join up with Coldham’s Brook on Coldham’s Common, and eventually disperses into Ditton Fields. Much of the water is lost en route into various drainage ditches so there is no direct outflow into the Cam as there would once have been.</p>
+                    
+                    <p>
+Nevertheless it is, essentially, a healthy chalk stream, a very rare habitat, and it is extremely rich in wildlife: water voles (a species that is very threatened in most parts of England); fish (stickleback, bullheads, perch and roach); and birds, ranging from the aquatic (mallard duck, moorhen, and indeed the occasional swan and egret) to the more aerial – kingfishers are often seen darting along the surface and little egrets visit in the winter months.
+                    </p>
+                    
+                    <p>
+                    <img class="img-thumbnail img-responsive pull-right margin" style="width: 30%;" src="/assets/img/community/brook/brook2.jpg"/>
+It is also popular with people. Passers-by are frequently seen lingering, photographing and/or feeding the ducks.  The brook provides a “green corridor” from the countryside into the site and, all in all, it can be considered an important local asset.
+                    </p>
+                    
+                    <p>
+Taking on a safe-keeping role for the brook are the Friends of Cherry Hinton Brook (FCHB), a local group with members coming from the surrounding area. The group’s activities, mainly carried out by volunteers, include:<ul>
+<li>maintaining the appearance of the brook, for instance by removing litter;</li>
+<li>wildlife habitat improvement: current activities including the installation of flow deflectors at certain locations (including two at the end of Burnside, close to the allotments gate).  These are made from logs which are tied to each side of the brook and kept in place with gravel. By narrowing the brook, they speed up the flow of water and thus disperse the mud and silt. In some places you can now see the natural streambed;</li>
+<li>raising public awareness of the brook’s wildlife importance (for example with the siting of information boards);</li>
+<li>assessment of and comment on development proposals and local plans that might impact the brook and its surroundings.</li>
+</ul>
+                    </p>
+                    
+                    <p>
+FCHB works closely with Cambridge City Council, Rivercare (a programme run by Keep Britain Tidy to maintain waterways in East Anglia) and the Cambridge Natural History Society.
+FCHB is always keen on making contact with anyone interested in the brook and its environment, and gives a warm welcome to anyone wishing to become a member or who would like to receive the regular newsletter.  The website is: <a href="http://www.friendsofcherryhintonbrook.org.uk/" target="_blank">http://www.friendsofcherryhintonbrook.org.uk/</a>
+                    </p>
+                    
+                    <p>
+By the way, the Burnside and Vinery Road Allotments already has an affiliation of sorts with FCHB as its brook-cleaning equipment is kept in the Burnside store.
+                    </p>
+                    
+                    <p><i>John McGill, Burnside</i></p>
+                </div>
             </div>
         </div>
-	 
-	
-	<!-- *****************************************************************************************************************
-	 FOOTER
-	 ***************************************************************************************************************** -->
-	 <?php include "footer_snippet.html" ?>
-	 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/retina-1.1.0.js"></script>
-        <script src="assets/js/blueimp-gallery.min.js"></script>
+	     
 
-  <script>
-    var i, el, els;
-    els = document.getElementsByName('links');
-    for (i = 0; i < els.length; i++) {
-        el = els[i];
-        el.onclick = function (event) {
-            event = event || window.event;
-            var target = event.target || event.srcElement,
-                link = target.src ? target.parentNode : target,
-                options = {index: link, event: event},
-                links = this.getElementsByTagName('a');
-            blueimp.Gallery(links, options);
-        };
-    }
-    </script>  
-  </body>
-</html>
+         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/footer.php" ?>
+     </body>
+ </html>
