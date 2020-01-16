@@ -32,8 +32,13 @@ function params($m) {
     return $ret;
 }
 
+// do we have an email address - stops crawlers activating the script
+$email = geturi('email');
+if (!$email || strlen($email) === 0) {
+    exit();
+}
 
-
+// build the emails
 $templateConf = "Dear {name}<br><br>";
 $templateConf .= "Thank you for your application for a plot at the {site} site.  One of the committee will be back in touch shortly.<br><br>";
 $templateConf .= "For your information, you sent us the following details<br><br>";
@@ -74,7 +79,6 @@ $message = $templateConf;
 
 $message .= $footer;
 $message = params($message);
-$email = geturi('email');
 
 $ret = mail ( $email , $subject , $message, $headers );
 
