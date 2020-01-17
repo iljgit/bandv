@@ -45,7 +45,10 @@
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
-                        <div class="card-body">Trumpington Allotment Society's "Seedy Sunday" - 26th January 2020.</div> 
+                        <div class="card-body">
+                            <p>Seed Potato Collection - Burnside Store, Sunday 26<sup>th</sup> January, 10:00 - 12:00</p>
+                            <p>Trumpington Allotment Society's "Seedy Sunday" - 26<sup>th</sup> January 2020.</p>
+                        </div> 
                         <div class="card-footer"><a href="#calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
@@ -104,7 +107,13 @@
         <div class="container">
             <div class="row mb">
                 <div class="col-12">
-                    <p>If you have any dates you would like us to put in the diary, email the <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a></p>
+                    <p>If you have any dates you would like us to put in the diary, email the <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a><br><br></p>
+                </div>
+                <div class="col-12">
+                    <p>
+                        <img src="/assets/img/weeders-digest/calendar/seed-potato.jpg" class="img img-thumbnail img-responsive img-pull-right" style="width: 25%;">
+                        Seed potatoes are due to be with us on Monday Jan 20th.  There will be an order collection morning, from the Burnside store on Sunday 26th 10:00 – 12:00.
+                    </p>
                 </div>
                 <div class="col-12">
                     <p><img src="/assets/img/weeders-digest/calendar/2020SeedySunday.jpg" class="img img-thumbnail img-responsive" style="height: 50%;"></p>
