@@ -25,7 +25,7 @@
                         Let us know what you think about the new site and any suggestions you have about content.  Better still, send us an article or 
                         some photos.
                         <br><br>
-                        Email me, Joan, the <a href="mailto:webmaster@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;webmaster</a>
+                        Email me, Joan, at <a href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a>
                     </p>
                 </div>
 
