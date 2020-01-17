@@ -106,7 +106,7 @@ community projects and regular onsite projects undertaken by volunteers.
 </div>
 <h1>Membership</h1>
 <p class="large-text">
-And what of the membership? Some tenants have had amazingly long records of continuity, such as John Bird and Len Butler above, 
+And what of the membership? Some tenants have had amazingly long records of continuity, such as John Bird and Len Butler, 
 and the AGM minutes for 1985 record the death of Mr E W Day, one of the then oldest members, who had joined in 1948. As for Trevor Taylor, 
 he took on his plot at Vinery Road in about 1970 and did not cease active work on it until 2012. He retained a connection with the Society as 
 Honorary President until his death in 2018. Contrary to popular notions, women members were certainly not unknown in earlier times, 

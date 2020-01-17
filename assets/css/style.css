@@ -442,6 +442,38 @@ button.navbar-toggler {
     background: rgba(255, 255, 255, 0.6);
 }
 
+.para-highlight p {
+    padding-bottom: 10px;
+}
+
+.para-highlight p:last-child {
+    padding-bottom: 0;
+}
+
+.para-highlight p:nth-child(even) {
+    color: #606060;
+}
+
+.calendar-entry .date {
+    font-weight: bolder;
+    color: blue;
+}
+
+.calendar-entry .title {
+    font-weight: bolder;
+}
+
+.calendar-row .calendar-entry {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #808080;
+}
+
+.calendar-row .calendar-entry:last-child {
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
 @media (max-width: 575px) {
     .navbar-collapse {
         background: var(--menu-background-colour);
