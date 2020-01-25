@@ -25,12 +25,13 @@
                         Let us know what you think about the new site and any suggestions you have about content.  Better still, send us an article or 
                         some photos.
                         <br><br>
-                        Email me, Joan, at <a title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a>
+                        Email me, Joan, at <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
                     </p>
                 </div>
 
                 <div class="col-12">
-                <p>For many years, Trevor Taylor, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
+                <p>For many years, <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
                 which usually included growing tips, general allotment news and recipes.  Here is our equivalent.</p>
                 <p>
                 This page is an at-a-glance view of what is new, what is happening and, hopefully, what is interesting in the world of allotmenteering and of the Society.
@@ -46,9 +47,8 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <p>Coppicing Day - Vinery Road, Saturday 25<sup>th</sup> January, 10:00</p>
                             <p>Seed Potato Collection - Burnside Store, Sunday 26<sup>th</sup> January, 10:00 - 12:00</p>
-                            <!--p>Trumpington Allotment Society's "Seedy Sunday" - 26<sup>th</sup> January 2020.</p-->
+                            <p>Trumpington Allotment Society's "Seedy Sunday" - 26<sup>th</sup> January 2020.</p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -108,7 +108,10 @@
         <div class="container">
             <div class="row mb calendar-row">
                 <div class="col-12">
-                    <p>If you have any dates you would like us to put in the diary, email the <a title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a><br><br></p>
+                    <p>If you have any dates you would like us to put in the diary, email the 
+                    <a id="webmasteremail2" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
+                    <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail2');"></i>
+                    <br><br></p>
                 </div>
 
                 <div class="col-12 calendar-entry">
@@ -146,7 +149,9 @@
                     </p>
                     <p>
                     If you have a favourite site which you think would interest others, please email 
-                    <a title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a><br><hr>
+                    <a id="webmasteremail3" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
+                    <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail3');"></i>
+                    <br><hr>
                     </p>
                 </div>
             </div>
@@ -167,7 +172,7 @@
                     <img src="/assets/img/weeders-digest/links/tvgarden.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" />
                     <h4>Allotment &amp; Gardens - Advice and useful information</h4>
                     Tips, tricks, self-help videos, recipes and more.  It includes an active forum -useful now that our own forum is off-line.<br><br>
-                    <a title="Visit the allotment garden web site at http://www.allotment-garden.org/" href="http://www.allotment-garden.org/" target="ext"><i>allotment-garden.org/</i></a>
+                    <a title="Visit the allotment garden web site at http://www.allotment-garden.org/" href="http://www.allotment-garden.org/" target="ext"><i>allotment-garden.org</i></a>
 
                     
                 </div>
@@ -176,29 +181,30 @@
                 
                     <img src="/assets/img/weeders-digest/links/carrots.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>Everything you always wanted to know about carrots, and more besides</h4>
                     Allegedly the world's first virtual museum of the carrot - and who are we to judge?<br><br>
-                    <a title="Visit the carrot museum at http://www.carrotmuseum.co.uk/" href="http://www.carrotmuseum.co.uk/" target="ext"><i>carrotmuseum.co.uk/</i></a>
+                    <a title="Visit the carrot museum at http://www.carrotmuseum.co.uk/" href="http://www.carrotmuseum.co.uk/" target="ext"><i>carrotmuseum.co.uk</i></a>
 
                     
                 </div>
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">      
-                    <p><img src="/assets/img/weeders-digest/links/gw.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>BBC Gardeners Calendar</h4>
-                    A useful list of jobs to do at any time of year.  Unfortunately, the BBC is no longer maintaining this page.<br><br>
-                    <a title="Visit the BBC gardening calendar at http://www.bbc.co.uk/gardening/calendar/calendar.shtml" href="http://www.bbc.co.uk/gardening/calendar/calendar.shtml" target="ext"><i>bbc.co.uk/gardening</i></a>
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">   
+                    <h4>The National Allotment Society</h4>
+                    <p><img src="/assets/img/weeders-digest/links/nsalg.gif" class="img-thumbnail pull-left" style="width: 50%; margin-right: 10px; margin-bottom: 10px;" />
+                    The NSALG has an active site with all sorts of useful tips and advice.<br><br>
+                    <a title="Visit NSALG at https://www.nsalg.org.uk/growing-advice/" href="https://www.nsalg.org.uk/growing-advice/" target="ext"><i>nsalg.org.uk</i></a>
                     </p>
                 </div>
                     
                 <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
                     <p><img src="/assets/img/weeders-digest/links/thirsty.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>Two Thirsty Gardeners</h4>
                     Digging and swigging through the seasons.<br><br>
-                    <a title="Visit the Two Thirsty Gardener's website at http://twothirstygardeners.co.uk/" href="http://twothirstygardeners.co.uk/" target="ext"><i>twothirstygardeners.co.uk/</i></a>
+                    <a title="Visit the Two Thirsty Gardener's website at http://twothirstygardeners.co.uk/" href="http://twothirstygardeners.co.uk/" target="ext"><i>twothirstygardeners.co.uk</i></a>
                     </p>
                 </div>
                 
                 <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
                     <p><img src="/assets/img/weeders-digest/links/organicsite.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>No Dig Organic Gardening</h4>
                     "Charles is an acclaimed innovator of no dig, organic growing since 1983, and since 2003 of new ways to crop salad leaves. His original, weed free methods give superb results in both small and large areas...."<br><br>
-                    <a title="Learn all about No Dig at https://www.charlesdowding.co.uk/" href="https://www.charlesdowding.co.uk/" target="ext"><i>charlesdowding.co.uk/</i></a>
+                    <a title="Learn all about No Dig at https://www.charlesdowding.co.uk/" href="https://www.charlesdowding.co.uk/" target="ext"><i>charlesdowding.co.uk</i></a>
                     </p>
                     
                 </div>
@@ -208,7 +214,7 @@
                     Watching for and dealing with blight - recommended by Andy Kurdynowski.  
                     It’s free to register, and if you do you will get email warnings when there is a likelihood, or indeed instances, 
                     of blight in your chosen postcode area.<br><br>
-                    <a target="_blank" title="Importsnt Blight Watch information at http://www.blightwatch.co.uk/" href="http://www.blightwatch.co.uk/">blightwatch.co.uk/</a>
+                    <a target="_blank" title="Importsnt Blight Watch information at http://www.blightwatch.co.uk/" href="http://www.blightwatch.co.uk/">blightwatch.co.uk</a>
                     </p>
                 </div>
             </div>
@@ -224,7 +230,10 @@
             <div class="row mb">
                 <div class="col-12">
                     <p>This is the place for all your allotment-related needs and offers. These can be anything from help, to equipment, to sheds and greenhouses, through to plants and produce.</p>
-                    <p>Email the <a title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> to post a notice, 
+                    <p>Email the 
+                        <a id="webmasteremail4" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail4');"></i> 
+                        to post a notice, 
                     including what it is you are offering or want, a price, if appropriate, and how you may be contacted.  Attach a photo if you would like that to be shown.</p>
                 </div>
             </div>
@@ -335,7 +344,8 @@
                     It is staffed by volunteers.</p>
                     <p>
                         For more information email the
-                        <a title="store@burnsideandvineryallotments.org" href="mailto:store@burnsideandvineryallotments.org"></span>&nbsp;store manager</a>
+                        <a id="storeemail" title="store@burnsideandvineryallotments.org" href="mailto:store@burnsideandvineryallotments.org"></span>store manager</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'storeemail');"></i>
                     </p>
                 </div>
             </div>

@@ -127,7 +127,7 @@
                                     <option value="assets/docs/2017 AGM.pdf">2017</option>
                                     <option value="assets/docs/2016 AGM.pdf">2016</option>
                                 </select>&nbsp;
-                                <button title="Click for a copy of the AGM minutes" class="btn btn-xs btn-primary inline" onclick="showAGM();">PDF</button>
+                                <button title="Click for a copy of the AGM minutes" class="btn btn-xs btn-primary inline" onclick="BandV.showFromSelect('agm');">PDF</button>
                     </p>
                     <hr>
                 </div>
@@ -140,21 +140,11 @@
                                 <select class="form-control inline" id="accounts" style="width: auto; display: inline-block;">
                                     <option value="assets/docs/accounts2017.pdf" selected>2017</option>
                                 </select>&nbsp;
-                                <button title="Click for a copy of the Society's accounts" class="btn btn-xs btn-primary inline" onclick="showAccounts();">PDF</button>
+                                <button title="Click for a copy of the Society's accounts" class="btn btn-xs btn-primary inline" onclick="BandV.showFromSelect('accounts');">PDF</button>
                     </p>
                     <hr>
                 </div>
 
-                <div class="col-12">
-                    <p>TJ Kids @ Vinery 
-                    </p>
-                    <p>
-                                <a href="assets/docs/TJKids.pdf" target="doc" title="Click for details of TJ Kids involvement with Vinery Road">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    PDF
-                                </button></a>
-                    </p>
-                </div>
             </div>
         </div>
 
@@ -172,7 +162,9 @@
                             I think, as a complete novice vegetable grower, and through regular and intensive effort, it is quite productive.<br>
                             I joined the committee in 2013.
                     </blockquote>
-                    <p class="large-text text-center"><a title="chair@burnsideandvineryallotments.org" href="mailto:chair@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;chair</a>
+                    <p class="large-text text-center">
+                        <a id="chairemail" title="chair@burnsideandvineryallotments.org" href="mailto:chair@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;chair</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'chairemail');"></i>
                     </p>
                 </div>
 
@@ -182,7 +174,9 @@
                         <img title="Andy - Vice-chair, Store Manager, and Burnside Site Manager" class="img margin img-responsive img-rounded thumbnail-lg pull-right" style="max-width: 40%;" src="/assets/img/society/committee/andy.jpg"/>
                         I’ve had my plot on Burnside for about 15 years, starting as a complete allotment novice, and have been a member of the committee for much of that time. I am one of the two Burnside site managers, often spending too much time maintaining the site and not enough working my plot, but I do get enjoyment from both.
                     </blockquote>
-                    <p class="large-text text-center"><a title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a>
+                    <p class="large-text text-center">
+                        <a id="viceemail" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
                     </p>
                 </div>
             </div>
@@ -194,7 +188,9 @@
                         <img title="Matthew - Treasurer, Secretary, and Burnside Site Manager" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/mattheww.jpg"/> 
                         I started on the allotment in the Spring of 2009. Since then we have enjoyed abundant crops of bindweed and mare’s tail. As well as tending the plot I have the role of Burnside site manager along with Andy K. Over the years this has involved letting out plots to new tenants and generally working on the site as a whole.
                     </blockquote>
-                    <p class="large-text text-center"><a title="treasurer@burnsideandvineryallotments.org" href="mailto:treasurer@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;treasurer</a>
+                    <p class="large-text text-center">
+                        <a id="treasureremail" title="treasurer@burnsideandvineryallotments.org" href="mailto:treasurer@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;treasurer</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'treasureremail');"></i>
                     </p>
                 </div>
 
@@ -206,7 +202,9 @@
                         I’m keen to both reclaim the real definition of fresh and minimise food miles. 
                         Along with Alex and Suzy, I’m responsible for the management of the Vinery site.
                     </blockquote>
-                    <p class="large-text text-center"><a title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a>
+                    <p class="large-text text-center">
+                        <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
                     </p>
                 </div>
                 
@@ -220,7 +218,9 @@
                     from at least one crop per season. Anyone who wants to grow Jerusalem artichokes, please just ask!<br><br>
                     I joined the Committee in 2016 and currently have responsibility for maintenance of the website.
                     </blockquote>
-                    <p class="large-text text-center"><a title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;webmaster</a>
+                    <p class="large-text text-center">
+                        <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;webmaster</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
                     </p>
                 </div>
 

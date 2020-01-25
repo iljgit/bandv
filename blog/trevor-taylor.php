@@ -42,7 +42,7 @@
                 <p>His burial took place at the Woodland Burial Ground, Barton on Tuesday, 9th October.</p>
                 
                 <p>Trevor Taylor was our Honorary President, and The Vinery Road “Trevor Taylor Pavilion” is named in his honour. 
-                In addition to 40 years’ service to Burnside &Vinery as secretary and treasurer, Trevor was also NSALG treasurer and East Anglia rep 
+                In addition to 40 years’ service to Burnside & Vinery as secretary and treasurer, Trevor was also NSALG treasurer and East Anglia rep 
                 for some years. He developed a brain tumour in 2010 but recovered sufficiently to carry on attending committee meetings until about 2012.</p>
 
                 <p>Trevor instigated many of the things that we take for granted today, such as the Kings Seed orders and yearly BBQs, 

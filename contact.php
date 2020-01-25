@@ -73,15 +73,15 @@
          </div>
          <br>
 		 			<p class="large-text">If you are interested in renting a plot please complete the following form and we will be in touch as soon as we can.</p>
-		 			<p class="large-text">Fields highlighed with <span style="color: red">*</span> are mandatory.</p>
+		 			<p class="large-text">Fields highlighed in <span style="color: red">red</span> are mandatory.</p>
 		 			<span role="form">
 					  <div class="form-group required">
 					    <label for="name">Your Name</label>
-					    <input type="text" class="form-control" id="name" placeholder="Your name">
+					    <input type="text" class="form-control" id="name" placeholder="Your name" required>
 					  </div>
 					  <div class="form-group required">
 					    <label for="email">Email address</label>
-					    <input type="email" class="form-control" id="email" placeholder="Your email address">
+					    <input type="email" class="form-control" id="email" placeholder="Your email address" required>
 					  </div>
 					  <div class="form-group">
 					    <label for="address">Address</label>
@@ -89,11 +89,11 @@
 					  </div>
 					  <div class="form-group required">
 					    <label for="postcode">Postcode</label>
-					    <input type="postcode" class="form-control" id="postcode" placeholder="Your postcode">
+					    <input type="postcode" class="form-control" id="postcode" placeholder="Your postcode" required>
 					  </div>
 					  <div class="form-group required">
 					    <label for="tel">Telephone</label>
-					    <input type="telephone" class="form-control" id="tel" placeholder="Your telephone number">
+					    <input type="telephone" class="form-control" id="tel" placeholder="Your telephone number" required>
 					  </div>
 					  <div class="form-group">
 					    <label for="tel2">Alternative telephone</label>
@@ -101,7 +101,7 @@
 					  </div>
 					  <div class="form-group required">
 					    <label for="site">Site</label>
-					    <select id="site" class="form-control">
+					    <select id="site" class="form-control" required>
                                                 <option value="Burnside">Burnside</option>
                                                 <option value="Vinery Road">Vinery Road</option>
                                                 <option value="Either site">Either site</option>
@@ -109,7 +109,7 @@
 					  </div>
 					  <div class="form-group required">
 					  	<label for="experience">Brief description of your allotment experience</label>
-					  	<textarea class="form-control" id="experience" rows="3" placeholder="Your previous experience"></textarea>
+					  	<textarea class="form-control" id="experience" rows="3" placeholder="Your previous experience"  required></textarea>
 					  </div>
 					  <div class="form-group">
 					  	<label for="details">Other details</label>
@@ -128,7 +128,10 @@
 		 		<div class="hline"></div>
 		 			<p class="large-text">
                             The Vinery Road Permanent Allotment Society<br>
-92 Coleridge Road<br>Cambridge<br>CB1 3PJ<br><br>Email: webmaster @ burnsideandvineryallotments.org
+92 Coleridge Road<br>Cambridge<br>CB1 3PJ<br><br>
+Email: 
+<a id="webmasteremail" href="mailto:webmaster@burnsideandvineryallotments.org" title="Mail the webmaster at mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
+<i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
 	 		</div>
 	 	</div><! --/row -->
 	 </div><! --/container -->

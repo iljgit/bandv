@@ -82,14 +82,16 @@ The site also has a composting toilet and a picnic area.
                 </div>
 
                 <div class="col-12">
-<p>The Store is open at certain times in the year. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of 
+<p>The Store is open from spring to early summer. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of 
 all Society members. 
-Click <a class="click-here" href="store.php">here</a> for store details.</p>
+Click <a title="Click to view the store details" class="click-here" href="weeders-digest.php#store">here</a> for store details.</p>
 
 <p>A communal orchard was planted near the Burnside entrance in 2015: members will be welcome to pick fruit from this once it is established. 
 Click <a class="click-here" href="/assets/docs/orchardlistnov2018.pdf" target="orchard">here</a> for a list of the trees.</p>
 
-<p>A ‘Burn Bin’ facility is available for the disposal of non-compostable green waste. Burn days take place when the weather and the wind conditions are suitable. </p>
+<p>A ‘Burn Bin’ facility is available for the disposal of non-compostable green waste. Burn days take place when the weather and the wind conditions are suitable. 
+Click <a title="Click to see the Burnside burn bin regulations" target="burnbin" href="assets/docs/BurnBin.pdf">here</a> for the regulations for its use.
+</p>
 
 
 <p>
@@ -140,12 +142,13 @@ There is a composting toilet on site for the use of tenants. There is also a com
 One of the Vinery plots is designed by TJ Kids for children's activities and has gate access from St Philip’s School.
 There are 3 chicken projects, a 3m wide pond, and plans for a bee hive.</p>
 <p>
-The site meeting place and store is known as ‘the Pavilion’ and is named after Trevor Taylor, who gave many years of service to the committee. 
+The site meeting place and store is known as ‘the Pavilion’ and is named after <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, who gave many years of service to the committee. 
 Tenants can use it to meet and make hot drinks.
 </p>
 
 <p>
-The main Society Store is on the Burnside site and is openfrom early Spring until mid-summer. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. 
+The main Society Store is on the Burnside site and is open from early Spring until mid-summer. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. 
+Click <a title="Click to view the store details" class="click-here" href="weeders-digest.php#store">here</a> for store details.
 </p>
 <p>
 The site is managed by a team of volunteers, led by Barry.
@@ -206,47 +209,8 @@ The site is managed by a team of volunteers, led by Barry.
 <div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/37.jpg" style="width: 100%;" /><p class="text-center">Cleavers<br><i>Galium aparine</i></p>	</div>	
 			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/38.jpg" style="width: 100%;" /><p class="text-center">Lady's Bedstraw<br><i>Galium verum</i></p>	</div>	
 			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/39.jpg" style="width: 100%;" /><p class="text-center">Cut-leaved Crane's-bill<br><i>Geranium dissectum</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/40.jpg" style="width: 100%;" /><p class="text-center">Hedgerow Crane's-bill<br><i>Geranium pyrenaicum</i></p>	</div>	
-						
-						</div>
 
 
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/4.jpg" style="width: 100%;" /><p class="text-center">Creeping Bent<br><i>Agrostis stolonifera</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/5.jpg" style="width: 100%;" /><p class="text-center">Hollyhock<br><i>Alcea rosea</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/6.jpg" style="width: 100%;" /><p class="text-center"><br><i>Amaranthus sp.</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/7.jpg" style="width: 100%;" /><p class="text-center">Scarlet Pimpernel<br><i>Anagallis arvensis</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/8.jpg" style="width: 100%;" /><p class="text-center">Barren Brome<br><i>Anisantha sterilis</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/9.jpg" style="width: 100%;" /><p class="text-center">Cow Parsley<br><i>Anthriscus sylvestris</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/10.jpg" style="width: 100%;" /><p class="text-center">Columbine<br><i>Aquilegia vulgaris</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/11.jpg" style="width: 100%;" /><p class="text-center">False Oat-Grass<br><i>Arrhenatherum elatius</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/12.jpg" style="width: 100%;" /><p class="text-center">Spear-leaved Orache<br><i>Atriplex prostrata</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/13.jpg" style="width: 100%;" /><p class="text-center">Wild-oat<br><i>Avena fatua</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/14.jpg" style="width: 100%;" /><p class="text-center">Daisy<br><i>Bellis perennis</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/15.jpg" style="width: 100%;" /><p class="text-center">Beet<br><i>Beta vulgaris</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/16.jpg" style="width: 100%;" /><p class="text-center">Borage<br><i>Borago officinalis</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/17.jpg" style="width: 100%;" /><p class="text-center">Soft-brome<br><i>Bromus hordeaceus</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/18.jpg" style="width: 100%;" /><p class="text-center">White Bryony<br><i>Bryonia dioica</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/19.jpg" style="width: 100%;" /><p class="text-center">Large Bindweed<br><i>Calystegia silvatica</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/20.jpg" style="width: 100%;" /><p class="text-center">Shepherd's-purse<br><i>Capsella bursa-pastoris</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/21.jpg" style="width: 100%;" /><p class="text-center">Red Valerian<br><i>Centranthus ruber</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/22.jpg" style="width: 100%;" /><p class="text-center">Fat-hen<br><i>Chenopodium album</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/23.jpg" style="width: 100%;" /><p class="text-center">Red Goosefoot<br><i>Chenopodium rubrum</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/24.jpg" style="width: 100%;" /><p class="text-center">7-spot Ladybird<br><i>Coccinella septempunctata</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/25.jpg" style="width: 100%;" /><p class="text-center">Field Bindweed<br><i>Convolvulus arvensis</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/26.jpg" style="width: 100%;" /><p class="text-center">Cock's-foot<br><i>Dactylis glomerata</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/27.jpg" style="width: 100%;" /><p class="text-center">Wild Teasel<br><i>Dipsacus fullonum</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/28.jpg" style="width: 100%;" /><p class="text-center">Common Couch<br><i>Elytrigia repens</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/29.jpg" style="width: 100%;" /><p class="text-center">American Willowherb<br><i>Epilobium ciliatum</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/30.jpg" style="width: 100%;" /><p class="text-center">Hoary Willowherb<br><i>Epilobium parviflorum</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/31.jpg" style="width: 100%;" /><p class="text-center">Square-stalked Willowherb<br><i>Epilobium tetragonum</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/32.jpg" style="width: 100%;" /><p class="text-center">Field Horsetail<br><i>Equisetum arvense</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/33.jpg" style="width: 100%;" /><p class="text-center">Sun Spurge<br><i>Euphorbia helioscopia</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/34.jpg" style="width: 100%;" /><p class="text-center">Caper Spurge<br><i>Euphorbia lathyris</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/35.jpg" style="width: 100%;" /><p class="text-center">Petty Spurge<br><i>Euphorbia peplus</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/36.jpg" style="width: 100%;" /><p class="text-center">Common Fumitory<br><i>Fumaria officinalis subsp. wirtgenii</i></p>	</div>	</div>
-<div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/37.jpg" style="width: 100%;" /><p class="text-center">Cleavers<br><i>Galium aparine</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/38.jpg" style="width: 100%;" /><p class="text-center">Lady's Bedstraw<br><i>Galium verum</i></p>	</div>	
-			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/39.jpg" style="width: 100%;" /><p class="text-center">Cut-leaved Crane's-bill<br><i>Geranium dissectum</i></p>	</div>	</div>
 <div class="row">			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/40.jpg" style="width: 100%;" /><p class="text-center">Hedgerow Crane's-bill<br><i>Geranium pyrenaicum</i></p>	</div>	
 			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/41.jpg" style="width: 100%;" /><p class="text-center">Herb-Robert<br><i>Geranium robertianum</i></p>	</div>	
 			<div class="col-xs-12 col-md-4">	<img class="img img-responsive img-thumbnail"  src="assets/img/vinerysurvey/42.jpg" style="width: 100%;" /><p class="text-center">Wood Avens<br><i>Geum urbanum</i></p>	</div>	</div>

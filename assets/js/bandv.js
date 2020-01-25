@@ -23,6 +23,13 @@ let BandV = {
             image.removeAttr('data-src');
         });
 	},
+
+	showFromSelect: function(id, tgt) {
+		const dd = document.getElementById(id);
+		let val = dd.options[dd.selectedIndex].value;
+
+		window.open(val, tgt || '_blank');
+	},
 	
 	setNavbar: function() {
 
@@ -114,7 +121,32 @@ let BandV = {
         if (!found) {
             notFound.show('fast');
         }
-    }
+    },
+
+	copyAddressToCB: function(btn, id) {
+		let dummy = document.createElement("textarea");
+		let val = document.getElementById(id);
+
+		val = val.getAttribute('href');
+		val = val.split(':');
+		val = val[1] || val[0];
+
+		dummy.style.top = '-1000px';
+		document.body.appendChild(dummy);
+		dummy.value = val;
+		dummy.select();
+		document.execCommand("copy");
+		document.body.removeChild(dummy);
+
+		btn.style.color = 'red';
+		$(btn).addClass('fa-spin');
+
+		setTimeout(() => {
+			btn.style.color = 'grey';
+			$(btn).removeClass('fa-spin');
+		}, 750);
+
+	}
 };
 
 let PFModal = {

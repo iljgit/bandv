@@ -474,6 +474,12 @@ button.navbar-toggler {
     border-bottom: none;
 }
 
+select[required],
+textarea[required],
+input[required] {
+    border-color: red;
+}
+
 @media (max-width: 575px) {
     .navbar-collapse {
         background: var(--menu-background-colour);
