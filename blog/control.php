@@ -128,7 +128,7 @@ function getBlogs() {
                     <div class='card {$cClass}'>
                         <div class='card-header' style='background-image: url({$blog->image})'><div class='background'>{$blog->title}</div></div>
                         <div class='card-body'><p>{$blog->excerpt}</p><p>{$authordate}</p></div>
-                        <div class='card-footer'><a href='{$link}' class='btn btn-success stretched-link'>Read</a><span class='category {$cClass}'>{$blog->category}</span></div>
+                        <div class='card-footer'><a title='Click for {$blog->title}' href='{$link}' class='btn btn-success stretched-link'>Read</a><span class='category {$cClass}'>{$blog->category}</span></div>
                     </div>
                 </div>";
 

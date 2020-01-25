@@ -17,7 +17,7 @@
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                     <p>
-                        <img src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
+                        <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
                         <h2>Welcome to our updated site!</h2>
                         <h4>All the same information, just set out in a more accessible fashion.</h4>
                         <br>
@@ -111,29 +111,6 @@
                     <p>If you have any dates you would like us to put in the diary, email the <a title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a><br><br></p>
                 </div>
 
-                <div class="col-12 calendar-entry">
-                    <p><span class="date">Saturday 25<sup>th</sup> January 10:00</span><br><span class="title">Coppicing Day - Vinery Road</span></p>
-                    <p>
-                        Are you fed up staking your beans with weedy canes that blow over in the first Autumn gale or even a summer thunderstorm?
-                        Come and join our coppicing party and grab yourself a bunch of hazel poles for bombproof bean supports!!!
-                    </p>
-                    <p>
-                        Meet by the Pavilion 10 a.m. Please bring loppers and a bow saw or pruning saw if you have them and if wet wear waterproofs!!! 
-                        Tea/coffee and biscuits provided. (Plain chocolate digestives for the more sophisticated taste, custard creams for the rest of us!!)
-                    </p>
-                    <p>
-                        For those of you new to coppicing please take a look at the following and anything else you wish to google :<br>
-                        <a href="https://www.youtube.com/watch?v=FkRuMqVuJDE" target="external" title="Coppicing">https://www.youtube.com/watch?v=FkRuMqVuJDE</a>
-                    </p>
-                    <p>
-                        It's basically a forest management technique  - coppicing with hazel and standard oak trees was widely used in medieval 
-                        Europe and provided the wood for Nelson's navy and a whole lot of charcoal and chair legs !!!
-                    </p>
-                    <p>
-                        See you there!<br><br>
-                        Barry, Alex and Suzy (your site management team)
-                    </p>
-                </div>
                 <div class="col-12 calendar-entry">
                     <p><img src="/assets/img/weeders-digest/calendar/seed-potato.jpg" class="img img-thumbnail img-responsive img-pull-right" style="width: 25%;">
                         <span class="date">Sunday 26<sup>th</sup> January 10:00 - 12:00</span><br><span class="title">Seed Potato Collection</span>

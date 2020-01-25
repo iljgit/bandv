@@ -67,7 +67,7 @@ function getAlbums() {
             $op .= "<div class='row albums' id='{$blog->year}'><div class='col-12'><h2><i class='far fa-calendar-alt'></i>&nbsp;{$blog->year}</h2></div>";
             $year = $blog->year;
 
-            $selectors .= "<a href='#{$blog->year}'><button class='btn btn-success'>{$blog->year}</button></a>&nbsp;&nbsp;";
+            $selectors .= "<a title='Click for photo albums for {$blog->year}' href='#{$blog->year}'><button class='btn btn-success'>{$blog->year}</button></a>&nbsp;&nbsp;";
         }
 
         $time = strtotime($blog->date);
@@ -86,7 +86,7 @@ function getAlbums() {
                     <div class='card {$cClass}'>
                         <div class='card-header' style='background-image: url({$blog->image})'><div class='background'>{$blog->title}</div></div>
                         <div class='card-body'><p>{$blog->excerpt}</p><p>{$authordate}</p></div>
-                        <div class='card-footer'><a href='{$link}' class='btn btn-success stretched-link'>Open</a></div>
+                        <div class='card-footer'><a title='Click for {$blog->title} photos' href='{$link}' class='btn btn-success stretched-link'>Open</a></div>
                     </div>
                 </div>";
 

@@ -115,7 +115,7 @@
 					  	<label for="details">Other details</label>
 					  	<textarea class="form-control" id="details" rows="3" placeholder="Any other details"></textarea>
 					  </div>
-					  <button id="submitbutton" onclick="mail();" class="btn btn-success">Submit</button>
+					  <button title="Click to send your details" id="submitbutton" onclick="mail();" class="btn btn-success">Submit</button>
 					  <br>
 					  <br>
 					  <h4 id="message"></h4>

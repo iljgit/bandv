@@ -34,7 +34,7 @@
                             <div class="card">
                                 <div class="card-header img" style="background-image: url(assets/img/index/header1.jpg);"><h3>Burnside</h3></div>
                                 <div class="card-body">Burnside is situated near the flooded chalk pits just off Perne Road and covers about 3.3 hectares.</div>
-                                <div class="card-footer"><a class="btn btn-success" href="#burnside">More...</a></div>
+                                <div class="card-footer"><a title="Read more about Burnside" class="btn btn-success stretched-link" href="#burnside">More...</a></div>
                             </div>
                         </div>
 
@@ -42,7 +42,7 @@
                             <div class="card">
                                 <div class="card-header img" style="background-image: url(assets/img/index/header2.jpg);"><h3>Vinery Road</h3></div>
                                 <div class="card-body">Vinery Road is off Coldhams Lane between the Retail Park and Sainsbury's roundabout. It is just over 1.4 hectares.</div>
-                                <div class="card-footer"><a class="btn btn-success" href="#vinery">More...</a></div>
+                                <div class="card-footer"><a title="Read more about Vinery Road" class="btn btn-success stretched-link" href="#vinery">More...</a></div>
                             </div>
                         </div>
 
@@ -53,7 +53,7 @@
                                     New allotment holders are allocated a half plot in the first instance.  There is currently a waiting list at both sites. 
                                     You are welcome to contact us to be put on the list.
                                 </div>
-                                <div class="card-footer"><a class="btn btn-success" href="contact.php">Apply...</a></div>
+                                <div class="card-footer"><a title="Click to apply for a plot" class="btn btn-success stretched-link" href="contact.php">Apply...</a></div>
                             </div>
                         </div>
 
