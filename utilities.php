@@ -691,6 +691,18 @@ function getCarousel($dir) {
     return $ret;
 }
 
+function getDaysToGo($d) {
+    $now = time();
+    $your_date = strtotime($d);
+    $datediff = $your_date -$now;
+
+    $datediff = round($datediff / (60 * 60 * 24));
+    $ret = $datediff . ' day';
+    $ret .= ($datediff === 1 ? '' : 's');
+
+    return $ret;
+};
+
 function getSlippryCarousel($dir) {
     $ret = "<ul class='carousel'>";
     

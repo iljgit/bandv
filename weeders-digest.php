@@ -47,8 +47,8 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <p>Seed Potato Collection - Burnside Store, Sunday 26<sup>th</sup> January, 10:00 - 12:00</p>
-                            <p>Trumpington Allotment Society's "Seedy Sunday" - 26<sup>th</sup> January 2020.</p>
+                            <p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.
+                            <!--p>Seed Potato Collection - Burnside Store, Sunday 26<sup>th</sup> January, 10:00 - 12:00</p-->
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -115,23 +115,23 @@
                 </div>
 
                 <div class="col-12 calendar-entry">
+                    You missed 
+                    <ul>
+                        <li>Seed Potato collection morning on the 26<sup>th</sup> January</li>
+                        <li>Coppicing volunteer day at Vinery Road on the 25<sup>th</sup> January</li>
+                    </ul>
+                </div>
+
+                <!--div class="col-12 calendar-entry">
                     <p><img src="/assets/img/weeders-digest/calendar/seed-potato.jpg" class="img img-thumbnail img-responsive img-pull-right" style="width: 25%;">
                         <span class="date">Sunday 26<sup>th</sup> January 10:00 - 12:00</span><br><span class="title">Seed Potato Collection</span>
                     </p>
                     <p>
                         Seed potatoes are due to be with us on Monday Jan 20th.  There will be an order collection morning, from the Burnside store on Sunday 26th 10:00 – 12:00.
                     </p>
-                </div>
+                </div-->
 
-                <div class="col-12 calendar-entry">
-                    <p>
-                        <img src="/assets/img/weeders-digest/calendar/2020SeedySunday.jpg" class="img img-thumbnail img-responsive img-pull-right" style="width: 50%;">
-                        <span class="date">Sunday 26<sup>th</sup> January 13:30 - 16:30</span><br><span class="title">Seedy Sunday</span>
-                    </p>
-                    <p>
-                        Trumpington Allotment Society's seed swap (with added cake!)
-                    </p>
-                </div>
+
             </div>
         </div>
 
