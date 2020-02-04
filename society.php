@@ -29,7 +29,7 @@
 
         <div class="container">
             <div class="row mb">
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/society/documents.jpg)'>Important Documents</div>
                         <div class="card-body">There aren't all that many documents to read, but there are some very important ones.  Please make sure you keep up to date.</div> 
@@ -37,7 +37,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/society/committee.jpg)'>The Committee</div>
                         <div class="card-body">Find out who is helping organise and run things on your behalf.</div> 

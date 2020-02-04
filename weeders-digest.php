@@ -45,9 +45,40 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/society.jpg)'>Society</div>
+                        <div class="card-body para-highlight">
+                            <p>The Society page contains important documentation and details of your committee representatives.</p>
+                        </div> 
+                        <div class="card-footer"><a href="society.php" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/blog.jpg)'>Blogs</div>
+                        <div class="card-body para-highlight">
+                            <p>Tips, recipes, personal experiences - all here</p>
+                        </div> 
+                        <div class="card-footer"><a href="blog.php" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/photos.jpg)'>Photos</div>
+                        <div class="card-body para-highlight">
+                            <p>We always like to record events, people, plots, and the changing of the seasons in photographs. 
+                            If you have any you'd like to display, let the webmaster know.</p>
+                        </div> 
+                        <div class="card-footer"><a href="photos.php" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.
+                            <p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</p>
                             <!--p>Seed Potato Collection - Burnside Store, Sunday 26<sup>th</sup> January, 10:00 - 12:00</p-->
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
