@@ -60,17 +60,17 @@
                         
                 </div>
 
-                <div class="col-12">
+                <div class="col-12" id="wd2003">
                     <h1>Weeder's Digest</h1>
                     <p >
                     For many years, Trevor Taylor produced a regular allotment newsletter called Weeder’s Digest, which usually included growing tips, 
                     general allotment news and recipes. 
                     </p>
-                    <p >
+                    <p>
                     Click <a href="/assets/img/trevor-taylor/WeedersDigest2003.jpg" title="Weeder's Digest - 2003target="pdf">here</a> for an edition dating from 2003 which 
                     outlines the building of the Vinery Pavilion.
                     </p>
-                    <p >
+                    <p>
                     Click <a href="/assets/docs/Weeders Digest 2011 summer.pdf" target="pdf" title="Weeder's Digest - 2011">here</a> for an edition dating from 2011.  It  
                     was produced with assistance from Andy Kurdynowski. As you can see, the issues under discussion don’t change much!
                     </p>

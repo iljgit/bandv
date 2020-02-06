@@ -353,6 +353,14 @@ $blogs[] = (object) [
     "active" => "true"
 ];
 
+$wn = [];
+
+$wn[] = (object) [
+    "date" => "6 Feb 2020",
+    "text" => "Trevor Taylor - a 'new' Weeder's Digest and an article about CCCAS",
+    "link" => "<a href='trevor-taylor.php#wd2003' title='Click to visit the Trevor Taylor page'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -591,6 +599,37 @@ $gallery->vineryburnnov18 = (object) [
     "active" => true
 ];
 
+function getWhatsNew() {
+    global $wn;
+    $ret = "";
+
+    // add a timestamp field for sorting
+    foreach ($wn as $w) {
+        $w->timestamp = strtotime($w->date);
+    }
+
+    //$timestamp = array_column($blogs, 'timestamp');
+    $timestamp = array_map(function($e) {
+        return is_object($e) ? $e->timestamp : $e['timestamp'];
+    }, $wn);
+    array_multisort($timestamp, SORT_DESC, SORT_NUMERIC, $wn);
+
+    $last14 = strtotime(date('Y-m-d', strtotime('-14 days')));
+    $det = '';
+    foreach ($wn as $w) {
+        if ($w->timestamp >= $last14) {
+            $link = strlen($w->link) > 0 ? '<br>' . $w->link : '';
+            $det .= "<p>{$w->date} - <i>{$w->text}</i>{$link}</p>";
+        }
+    }
+
+    if (strlen($det) > 0) {
+        $ret = "<div class='row mb'><div class='col-12'><h2>What's new in the last 14 days</h2>{$det}</div></div><hr>";
+    }
+
+    return $ret;
+}
+
 function getTags() {
     $ret = "";
     $cnt = 1;
@@ -621,11 +660,11 @@ function getNSALGJobs() {
     $ret = "";
     $month = date('m');
     $nMonth = $month + 1;
-    $pMonth = $month + 1;
+    $pMonth = $month - 1;
     if ($nMonth > 12) {
         $nMonth = 1;
     }  
-    if ($pMonth) {
+    if ($pMonth < 1) {
         $pMonth = 12;
     }  
                 
@@ -639,7 +678,7 @@ function getNSALGJobs() {
     $lpMonth = strtolower($pMonth);
 
     $ret = "<p>
-        <a target='nsalg' href='https://www.nsalg.org.uk/growing-advice/monthly-advice/{$lpmonth}/'>{$pmonth}</a><br>
+        <a target='nsalg' href='https://www.nsalg.org.uk/growing-advice/monthly-advice/{$lpMonth}/'>{$pMonth}</a><br>
         <a target='nsalg' href='https://www.nsalg.org.uk/growing-advice/monthly-advice/{$lmonth}/'>{$month}</a><br>
         <a target='nsalg' href='https://www.nsalg.org.uk/growing-advice/monthly-advice/{$lnMonth}/'>{$nMonth}</a></p>";
 

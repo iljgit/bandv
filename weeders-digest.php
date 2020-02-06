@@ -35,11 +35,13 @@
                 which usually included growing tips, general allotment news and recipes.  Here is our equivalent.</p>
                 <p>
                 This page is an at-a-glance view of what is new, what is happening and, hopefully, what is interesting in the world of allotmenteering and of the Society.
-                  If there is anything you think we should be talking about, or anything you would like to contribute,let us know.
+                  If there is anything you think we should be talking about, or anything you would like to contribute, let us know.
                 </p>
                 </div>
 
             </div>
+
+            <?php echo(getWhatsNew()); ?>
 
             <div class="row mb">
 
