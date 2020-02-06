@@ -67,10 +67,26 @@
                     general allotment news and recipes. 
                     </p>
                     <p >
-                    Click <a href="/assets/docs/Weeders Digest 2011 summer.pdf" target="pdf">here</a> for an edition dating from 2011.  It  
+                    Click <a href="/assets/img/trevor-taylor/WeedersDigest2003.jpg" title="Weeder's Digest - 2003target="pdf">here</a> for an edition dating from 2003 which 
+                    outlines the building of the Vinery Pavilion.
+                    </p>
+                    <p >
+                    Click <a href="/assets/docs/Weeders Digest 2011 summer.pdf" target="pdf" title="Weeder's Digest - 2011">here</a> for an edition dating from 2011.  It  
                     was produced with assistance from Andy Kurdynowski. As you can see, the issues under discussion don’t change much!
                     </p>
                 </div>
+
+                <div class="col-12">
+                    <h1>CCCAS</h1>
+                    <p >
+                    <img style="width: 40%" class="img img-responsive pull-right" alt="CCCAS cartoon" title="CCCAS Cartoon" src="/assets/img/trevor-taylor/cartoon1.jpg">Trevor was active on behalf of not only Burnside & Vinery and the National Society of Allotment and Leisure Gardeners 
+                    but also the Cambridge Central Council of Allotment Societies. CCCAS exists partly to protect Cambridge allotment societies 
+                    from the ever-present threat from developers. Trevor attended many CCCAS annual dinners from the 1960s to the 1980s.</p><p> 
+                    This cartoon of an allotment holder dreaming of the perfect shed is taken from the cover of the menu for the 1986 dinner, 
+                    at which Trevor, as Hon Sec of CCCAS, proposed the toast to NSALG.
+                    </p>
+                </div>
+
             </div>
             
         </div><!--container-->

@@ -7,7 +7,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/header.jpg);">
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/header.jpg); background-position: bottom left;">
             <h1 id="title"><span class="title-background">Weeder's Digest</span></h1>
         </div>
 
