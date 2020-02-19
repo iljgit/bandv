@@ -77,6 +77,10 @@ $pages = (object) [
         "description" => "Barry from Vinery provides useful advice on spotting and treating tomato blight. Burnside and Vinery Road Allotment Society, Cambridge UK", 
         "title" => "Dealing With Tomato Blight | Burnside and Vinery"
     ],
+    "blogsaffron" => [
+        "description" => "Barry from Vinery lets us in on the secret of growing saffron on your allotment. Burnside and Vinery Road Allotment Society, Cambridge UK", 
+        "title" => "Growing Saffron | Burnside and Vinery"
+    ],
     "trevor-taylor" => [
         "description" => "Trevor Taylor was the Society's Honrary Persident and largely responsible for creating the thriving society we have today. Burnside and Vinery Road Allotment Society, Cambridge UK", 
         "title" => "Trevor Taylor - A Force Of Nature | Burnside and Vinery"
@@ -353,7 +357,25 @@ $blogs[] = (object) [
     "active" => "true"
 ];
 
+$blogs[] = (object) [
+    "title" => "Growing Saffron",
+    "subtitle" => "Subtitle",
+    "image" => "/assets/img/blog/saffron/saffron1.jpg",
+    "author" => "Barry, Vinery Rd",
+    "date" => "19 Feb 2020",
+    "excerpt" => "Growing saffron on your plot",
+    "category" => "Tip",
+    "link" => "/blog/saffron.php",
+    "active" => "true"
+];
+
 $wn = [];
+
+$wn[] = (object) [
+    "date" => "20 Feb 2020",
+    "text" => "Barry South - Growing Saffron",
+    "link" => "<a href='/blog/saffron.php' title='Click to read how to grow saffron on your plot'><button class='btn btn-success'>More...</button></a>"
+];
 
 $wn[] = (object) [
     "date" => "6 Feb 2020",
