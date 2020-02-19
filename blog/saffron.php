@@ -51,6 +51,11 @@ harvesting. The pistils have to be removed individually every day as the flowers
 they need to be dried at room temperature until they have a crisp texture to prevent fungal rot. They can then be stored almost indefinitely although they will 
 lose flavour and odour with time.
 </p>
+<p>
+<i>
+Watch this space for more on saffron next month, including history, quality and recipes.
+</i>
+</p>
                 </div>
             </div>
             
