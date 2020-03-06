@@ -383,6 +383,18 @@ $wn[] = (object) [
     "link" => "<a href='trevor-taylor.php#wd2003' title='Click to visit the Trevor Taylor page'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "6 Mar 2020",
+    "text" => "AGM Weds 22<sup>nd</sup> April - 7.15 at St Martins, Suez Road",
+    "link" => "<a href='#calendar' title='Click for details of this year\'s AGM'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "6 Mar 2020",
+    "text" => "Store re-opening Sun 26<sup>th</sup> April - 10 at Burnside",
+    "link" => "<a href='#store' title='Click for details of the store'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -641,7 +653,7 @@ function getWhatsNew() {
     foreach ($wn as $w) {
         if ($w->timestamp >= $last14) {
             $link = strlen($w->link) > 0 ? '<br>' . $w->link : '';
-            $det .= "<p>{$w->date} - <i>{$w->text}</i>{$link}</p>";
+            $det .= "<p><i style='font-size: 80%;'>{$w->date}</i> - {$w->text}{$link}</p>";
         }
     }
 

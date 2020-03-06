@@ -463,15 +463,24 @@ button.navbar-toggler {
     font-weight: bolder;
 }
 
-.calendar-row .calendar-entry {
-    margin-bottom: 10px;
-    padding-bottom: 5px;
-    border-bottom: 1px solid #808080;
+.calendar-row .calendar-entry tr td {
+    padding-top: 20px;
 }
 
-.calendar-row .calendar-entry:last-child {
-    padding-bottom: 0;
-    border-bottom: none;
+.calendar-row .calendar-entry tr td:first-child {
+    padding-right: 20px;
+}
+
+.calendar-row .calendar-entry tr:first-child td {
+    padding-top: 20px;
+}
+
+.calendar-row .calendar-entry tr:nth-child(odd) {
+    color: #808080;
+}
+
+.calendar-row .calendar-entry table {
+    margin-bottom: 20px;
 }
 
 select[required],

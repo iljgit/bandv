@@ -144,15 +144,20 @@
                     <p>If you have any dates you would like us to put in the diary, email the 
                     <a id="webmasteremail2" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
                     <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail2');"></i>
-                    <br><br></p>
+                    </p>
                 </div>
 
                 <div class="col-12 calendar-entry">
-                    You missed 
-                    <ul>
-                        <li>Seed Potato collection morning on the 26<sup>th</sup> January</li>
-                        <li>Coppicing volunteer day at Vinery Road on the 25<sup>th</sup> January</li>
-                    </ul>
+                    <table>
+                        <tr>
+                            <td><i class="far fa-calendar"></i></td>
+                            <td>This year's AGM  will be on Wednesday 22<sup>nd</sup> April at 7.15p.m. at St Martin's Church, Suez Road. CB1 3QD</td>
+                        </tr>
+                        <tr>
+                            <td><i class="far fa-calendar"></i></td>
+                            <td>The Society's store at Burnside will re-open on Sunday April 26<sup>th</sup> at 10a.m.</td>
+                        </tr>
+                    </table>
                 </div>
 
                 <!--div class="col-12 calendar-entry">
@@ -370,7 +375,7 @@
         <div class="container">
             <div class="row mb">
                 <div class="col-12">
-                    <h3>The store is now closed for 2019.  Open again Spring 2020.</h3>
+                    <h3>The Store will re-open on Sunday 26<sup>th</sup> April at 10a.m.</h3>
                     <br>
                     <p>The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
                     It sells essential supplies on weekend mornings during the spring and early summer months and is for the use of Burnside and Vinery Road tenants. 
@@ -386,7 +391,7 @@
             <div class="row mb" style="color: #a0a0a0;">
                 <div class="col-12">
                     <h4>
-                        Burnside Store Price list 2019
+                        Burnside Store Price list 2019 - we are awaiting the price list for 2020
                     </h4>
                     <table style="border-spacing: 15px; border-collapse:separate;">
                         <tbody>
