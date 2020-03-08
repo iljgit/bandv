@@ -385,7 +385,7 @@ $wn[] = (object) [
 
 $wn[] = (object) [
     "date" => "6 Mar 2020",
-    "text" => "AGM Weds 22<sup>nd</sup> April - 7.15 at St Martins, Suez Road",
+    "text" => "AGM Weds 22<sup>nd</sup> April - 7.30 at St Martins, Suez Road",
     "link" => "<a href='#calendar' title='Click for details of this year\'s AGM'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -658,7 +658,7 @@ function getWhatsNew() {
     }
 
     if (strlen($det) > 0) {
-        $ret = "<div class='row mb'><div class='col-12'><h2>What's new in the last 14 days</h2>{$det}</div></div><hr>";
+        $ret = "<div class='row mb justify-content-md-center'><div class='col-12'><h2>What's new in the last 14 days</h2>{$det}</div><div class='col-12 col-md-4'><hr></div></div>";
     }
 
     return $ret;

@@ -16,17 +16,15 @@
             <div class="row mb" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <p>
-                        <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
-                        <h2>Welcome to our updated site!</h2>
-                        <h4>All the same information, just set out in a more accessible fashion.</h4>
-                        <br>
-                        Try our new Photos and Blog pages.  Visit the Society page for all the information you need to know.<br><br>
-                        Let us know what you think about the new site and any suggestions you have about content.  Better still, send us an article or 
-                        some photos.
-                        <br><br>
-                        Email me, Joan, at <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
+                    <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
+                    <h2>Welcome to your society site!</h2>
+                    <p>Follow the links on this page to keep up to date with what is going, look at our photo albums, get growing and cooking ideas, check out the store,
+                    and much more.</p>
+                    <p>Let us know what you think about the site and any suggestions you have about content.  Better still, send us an article or 
+                    some photos.
+                    </p>
+                    <p>Email me, Joan, at <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
+                    <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
                     </p>
                 </div>
 
@@ -80,8 +78,9 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</p>
-                            <!--p>Seed Potato Collection - Burnside Store, Sunday 26<sup>th</sup> January, 10:00 - 12:00</p-->
+                            <!--p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</p-->
+                            <p>AGM, Wednesday 22<sup>nd</sup> April, 7:30pm</p>
+                            <p>Burnside Store Re-opening, Sunday 26<sup>th</sup> April, 10am </p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -151,7 +150,7 @@
                     <table>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
-                            <td>This year's AGM  will be on Wednesday 22<sup>nd</sup> April at 7.15p.m. at St Martin's Church, Suez Road. CB1 3QD</td>
+                            <td>This year's AGM  will be on Wednesday 22<sup>nd</sup> April at 7.30p.m. at St Martin's Church, Suez Road. CB1 3QD</td>
                         </tr>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
