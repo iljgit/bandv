@@ -16,7 +16,7 @@
             <div class="row mb" id="home">
 
             <div class="col-12">
-            <h1 style="padding-top: 0; margin-top: 0;">The History of our Allotment Society</h1>
+            <h2 style="padding-top: 0; margin-top: 0;">The History of our Allotment Society</h2>
 <p class="large-text">
 Like a lot of allotment sites nationwide, Burnside and Vinery Road have had their share of ups and downs. 
 The last forty years or so in particular have seen a typical pattern of decline followed by an upsurge in interest, especially this side of the millennium. 
@@ -31,7 +31,7 @@ Society’s newsletter, Weeders Digest, by Trevor Taylor and Keith Jordan in 200
 <i>OS Map dated 1926 showing Vinery Road and Burnside sites virtually touching</i>
 </p>
 <div style="display: inline-block">
-<h1>Vinery Road site</h1>
+<h2>Vinery Road site</h2>
 <p class="large-text">
 <img src="/assets/img/gallery/Harvest2017/11.jpg" class="img img-responsive img-thumbnail margin pull-left" style="width: 30%;"/>
 Historical maps give an idea of the development of the Vinery Road area. In 1885 part of the Vinery site was a slurry pit; there were no allotments and no Hemingford or Romsey Roads; Vinery Road was an avenue; and what was later to become Brooks Road was a tramway from the coprolite works. By 1901 Hemingford and Romsey Roads had been partly built. There were still no allotments but there was an eight-acre field. However, an extensive allotment site all the way to the tramway can be seen on the 1926 map shown here. By 1937 Brooks Road had been built but Vinery allotments still bordered onto it at that date. 
@@ -45,7 +45,7 @@ So Vinery Road Allotments were already well established by the mid-1920s:<ul cla
 </p>
 </div>
 <div style="display: inline-block">
-<h1>Burnside site</h1>
+<h2>Burnside site</h2>
 <p class="large-text">
 <img src="/assets/img/history/2.jpg" class="img img-responsive img-thumbnail margin pull-right" style="width: 30%"/>
 Like Vinery Road, Burnside appears on this 1926 map, almost adjacent to Vinery at that date. The Burnside site was originally known as Perne Road Allotments, which gives a good indication of its original extent. The land had been purchased by the Council from Peterhouse and was originally let for a rent of four pounds per year. In January 1933, the Vinery Road Permanent Allotment Society Ltd was invited to take on the management of the site and the two sites have been jointly administered by a single committee ever since.
@@ -55,7 +55,7 @@ Don of Burnside remembered playing in the area as a child when there were tank t
 </p>
 </div>
 
-<h1>Loss of Land</h1>
+<h2>Loss of Land</h2>
 <p>
 <img src="/assets/img/history/2018map.jpg" style="width:100%;">
 <br/><i>&copy; 2018 OpenStreetMap</i>
@@ -71,12 +71,12 @@ Nonetheless, the Society has fought tooth and nail to minimise the loss of land.
 <li>In the mid-1980s there were proposals for a play area at Burnside for the Tiverton Way estate. This threat vanished for a time but, in 1989, when demand for allotments was in serious decline, the Society agreed to give up sixteen plots at Burnside for this facility. The Council did, however, agree by way of return to fence the area, realign the roadway and cut the grass on the site regularly.</li>
 </ul>
 </p>
-<h1>Decline</h1>
+<h2>Decline</h2>
 <p class="large-text">
 All this at a period of major decline in demand for allotments. From the late 1980s to the late 1990s, the situation appears to have been at its worst, particularly at Burnside, with many plots vacant or overgrown, and some being used effectively as dumping grounds or for commercial purposes. Nonetheless, the Society has remained in profit practically every year: losses are recorded only for a couple of years in the late 1980s because of low rents. The King’s seeds scheme, initiated by Trevor Taylor, probably in the late 1970s, may well have contributed something to the financial stability of the Society.
 </p>
 
-<h1>Green Shoots of Recovery</h1>
+<h2>Green Shoots of Recovery</h2>
 <p class="large-text">
 The late 1990s saw the beginnings of recovery. There was a considerable injection of energy at the 1998 AGM when several new committee members were elected 
 who were, notably, younger than the retiring members. A need to clean up both sites was identified and, at an ‘action weekend’, 
@@ -94,7 +94,7 @@ and several photographs of plotholders, including Len Butler and John Bird, both
 </p>
 
 <div style="display: inline-block">
-<h1>Revival</h1>
+<h2>Revival</h2>
 <p class="large-text">
 <img src="/assets/img/history/D71_5381.jpg" class="img img-responsive img-thumbnail margin pull-left" style="width: 30%"/>
 The beginning of the 21st century finally saw a real upsurge in interest in allotments. 
@@ -104,7 +104,7 @@ the Vinery pavilion, the Burnside orchard and picnic area, family and social act
 community projects and regular onsite projects undertaken by volunteers.
 </p>
 </div>
-<h1>Membership</h1>
+<h2>Membership</h2>
 <p class="large-text">
 And what of the membership? Some tenants have had amazingly long records of continuity, such as John Bird and Len Butler, 
 and the AGM minutes for 1985 record the death of Mr E W Day, one of the then oldest members, who had joined in 1948. As for Trevor Taylor, 
@@ -113,7 +113,7 @@ Honorary President until his death in 2018. Contrary to popular notions, women m
 although it does appear that it was 1990 before any women members attended the AGM! 
 The first women to join the Committee are recorded by the late 1990s and, as at 2019, women account for over 50% of the membership.
 </p>
-<h1>And finally…</h1>
+<h2>And finally…</h2>
 <p class="large-text">
 … an example of the ability of allotments to excite opinion. The AGM minutes for 1980 record Government proposals to repeal some allotment legislation. 
 A campaign against these proposals by the 

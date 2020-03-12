@@ -50,7 +50,7 @@
         </div><!--container-->
 
         <div id="friends" class="container-fluid parallax banner" style="background-image: url(/assets/img/community/brook/header.jpg); margin-top: 60px;">
-            <h1 id="title"><span class="title-background">Friends of Cherry Hinton Brook</span></h1>
+            <h2 id="title"><span class="title-background">Friends of Cherry Hinton Brook</span></h2>
         </div>
 
         <div class="container">

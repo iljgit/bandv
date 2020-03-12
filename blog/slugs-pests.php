@@ -16,7 +16,7 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h1>Slugs and Pests</h1>
+                    <h2>Slugs and Pests</h2>
                     <p>
 There are several things that can dampen a plot holder’s enthusiasm – weather, poor soil, etc – but pests may be the most irksome. You plant a crop, let’s say of courgettes, and all appears to be fine, and you start to look forward to a nice dinner, and… then it rains, and out come the slugs and snails, and your lovely crop is decimated.  It can be very disheartening.<br><br>
 On the Burnside allotments, and doubtless also Vinery, we are beset by slugs and snails, but also quite a few other causes for concern. Birds, deer, rabbits will all have a go at their favourite crops, and then there are beetles, mites, caterpillars, and a variety of worms. This is apart from the diseases that can strike, the most prevalent of which on Burnside are blight and white rot.<br><br> 

@@ -49,7 +49,7 @@
         </div>
 
         <div id="documents" class="container-fluid parallax banner" style="background-image: url(/assets/img/society/documents.jpg); margin-top: 60px;">
-            <h1 id="title"><span class="title-background">Important Documents</span></h1>
+            <h2 id="title"><span class="title-background">Important Documents</span></h2>
         </div>
 
         <div class="container">
@@ -149,7 +149,7 @@
         </div>
 
         <div id="committee" class="container-fluid parallax banner" style="background-image: url(/assets/img/society/committee.jpg); margin-top: 60px;">
-            <h1 id="title"><span class="title-background">Your Committee</span></h1>
+            <h2 id="title"><span class="title-background">Your Committee</span></h2>
         </div>
 
         <div class="container">

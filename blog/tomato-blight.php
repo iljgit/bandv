@@ -16,7 +16,7 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h1>Pink 6 and Blue 13 10, Principe Borghese 0</h1>
+                    <h2>Pink 6 and Blue 13 10, Principe Borghese 0</h2>
                     <p><img src="/assets/img/blog/tomatoblight/tomato-blight.jpg" class="pull-left img-responsive img-thumbnail margin" style="width:25%">
                     
 Is it a football score line or a code for invasion plans?  If it was a football score it would be more like rugby than soccer and if it’s a code it would be a challenge for Alan Turing and the Bletchley Park team. In fact it represents my attempt last year to grow tomatoes and I now know how Napoleon must have felt after Waterloo.

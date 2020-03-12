@@ -15,7 +15,7 @@
                                 
                     <div class="row mb" id="home">
                         <div class="col-12">
-                            <h1>Welcome to the Burnside and Vinery Road Allotment Society</h1>
+                            <h2>Welcome to the Burnside and Vinery Road Allotment Society</h2>
                             <p>Our two allotment sites, Burnside and Vinery Road, are in the Romsey Town area of south Cambridge.</p>
                             
                             <p>
@@ -63,7 +63,7 @@
          </div><!--/container -->
 
         <div class="container-fluid parallax section" style="background-image: url(assets/img/index/burnside.jpg);" id="burnside">
-            <h1 id="title" style="position: relative;">Burnside Allotment Site</h1>
+            <h2 id="title" style="position: relative;">Burnside Allotment Site</h2>
         </div>
 
          <div class="container">            
@@ -118,7 +118,7 @@ The site is managed by a team of volunteers, led by the two site managers, Andy 
         </div><!--container-->
 
         <div class="container-fluid parallax section" style="background-image: url(assets/img/index/vinery.jpg);" id="vinery">
-            <h1 id="title" style="position: relative;">Vinery Road Allotment Site</h1>
+            <h2 id="title" style="position: relative;">Vinery Road Allotment Site</h2>
         </div>
 	 
         <div class="container">            

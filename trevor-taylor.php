@@ -25,7 +25,7 @@
 
             <div class="row mb">
                 <div class="col-12">
-                    <h1>Obituary</h1>
+                    <h2>Obituary</h2>
                         <h4>Trevor Taylor, our Honorary President, passed away peacefully in Addenbrooke's Hospital on Wednesday 19th September 2018.</h4>
                         <img src="/assets/img/trevor-taylor/trevor2.jpg" class="img-thumbnail img-responsive" style="width: 40%; margin-bottom: 20px; float: right;">
                         <p >His burial took place at the Woodland Burial Ground, Barton on Tuesday, 9th October.</p>
@@ -39,7 +39,7 @@
                         Trevor was a true character, with his love of Jazz, red wine and cricket, and his dry witty banter. RIP.</p>
                 </div>
                 <div class="col-12">
-                    <h1>In 2017, Andy K and Joan met Trevor</h1>                        
+                    <h2>In 2017, Andy K and Joan met Trevor</h2>                        
                     <img class="img-thumbnail img-responsive" src="/assets/img//trevor-taylor/trevor.jpg" style="width: 40%; margin-bottom: 20px; float: right;" />
                     <p >On Friday 3rd February 2017 Andy K and Joan from the committee met up with Trevor Taylor, our Honorary President, 
                     for a catch up at the Royal Standard on Mill Road. Trevor walked from his home (albeit with the aid of a walker), 
@@ -61,7 +61,7 @@
                 </div>
 
                 <div class="col-12" id="wd2003">
-                    <h1>Weeder's Digest</h1>
+                    <h2>Weeder's Digest</h2>
                     <p >
                     For many years, Trevor Taylor produced a regular allotment newsletter called Weeder’s Digest, which usually included growing tips, 
                     general allotment news and recipes. 
@@ -77,7 +77,7 @@
                 </div>
 
                 <div class="col-12">
-                    <h1>CCCAS</h1>
+                    <h2>CCCAS</h2>
                     <p >
                     <img style="width: 40%" class="img img-responsive pull-right" alt="CCCAS cartoon" title="CCCAS Cartoon" src="/assets/img/trevor-taylor/cartoon1.jpg">Trevor was active on behalf of not only Burnside & Vinery and the National Society of Allotment and Leisure Gardeners 
                     but also the Cambridge Central Council of Allotment Societies. CCCAS exists partly to protect Cambridge allotment societies 

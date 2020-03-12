@@ -16,7 +16,7 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h1>New to Burnside (once upon a time)</h1><br><br>
+                    <h2>New to Burnside (once upon a time)</h2><br><br>
                 </div>
                 <div class="col-12">
                     <img class="img-thumbnail img-responsive img-pull-right margin" style="width: 30%;" src="/assets/img/blog/newbie/1.jpg"/>

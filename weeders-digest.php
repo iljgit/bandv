@@ -43,6 +43,24 @@
 
             <div class="row mb">
 
+                <div class="col-12">
+                    <h2>Hayley Wood Nature Reserve is having a Sale</h2>
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <img src="assets/img/weeders-digest/beanpoleadvert.jpg" class="img img-responsive img-thumbnail" style="width: 100%" alt="beanpole advert" title="beanpole, pea stick, and plant sale 2020" />
+                </div>
+
+                <div class="col-12 col-md-6">
+                    <img src="assets/img/weeders-digest/beanpoleadvertprice.jpg" class="img img-responsive img-thumbnail" style="width: 100%" alt="beanpole advert price" title="beanpole, pea stick, and plant sale 2020 price" />
+                </div>
+
+            </div>
+
+            <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
+
+            <div class="row mb">
+
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/society.jpg)'>Society</div>
@@ -133,7 +151,7 @@
         </div><!--container-->
 
         <div id="calendar" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/calendar.jpg); margin-top: 60px;">
-            <h1 id="title"><span class="title-background">Calendar</span></h1>
+            <h2 id="title"><span class="title-background">Calendar</span></h2>
         </div>
 
         <!-- Calendar -->
@@ -173,7 +191,7 @@
         </div>
 
         <div id="links" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/links.jpg); margin-top: 60px;">
-            <h1 id="title"><span class="title-background">External Links</span></h1>
+            <h2 id="title"><span class="title-background">External Links</span></h2>
         </div>
 
         <!-- Links -->
@@ -259,7 +277,7 @@
         </div>
 
         <div id="noticeboard" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/noticeboard.jpg); margin-top: 60px;">
-            <h1 id="title"><span class="title-background">Notices</span></h1>
+            <h2 id="title"><span class="title-background">Notices</span></h2>
         </div>
 
         <!-- Noticeboard -->
@@ -367,7 +385,7 @@
 	    </div>
 
         <div id="store" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/store.jpg); margin-top: 80px;">
-                <h1 id="title"><span class="title-background">The Store</span></h1>
+                <h2 id="title"><span class="title-background">The Store</span></h2>
         </div>
 
         <!-- Links -->
