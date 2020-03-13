@@ -98,8 +98,8 @@
                     </p>
                     <p>
                                 <a href="assets/docs/Constitution_15-10-2015.pdf" target="doc" title="Click for the Society's constitution">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    PDF
+                                <button class="btn btn-xs btn-primary" style="width:190px" disabled="true">
+                                    Awaiting update
                                 </button></a>
                     </p>
                     <hr>
