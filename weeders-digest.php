@@ -168,7 +168,7 @@
                     <table>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
-                            <td>This year's AGM  will be on Wednesday 22<sup>nd</sup> April at 7.30p.m. at St Martin's Church, Suez Road. CB1 3QD</td>
+                            <td style="color: red;">This year's AGM, scheduled for Wednesday 22<sup>nd</sup> April, has been <b>cancelled<b> due to concerns over coronavirus</td>
                         </tr>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>

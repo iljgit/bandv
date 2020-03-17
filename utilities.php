@@ -384,8 +384,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "6 Mar 2020",
-    "text" => "AGM Weds 22<sup>nd</sup> April - 7.30 at St Martins, Suez Road",
+    "date" => "17 Mar 2020",
+    "text" => "<span style='color: red;'>AGM Weds 22<sup>nd</sup> April, <b>CANCELLED</b></span>",
     "link" => "<a href='#calendar' title='Click for details of this year\'s AGM'><button class='btn btn-success'>More...</button></a>"
 ];
 
