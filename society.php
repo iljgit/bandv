@@ -97,7 +97,7 @@
                     <p>Constitution of the Burnside and Vinery Road Allotment Society
                     </p>
                     <p>
-                                <a href="assets/docs/Constitution_15-10-2015.pdf" target="doc" title="Click for the Society's constitution">
+                                <a href="assets/docs/Constitution_17-03-2020.pdf" target="doc" title="Click for the Society's constitution">
                                 <button class="btn btn-xs btn-primary" style="width:90px">
                                     PDF
                                 </button></a>
