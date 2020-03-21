@@ -16,6 +16,24 @@
             <div class="row mb" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
+                    <h2>Important - Coronavirus (COVID-19) Information</h2>
+                    <p>
+                        <ul>
+                            <li>The allotment continues to be a great place to spend time and grow your own food.</li>
+                            <li>Social distancing (keeping 2 metres apart) is easy on site: please respect your fellow plotholders.</li>
+                            <li>The store is now fully stocked and will open by the end of April, unless we are told not to.</li>
+                            <li>However, we may open the store earlier than that so you can get started.</li>
+                            <li>The site toilets are closed until further notice.</li>
+                            <li>PLEASE check the website regularly for new information and updates.</li>
+                        </ul>
+                    </p>
+
+                    <p>
+                        Click <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/" title="NHS web site" target="NHS">here</a> to visit the NHS website for information and advice.
+                    </p>
+                </div>
+
+                <div class="col-12" style="border: 2px solid green; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
                     <h2>Welcome to your society site!</h2>
                     <p>Follow the links on this page to keep up to date with what is going, look at our photo albums, get growing and cooking ideas, check out the store,

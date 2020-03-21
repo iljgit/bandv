@@ -14,6 +14,13 @@
         <div class="container" id="pagebody">
                                 
                     <div class="row mb" id="home">
+                        <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
+                            <h2>Important - Coronavirus (COVID-19) Information</h2>
+                            <p>
+                                Click <a href="weeders-digest.php" title="Coronavirus information">here</a> for our latest information.
+                            </p>
+                        </div>
+
                         <div class="col-12">
                             <h2>Welcome to the Burnside and Vinery Road Allotment Society</h2>
                             <p>Our two allotment sites, Burnside and Vinery Road, are in the Romsey Town area of south Cambridge.</p>
