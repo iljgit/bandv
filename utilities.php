@@ -391,7 +391,7 @@ $wn[] = (object) [
 
 $wn[] = (object) [
     "date" => "21 Mar 2020",
-    "text" => "Store re-opening Sun 26<sup>th</sup> April, 10am at Burnside - <b>New price list</b>",
+    "text" => "Store re-open from 22<sup>nd</sup> March 2020 - <b>online ordering only</b>",
     "link" => "<a href='#store' title='Click for details of the store'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -643,7 +643,8 @@ $gallery->burnside20200321 = (object) [
     "title" => "A quick peek at Burnside - 21<sup>st</sup> March 2020",
     "banner" => "img_20200321_115424__ujjeQ.jpg",
     "date" => "21 Mar 2020",
-    "body" => "<p>The day after Coronavirus caused the closure of all pubs, clubs, etc..., it is reassuring to know that life goes on.</p>",
+    "body" => "<p>The day after coronavirus caused the closure of all pubs, clubs, etc..., it is reassuring to know that life goes on.</p>
+                <p>John from Burnside demonstrated that he was ready for anything - seemingly mainly surfing.</p>",
     "excerpt" => "The day the UK woke up to no pubs and restaurants.",
     "active" => true
 ];

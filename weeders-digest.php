@@ -21,8 +21,7 @@
                         <ul>
                             <li>The allotment continues to be a great place to spend time and grow your own food.</li>
                             <li>Social distancing (keeping 2 metres apart) is easy on site: please respect your fellow plotholders.</li>
-                            <li>The store is now fully stocked and will open by the end of April, unless we are told not to.</li>
-                            <li>However, we may open the store earlier than that so you can get started.</li>
+                            <li>The store is fully stocked and is open now for online orders only. Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
                             <li>The site toilets are closed until further notice.</li>
                             <li>PLEASE check the website regularly for new information and updates.</li>
                         </ul>
@@ -116,7 +115,7 @@
                         <div class="card-body para-highlight">
                             <!--p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</p-->
                             <p style="color: red;">This year's AGM, scheduled for Wednesday 22<sup>nd</sup> April, is <b>cancelled</b> due to concerns over coronavirus</p>
-                            <p>Burnside Store Re-opening, Sunday 26<sup>th</sup> April, 10am </p>
+                            <p>Burnside Store Open from Sunday 22<sup>nd</sup> March, online orders only.</p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -142,7 +141,10 @@
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/store.jpg)'>Store</div>
-                        <div class="card-body">The society runs a store from spring to early summer selling allotment essentials at low prices.</div> 
+                        <div class="card-body">
+                            <p>The society runs a Store, open now to early summer, selling allotment essentials at low prices.</p>
+                            <p>This year, while coronavirus is a threat, only online orders will be taken.</p>
+                        </div> 
                         <div class="card-footer"><a href="#store" title="Read about the Store" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
@@ -190,7 +192,8 @@
                         </tr>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
-                            <td>The Society's store at Burnside will re-open on Sunday April 26<sup>th</sup> at 10a.m.</td>
+                            <td>The Society's store at Burnside is open from March 22<sup>nd</sup> for online orders only. 
+                                Click <a href="#store" title="Click to see store details">here</a> for more details.</td>
                         </tr>
                     </table>
                 </div>
@@ -410,11 +413,25 @@
         <div class="container">
             <div class="row mb">
                 <div class="col-12">
-                    <h3>The Store will re-open on Sunday 26<sup>th</sup> April at 10a.m.</h3>
+                    <h3>The Store is open from Sunday 22<sup>nd</sup> March for online orders only</h3>
                     <br>
                     <p>The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
-                    It sells essential supplies on weekend mornings during the spring and early summer months and is for the use of Burnside and Vinery Road tenants. 
-                    It is staffed by volunteers.</p>
+                    <!--It sells essential supplies on weekend mornings during the spring and early summer months and is for the use of Burnside and Vinery Road tenants. 
+                    It is staffed by volunteers.-->
+                    </p>
+                    <h4>How to buy your allotment goods</h4>
+                    <p>
+                    While coronavirus remains a threat, the store will not be physically open.  Instead, society members may order supplies online, according to the 
+                    following process:
+                    <ul>
+                        <li>Check the price list below and select the items and quantities you require.</li>
+                        <li>Email your order to the Store Manager (see below for the email address), with a preferred collection day.</li>
+                        <li>The Store Manager will confirm if all items and quantities are in stock, provide a total price, give bank account details, and offer an order collection time.</li>
+                        <li>Pay by on-line bank transfer. Advise the Store Manager when payment is complete and agree the collection time or request a different one.</li>
+                        <li>Collect your order from outside the Burnside store at the time agreed. You will also receive an "order ready to collect" email.</li>
+
+                    </ul>
+                    </p>
                     <p>
                         For more information email the
                         <a id="storeemail" title="store@burnsideandvineryallotments.org" href="mailto:store@burnsideandvineryallotments.org"></span>store manager</a> 
