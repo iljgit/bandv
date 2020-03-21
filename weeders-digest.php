@@ -115,7 +115,7 @@
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
                             <!--p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</p-->
-                            <p>AGM, Wednesday 22<sup>nd</sup> April, 7:30pm</p>
+                            <p style="color: red;">This year's AGM, scheduled for Wednesday 22<sup>nd</sup> April, is <b>cancelled</b> due to concerns over coronavirus</p>
                             <p>Burnside Store Re-opening, Sunday 26<sup>th</sup> April, 10am </p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
@@ -186,7 +186,7 @@
                     <table>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
-                            <td style="color: red;">This year's AGM, scheduled for Wednesday 22<sup>nd</sup> April, has been <b>cancelled<b> due to concerns over coronavirus</td>
+                            <td style="color: red;">This year's AGM, scheduled for Wednesday 22<sup>nd</sup> April, is <b>cancelled</b> due to concerns over coronavirus</td>
                         </tr>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
