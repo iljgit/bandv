@@ -395,6 +395,12 @@ $wn[] = (object) [
     "link" => "<a href='#store' title='Click for details of the store'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "21 Mar 2020",
+    "text" => "A quick look around Burnside on the day the UK woke up to no pubs, clubs and restaurants.  Isn't it reassuring to know that life still goes on!",
+    "link" => "<a href='gallery.php?index=burnside20200321' title='Click for Burnside photos 21 Mar 2020'><button class='btn btn-success'>View...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -630,6 +636,15 @@ $gallery->vineryburnnov18 = (object) [
     "date" => "01 Nov 2018",
     "body" => "<p>A good time to get rid of all the summer left-overs, before winter set in.</p>",
     "excerpt" => "Clearing non-compostable rubbish before winter.",
+    "active" => true
+];
+
+$gallery->burnside20200321 = (object) [
+    "title" => "A quick peek at Burnside - 21<sup>st</sup> March 2020",
+    "banner" => "img_20200321_115424__ujjeQ.jpg",
+    "date" => "21 Mar 2020",
+    "body" => "<p>The day after Coronavirus caused the closure of all pubs, clubs, etc..., it is reassuring to know that life goes on.</p>",
+    "excerpt" => "The day the UK woke up to no pubs and restaurants.",
     "active" => true
 ];
 
