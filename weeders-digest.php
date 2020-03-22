@@ -13,7 +13,7 @@
 
         <div class="container" id="pagebody">
                                 
-            <div class="row mb" id="home">
+            <div class="row mb justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                     <h2>Important - Coronavirus (COVID-19) Information</h2>
@@ -54,6 +54,8 @@
                     </p>
                 </div>
 
+                <?php echo(getWhatsNew()); ?>
+
                 <div class="col-12" style="border: 2px solid green; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
                     <h2>Welcome to your society site!</h2>
@@ -68,17 +70,17 @@
                 </div>
 
                 <div class="col-12">
-                <p>For many years, <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
-                which usually included growing tips, general allotment news and recipes.  Here is our equivalent.</p>
-                <p>
-                This page is an at-a-glance view of what is new, what is happening and, hopefully, what is interesting in the world of allotmenteering and of the Society.
-                  If there is anything you think we should be talking about, or anything you would like to contribute, let us know.
-                </p>
+                    <p>For many years, <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
+                    which usually included growing tips, general allotment news and recipes.  Here is our equivalent.</p>
+                    <p>
+                    This page is an at-a-glance view of what is new, what is happening and, hopefully, what is interesting in the world of allotmenteering and of the Society.
+                    If there is anything you think we should be talking about, or anything you would like to contribute, let us know.
+                    </p>
                 </div>
 
-            </div>
+                <div class='col-12 col-md-4'><hr></div>
 
-            <?php echo(getWhatsNew()); ?>
+            </div>
 
             <div class="row mb">
 

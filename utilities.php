@@ -407,6 +407,12 @@ $wn[] = (object) [
     "link" => "<a href='#home' title='Click for coronavirus advice'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "22 Mar 2020",
+    "text" => "A short quiz to take your mind off current events, albeit for just a few minutes",
+    "link" => "<a href='quiz1.php' title='Click for quiz'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*

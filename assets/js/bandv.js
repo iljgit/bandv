@@ -351,6 +351,12 @@ let PFModal = {
 				args.body = 'Thank you for your application.<br><br>' +
 							'We have sent you an automated email confirming your details.  We will be in touch shortly to discuss your application.';
 			break;
+
+			case 'quizok':
+				args.type = 'info';
+				args.body = 'Thank you for your entering our quiz.<br><br>' +
+							'We will publish the answers on ' + args.date;
+			break;
 			
 			case 'applicationfail':
 				args.type = 'danger';
