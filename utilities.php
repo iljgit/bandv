@@ -114,7 +114,7 @@ $pages = (object) [
         "title" => "Your Society - Important Information | Burnside and Vinery"
     ],
     "weeders-digest" => [
-        "description" => "Weeder's Digest was the original name of the Society newsletter.  This homage is the fist stop for all Society members. Burnside and Vinery Road Allotment Society, Cambridge UK", 
+        "description" => "Weeder's Digest was the original name of the Society newsletter.  This homage is the fist stop for all Society members. Burnside and Vinery Road Allotment Society, Cambridge UK.  Showing the latest Society information, Store details, calendar events.", 
         "title" => "Weeders Digest | Burnside and Vinery"
     ],
     "default" => [
@@ -401,6 +401,12 @@ $wn[] = (object) [
     "link" => "<a href='gallery.php?index=burnside20200321' title='Click for Burnside photos 21 Mar 2020'><button class='btn btn-success'>View...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "22 Mar 2020",
+    "text" => "Coronavirus advice on this page updated on 22 Mar 2020 10:30am",
+    "link" => "<a href='#home' title='Click for coronavirus advice'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -669,7 +675,7 @@ function getWhatsNew() {
     foreach ($wn as $w) {
         if ($w->timestamp >= $last14) {
             $link = strlen($w->link) > 0 ? '<br>' . $w->link : '';
-            $det .= "<p><i style='font-size: 80%;'>{$w->date}</i> - {$w->text}{$link}</p>";
+            $det .= "<p class='wn-para'><i style='font-size: 80%;'>{$w->date}</i> - {$w->text}{$link}</p>";
         }
     }
 

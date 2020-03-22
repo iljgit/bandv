@@ -18,17 +18,39 @@
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                     <h2>Important - Coronavirus (COVID-19) Information</h2>
                     <p>
-                        <ul>
+                        <ul class="ul-separated">
                             <li>The allotment continues to be a great place to spend time and grow your own food.</li>
                             <li>Social distancing (keeping 2 metres apart) is easy on site: please respect your fellow plotholders.</li>
                             <li>The store is fully stocked and is open now for online orders only. Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
                             <li>The site toilets are closed until further notice.</li>
+                            <li>The Vinery Pavilion is not to be used until further notice.</li>
+                            <li>PLEASE ensure that there is no unauthorised access to your site.</li>
                             <li>PLEASE check the website regularly for new information and updates.</li>
                         </ul>
                     </p>
 
+                    <h4><br>External links</h4>
+
                     <p>
                         Click <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/" title="NHS web site" target="NHS">here</a> to visit the NHS website for information and advice.
+                    </p>
+
+                    <p>
+                        Click <a href="https://www.nsalg.org.uk/news/covid19-information/" title="NSALG web site" target="NSALG">here</a> to visit the NSALG website for allotment-specific advice.
+                    </p>
+
+                    <h4><br>Site enquiries</h4>
+
+                    <p>
+                        For Vinery-specific enquiries, please email 
+                        <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
+                    </p>
+
+                    <p>
+                        For Burnside-specific enquiries, please email 
+                        <a id="viceemail" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
                     </p>
                 </div>
 
@@ -61,7 +83,7 @@
             <div class="row mb">
 
                 <div class="col-12">
-                    <h2>Hayley Wood Nature Reserve is having a Sale</h2>
+                    <h2>Hayley Wood Nature Reserve is having a Sale<br><span style="font-size: 80%;">(still on as at 22<sup>nd</sup> March)</span></h2>
                 </div>
 
                 <div class="col-12 col-md-6">

@@ -494,6 +494,16 @@ input[required] {
     border-color: red;
 }
 
+/* What's new */
+.wn-para {
+    padding-bottom: 20px;
+}
+
+/* UL */
+ul.ul-separated li {
+    padding-bottom: 10px;
+}
+
 @media (max-width: 575px) {
     .navbar-collapse {
         background: var(--menu-background-colour);

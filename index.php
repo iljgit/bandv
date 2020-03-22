@@ -17,7 +17,7 @@
                         <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                             <h2>Important - Coronavirus (COVID-19) Information</h2>
                             <p>
-                                Click <a href="weeders-digest.php" title="Coronavirus information">here</a> for our latest information.
+                                Click <a href="weeders-digest.php" title="Coronavirus information">here</a> for our latest information, including NHS and NSALG advice.
                             </p>
                         </div>
 
