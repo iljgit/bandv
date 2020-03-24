@@ -1,2 +1,2 @@
 # bandv
-Allotment Society web site
+Allotment Society web site.
