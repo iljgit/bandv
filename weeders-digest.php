@@ -16,10 +16,10 @@
             <div class="row mb justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information</h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 24<sup>th</sup> March 2020 16:10</i></h2>
                     <p>
                         <ul class="ul-separated">
-                            <li>The allotment continues to be a great place to spend time and grow your own food.</li>
+                            <li><b>Government and NSALG update 24.03.2020</b>: It is still permitted to cultivate your plot, ideally on your own, to take daily exercise, provided you follow all advice about social distancing and hygiene.</li>
                             <li>Social distancing (keeping 2 metres apart) is easy on site: please respect your fellow plotholders.</li>
                             <li>The store is fully stocked and is open now for online orders only. Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
                             <li>The site toilets are closed until further notice.</li>
