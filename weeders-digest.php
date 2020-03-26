@@ -140,9 +140,10 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <!--p><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</p-->
-                            <p style="color: red;">This year's AGM, scheduled for Wednesday 22<sup>nd</sup> April, is <b>cancelled</b> due to concerns over coronavirus</p>
-                            <p>Burnside Store Open from Sunday 22<sup>nd</sup> March, online orders only.</p>
+                            <!--p><i><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</i></p-->
+                            <p style="color: red;">This year's AGM is <b>cancelled</b> due to concerns over coronavirus</p>
+                            <p>Burnside troughs refilled from Thursday 26<sup>th</sup> March</p>
+                            <p>Burnside Store open from Sunday 22<sup>nd</sup> March, online orders only.</p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -221,6 +222,10 @@
                             <td><i class="far fa-calendar"></i></td>
                             <td>The Society's store at Burnside is open from March 22<sup>nd</sup> for online orders only. 
                                 Click <a href="#store" title="Click to see store details">here</a> for more details.</td>
+                        </tr>
+                        <tr>
+                            <td><i class="far fa-calendar"></i></td>
+                            <td>Burnside's troughs were refilled for summer on Thursday 26<sup>th</sup> March</td>
                         </tr>
                     </table>
                 </div>
@@ -389,23 +394,6 @@
                             </div>
                             <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/weeders-digest/notices/foldingbarrow.jpg" />
                             Folding barrow - as new. £20
-                        </blockquote>
-                    </div>                    
-                    
-                </div>
-                
-                <div class="col-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note general">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
-                                </div><br>For sale
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/weeders-digest/notices/greenbarrow.jpg" />
-                            Large wheelbarrow - puncture-free tyre - new. £63
                         </blockquote>
                     </div>                    
                     
