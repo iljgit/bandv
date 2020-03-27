@@ -419,6 +419,12 @@ $wn[] = (object) [
     "link" => ""
 ];
 
+$wn[] = (object) [
+    "date" => "27 Mar 2020",
+    "text" => "<span style='color: red;'>The Hayley Wood Nature Reserve sale, scheduled for 10<sup>th</sup> and 11<sup>th</sup> April, has been cancelled.</span>",
+    "link" => ""
+];
+
 $gallery = (object)[];
 
 /*

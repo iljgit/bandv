@@ -85,7 +85,7 @@
 
             </div>
 
-            <div class="row mb">
+            <!--div class="row mb">
 
                 <div class="col-12">
                     <h2>Hayley Wood Nature Reserve is having a Sale<br><span style="font-size: 80%;">(still on as at 22<sup>nd</sup> March)</span></h2>
@@ -99,7 +99,7 @@
                     <img src="assets/img/weeders-digest/beanpoleadvertprice.jpg" class="img img-responsive img-thumbnail" style="width: 100%" alt="beanpole advert price" title="beanpole, pea stick, and plant sale 2020 price" />
                 </div>
 
-            </div>
+            </div-->
 
             <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 
