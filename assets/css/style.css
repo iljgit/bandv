@@ -504,6 +504,11 @@ ul.ul-separated li {
     padding-bottom: 10px;
 }
 
+/* Tables */
+td {
+    vertical-align: top;
+}
+
 @media (max-width: 575px) {
     .navbar-collapse {
         background: var(--menu-background-colour);

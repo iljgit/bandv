@@ -225,7 +225,10 @@
                         </tr>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
-                            <td>Burnside's troughs were refilled for summer on Thursday 26<sup>th</sup> March</td>
+                            <td><p>Burnside's troughs were cleaned and refilled for summer on Thursday 26<sup>th</sup> March.
+                            Please read and follow the instructions shown on notices attached to the side of each trough,  regarding their use.</p>
+                            <img style="width: 100%;" src="assets/img/weeders-digest/burnside-trough.jpg" alt="Burnside trough, cleaned and refilled" title="Burnside trough, cleaned and refilled" class="img img-responsive" />
+                            </td> 
                         </tr>
                     </table>
                 </div>
