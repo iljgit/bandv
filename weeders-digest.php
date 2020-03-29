@@ -16,19 +16,23 @@
             <div class="row mb justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 25<sup>th</sup> March 2020 17:00</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 29<sup>th</sup> March 2020 17:00</i></h2>
                     <p>
                         <ul class="ul-separated">
                             <li><b>Government and NSALG update 24.03.2020</b>: It is still permitted to cultivate your plot, ideally on your own, to take daily exercise, provided you follow all advice about social distancing and hygiene.</li>
                             <li>Social distancing (keeping 2 metres apart) is easy on site: please respect your fellow plotholders.</li>
-                            <li>If anyone in your household has symptoms of Covid 19 you <b>must</b> stay away from the site (as you should be self-isolating in these circumstances in any case)</li>
-                            <li>The store is fully stocked and is open now for online orders only. Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
-                            <li>The site toilets are closed until further notice.</li>
-                            <li>The Vinery Pavilion is not to be used until further notice.</li>
-                            <li>PLEASE ensure that there is no unauthorised access to your site.</li>
+                            <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> stay away from the site (as you should be self-isolating in these circumstances in any case)</li>
+                            <li>The Store is fully stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
+                                Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
+                            <li>The toilets at Vinery and Burnside are closed until further notice.</li>
+                            <li>The Vinery Pavilion is not to be used until further notice.  Please <b>do not</b> even open the door.</li>
+                            <li>Vinery gates: the top gate is locked until further notice; the other gate will be opened by Suzy at 8:30am and closed at 7pm.  
+                                <b>Do not</b> open or touch it yourself.</li>
+                            <li>Burnside gates: please use gloves when locking and unlocking.</li>
+                            <li><b>PLEASE</b> ensure that there is no unauthorised access to your site.</li>
                             <li><b>Do not</b> share tools or use communal equipment</li>
                             <li><b>Do not</b> wash your hands in water troughs</li>
-                            <li>PLEASE check the website regularly for new information and updates.</li>
+                            <li><b>PLEASE</b> check the website regularly for new information and updates.</li>
                         </ul>
                     </p>
 
@@ -61,7 +65,7 @@
 
                 <div class="col-12" style="border: 2px solid green; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
-                    <h2>Welcome to your society site!</h2>
+                    <h2>Welcome to your Society site!</h2>
                     <p>Follow the links on this page to keep up to date with what is going, look at our photo albums, get growing and cooking ideas, check out the store,
                     and much more.</p>
                     <p>Let us know what you think about the site and any suggestions you have about content.  Better still, send us an article or 
@@ -170,7 +174,7 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/store.jpg)'>Store</div>
                         <div class="card-body">
-                            <p>The society runs a Store, open now to early summer, selling allotment essentials at low prices.</p>
+                            <p>The Society runs a Store, open now to early summer, selling allotment essentials at low prices.</p>
                             <p>This year, while coronavirus is a threat, only online orders will be taken.</p>
                         </div> 
                         <div class="card-footer"><a href="#store" title="Read about the Store" class='btn btn-success stretched-link'>More...</a></div>
@@ -439,7 +443,7 @@
                     </p>
                     <h4>How to buy your allotment goods</h4>
                     <p>
-                    While coronavirus remains a threat, the store will not be physically open.  Instead, society members may order supplies online, according to the 
+                    While coronavirus remains a threat, the store will not be physically open.  Instead, Society members may order supplies online, according to the 
                     following process:
                     <ul>
                         <li>Check the price list below and select the items and quantities you require.</li>

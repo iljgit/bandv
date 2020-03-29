@@ -402,8 +402,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "25 Mar 2020",
-    "text" => "Coronavirus advice on this page updated on 25 Mar 2020 5:00pm",
+    "date" => "29 Mar 2020",
+    "text" => "Coronavirus advice on this page updated on 29 Mar 2020 5:00pm",
     "link" => "<a href='#home' title='Click for coronavirus advice'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -422,6 +422,14 @@ $wn[] = (object) [
 $wn[] = (object) [
     "date" => "27 Mar 2020",
     "text" => "<span style='color: red;'>The Hayley Wood Nature Reserve sale, scheduled for 10<sup>th</sup> and 11<sup>th</sup> April, has been cancelled.</span>",
+    "link" => ""
+];
+
+$wn[] = (object) [
+    "date" => "29 Mar 2020",
+    "text" => "<b>Burnside and Vinery Road Allotment Society Leading The Way</b><br>
+                The NSALG has identified this Society's processes for running the Store in these difficult times as a template 
+                for all societies to follow.  Well done Andy K for showing the way.",
     "link" => ""
 ];
 
