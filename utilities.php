@@ -390,8 +390,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "21 Mar 2020",
-    "text" => "Store re-open from 22<sup>nd</sup> March 2020 - <b>online ordering only</b>",
+    "date" => "30 Mar 2020",
+    "text" => "Online ordering from the store has been suspended.  We are aiming to restart ordering later in the season.",
     "link" => "<a href='#store' title='Click for details of the store'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -402,8 +402,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "29 Mar 2020",
-    "text" => "Coronavirus advice on this page updated on 29 Mar 2020 5:00pm",
+    "date" => "30 Mar 2020",
+    "text" => "Coronavirus advice on this page updated on 31 Mar 2020 9:30pm",
     "link" => "<a href='#home' title='Click for coronavirus advice'><button class='btn btn-success'>More...</button></a>"
 ];
 

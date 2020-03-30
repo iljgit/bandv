@@ -16,14 +16,15 @@
             <div class="row mb justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 29<sup>th</sup> March 2020 17:00</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 30<sup>th</sup> March 2020 21:30</i></h2>
                     <p>
                         <ul class="ul-separated">
                             <li><b>Government and NSALG update 24.03.2020</b>: It is still permitted to cultivate your plot, ideally on your own, to take daily exercise, provided you follow all advice about social distancing and hygiene.</li>
+                            <li><b>NSALG update 30.03.2020</b>: If working your plot is to carry on being seen as legitimate exercise then it is VITAL to follow all guidelines. NSALG now suggest working your plot in isolation, ie not even with household members, and if you can stay away for a few weeks, then do so.</li>
                             <li>Social distancing (keeping 2 metres apart) is easy on site: please respect your fellow plotholders.</li>
                             <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> stay away from the site (as you should be self-isolating in these circumstances in any case)</li>
-                            <li>The Store is fully stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
-                                Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
+                            <!--li>The Store is fully stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
+                                Click <a href="#store" title="Click to see store details">here</a> for more details.</li-->
                             <li>The toilets at Vinery and Burnside are closed until further notice.</li>
                             <li>The Vinery Pavilion is not to be used until further notice.  Please <b>do not</b> even open the door.</li>
                             <li>Vinery gates: the top gate is locked until further notice; the other gate will be opened by Suzy at 8:30am and closed at 7pm.  
@@ -435,14 +436,15 @@
         <div class="container">
             <div class="row mb">
                 <div class="col-12">
-                    <h3>The Store is open from Sunday 22<sup>nd</sup> March for online orders only</h3>
-                    <br>
                     <p>The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
                     <!--It sells essential supplies on weekend mornings during the spring and early summer months and is for the use of Burnside and Vinery Road tenants. 
                     It is staffed by volunteers.-->
                     </p>
                     <h4>How to buy your allotment goods</h4>
                     <p>
+                        <b>30 March 2020</b>: The Store is not open for face-to-face business, and online ordering has now been suspended for a few weeks but we aim to reinstate it later in the season.
+                    </p>
+                    <!--p>
                     While coronavirus remains a threat, the store will not be physically open.  Instead, Society members may order supplies online, according to the 
                     following process:
                     <ul>
@@ -453,7 +455,7 @@
                         <li>Collect your order from outside the Burnside store at the time agreed. You will also receive an "order ready to collect" email.</li>
 
                     </ul>
-                    </p>
+                    </p-->
                     <p>
                         For more information email the
                         <a id="storeemail" title="store@burnsideandvineryallotments.org" href="mailto:store@burnsideandvineryallotments.org"></span>store manager</a> 
