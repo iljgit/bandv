@@ -443,8 +443,9 @@
                     </p>
                     <h4>How to buy your allotment goods</h4>
                     <p>
-                        <b>31 March 2020</b>: The Store is not open for face-to-face business.  Online ordering is available but, due to demand, is subject to delay.  
-                        Please follow the process below:
+                        <b>2<sup>nd</sup> April 2020</b>: The store is NOT open for face-to-face business. An on-line process, as detailed below, has been running very well 
+                        but is temporarily suspended due to the escalating COVID 19 crisis. 
+                        The situation is under constant review and on-line ordering will be reinstated as soon as possible.
                     </p>
                     <p>
                         <ul>

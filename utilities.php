@@ -390,8 +390,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "31 Mar 2020",
-    "text" => "Online ordering from the store is available, but is currently subject to delay.",
+    "date" => "02 Apr 2020",
+    "text" => "Read the latest information about the store.",
     "link" => "<a href='#store' title='Click for details of the store'><button class='btn btn-success'>More...</button></a>"
 ];
 
