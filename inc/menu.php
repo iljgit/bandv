@@ -23,6 +23,9 @@
       <li class="nav-item">
         <a class="nav-link" href="/photos.php">Photos</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/quizzes.php">Quizzes</a>
+      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
           About

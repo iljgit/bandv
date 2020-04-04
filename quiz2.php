@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz1";
+                let quizid = "quiz2";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '01 April 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '12 April 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -78,7 +78,7 @@
 
         <!-- Banner image -->
         <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/header.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #</span></h1>
+            <h1 id="title"><span class="title-background">Quiz #2</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -86,9 +86,10 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h2>Famous Bottoms</h2>
-                    <p>Here are 10 questions about bottoms in all the glorious meanings of that word.</p>
+                    <h2>Song lyrics</h2>
+                    <p>Here are 10 questions about songs.  Each clip is of a song with a girl's name in the title or lyrics.  All we need is the girl's name and the name of the artist.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i> if you would like to be included in our wall of fame / shame.</p>
+                    <p class="current-quiz">The closing date is the 12<sup>th</sup> April.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
@@ -97,6 +98,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/01.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -108,6 +112,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/02.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -119,6 +126,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/03.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -130,6 +140,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/04.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -141,6 +154,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/05.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -152,6 +168,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/06.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -163,6 +182,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/07.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -174,6 +196,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/08.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -185,6 +210,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/09.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -196,6 +224,9 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
+                    <audio controls>
+                        <source src="assets/audio/quiz2/10.mp3">
+                    </audio>
                 </div>
 
                 <div class="col-sm-12 col-md-6">

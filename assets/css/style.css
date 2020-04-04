@@ -509,6 +509,24 @@ td {
     vertical-align: top;
 }
 
+/* QUIZ */
+.current-quiz, .past-quiz, .answer {
+    display: none;
+    
+}
+
+.current .current-quiz {
+    display: block;
+}
+
+.past .past-quiz {
+    display: block;
+}
+
+.reveal .answer {
+    display: block;
+}
+
 @media (max-width: 575px) {
     .navbar-collapse {
         background: var(--menu-background-colour);

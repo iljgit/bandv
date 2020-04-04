@@ -4,6 +4,16 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/header.php" ?>
         <script>
             // REMEMBER to change the quizid and closing date
+
+            function reveal() {
+                if ($('body').hasClass('reveal')) {
+                    $('body').removeClass('reveal');
+                }
+                else {
+                    $('body').addClass('reveal');
+                }
+            }
+
             function quiz() {
                 let doIt = true; 
                 let mfields = ['name', 'answer1', 'answer2', 'answer3', 'answer4', 'answer5', 'answer6', 'answer7', 'answer8', 'answer9', 'answer10'];
@@ -64,32 +74,23 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
         <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/header.jpg);">
-            <h1 id="title"><span class="title-background">Quiz</span></h1>
+            <h1 id="title"><span class="title-background">Quiz #1</span></h1>
         </div>
 
         <div class="container" id="pagebody">
-                                
+
             <div class="row mb" id="home">
-
-                <div class="col-12">
-                    <p>We are facing uncertain times, with lots to concern us.  There is nothing like a good quiz to take your mind off things, 
-                        and this is nothing like a good quiz.  It's just for fun and the results will be published on 5<sup>th</sup> April 2020, along with a randomly drawn winner.
-                    </p>
-                </div>
-
-            </div>
-
-            <div class="row mb">
                 <div class="col-12">
                     <h2>Famous Lines from Films</h2>
-                    <p>Here are 10 questions about famous films. In each case there is an excerpt from the dialogue.  Answer all the questions, then 
-                        send us your answers (fill in your name, and press <i>Submit</i> if you would like to be included in our wall of fame / shame.
-                    </p>
+                    <p>Here are 10 questions about famous films. In each case there is an excerpt from the dialogue.</p>
+                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, 
+                        press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b>Ingrid</b> - this week's winner.</p>
                 </div>
             </div>
 
@@ -107,7 +108,8 @@
                 </div>
 
                 <div class="col-sm-12 col-md-6">
-                    <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
+                    <p><textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea></p>
+                    <p class="answer">Play Misty For Me - Clint Eastwood</p>
                 </div>
             </div>
 
@@ -126,6 +128,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
+                    <p class="answer">Monty Python’s Life of Brian – Terry Jones</p>
                 </div>
             </div>
 
@@ -144,6 +147,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
+                    <p class="answer">he Godfather – Marlon Brando (Don Vito Corleone)</p>
                 </div>
             </div>
 
@@ -164,6 +168,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
+                    <p class="answer">Airplane – Peter Graves</p>
                 </div>
             </div>
 
@@ -183,6 +188,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
+                    <p class="answer">When Harry Met Sally – Meg Ryan</p>
                 </div>
             </div>
 
@@ -201,6 +207,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
+                    <p class="answer">Silence of the Lambs – Anthony Hopkins</p>
                 </div>
             </div>
 
@@ -219,6 +226,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
+                    <p class="answer">Terminator 2 – Judgement Day – Arnold Shwarzenegger</p>
                 </div>
             </div>
 
@@ -237,6 +245,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
+                    <p class="answer">Dead Poets Society – Robin Williams</p>
                 </div>
             </div>
 
@@ -255,6 +264,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
+                    <p class="answer">Forest Gump – Tom Hanks</p>
                 </div>
             </div>
 
@@ -273,10 +283,11 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
+                    <p class="answer">The Graduate – Dustin Hoffman</p>
                 </div>
             </div>
 
-            <div class="row mb">
+            <div class="row mb current-quiz">
                 <div class="col-sm-12 col-md-6">
                     <h5>Your name</h5>
                 </div>
@@ -286,7 +297,7 @@
                 </div>
             </div>
 
-            <div class="row mb">
+            <div class="row mb current-quiz">
                 <div class="col-12">
                     <button title="Click to submit your answers" id="submitbutton" onclick="quiz();" class="btn btn-success">Submit</button>
                 </div>
