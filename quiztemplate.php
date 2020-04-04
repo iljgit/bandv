@@ -88,7 +88,8 @@
                 <div class="col-12">
                     <h2>Famous Bottoms</h2>
                     <p>Here are 10 questions about bottoms in all the glorious meanings of that word.</p>
-                    <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i> if you would like to be included in our wall of fame / shame.</p>
+                    <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
+                    <p class="current-quiz">The closing date is the 12<sup>th</sup> April.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>

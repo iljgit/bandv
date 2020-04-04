@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz2";
+                let quizid = "quiz3";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '12 April 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '19 April 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -78,7 +78,7 @@
 
         <!-- Banner image -->
         <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/header.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #2</span></h1>
+            <h1 id="title"><span class="title-background">Quiz #3</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -86,10 +86,11 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h2>Song lyrics</h2>
-                    <p>Here are 10 questions about songs.  Each clip is of a song with a girl's name in the title or lyrics.  All we need is the girl's name and the name of the artist.</p>
+                    <h2>Family Fortunes</h2>
+                    <p>Here are 10 questions from Family Fortunes.  If you have never played it before, groups of 100 people are asked for their answers to questions.  
+                    We want one answer to each question.  If yours matches the most popular answer you get 2 points.  If it matches one of the next 3 most popular you get 1 point. </p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 12<sup>th</sup> April.</p>
+                    <p class="current-quiz">The closing date is the 19<sup>th</sup> April.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
@@ -98,9 +99,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/01.mp3">
-                    </audio>
+                    <p>Name a sign of affection a woman would like to get more often from her partner</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -112,9 +111,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/02.mp3">
-                    </audio>
+                    <p>Name something that never comes with pockets</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -126,9 +123,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/03.mp3">
-                    </audio>
+                    <p>Name something you don’t wash as often as you should</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -140,9 +135,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/04.mp3">
-                    </audio>
+                    <p>Name a place where you DON’T want front row seats</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -154,9 +147,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/05.mp3">
-                    </audio>
+                    <p>Name something a woman puts on to look sexier</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -168,9 +159,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/06.mp3">
-                    </audio>
+                    <p>Name something people shake</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -182,9 +171,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/07.mp3">
-                    </audio>
+                    <p>Name a famous male lover (real or fictional)</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -196,9 +183,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/08.mp3">
-                    </audio>
+                    <p>Name something you do in bed</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -210,9 +195,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/09.mp3">
-                    </audio>
+                    <p>Name the first thing to touch your lips each morning</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
@@ -224,9 +207,7 @@
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
-                    <audio controls>
-                        <source src="assets/audio/quiz2/10.mp3">
-                    </audio>
+                    <p>Name something a man should NOT take on his honeymoon</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
