@@ -334,6 +334,22 @@ width: 100%;
   .postit .general {
     background: #fdd0cc;
   }
+
+  .postit .whats-new {
+    background: rgba(255, 255, 100, 0.4);
+  }
+
+.postit .whats-new .title {
+    height: 30px;
+}
+
+.postit .whats-new .body {
+    height: 180px;
+}
+
+.postit .whats-new .footer {
+    height: 30px;
+}
   
   .postit .title {
       text-align: center;

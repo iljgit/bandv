@@ -66,7 +66,7 @@
                         <div class='card-header' style='background-image: url(/assets/img/quiz/film.jpg)'>1. Films</div>
                         <div class="card-body">
                             <p>Test your knowledge of popular films.</p>
-                            <p>Well done to <b>Ingrid</b> this week's winner.</p>
+                            <p>Well done to <b>Andy K et al</b>, this week's winner.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz1.php" title="Quiz #1" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

@@ -117,6 +117,10 @@ $pages = (object) [
         "description" => "Weeder's Digest was the original name of the Society newsletter.  This homage is the fist stop for all Society members. Burnside and Vinery Road Allotment Society, Cambridge UK.  Showing the latest Society information, Store details, calendar events.", 
         "title" => "Weeders Digest | Burnside and Vinery"
     ],
+    "quizzes" => [
+        "description" => "Fun quizzes to test you general knowledge during these troubled times.  All welcome, bu particulary members of the Burnside and Vinery Road Allotment Society, Cambridge UK", 
+        "title" => "Quizzes | Burnside and Vinery"
+    ],
     "default" => [
         "description" => "Burnside and Vinery Allotment Society provides two, well-managed sites in the south of Cambridge, UK, around the Romsey Town area.", 
         "title" => "Home | Burnside and Vinery"
@@ -408,12 +412,6 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "22 Mar 2020",
-    "text" => "A short quiz to take your mind off current events, albeit for just a few minutes",
-    "link" => "<a href='quiz1.php' title='Click for quiz'><button class='btn btn-success'>More...</button></a>"
-];
-
-$wn[] = (object) [
     "date" => "26 Mar 2020",
     "text" => "Burnside water troughs are back in action for the summer",
     "link" => ""
@@ -431,6 +429,12 @@ $wn[] = (object) [
                 The NSALG has identified this Society's processes for running the Store in these difficult times as a template 
                 for all societies to follow.  Well done Andy K for showing the way.",
     "link" => ""
+];
+
+$wn[] = (object) [
+    "date" => "05 Apr 2020",
+    "text" => "We now have a new feature to provide a little diversion during these troubled times.  Check out the new <b>Quizzes</b> page for some not-so-serious tests of general knowledge.",
+    "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];
@@ -684,6 +688,27 @@ $gallery->burnside20200321 = (object) [
 function getWhatsNew() {
     global $wn;
     $ret = "";
+    $template = '
+    <div class="col-12 col-md-4">                    
+
+        <div class="quote-container postit">
+            <i class="pin"></i>
+            <blockquote class="note whats-new">
+                <div class="title text-center">
+                    <div style="width: 100%;">
+                        xxxdate
+                    </div>
+                </div>
+                <div class="body">
+                    xxxbody
+                </div>
+                <div class="footer">
+                    xxxlink
+                </div>
+            </blockquote>
+        </div>                    
+
+    </div>';
 
     // add a timestamp field for sorting
     foreach ($wn as $w) {
@@ -700,13 +725,18 @@ function getWhatsNew() {
     $det = '';
     foreach ($wn as $w) {
         if ($w->timestamp >= $last14) {
-            $link = strlen($w->link) > 0 ? '<br>' . $w->link : '';
-            $det .= "<p class='wn-para'><i style='font-size: 80%;'>{$w->date}</i> - {$w->text}{$link}</p>";
+            $link = strlen($w->link) > 0 ? $w->link : '';
+            $el = $template;
+            $el = str_ireplace('xxxdate', $w->date, $el);
+            $el = str_ireplace('xxxbody', $w->text, $el);
+            $el = str_ireplace('xxxlink', $link, $el);
+            $det .= $el;
         }
     }
 
     if (strlen($det) > 0) {
-        $ret = "<div class='row mb justify-content-md-center'><div class='col-12'><h2>What's new in the last 14 days</h2>{$det}</div><div class='col-12 col-md-4'><hr></div></div>";
+        $ret = "<div class='row mb justify-content-md-center'><div class='col-12'><h2>What's new in the last 14 days</h2></div>{$det}
+        <div class='col-12 col-md-4'><hr></div></div>";
     }
 
     return $ret;

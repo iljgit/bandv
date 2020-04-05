@@ -90,7 +90,7 @@
                     <p>Here are 10 questions about famous films. In each case there is an excerpt from the dialogue.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, 
                         press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b>Ingrid</b> - this week's winner.</p>
+                    <p class="past-quiz">Well done to <b>Andy K, Sally, Stel and Beverley</b> - this week's winning team.</p>
                 </div>
             </div>
 
@@ -147,7 +147,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">he Godfather – Marlon Brando (Don Vito Corleone)</p>
+                    <p class="answer">The Godfather – Marlon Brando (Don Vito Corleone)</p>
                 </div>
             </div>
 

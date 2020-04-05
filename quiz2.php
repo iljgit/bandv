@@ -99,7 +99,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/01.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/01.mp3">
                     </audio>
                 </div>
 
@@ -113,7 +113,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/02.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/02.mp3">
                     </audio>
                 </div>
 
@@ -127,7 +127,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/03.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/03.mp3">
                     </audio>
                 </div>
 
@@ -141,7 +141,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/04.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/04.mp3">
                     </audio>
                 </div>
 
@@ -155,7 +155,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/05.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/05.mp3">
                     </audio>
                 </div>
 
@@ -169,7 +169,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/06.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/06.mp3">
                     </audio>
                 </div>
 
@@ -183,7 +183,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/07.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/07.mp3">
                     </audio>
                 </div>
 
@@ -197,7 +197,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/08.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/08.mp3">
                     </audio>
                 </div>
 
@@ -211,7 +211,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/09.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/09.mp3">
                     </audio>
                 </div>
 
@@ -225,7 +225,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
                     <audio controls>
-                        <source src="assets/audio/quiz2/10.mp3">
+                        <source  type="audio/mpeg" src="assets/audio/quiz2/10.mp3">
                     </audio>
                 </div>
 
