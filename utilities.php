@@ -376,24 +376,6 @@ $blogs[] = (object) [
 $wn = [];
 
 $wn[] = (object) [
-    "date" => "20 Feb 2020",
-    "text" => "Barry South - Growing Saffron",
-    "link" => "<a href='/blog/saffron.php' title='Click to read how to grow saffron on your plot'><button class='btn btn-success'>More...</button></a>"
-];
-
-$wn[] = (object) [
-    "date" => "6 Feb 2020",
-    "text" => "Trevor Taylor - a 'new' Weeder's Digest and an article about CCCAS",
-    "link" => "<a href='trevor-taylor.php#wd2003' title='Click to visit the Trevor Taylor page'><button class='btn btn-success'>More...</button></a>"
-];
-
-$wn[] = (object) [
-    "date" => "17 Mar 2020",
-    "text" => "<span style='color: red;'>AGM Weds 22<sup>nd</sup> April, <b>CANCELLED</b></span>",
-    "link" => "<a href='#calendar' title='Click for details of this year\'s AGM'><button class='btn btn-success'>More...</button></a>"
-];
-
-$wn[] = (object) [
     "date" => "02 Apr 2020",
     "text" => "Read the latest information about the store.",
     "link" => "<a href='#store' title='Click for details of the store'><button class='btn btn-success'>More...</button></a>"
@@ -406,8 +388,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "31 Mar 2020",
-    "text" => "Coronavirus advice on this page updated on 31 Mar 2020 9:30pm",
+    "date" => "06 Apr 2020",
+    "text" => "Coronavirus advice on this page updated on 6<sup>th</sup> April 2020 9:30pm",
     "link" => "<a href='#home' title='Click for coronavirus advice'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -435,6 +417,12 @@ $wn[] = (object) [
     "date" => "05 Apr 2020",
     "text" => "We now have a new feature to provide a little diversion during these troubled times.  Check out the new <b>Quizzes</b> page for some not-so-serious tests of general knowledge.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "06 Apr 2020",
+    "text" => "There are updates to the Society's rules and regulations, concerning the use of the water troughs and taking items from unused plots and communal areas.",
+    "link" => "<a href='society.php#documents' title='Click for latest rules and regulations'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];

@@ -82,10 +82,10 @@
                 </div>
 
                 <div class="col-12">
-                    <p>Society Rules and Regulations
+                    <p>Society Rules and Regulations - Updated 6<sup>th</sup> April 2020
                     </p>
                     <p>
-                                <a href="assets/docs/Allotment Rules.pdf" target="doc" title="Click for the Society's rules and regulations">
+                                <a href="assets/docs/Allotment Rules April 2020.pdf" target="doc" title="Click for the Society's rules and regulations">
                                 <button class="btn btn-xs btn-primary" style="width:90px">
                                     PDF
                                 </button></a>

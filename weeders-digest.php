@@ -16,25 +16,34 @@
             <div class="row mb justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 31<sup>st</sup> March 2020 21:30</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 6<sup>th</sup> April 2020 21:30</i></h2>
                     <p>
                         <ul class="ul-separated">
-                            <li><b>Government and NSALG update 24.03.2020</b>: It is still permitted to cultivate your plot, ideally on your own, to take daily exercise, provided you follow all advice about social distancing and hygiene.</li>
-                            <li><b>NSALG update 30.03.2020</b>: If working your plot is to carry on being seen as legitimate exercise then it is VITAL to follow all guidelines. NSALG now suggest working your plot in isolation, ie not even with household members, and if you can stay away for a few weeks, then do so.</li>
-                            <li>Social distancing (keeping 2 metres apart) is easy on site: please respect your fellow plotholders.  Do <b>not</b> gather together for a chat even if you are 2 metres apart.</li>
-                            <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> stay away from the site (as you should be self-isolating in these circumstances in any case)</li>
+                            <li><b>Government and NSALG update 24.03.2020</b>: It is still permitted to cultivate your plot, 
+                            ideally on your own, to take daily exercise, provided you follow all advice about 
+                            social distancing and hygiene.</li>
+                            <li><b>NSALG update 30.03.2020</b>: If allotments are to continue to be legitimate exercise, 
+                            we MUST follow all guidelines. 
+                            NSALG suggest you work your plot <b>on your own</b>, ie not even with household members.</li>
+                            <li>Social distancing means keeping an <b>absolute minimum</b> of 2 metres apart. 
+                            Do not gather to chat even if you are 2 metres apart.</li>
+                            <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> 
+                            stay away from the site.</li>
                             <!--li>The Store is fully stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
                                 Click <a href="#store" title="Click to see store details">here</a> for more details.</li-->
                             <li>The toilets at Vinery and Burnside are closed until further notice.</li>
-                            <li>The Vinery Pavilion is not to be used until further notice.  Please <b>do not</b> even open the door.</li>
-                            <li>Vinery gates: the top gate is locked until further notice; the other gate will be opened by Suzy at 8:30am and closed at 7pm.  
+                            <li>The Vinery Pavilion is not to be used until further notice.  <b>Do not</b> 
+                            even open the door.</li>
+                            <li>Vinery gates: the top gate is locked until further notice; the other gate will be 
+                            opened by Suzy at 8:30am and closed at 7pm.  
                                 <b>Do not</b> open or touch it yourself.</li>
-                            <li>Burnside gates: please use gloves when locking and unlocking.</li>
-                            <li>As a courtesy to our neighbours on both sites, please refrain from lighting any bonfires during the emergency; for some vulnerable people, an open window may be their only source of fresh air.</li>
+                            <li>Burnside gates: use gloves when locking and unlocking.</li>
+                            <li>Bonfires: as a courtesy to our neighbours on both sites, please don’t light any bonfires; 
+                            for some people, an open window may be their only fresh air.</li>
                             <li><b>PLEASE</b> ensure that there is no unauthorised access to your site.</li>
                             <li><b>Do not</b> share tools or use communal equipment</li>
-                            <li><b>Do not</b> wash your hands in water troughs</li>
-                            <li><b>PLEASE</b> check the website regularly for new information and updates.</li>
+                            <li><b>Do not</b> wash your hands, tools or crops in water troughs</li>
+                            <li><b>PLEASE</b> check this website regularly for new information and updates.</li>
                         </ul>
                     </p>
 
