@@ -16,15 +16,21 @@
             <div class="row mb justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 6<sup>th</sup> April 2020 21:30</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 8<sup>th</sup> April 2020 21:30</i></h2>
                     <p>
                         <ul class="ul-separated">
-                            <li><b>Government and NSALG update 24.03.2020</b>: It is still permitted to cultivate your plot, 
-                            ideally on your own, to take daily exercise, provided you follow all advice about 
-                            social distancing and hygiene.</li>
-                            <li><b>NSALG update 30.03.2020</b>: If allotments are to continue to be legitimate exercise, 
-                            we MUST follow all guidelines. 
-                            NSALG suggest you work your plot <b>on your own</b>, ie not even with household members.</li>
+                            <li>
+                            <b>Government advice</b>: It is still permitted to cultivate your plot for daily exercise, provided you follow all 
+                            advice about social distancing and hygiene and limit your time outside the home.
+                            </li>
+                            <li>
+                            <b>NSALG</b> believe it is reasonable to spend an hour or so doing essential tasks on the plot and then return home.
+                            </li>
+                            <li>
+                            If allotments are to continue to be legitimate exercise, we <b>must</b> follow all guidelines. NSALG suggest you work your 
+                            plot <b>on your own</b>, ie not even with household members. The concern is that sites may be shut, 
+                            <b>as they have been in Ireland and France</b>. By visiting alone or staying away for a while, we may reduce the risk of closure.
+                            </li>
                             <li>Social distancing means keeping an <b>absolute minimum</b> of 2 metres apart. 
                             Do not gather to chat even if you are 2 metres apart.</li>
                             <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> 
@@ -38,8 +44,9 @@
                             opened by Suzy at 8:30am and closed at 7pm.  
                                 <b>Do not</b> open or touch it yourself.</li>
                             <li>Burnside gates: use gloves when locking and unlocking.</li>
-                            <li>Bonfires: as a courtesy to our neighbours on both sites, please don’t light any bonfires; 
+                            <li><b>Bonfires</b>: as a courtesy to our neighbours on both sites, please don’t light any bonfires; 
                             for some people, an open window may be their only fresh air.</li>
+                            <li><b>Livestock on site</b>: animal welfare considerations mean this will be seen as essential travel even if movement is restricted further.</li>
                             <li><b>PLEASE</b> ensure that there is no unauthorised access to your site.</li>
                             <li><b>Do not</b> share tools or use communal equipment</li>
                             <li><b>Do not</b> wash your hands, tools or crops in water troughs</li>

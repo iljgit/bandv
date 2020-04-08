@@ -8,7 +8,7 @@
 
         <!-- Banner image -->
         <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/header.jpg);">
-            <h1 id="title"><span class="title-background">Quizically Yours</span></h1>
+            <h1 id="title"><span class="title-background">Quizzically Yours</span></h1>
         </div>
 
         <div class="container" id="pagebody">
