@@ -673,6 +673,16 @@ $gallery->burnside20200321 = (object) [
     "active" => true
 ];
 
+$gallery->vinerysurvey = (object) [
+    "title" => "Vinery Site Survey - Summer 2019",
+    "banner" => "header.jpg",
+    "date" => "01 Sep 2019",
+    "body" => "<p>Jonathan Shanklin of the Cambridge Natural History Society took a group of interested people round Vinery to do some species spotting. 
+    The flora and fauna below are the mainly non-cultivated species they found.</p>",
+    "excerpt" => "When the Cambridge Natural History Society visited Vinery.",
+    "active" => true
+];
+
 function getWhatsNew() {
     global $wn;
     $ret = "";
@@ -792,14 +802,39 @@ function getCarousel($dir) {
     $li = "";
 
     if ($handle = opendir($_SERVER['DOCUMENT_ROOT'] . $dir)) {    
+        $json = json_decode("{}", true);
+
+        // do we have a list file?
+        $string = file_get_contents($_SERVER['DOCUMENT_ROOT'] . $dir . "/list.json");
+        if ($string !== false) {
+            $json = json_decode($string, true);
+        }
+
+        // process the images
         $count = 0;
         while (false !== ($entry = readdir($handle))) {
-            if (!strpos($entry, "_tn.") && $entry !== "." && $entry !== ".."  && $entry !== ".directory") {
+            if (!strpos($entry, "_tn.") && 
+                !strpos($entry, ".json") && 
+                !strpos($entry, ".ods") && 
+                $entry !== "." && 
+                $entry !== ".."  && 
+                $entry !== ".directory" &&
+                $entry !== "header.jpg") {
+
                 $attr = $count < 3 ? 'src' : 'data-src';
                 $cls = $count === 0 ? 'active' : '';
 
+                $desc = "";
+                if ($json[$entry]){
+                    $desc = $json[$entry] . "";
+                    if (strlen($desc) > 0) {
+                        $desc = "<p class='text-center'>" . $desc . "</p>";
+                    }
+                }
+
                 $ret .= "<div class='carousel-item {$cls}'>
                             <img class='d-block img-fluid' {$attr}='{$dir}/{$entry}'>
+                            {$desc}
                         </div>";
 
                 $li .= "<li data-target='#{$name}' data-slide-to='{$count}' class='{$cls}'></li>";
