@@ -695,16 +695,16 @@ $gallery->society20200411 = (object) [
     "date" => "11 Apr 2020",
     "body" => "<p>Joan from Burnside and Suzy from Vinery have been taking some piccies around and about, including a special one which Suzy took of the pink moon in early April.</p>",
     "excerpt" => "Joan from Burnside ands Suzy from Vinery have been taking some snaps",
-    "active" => true
 ];
 
 $gallery->wildlife = (object) [
     "title" => "Wildlife At Burnside - 2020",
     "banner" => "header.jpg",
     "date" => "13 Apr 2020",
-    "body" => "<p>Ever wondered what happens on your site after lights out?  Andy from Burnside did and captured some great over-night images of wildlife enjoying the space and fruits of your labour.</p>",
-    "excerpt" => "Andy from Burnside used a night camera to capture wildlife oin the site after dark",
-    "active" => true
+    "body" => "<p>Ever wondered what happens on your site after lights out?  Andy from Burnside did and captured some great over-night images of wildlife 
+    enjoying the space and the fruits of your labour.</p>",
+    "excerpt" => "Andy from Burnside used a night camera to capture wildlife on the site after dark",
+    "active" => false
 ];
 
 function getWhatsNew() {
