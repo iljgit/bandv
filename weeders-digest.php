@@ -162,10 +162,9 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <!--p><i><?php echo(getDaysToGo('2020-03-29'));?> until British Summer Time starts.</i></p-->
+                            <!--p><i><?php echo(getDaysToGo('2020-03-29'));?> days until British Summer Time starts.</i></p-->
+                            <p><i><?php echo(getDaysSince('2020-03-23'));?> days since lockdown started.</i></p>
                             <p style="color: red;">This year's AGM is <b>cancelled</b> due to concerns over coronavirus</p>
-                            <p>Burnside troughs refilled from Thursday 26<sup>th</sup> March</p>
-                            <p>Burnside Store open from Sunday 22<sup>nd</sup> March, online orders only.</p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
