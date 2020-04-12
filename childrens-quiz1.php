@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz2";
+                let quizid = "childrensquiz1";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '12 April 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '19 April 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -73,12 +73,12 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="past">
+    <body onload="BandV.onload(); PFModal.init();" class="current">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/header.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #2</span></h1>
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/childrensheader.jpg);">
+            <h1 id="title"><span class="title-background">Childrens Quiz #1</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -86,152 +86,142 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h2>Song lyrics</h2>
-                    <p>Here are 10 questions about songs.  Each clip is of a song with a girl's name in the title or lyrics.  All we need is the girl's name and the name of the artist.</p>
+                    <h2>Tv Programmes</h2>
+                    <p>Here are 10 questions about some of your, hopefully, favourite TV shows.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 12<sup>th</sup> April.</p>
-                    <p class="past-quiz">The closing date, 12<sup>th</sup> April, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b>Debbie Whitfield, Seamus and Niamh Doherty</b> - this week's winners.</p>
+                    <p class="current-quiz">The closing date is the 19<sup>th</sup> April.</p>
+                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/01.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/worst-witch.png" alt="question 1" class="img img-responsive img-thumbnail" />
+                    <p>What is the name of the main character and which school does she go to?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Eloise – The Damned</p>
+                    <p class="answer">Answer 1</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/02.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/little-roy.png" alt="question 2" class="img img-responsive img-thumbnail" />
+                    <p>What is the name of this character, and who was his "crush" when he went to big school?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Barbara (Streisand) – Duck Sauce</p>
+                    <p class="answer">Answer 2</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/03.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/horrid-henry.jpg" alt="question 3" class="img img-responsive img-thumbnail" />
+                    <p>Who is this and what is the name of his brother?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Angie (baby) – Helen Reddy</p>
+                    <p class="answer">Answer 3</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/04.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/nina-neurons.png" alt="question 4" class="img img-responsive img-thumbnail" />
+                    <p>Who is this? Name one of her little helpers.</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Roxanne – The Police</p>
+                    <p class="answer">Answer 4</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/05.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/night-garden.jpg" alt="question 5" class="img img-responsive img-thumbnail" />
+                    <p>Which programme is this and where does Makka Pakka live?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">(Mustang) Sally – The Commitments</p>
+                    <p class="answer">Answer 5</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/06.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/captunderpants.jpg" alt="question 6" class="img img-responsive img-thumbnail" />
+                    <p>Which programme is this?  What is the name of the evil professor?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">(A boy named) Sue – Johnny Cash</p>
+                    <p class="answer">Answer 6</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/07.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/bob-the-builder.png" alt="question 7" class="img img-responsive img-thumbnail" />
+                    <p>Who is Bob's partner / girlfriend / wife?  What is the name of the mobile crane?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Maggie (May) – Rod Stewart</p>
+                    <p class="answer">Answer 7</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/08.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/spongebob.jpg" alt="question 8" class="img img-responsive img-thumbnail" />
+                    <p>According to the song, where does Spongebob live?  What is Patrick's favourite food?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Ruby – The Kaiser Chiefs</p>
+                    <p class="answer">Answer 8</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/09.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/tutter.jpg" alt="question 9" class="img img-responsive img-thumbnail" />
+                    <p>What is the name of this mouse?  Who does he live with?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Jean Genie – David Bowie</p>
+                    <p class="answer">Answer 9</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
-                    <audio controls>
-                        <source  type="audio/mpeg" src="assets/audio/quiz2/10.mp3">
-                    </audio>
+                    <img src="assets/img/quiz/childrensquiz1/tracy-beaker.jpg" alt="question 10" class="img img-responsive img-thumbnail" />
+                    <p>Who is the main character in this TV programme?  Where does she live?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Caroline – Status Quo</p>
+                    <p class="answer">Answer 10</p>
                 </div>
             </div>
 

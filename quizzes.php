@@ -22,7 +22,7 @@
                         the answers to the last one.
                     </p>
                     <p>
-                        If you want you can send us your answers.  We will chose a winner at random and put you on our wall of fame.
+                        If you want you can send us your answers.  We will choose a winner at random and put you on our wall of fame.
                 </div>
 
             </div>
@@ -31,7 +31,7 @@
 
             <div class="row mb  justify-content-md-center">
                 <div class="col-12">
-                    <h2 class="text-center">Current quiz</h2>
+                    <h2 class="text-center">Current</h2>
                 </div>
             </div>
 
@@ -39,12 +39,25 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/music.jpg)'>2. Music</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/family-fortune.jpg)'>Family Fortunes</div>
                         <div class="card-body">
-                            <p>How well do you know your music?</p>
-                            <p>Answers on 12<sup>th</sup> April 2020</p>
+                            <p>The ever-popular (?) Family Fortunes</p>
+                            <p>&nbsp;</p>
+                            <p>Answers on 19<sup>th</sup> April 2020</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz2.php" title="Quiz #2" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz3.php" title="Quiz #3" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz</div>
+                        <div class="card-body">
+                            <p>Children's TV programmes</p>
+                            <p>&nbsp;</p>
+                            <p>Answers on 19<sup>th</sup> April 2020</p>
+                        </div> 
+                        <div class="card-footer"><a href="childrens-quiz1.php" title="Children's Quiz #1" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
@@ -54,19 +67,32 @@
 
             <div class="row mb">
                 <div class="col-12">
-                    <h2>Past quizzes</h2>
-                    <p>You can still have a go at the quizzes - you can see the answers by pressing the <i>Reveal</i> button.</p>
+                    <h2 class="text-center">Past quizzes</h2>
+                    <p class="text-center">You can still have a go at the quizzes - you can see the answers by pressing the <i>Reveal</i> button on the quiz page.</p>
                 </div>
             </div>
 
-            <div class="row mb justify-content-md-justify">
+            <div class="row mb justify-content-md-center">
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/film.jpg)'>1. Films</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/music.jpg)'>Music<br>Closing date 12<sup>th</sup> April 2020</div>
+                        <div class="card-body">
+                            <p>How well do you know your music?</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>Debbie Whitfield, Seamus and Niamh Doherty</b> - this week's winners</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz2.php" title="Quiz #2" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/film.jpg)'>Films<br>Closing date 5<sup>th</sup> April 2020</div>
                         <div class="card-body">
                             <p>Test your knowledge of popular films.</p>
-                            <p>Well done to <b>Andy K et al</b>, this week's winner.</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>Andy K et al</b> - this week's winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz1.php" title="Quiz #1" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
