@@ -426,9 +426,9 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "11 Apr 2020",
-    "text" => "New pictures from the site.",
-    "link" => "<a href='gallery.php?index=society20200411' title='Click for the latest pictures'><button class='btn btn-success'>More...</button></a>"
+    "date" => "14 Apr 2020",
+    "text" => "New pictures from the site including night-life at Burnside.",
+    "link" => "<a href='photos.php' title='Click for the latest pictures'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];
@@ -704,7 +704,7 @@ $gallery->wildlife = (object) [
     "body" => "<p>Ever wondered what happens on your site after lights out?  Andy from Burnside did and captured some great over-night images of wildlife 
     enjoying the space and the fruits of your labour.</p>",
     "excerpt" => "Andy from Burnside used a night camera to capture wildlife on the site after dark",
-    "active" => false
+    "active" => true
 ];
 
 function getWhatsNew() {
