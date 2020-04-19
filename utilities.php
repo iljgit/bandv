@@ -414,8 +414,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "12 Apr 2020",
-    "text" => "The results of the last set of quizzes (week-ending 12<sup>th</sup> April 2020) and the next two, including one for children, are now available.",
+    "date" => "19 Apr 2020",
+    "text" => "The results of the last set of quizzes (week-ending 19<sup>th</sup> April 2020) and the next are now available.  A new one for children will be available shortly.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -758,7 +758,7 @@ function getWhatsNew() {
 
     if (strlen($det) > 0) {
         $ret = "<div class='row mb justify-content-md-center'><div class='col-12'><h2>What's new in the last 14 days</h2></div>{$det}
-        <div class='col-12 col-md-4'><hr></div></div>";
+        </div>";
     }
 
     return $ret;

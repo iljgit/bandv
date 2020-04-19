@@ -39,25 +39,13 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/family-fortune.jpg)'>Family Fortunes</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/singing.jpg)'>Song Lyrics</div>
                         <div class="card-body">
-                            <p>The ever-popular (?) Family Fortunes</p>
+                            <p>How well do you know your pop songs.</p>
                             <p>&nbsp;</p>
-                            <p>Answers on 19<sup>th</sup> April 2020</p>
+                            <p>Answers on 26<sup>th</sup> April 2020</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz3.php" title="Quiz #3" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz</div>
-                        <div class="card-body">
-                            <p>Children's TV programmes</p>
-                            <p>&nbsp;</p>
-                            <p>Answers on 19<sup>th</sup> April 2020</p>
-                        </div> 
-                        <div class="card-footer"><a href="childrens-quiz1.php" title="Children's Quiz #1" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz4.php" title="Quiz #3" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
@@ -73,6 +61,30 @@
             </div>
 
             <div class="row mb justify-content-md-center">
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz<br>Closing date 19<sup>th</sup> April 2020</div>
+                        <div class="card-body">
+                            <p>Children's TV programmes</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>the Watts Family</b> - this week's winners.</p>
+                        </div> 
+                        <div class="card-footer"><a href="childrens-quiz1.php" title="Children's Quiz #1" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/family-fortune.jpg)'>Family Fortunes<br>Closing date 19<sup>th</sup> April 2020</div>
+                        <div class="card-body">
+                            <p>The ever-popular (?) Family Fortunes</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>Ingrid</b> - this week's winners.</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz3.php" title="Quiz #3" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">

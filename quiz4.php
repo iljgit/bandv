@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz1";
+                let quizid = "quiz4";
 
                 url += `?quizid=${quizid}`;
                 
@@ -77,7 +77,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/header.jpg);">
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/singing.jpg);">
             <h1 id="title"><span class="title-background">Quiz #4</span></h1>
         </div>
 

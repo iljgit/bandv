@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -90,8 +90,8 @@
                     <p>Here are 10 questions about some of your, hopefully, favourite TV shows.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 19<sup>th</sup> April.</p>
-                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">The closing date, 19<sup>th</sup> April, has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b>the Watts Family</b> - this week's winner.</p>
                 </div>
             </div>
 
@@ -104,7 +104,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Answer 1</p>
+                    <p class="answer">Mildred Hubble, Miss Cackle's Academy for Witches<br><i>Worst Witch</i></p>
                 </div>
             </div>
 
@@ -117,7 +117,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Answer 2</p>
+                    <p class="answer">Roy, Sinéad<br><i>Roy</i></p>
                 </div>
             </div>
 
@@ -130,7 +130,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Answer 3</p>
+                    <p class="answer">Horrid Henry, Perfect Peter<br><i>Horrid Henry</i></p>
                 </div>
             </div>
 
@@ -143,7 +143,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Answer 4</p>
+                    <p class="answer">Nina; one of Felix, Belle, Luke, Ollie<br><i>Nina and the Neurons</i></p>
                 </div>
             </div>
 
@@ -156,7 +156,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Answer 5</p>
+                    <p class="answer">In the Night Garden, Makka Pakka's Cave</p>
                 </div>
             </div>
 
@@ -169,7 +169,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Answer 6</p>
+                    <p class="answer">Captain Underpants, Professor Pippy Pee-Pee Poopypants (later known as Tippy Tinkletrousers, and in the film as Prof. Pee-Pee Diarrheastien Poopypants Esq.)</p>
                 </div>
             </div>
 
@@ -182,7 +182,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Answer 7</p>
+                    <p class="answer">Wendy, Lofty<br><i>Bob the Builder</i></p>
                 </div>
             </div>
 
@@ -195,7 +195,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Answer 8</p>
+                    <p class="answer">A pinneapple under the sea, Krabby Patties<br><i>Spongebob Squarepants</i></p>
                 </div>
             </div>
 
@@ -208,7 +208,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Answer 9</p>
+                    <p class="answer">Tutter, Bear<br><i>Bear in the Big Blue House</i></p>
                 </div>
             </div>
 
@@ -221,7 +221,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Answer 10</p>
+                    <p class="answer">Tracy Beaker, the Dumping Ground (Care Home)<br><i>Tracy Beaker</i></p>
                 </div>
             </div>
 
