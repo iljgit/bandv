@@ -431,6 +431,12 @@ $wn[] = (object) [
     "link" => "<a href='photos.php' title='Click for the latest pictures'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "21 Apr 2020",
+    "text" => "The normal AGM has not been possible this year, due to COVID-19.  Instead, annual reports and accounts are available on the Society page.",
+    "link" => "<a href='society.php#documents' title='Click for the latest pictures'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*

@@ -118,16 +118,17 @@
                 </div>
 
                 <div class="col-12">
-                    <p>AGM Minutes
+                    <p>AGM Documents
                     </p>
                     <p>
-                                <select class="form-control inline" id="agm" style="width: auto; display: inline-block;">
-                                    <option value="assets/docs/2019 AGM.pdf" selected>2019</option>
-                                    <option value="assets/docs/2018 AGM.pdf">2018</option>
-                                    <option value="assets/docs/2017 AGM.pdf">2017</option>
-                                    <option value="assets/docs/2016 AGM.pdf">2016</option>
-                                </select>&nbsp;
-                                <button title="Click for a copy of the AGM minutes" class="btn btn-xs btn-primary inline" onclick="BandV.showFromSelect('agm');">PDF</button>
+                        <select class="form-control inline" id="agm" style="width: auto; display: inline-block;">
+                            <option value="assets/docs/2020 AGM.pdf" selected>2020</option>
+                            <option value="assets/docs/2019 AGM.pdf">2019</option>
+                            <option value="assets/docs/2018 AGM.pdf">2018</option>
+                            <option value="assets/docs/2017 AGM.pdf">2017</option>
+                            <option value="assets/docs/2016 AGM.pdf">2016</option>
+                        </select>&nbsp;
+                        <button title="Click for a copy of the AGM minutes" class="btn btn-xs btn-primary inline" onclick="BandV.showFromSelect('agm');">PDF</button>
                     </p>
                     <hr>
                 </div>
@@ -138,7 +139,8 @@
                     </p>
                     <p>
                                 <select class="form-control inline" id="accounts" style="width: auto; display: inline-block;">
-                                    <option value="assets/docs/accounts2017.pdf" selected>2017</option>
+                                    <option value="assets/docs/Accounts 2018 - 2019.pdf" selected>2018-19</option>
+                                    <option value="assets/docs/accounts2017.pdf">2017-18</option>
                                 </select>&nbsp;
                                 <button title="Click for a copy of the Society's accounts" class="btn btn-xs btn-primary inline" onclick="BandV.showFromSelect('accounts');">PDF</button>
                     </p>
