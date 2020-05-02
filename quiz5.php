@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz4";
+                let quizid = "quiz5";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '26 April 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '03 May 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -77,8 +77,8 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/singing.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #4</span></h1>
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/gkxl.jpg);">
+            <h1 id="title"><span class="title-background">Quiz #5</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -86,13 +86,14 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h2>Song Lyrics</h2>
-                    <p>Here are 10 questions about song lyrics.  All you have to do is identify the song and the original artist.  
+                    <h2>General Knowledge</h2>
+                    <p>After a more difficult quiz last week about Song Lyrics, a slightly more straightforward general knowledge quiz this week.  
+                    Two points per question.  
                     Please don't look the answers up on the internet - pretty please.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 26<sup>th</sup> April.</p>
-                    <p class="past-quiz">The closing date, 26<sup>th</sup> April, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b>Seamus, Niamh and Debbie</b> - this week's winner.</p>
+                    <p class="current-quiz">The closing date is the 3<sup>rd</sup> May.</p>
+                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
             </div>
 
@@ -100,16 +101,19 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
                     <p>
-                    The scars of your love remind me of us<br>
-They keep me thinking that we almost had it all<br>
-The scars of your love, they leave me breathless<br>
-I can't help feeling
+                    Which two names are missing in the following sequence:<br>
+
+Henry, Henry, Edward, ?, ?, Elizabeth, James, Charles                    
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Adele – Rolling in the Deep</p>
+                    <p class="answer">
+                    Henry VII, Henry VIII, Edward VI, <b>Jane (Lady Jane Grey)</b>,  
+                    <b>Mary</b>, Elizabeth I, James I / VI, Charles I
+
+                    </p>
                 </div>
             </div>
 
@@ -117,19 +121,20 @@ I can't help feeling
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
                     <p>
-                    Lying here beside you, in a cloud of warmth<br>
-I've been awake all night but move <br>
-Though I know I should <br>
-Counting curls in your hair, as you sleep so tight <br>
-I wonder if you'll ever know 'till I go <br>
-The chances are you'll be there too some day<br> 
-We'll never know, let's hope
+                    Put the following in increasing order of northness:<br>
+
+York, Kingston upon Hull, Leeds, Scunthorpe
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Take That – Never Wanna Let You Go</p>
+                    <p class="answer">
+                    Scunthorpe (53° 34' N)<br>
+Kingston upon Hull (53° 44' N)<br>
+Leeds (53° 47' N)<br>
+York (53° 57' N)
+                    </p>
                 </div>
             </div>
 
@@ -137,16 +142,14 @@ We'll never know, let's hope
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
                     <p>
-                    Easy come, easy go, that's just how you live<br>
-Oh, take, take, take it all but you never give<br>
-Should've known you was trouble from the first kiss<br>
-Had your eyes wide open, why were they open?
+                    What type of animal is an Alaskan Klee Kai, and what type a Derbyshire Redcap?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Bruno Mars – Grenade</p>
+                    <p class="answer">Dog, Chicken
+                    </p>
                 </div>
             </div>
 
@@ -154,15 +157,13 @@ Had your eyes wide open, why were they open?
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
                     <p>
-                    Spend my cash on looking flash and grabbing your attention<br>
-The devil take your stereo and your record collection<br>
-The way you look you'll qualify for next year's old age pension
+                    Who painted the Irises and who painted Yo, Picasso?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Adam Ant – Stand and Deliver/p>
+                    <p class="answer">Vincent van Gogh, Pablo Picasso</p>
                 </div>
             </div>
 
@@ -170,16 +171,14 @@ The way you look you'll qualify for next year's old age pension
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
                     <p>
-                    I saw the light on the night that I passed by her window<br>
-I saw the flickering shadows of love on her blind<br>
-She was my woman<br>
-As she deceived me I watched and went out of my mind
+                    What sign of the Zodiac are you if you are born on 20<sup>th</sup> July, 
+                    and what on the 20<sup>th</sup> January?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Tom Jones – Delilah</p>
+                    <p class="answer">Cancer, Capricorn</p>
                 </div>
             </div>
 
@@ -187,16 +186,13 @@ As she deceived me I watched and went out of my mind
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
                     <p>
-                    Some of them want to use you<br>
-Some of them want to get used by you<br>
-Some of them want to abuse you<br>
-Some of them want to be abused.
+                    What profession might refer to a Durgo Valve, and which job might involve PHP?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Annie Lennox / Eurythmics – Sweet Dreams (Are Made of This)</p>
+                    <p class="answer">Plumbing, Programming</p>
                 </div>
             </div>
 
@@ -204,15 +200,13 @@ Some of them want to be abused.
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
                     <p>
-I'll be your clown or your puppet or your April Fool, cut my hair I'll even wear a mask.<br>
-I'll be your Valentine, and you'll be mine, and things'll be cool.<br>
-We'll move along together every day.
+                    In the phonetic alphabet (used by the police amongst others) what words are used for C and Z?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Jimmy Osmond – (I’ll Be Your) Long-Haired Lover from Liverpool</p>
+                    <p class="answer">Charley and Zulu</p>
                 </div>
             </div>
 
@@ -220,16 +214,13 @@ We'll move along together every day.
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
                     <p>
-                    Hey, I was just a skinny lad, never knew no good from bad<br>
-But I knew life before I left my nursery<br>
-Left alone with big fat fannys, she was such a naughty nanny<br>
-Heap big woman you made a bad boy out of me
+                    What do the following musical terms mean: adagissimo and allegrissimo
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Queen – Fat Bottomed Girls</p>
+                    <p class="answer">Very, very slow<br>Very fast, though slower than presto</p>
                 </div>
             </div>
 
@@ -237,16 +228,13 @@ Heap big woman you made a bad boy out of me
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
                     <p>
-                    And she'll tease you, she'll unease you<br>
-All the better just to please you<br>
-She's precocious, and she knows just<br>
-What it takes to make a pro blush
+                    Name the two alcoholic ingredients of a Manhattan Dry cocktail.
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Kim Carne – Betty Davies Eyes</p>
+                    <p class="answer">Bourbon and Dry vermouth</p>
                 </div>
             </div>
 
@@ -254,16 +242,13 @@ What it takes to make a pro blush
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
                     <p>
-                    The Indians send signals <br>
-From the rocks above the pass <br>
-The cowboys take positions <br>
-In the bushes and the grass 
+                    How old is the Queen and how old is Prince Charles (as of 26<sup>th</sup> April 2020)?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Squeeze – Cool for Cats</p>
+                    <p class="answer">94, 71</p>
                 </div>
             </div>
 

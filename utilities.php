@@ -414,8 +414,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "19 Apr 2020",
-    "text" => "The results of the last set of quizzes (week-ending 19<sup>th</sup> April 2020) and the next are now available.  A new one for children will be available shortly.",
+    "date" => "03 May 2020",
+    "text" => "The results of the last set of quizzes (week-ending 3<sup>rd</sup> May 2020) and the next are now available.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 

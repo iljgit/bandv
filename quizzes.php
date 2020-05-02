@@ -39,13 +39,13 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/singing.jpg)'>Song Lyrics</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/ambottom.jpg)'>Bottoms</div>
                         <div class="card-body">
-                            <p>How well do you know your pop songs.</p>
+                            <p>How well do you know your bottoms, or other people's?  Step into this quiz and find out.</p>
                             <p>&nbsp;</p>
-                            <p>Answers on 26<sup>th</sup> April 2020</p>
+                            <p>Answers on 10<sup>th</sup> May 2020</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz4.php" title="Quiz #3" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz6.php" title="Quiz #6" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
@@ -61,6 +61,30 @@
             </div>
 
             <div class="row mb justify-content-md-center">
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/gksm.jpg)'>General Knowledge<br>Closing date 3<sup>rd</sup> May 2020</div>
+                        <div class="card-body">
+                            <p>The sort of trivia leaving you wondering why you know that.</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to </p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz5.php" title="Quiz #5" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/singing.jpg)'>Song Lyrics<br>Closing date 26<sup>th</sup> April 2020</div>
+                        <div class="card-body">
+                            <p>How well do you know your pop songs.</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>Seamus, Niamh and Debbie</b> - this week's winners.</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz4.php" title="Quiz #4" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
