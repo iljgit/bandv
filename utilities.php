@@ -415,7 +415,7 @@ $wn[] = (object) [
 
 $wn[] = (object) [
     "date" => "03 May 2020",
-    "text" => "The results of the last set of quizzes (week-ending 3<sup>rd</sup> May 2020) and the next are now available.",
+    "text" => "The results of the last set of quizzes (week-ending 3<sup>rd</sup> May 2020) and the next, including a children's quiz, are now available.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -435,6 +435,12 @@ $wn[] = (object) [
     "date" => "21 Apr 2020",
     "text" => "The normal AGM has not been possible this year, due to COVID-19.  Instead, annual reports and accounts are available on the Society page.",
     "link" => "<a href='society.php#documents' title='Click for the latest pictures'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "03 May 2020",
+    "text" => "The Blogs page contains a number of articles on dealing with pests - always useful.",
+    "link" => "<a href='blog.php' title='Click for tips'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];

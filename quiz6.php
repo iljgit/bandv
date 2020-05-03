@@ -131,7 +131,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
                     <p>
-                    Name the Shakespearean play and the actor.
+                    Name the Shakespearean play and the <b>actor</b>.
                     <br><img class="img img-responsive" style="max-width: 100%;" src="/assets/img/quiz/quiz6/3.jpg" alt="Question 3" title="Question 3"/>
                     </p>
                 </div>

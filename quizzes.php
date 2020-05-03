@@ -39,6 +39,18 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz</div>
+                        <div class="card-body">
+                            <p>General knowedge</p>
+                            <p>&nbsp;</p>
+                            <p>Closing date 10<sup>th</sup> May 2020</p>
+                        </div> 
+                        <div class="card-footer"><a href="childrens-quiz2.php" title="Children's Quiz #2" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/ambottom.jpg)'>Bottoms</div>
                         <div class="card-body">
                             <p>How well do you know your bottoms, or other people's?  Step into this quiz and find out.</p>
@@ -66,9 +78,9 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/gksm.jpg)'>General Knowledge<br>Closing date 3<sup>rd</sup> May 2020</div>
                         <div class="card-body">
-                            <p>The sort of trivia leaving you wondering why you know that.</p>
+                            <p>Trivia at its worst.</p>
                             <p>&nbsp;</p>
-                            <p>Well done to </p>
+                            <p>Well done to <b>Ingrid</b> and to <b>Andy, Sally, Stel and Beverley</b>, this week's joint winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz5.php" title="Quiz #5" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz5";
+                let quizid = "childrensquiz2";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '03 May 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '10 May 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -73,12 +73,12 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="past">
+    <body onload="BandV.onload(); PFModal.init();" class="current">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/gkxl.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #5</span></h1>
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/childrensheader.jpg);">
+            <h1 id="title"><span class="title-background">Childrens Quiz #2</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -86,171 +86,132 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h2>General Knowledge</h2>
-                    <p>After a more difficult quiz last week about Song Lyrics, a slightly more straightforward general knowledge quiz this week.  
-                    Two points per question.  
-                    Please don't look the answers up on the internet - pretty please.</p>
-                    <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 3<sup>rd</sup> May.</p>
-                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b>Ingrid</b> and to <b>Andy, Sally, Stel and Beverley</b> - this week's joint winners.
-                    An honourable mention to Sally and Dan!
-                    </p>
+                    <h2>General knowlegde</h2>
+                    <p>Here are 10 questions to test your general knowledge.</p>
+                    <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame.</p>
+                    <p class="current-quiz">The closing date is the 10<sup>th</sup> May.</p>
+                    <p class="past-quiz">The closing date, 10<sup>th</sup> May, has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
-                    <p>
-                    Which two names are missing in the following sequence:<br>
-
-Henry, Henry, Edward, ?, ?, Elizabeth, James, Charles                    
-                    </p>
+                    <p>What is the third planet from the sun, and what is the fifth?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">
-                    Henry VII, Henry VIII, Edward VI, <b>Jane (Lady Jane Grey)</b>,  
-                    <b>Mary</b>, Elizabeth I, James I / VI, Charles I
-
-                    </p>
+                    <p class="answer">Answer 1</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
-                    <p>
-                    Put the following in increasing order of northness:<br>
-
-York, Kingston upon Hull, Leeds, Scunthorpe
-                    </p>
+                    <p>Multiply the number of Teletubbies by the number of Pontipines.  What number do you get?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">
-                    Scunthorpe (53° 34' N)<br>
-Kingston upon Hull (53° 44' N)<br>
-Leeds (53° 47' N)<br>
-York (53° 57' N)
-                    </p>
+                    <p class="answer">Answer 2</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
-                    <p>
-                    What type of animal is an Alaskan Klee Kai, and what type a Derbyshire Redcap?
-                    </p>
+                    <p>Name the colours of the rainbow in order.</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Dog, Chicken
-                    </p>
+                    <p class="answer">Answer 3</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
-                    <p>
-                    Who painted the Irises and who painted Yo, Picasso?
-                    </p>
+                    <p>Enid Blyton wrote many children's books.  What numbers complete these series of books:<br>Famous ?, Secret ?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Vincent van Gogh, Pablo Picasso</p>
+                    <p class="answer">Answer 4</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
-                    <p>
-                    What sign of the Zodiac are you if you are born on 20<sup>th</sup> July, 
-                    and what on the 20<sup>th</sup> January?
-                    </p>
+                    <p>Add the number of sides of a hexagon to the number of sides of an octagon.</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Cancer, Capricorn</p>
+                    <p class="answer">Answer 5</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
-                    <p>
-                    What profession might refer to a Durgo Valve, and which job might involve PHP?
-                    </p>
+                    <p>What is the highest mountain in Great Britain called?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Plumbing, Programming</p>
+                    <p class="answer">Answer 6</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
-                    <p>
-                    In the phonetic alphabet (used by the police amongst others) what words are used for C and Z?
-                    </p>
+                    <p>In the nursery rhyme, who met a pie man?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Charley and Zulu</p>
+                    <p class="answer">Answer 7</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
-                    <p>
-                    What do the following musical terms mean: adagissimo and allegrissimo
-                    </p>
+                    <p>Which country is the Great Barrier Reef part of?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Very, very slow<br>Very fast, though slower than presto</p>
+                    <p class="answer">Answer 8</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
-                    <p>
-                    Name the two alcoholic ingredients of a Manhattan Dry cocktail.
-                    </p>
+                    <p>In “The Jungle Book”, what kind of animal is Baloo?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Bourbon and Dry vermouth</p>
+                    <p class="answer">Answer 9</p>
                 </div>
             </div>
 
             <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
-                    <p>
-                    How old is the Queen and how old is Prince Charles (as of 26<sup>th</sup> April 2020)?
-                    </p>
+                    <p>What is Dr Who’s time machine called?  For an extra point, what does it stand for?</p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">94, 71</p>
+                    <p class="answer">Answer 10</p>
                 </div>
             </div>
 
