@@ -260,10 +260,10 @@
             <div class="row mb">                        
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member (non-voting)</h4><i>Suzy Ashworth - Associate member</i></p>
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Suzy Ashworth - Vinery</i></p>
                     <blockquote class="blockquote">
                     <img  class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/suzy-ashworth.jpeg"/>
-                    I joined the committee in 2019 as an associate member as I currently look after a small plot for a friend. 
+                    I joined the committee in 2019. 
                     I am one of those unusual people who loves globe artichokes! 
                     I also like growing flowers and unusual vegetables - anything that’s pretty or tasty, and preferably both.
                     </blockquote>
