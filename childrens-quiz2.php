@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '10 May 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '17 May 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -89,7 +89,7 @@
                     <h2>General knowlegde</h2>
                     <p>Here are 10 questions to test your general knowledge.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame.</p>
-                    <p class="current-quiz">The closing date is the 10<sup>th</sup> May.</p>
+                    <p class="current-quiz">The closing date is the 17<sup>th</sup> May.</p>
                     <p class="past-quiz">The closing date, 10<sup>th</sup> May, has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>

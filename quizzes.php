@@ -43,7 +43,7 @@
                         <div class="card-body">
                             <p>General knowedge</p>
                             <p>&nbsp;</p>
-                            <p>Closing date 10<sup>th</sup> May 2020</p>
+                            <p>Closing date 17<sup>th</sup> May 2020</p>
                         </div> 
                         <div class="card-footer"><a href="childrens-quiz2.php" title="Children's Quiz #2" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -51,13 +51,13 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/ambottom.jpg)'>Bottoms</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/oddoneposter.jpg)'>Odd Ones In</div>
                         <div class="card-body">
-                            <p>How well do you know your bottoms, or other people's?  Step into this quiz and find out.</p>
+                            <p>Not the odd ones out.</p>
                             <p>&nbsp;</p>
-                            <p>Answers on 10<sup>th</sup> May 2020</p>
+                            <p>Answers on 17<sup>th</sup> May 2020</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz6.php" title="Quiz #6" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz7.php" title="Quiz #7" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
@@ -73,6 +73,18 @@
             </div>
 
             <div class="row mb justify-content-md-center">
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/ambottom.jpg)'>Bottoms<br>Closing date 10<sup>th</sup> May 2020</div>
+                        <div class="card-body">
+                            <p>Bottoms up!</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>Andy, Sally, Stel and Beverley</b>, this week's winners - again.</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz6.php" title="Quiz #6" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">

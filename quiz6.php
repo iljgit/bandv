@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -92,8 +92,8 @@
                     Please don't look the answers up on the internet - pretty please.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 10<sup>th</sup> May.</p>
-                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">The closing date, 10<sup>th</sup> May, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b>Andy, Sally, Stel and Beverley</b> - this week's winners and the team currently to beat.</p>
                 </div>
             </div>
 
@@ -108,7 +108,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Answer 1</p>
+                    <p class="answer">Male rear of the year, 2019</p>
                 </div>
             </div>
 
@@ -123,7 +123,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Answer 2</p>
+                    <p class="answer">Richard “Richie” Richard and Eddie Hitler</p>
                 </div>
             </div>
 
@@ -138,7 +138,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Answer 3</p>
+                    <p class="answer">A Midsummer Night’s Dream. Johnny Vegas</p>
                 </div>
             </div>
 
@@ -153,7 +153,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Answer 4</p>
+                    <p class="answer">Colosseum - Rome</p>
                 </div>
             </div>
 
@@ -168,7 +168,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Answer 5</p>
+                    <p class="answer">Frank Kelly – “Arse”</p>
                 </div>
             </div>
 
@@ -183,7 +183,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Answer 6</p>
+                    <p class="answer">Gluteus maximus muscle, gluteus medius muscle and gluteus minimus muscle</p>
                 </div>
             </div>
 
@@ -198,7 +198,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Answer 7</p>
+                    <p class="answer">Farrokh Bulsara and Bicycle Race</p>
                 </div>
             </div>
 
@@ -213,7 +213,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Answer 8</p>
+                    <p class="answer">Mick McCarthy and Sunderland</p>
                 </div>
             </div>
 
@@ -228,7 +228,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Answer 9</p>
+                    <p class="answer">Swynford Paddocks is in 6 Mile Bottom which is 6 Miles from the start of the original Newmarket Racecourse and is at the bottom of a hill.</p>
                 </div>
             </div>
 
@@ -243,7 +243,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Answer 10</p>
+                    <p class="answer">Athena and Fiona Butler</p>
                 </div>
             </div>
 
