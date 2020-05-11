@@ -373,6 +373,18 @@ $blogs[] = (object) [
     "active" => "true"
 ];
 
+$blogs[] = (object) [
+    "title" => "Wild Animals on the Site",
+    "subtitle" => "Subtitle",
+    "image" => "/assets/img/blog/allotment-camera/film-poster.jpg",
+    "author" => "Andy K, Burnside",
+    "date" => "11 May 2020",
+    "excerpt" => "What happens on the site when no-one is looking",
+    "category" => "Experience",
+    "link" => "/blog/allotment-camera.php",
+    "active" => "true"
+];
+
 $wn = [];
 
 $wn[] = (object) [
@@ -414,8 +426,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "03 May 2020",
-    "text" => "The results of the last set of quizzes (week-ending 3<sup>rd</sup> May 2020) and the next, including a children's quiz, are now available.",
+    "date" => "10 May 2020",
+    "text" => "The results of the last set of quizzes (week-ending 10<sup>th</sup> May 2020) and the next, including a children's quiz, are now available.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -426,9 +438,9 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "14 Apr 2020",
-    "text" => "New pictures from the site including night-life at Burnside.",
-    "link" => "<a href='photos.php' title='Click for the latest pictures'><button class='btn btn-success'>More...</button></a>"
+    "date" => "11 May 2020",
+    "text" => "New time-lapsed video of the night-life at Burnside.",
+    "link" => "<a href='/blog/allotment-camera.php' title='Click for the latest video'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $wn[] = (object) [
