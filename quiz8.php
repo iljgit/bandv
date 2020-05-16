@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz7";
+                let quizid = "quiz8";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '17 May 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '24 May 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -73,12 +73,12 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="past">
+    <body onload="BandV.onload(); PFModal.init();" class="current">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/oddoneheader.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #7</span></h1>
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/gardeningheader.jpg);">
+            <h1 id="title"><span class="title-background">Quiz #8</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -86,14 +86,12 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h2>The Odd Ones In</h2>
-                    <p>This quiz is the Talk Sport of our quizzes so far.  This time, there are 10 categories and four names for each - two are genuine 
-                    names of things in that category and two are made up.  All you have to do is say which two are the real thing.</p>
-          <p>Two points per question.  
-                    Please don't look the answers up on the internet - pretty please.</p>
+                    <h2></h2>
+                    <p>Oh well, it had to happen eventually.  This is our first hortucultural quiz and, consequently, should be a pushover for any user of this site.</p>
+                    <p>Please don't look the answers up on the internet - pretty please.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 17<sup>th</sup> May.</p>
-                    <p class="past-quiz">The closing date, 17<sup>th</sup> May, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="current-quiz">The closing date is the 24<sup>th</sup> May.</p>
+                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
             </div>
@@ -102,15 +100,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
                     <p>
-                    Place names:<br>
-                    Seeping Willy, Twatt, Fanny Barks, Nobbing Bottom
+                    Speaking of fruit and veg, which we weren't, what is 2020 the year of?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Twatt - Orkneys, Fanny Barks - Durham<br>
-<i>Brown Willy is in Cornwall, Nob End is in South Lancashire</i></p>
+                    <p class="answer">Answer 1</p>
                 </div>
             </div>
 
@@ -118,15 +114,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
                     <p>
-                    IKEA Product Names:<br>
-                    Fartyg, Bollnäs, Milf, Mjölby
+                    What kind of veg is a Chantenay?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Fartyg is a ceiling light, Milf is a desk lamp, 
-<br><i>The other two are Swedish cities</i></p>
+                    <p class="answer">Answer 2</p>
                 </div>
             </div>
 
@@ -134,14 +128,14 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
                     <p>
-                    British Cheeses:<br>
-                    Swilly, Hertford Tingle, Slack Ma Girdle, Pantysgawn
+                    What fruit comes from this flower and what soil does it prefer?<br>
+                    <img src="/assets/img/quiz/quiz8/image1.jpg" class="img img-thumbnail img-responsive" style="width: 100%;" alt="Quiz 8 - 3" />
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Slack Ma Girdle, Pantysgawn<br><i>Swilly is a district in Plymouth, Hertford Tingle is what you feel when you visit Hertford</i></p>
+                    <p class="answer">Answer 3</p>
                 </div>
             </div>
 
@@ -149,15 +143,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
                     <p>
-                    Element names:<br>
-Prostactinium, Ytterbium, Mandolayvium, Neptunium
+                    What is the name of the garden from which BBC Scotland broadcasts a weekly gardening programme?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Ytterbium, Neptunium<br>
-<i>Protactinium and Mendelevium are element names</i></p>
+                    <p class="answer">Answer 4</p>
                 </div>
             </div>
 
@@ -165,15 +157,13 @@ Prostactinium, Ytterbium, Mandolayvium, Neptunium
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
                     <p>
-                    Wars involving the British:<br>
-Tacky's War, Jenkins' Rear, War of the Unholy Alliance, Hawkesbury and Nepean Wars
+                    What is the word record weight for a pumpkin? a) 840.1 kg b) 536 kg c) 1190.5 kg
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Tacky's War, Hawkesbury and Nepean Wars<br>
-<i>Jenkin's Ear and War of the Quadruple Alliance are names of wars</i></p>
+                    <p class="answer">Answer 5</p>
                 </div>
             </div>
 
@@ -181,14 +171,13 @@ Tacky's War, Jenkins' Rear, War of the Unholy Alliance, Hawkesbury and Nepean Wa
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
                     <p>
-                    Car Parts:<br>
-Caliper bolt, Flange rocker, Gorp filter, Gudgeon pin
+                    Purple Majesty is a variety of what vegetable?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Caliper bolt, Gudgeon pin<br><i>The others are made up</i></p>
+                    <p class="answer">Answer 6</p>
                 </div>
             </div>
 
@@ -196,15 +185,13 @@ Caliper bolt, Flange rocker, Gorp filter, Gudgeon pin
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
                     <p>
-                    Potato names:<br>
-Herculaneum, Ebony, Gabriel, Linton
+                    Name a medicinal use for calendula
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Gabriel, Linton<br>
-<i>Heraclea and Edony are potatoes</i></p>
+                    <p class="answer">Answer 7</p>
                 </div>
             </div>
 
@@ -212,15 +199,13 @@ Herculaneum, Ebony, Gabriel, Linton
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
                     <p>
-                    International Bartender Association cocktail names:<br>
-Vespa, Sea Wind, Dark 'N' Stormy, Pisco Sour
+                    Which weed has leaves that [apparently] taste good when blanched and added to a salad with balsamic dressing?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Dark 'N' Stormy, Pisco Sour<br>
-<i>Sea Breeze and Vesper are also cocktails</i></p>
+                    <p class="answer">Answer 8</p>
                 </div>
             </div>
 
@@ -228,15 +213,14 @@ Vespa, Sea Wind, Dark 'N' Stormy, Pisco Sour
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
                     <p>
-                    Breeds of dog:<br>
-Cha Chi, Basenji, Plott, Pooley
+                    Identify this insect - hint: the answer is already on this site<br>
+                    <img src="/assets/img/quiz/quiz8/image3.jpg" class="img img-thumbnail img-responsive" style="width: 100%;" alt="Quiz 8 - 9" />
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Basenji, Plott<br>
-<i>Chi Chi and Puli are also breeds</i></p>
+                    <p class="answer">Answer 9</p>
                 </div>
             </div>
 
@@ -244,15 +228,14 @@ Cha Chi, Basenji, Plott, Pooley
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
                     <p>
-                    Cloud Formations:<br>
-Cirrocumulus floccus, Cumulonimbus conubius, Cumulus incongestus, Altocumulus lenticularis
+                    Identify this type of lettuce<br>
+                    <img src="/assets/img/quiz/quiz8/image2.jpg" class="img img-thumbnail img-responsive" style="width: 100%;" alt="Quiz 8 - 10" />
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Cirrocumulus floccus, Altocumulus lenticularis
-<br><i>Cumulonimbus calvus and Cumulus congestus are also cloud formations</i></p>
+                    <p class="answer">Answer 10</p>
                 </div>
             </div>
 
