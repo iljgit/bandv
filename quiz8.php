@@ -87,7 +87,7 @@
 
                 <div class="col-12">
                     <h2></h2>
-                    <p>Oh well, it had to happen eventually.  This is our first hortucultural quiz and, consequently, should be a pushover for any user of this site.</p>
+                    <p>Oh well, it had to happen eventually.  This is our first horticultural quiz and, consequently, should be a pushover for any user of this site.</p>
                     <p>Please don't look the answers up on the internet - pretty please.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 24<sup>th</sup> May.</p>
