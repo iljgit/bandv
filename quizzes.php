@@ -37,7 +37,7 @@
 
             <div class="row mb justify-content-md-center">
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                <!--div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz</div>
                         <div class="card-body">
@@ -47,7 +47,7 @@
                         </div> 
                         <div class="card-footer"><a href="childrens-quiz2.php" title="Children's Quiz #2" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
-                </div>
+                </div-->
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
@@ -80,7 +80,7 @@
                         <div class="card-body">
                             <p>Not the odd ones out.</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b></b>, this week's winners.</p>
+                            <p>Well done to <b>Debbie, Seamus and Niamh</b>, this week's winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz7.php" title="Quiz #7" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

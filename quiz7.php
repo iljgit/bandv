@@ -94,7 +94,8 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 17<sup>th</sup> May.</p>
                     <p class="past-quiz">The closing date, 17<sup>th</sup> May, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">Well done to <b>Debbie, Seamus and Niamh</b> - this week's winners following a return to winning ways.  It was a close run thing 
+                    with only a couple of points separating most teams.</p>
                 </div>
             </div>
 
