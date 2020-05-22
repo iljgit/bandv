@@ -501,12 +501,12 @@
                     </h4>
                     <table style="border-spacing: 15px; border-collapse:separate;">
                         <tbody>
-                            <tr><td  valign="top">Grow Organic 50L</td><td  valign="top">&pound;6.00</td></tr>
+                            <tr><td  valign="top"><span style="text-decoration: line-through;">Grow Organic 50L</span></td><td  valign="top">&pound;6.00 Sold out</td></tr>
                             <tr><td  valign="top">Blended Farmyard Manure 40L</td><td  valign="top">&pound;5.00</td></tr>
                             <tr><td  valign="top">Multi-Purpose Compost 75L</td><td  valign="top">&pound;5.50</td></tr>
-                            <tr><td  valign="top">Peat Free Organic Compost 60L</td><td  valign="top">&pound;6.00</td></tr>
+                            <tr><td  valign="top"><span style="text-decoration: line-through;">Peat Free Organic Compost 60L</span></td><td  valign="top">&pound;6.00 Sold out</td></tr>
                             <tr><td  valign="top">Clover Peat Free Organic Compost 40L</td><td  valign="top">&pound;4.50</td></tr>
-                            <tr><td  valign="top">4 Plant Grow-Bag</td><td  valign="top">&pound;3.50</td></tr>
+                            <tr><td  valign="top"><span style="text-decoration: line-through;">4 Plant Grow-Bag</span></td><td  valign="top">&pound;3.50 Sold out</td></tr>
                             <tr><td  valign="top">Miracle Gro All Purpose Liquid Plant Food 1L</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Bird Netting (4m wide - per m)</td><td  valign="top">&pound;1.50</td></tr>
                             <tr><td  valign="top">Standard Insect Mesh 1.3mm (3.6m wide - per m)</td><td  valign="top">&pound;4.00</td></tr>
@@ -519,7 +519,7 @@
                             <tr><td  valign="top">Maxicrop Organic Tomato Feed 1L</td><td  valign="top">&pound;6.25</td></tr>
                             <tr><td  valign="top">Garden Twine (green)</td><td  valign="top">&pound;1.75</td></tr>
                             <tr><td  valign="top">Garden Twine (brown)</td><td  valign="top">&pound;2.00</td></tr>
-                            <tr><td  valign="top">Extra Thick Bamboo Canes 8ft</td><td  valign="top">&pound;2.50</td></tr>
+                            <tr><td  valign="top"><span style="text-decoration: line-through;">Extra Thick Bamboo Canes 8ft</span></td><td  valign="top">&pound;2.50 Sold out</td></tr>
                             <tr><td  valign="top">Thick Bamboo Canes 8ft</td><td  valign="top">80p ea</td></tr>
                             <tr><td  valign="top">Bamboo Canes 6ft</td><td  valign="top">40p ea</td></tr>
                             <tr><td  valign="top">Bamboo Canes 4ft</td><td  valign="top">25p ea</td></tr>
@@ -527,7 +527,7 @@
                             <tr><td  valign="top">Permanent marker for plant labels</td><td  valign="top">&pound;2.50</td></tr>
                             <tr><td  valign="top">150mm white plant label x10</td><td  valign="top">20p</td></tr>
                             <tr><td  valign="top">17gsm Fleece (1.5m – per m)</td><td  valign="top">20p</td></tr>
-                            <tr><td  valign="top">30gsm Fleece (3m – per m)</td><td  valign="top">50p</td></tr>
+                            <tr><td  valign="top"><span style="text-decoration: line-through;">30gsm Fleece (3m – per m)</span></td><td  valign="top">50p Sold out</td></tr>
                             <tr><td  valign="top">Rock Dust 20kg</td><td  valign="top">&pound;10.00</td></tr>
                             <tr><td  valign="top">Rock Dust 5kg</td><td  valign="top">&pound;3.00</td></tr>
                             <tr><td  valign="top">OSMO PRO 4 Organic fertiliser 1kg</td><td  valign="top">&pound;1.50</td></tr>
