@@ -103,25 +103,39 @@
                     </p>
                 </div>
 
-                <div class='col-12 col-md-4'><hr></div>
+                <div  id="childrens-week" class='col-12 col-md-4'><hr></div>
 
             </div>
 
-            <!--div class="row mb">
+            <div class="row mb mt-5">
 
                 <div class="col-12">
-                    <h2>Hayley Wood Nature Reserve is having a Sale<br><span style="font-size: 80%;">(still on as at 22<sup>nd</sup> March)</span></h2>
+                    <h2>Did you know May 23-31 is National Children’s Gardening Week?</h2>
                 </div>
 
                 <div class="col-12 col-md-6">
-                    <img src="assets/img/weeders-digest/beanpoleadvert.jpg" class="img img-responsive img-thumbnail" style="width: 100%" alt="beanpole advert" title="beanpole, pea stick, and plant sale 2020" />
+                    <img src="assets/img/weeders-digest/childrens-week.jpg" class="img img-responsive img-thumbnail" style="width: 100%" alt="Children's week" title="Children's week May 2020" />
                 </div>
 
                 <div class="col-12 col-md-6">
-                    <img src="assets/img/weeders-digest/beanpoleadvertprice.jpg" class="img img-responsive img-thumbnail" style="width: 100%" alt="beanpole advert price" title="beanpole, pea stick, and plant sale 2020 price" />
+                    <p>
+                    This coming week is National Children’s Gardening Week.  See page 16 of the current issue of Allotment & Leisure Gardener, 
+                    the NSALG magazine if you can get hold of it (Issue 2, 2020). This includes a link to a nice website – 
+                    <a href="www.childrensgardeningweek.co.uk/fun-things-to-do/" target="_blank" title="Fun things for children to do">
+                    www.childrensgardeningweek.co.uk / fun-things-to-do</a> which is full of lovely ideas for garden related activities for children.
+                    </p>
+                    <p>
+                    We can’t hold communal activities under Covid-19 restrictions, which means there are no children’s gatherings on the site at the moment. 
+                    But we thought it would be nice to mark National Children’s Gardening Week by inviting you to send photographs of your recent 
+                    gardening and craft activities with the children. Please send them to <a href="mailto:rachel.epoche@gmail.com">rachel.epoche@gmail.com</a> in the 
+                    first instance and they will be uploaded to the website photograph gallery as soon as possible.
+                    </p>
+                    <p>
+                    Happy gardening and crafting!
+                    </p>
                 </div>
 
-            </div-->
+            </div>
 
             <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 

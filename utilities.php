@@ -455,6 +455,12 @@ $wn[] = (object) [
     "link" => "<a href='blog.php' title='Click for tips'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "22 May 2020",
+    "text" => "Did you know May 23-31 is National Children’s Gardening Week?",
+    "link" => "<a href='weeders-digest.php#childrens-week' title='Click for tips'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
