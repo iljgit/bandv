@@ -304,9 +304,22 @@
             </div>
 
             <div class="row mb">
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                     
-                    <img src="/assets/img/weeders-digest/links/bara_thumb2.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 5px;" />
+                    <img src="/assets/img/weeders-digest/links/childrensweek.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 5px;" />
+                    <h4>Gardening for children</h4>
+                    It can be difficult to keep the children entertained when you are on your plot.  However, this site is jam-packed with fun activities for little ones - 
+                    guaranteed to keep them busy.<br>
+                    <a title="Visit the Childrens Gardening Week site" href="http://www.childrensgardeningweek.co.uk/fun-things-to-do" target="ext">
+                        <i>childrensgardeningweek.co.uk</i>
+                    </a>
+
+                    
+                </div>
+
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                    
+                    <img src="/assets/img/weeders-digest/links/bara_thumb2.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 5px;" />
                     <h4>Birdwood Area Residents' Association (BARA)</h4>
                     A really informative site about Birdwood Road in the South Of Cambridge, and the surrounding area - including Burnside.<br>
                     <a title="Visit the BARA web site at https://www.baracambridge.org" href="https://www.baracambridge.org" target="ext"><i>baracambridge.org</i></a>
@@ -314,9 +327,9 @@
                     
                 </div>
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                 
-                    <img src="/assets/img/weeders-digest/links/tvgarden.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" />
+                    <img src="/assets/img/weeders-digest/links/tvgarden.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" />
                     <h4>Allotment &amp; Gardens - Advice and useful information</h4>
                     Tips, tricks, self-help videos, recipes and more.  It includes an active forum -useful now that our own forum is off-line.<br><br>
                     <a title="Visit the allotment garden web site at http://www.allotment-garden.org/" href="http://www.allotment-garden.org/" target="ext"><i>allotment-garden.org</i></a>
@@ -324,40 +337,40 @@
                     
                 </div>
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                 
-                    <img src="/assets/img/weeders-digest/links/carrots.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>Everything you always wanted to know about carrots, and more besides</h4>
+                    <img src="/assets/img/weeders-digest/links/carrots.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" /><h4>Everything you always wanted to know about carrots, and more besides</h4>
                     Allegedly the world's first virtual museum of the carrot - and who are we to judge?<br><br>
                     <a title="Visit the carrot museum at http://www.carrotmuseum.co.uk/" href="http://www.carrotmuseum.co.uk/" target="ext"><i>carrotmuseum.co.uk</i></a>
 
                     
                 </div>
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">   
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">   
                     <h4>The National Allotment Society</h4>
-                    <p><img src="/assets/img/weeders-digest/links/nsalg.gif" class="img-thumbnail pull-left" style="width: 50%; margin-right: 10px; margin-bottom: 10px;" />
+                    <p><img src="/assets/img/weeders-digest/links/nsalg.gif" class="img-thumbnail pull-right" style="width: 50%; margin-left: 10px; margin-bottom: 10px;" />
                     The NSALG has an active site with all sorts of useful tips and advice.<br><br>
                     <a title="Visit NSALG at https://www.nsalg.org.uk/growing-advice/" href="https://www.nsalg.org.uk/growing-advice/" target="ext"><i>nsalg.org.uk</i></a>
                     </p>
                 </div>
                     
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
-                    <p><img src="/assets/img/weeders-digest/links/thirsty.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>Two Thirsty Gardeners</h4>
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                    <p><img src="/assets/img/weeders-digest/links/thirsty.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" /><h4>Two Thirsty Gardeners</h4>
                     Digging and swigging through the seasons.<br><br>
                     <a title="Visit the Two Thirsty Gardener's website at http://twothirstygardeners.co.uk/" href="http://twothirstygardeners.co.uk/" target="ext"><i>twothirstygardeners.co.uk</i></a>
                     </p>
                 </div>
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
-                    <p><img src="/assets/img/weeders-digest/links/organicsite.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>No Dig Organic Gardening</h4>
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                    <p><img src="/assets/img/weeders-digest/links/organicsite.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" /><h4>No Dig Organic Gardening</h4>
                     "Charles is an acclaimed innovator of no dig, organic growing since 1983, and since 2003 of new ways to crop salad leaves. His original, weed free methods give superb results in both small and large areas...."<br><br>
                     <a title="Learn all about No Dig at https://www.charlesdowding.co.uk/" href="https://www.charlesdowding.co.uk/" target="ext"><i>charlesdowding.co.uk</i></a>
                     </p>
                     
                 </div>
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 10px;">  
-                    <p><img src="/assets/img/weeders-digest/links/blight.jpg" class="img-thumbnail pull-left" style="height: 100px; margin-right: 10px; margin-bottom: 10px;" /><h4>Blight Watch</h4>
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                    <p><img src="/assets/img/weeders-digest/links/blight.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" /><h4>Blight Watch</h4>
                     Watching for and dealing with blight - recommended by Andy Kurdynowski.  
                     It’s free to register, and if you do you will get email warnings when there is a likelihood, or indeed instances, 
                     of blight in your chosen postcode area.<br><br>
