@@ -17,7 +17,8 @@
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
                     <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 8<sup>th</sup> April 2020 21:30</i></h2>
-                    <p>
+                    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#covidinfo" aria-expanded="false">Details <i class="fas fa-angle-down"></i><i class="fas fa-angle-up"></i></button><br><br>
+                    <div id="covidinfo" class="collapse">
                         <ul class="ul-separated">
                             <li>
                             <b>Government advice</b>: It is still permitted to cultivate your plot for daily exercise, provided you follow all 
@@ -52,7 +53,7 @@
                             <li><b>Do not</b> wash your hands, tools or crops in water troughs</li>
                             <li><b>PLEASE</b> check this website regularly for new information and updates.</li>
                         </ul>
-                    </p>
+                    </div>
 
                     <h4><br>External links</h4>
 
@@ -472,19 +473,22 @@
                     </p>
                     <h4>How to buy your allotment goods</h4>
                     <p>
-                        <b>2<sup>nd</sup> April 2020</b>: The store is NOT open for face-to-face business. An on-line process, as detailed below, has been running very well 
-                        but is temporarily suspended due to the escalating COVID 19 crisis. 
-                        The situation is under constant review and on-line ordering will be reinstated as soon as possible.
+                        <b>24<sup>th</sup> May 2020</b>: The store is open, once again, for <span style="text-decoration: underline">online orders only</span>.                         
                     </p>
                     <p>
-                        <ul>
+                        The process for placing your orders is detailed below.  Everything is being done 
+                        to provide as good a service as possible, whilst minimising any potential risks to all concerned.
+                    </p>
+                    <p>
+                        <h5>Placing an order</h5>
+                        <ol>
                             <li>Check the price list below and select the items and quantities you require.</li>
                             <li>Email your order to the Store Manager (see below for the email address).</li>
                             <li>The Store Manager will confirm if all items and quantities are in stock, provide a total price, give bank account details, and offer an order collection date and time.</li>
                             <li>Pay by on-line bank transfer. Advise the Store Manager when payment is complete and agree the collection time or request a different one.</li>
                             <li>Collect your order from outside the Burnside store at the time agreed. You will also receive an "order ready to collect" email.</li>
 
-                        </ul>
+                        </ol>
                     </p>
                     <p>
                         For more information email the
@@ -513,6 +517,7 @@
                             <tr><td  valign="top">Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td  valign="top">&pound;4.50</td></tr>
                             <tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
                             <tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
+                            <tr><td  valign="top">Extra-strong woven rubbish sacks</td><td>&pound;1.00 each</td></tr>
                             <tr><td  valign="top">Garden twine (plastic)</td><td  valign="top">&pound;2.50</td></tr>
                             <tr><td  valign="top">6 inch weed fabric staples</td><td  valign="top">20p ea</td></tr>
                             <tr><td  valign="top">Tomorite tomato Feed 1L</td><td  valign="top">&pound;3.50</td></tr>

@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz8";
+                let quizid = "quiz9";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '24 May 2020'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '31 May 2020'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -73,12 +73,12 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="past">
+    <body onload="BandV.onload(); PFModal.init();" class="current">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/gardeningheader.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #8</span></h1>
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/secondsbanner.jpg);">
+            <h1 id="title"><span class="title-background">Quiz #9</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -87,12 +87,12 @@
 
                 <div class="col-12">
                     <h2></h2>
-                    <p>Oh well, it had to happen eventually.  This is our first horticultural quiz and, consequently, should be a pushover for any user of this site.</p>
+                    <p>You always remember the winners, but how often do you remember the runners-up.  Often, their achievements are as great, but they just weren't first. </p>
                     <p>Please don't look the answers up on the internet - pretty please.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 24<sup>th</sup> May.</p>
-                    <p class="past-quiz">The closing date,  24<sup>th</sup> May, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b>Ingrid, Gill and "The Top Bottoms"</b> - this week's joint winners.</p>
+                    <p class="current-quiz">The closing date is the 31<sup>st</sup> May.</p>
+                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
             </div>
 
@@ -100,13 +100,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
                     <p>
-                    Speaking of fruit and veg, which we weren't, what is 2020 the year of?
+                    Everyone can name the first two people to set foot on the moon from Apollo 11, but can you name either of the two people from Apollo 12 to do so?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Cucumber</p>
+                    <p class="answer">Answer 1</p>
                 </div>
             </div>
 
@@ -114,13 +114,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
                     <p>
-                    What kind of veg is a Chantenay?
+                    Name the second highest mountain in the world.
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Carrot</p>
+                    <p class="answer">Answer 2</p>
                 </div>
             </div>
 
@@ -128,14 +128,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
                     <p>
-                    What fruit comes from this flower and what soil does it prefer?<br>
-                    <img src="/assets/img/quiz/quiz8/image1.jpg" class="img img-thumbnail img-responsive" style="width: 100%;" alt="Quiz 8 - 3" />
+                    Andy Murray won his first Wimbledon tounament in 2013.  Who came second to him?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Blueberry: ericaceous / acidic</p>
+                    <p class="answer">Answer 3</p>
                 </div>
             </div>
 
@@ -143,13 +142,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
                     <p>
-                    What is the name of the garden from which BBC Scotland broadcasts a weekly gardening programme?
+                    George Washington was the first president ofthe USA.  Who was the second?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Beechgrove</p>
+                    <p class="answer">Answer 4</p>
                 </div>
             </div>
 
@@ -157,13 +156,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
                     <p>
-                    What is the word record weight for a pumpkin? a) 840.1 kg b) 536 kg c) 1190.5 kg
+                    Smith is the most common surname in the UK.  What is the second most common?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">c) 1190.5 kg</p>
+                    <p class="answer">Answer 5</p>
                 </div>
             </div>
 
@@ -171,13 +170,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
                     <p>
-                    Purple Majesty is a variety of what vegetable?
+                    Roger Bannister was the first person to break the 4 minute mile barrier.  Who was the second?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Potato</p>
+                    <p class="answer">Answer 6</p>
                 </div>
             </div>
 
@@ -185,13 +184,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
                     <p>
-                    Name a medicinal use for calendula
+                    Diversity won Britain's Got Talent in 2009.  Who came second?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Heal wounds, burns and rashes</p>
+                    <p class="answer">Answer 7</p>
                 </div>
             </div>
 
@@ -199,13 +198,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
                     <p>
-                    Which weed has leaves that [apparently] taste good when blanched and added to a salad with balsamic dressing?
+                    Russia is the largest country by land area.  Ignoring Antarctica, what is the second?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Dandelion</p>
+                    <p class="answer">Answer 8</p>
                 </div>
             </div>
 
@@ -213,14 +212,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
                     <p>
-                    Identify this insect - hint: the answer is already on this site<br>
-                    <img src="/assets/img/quiz/quiz8/image3.jpg" class="img img-thumbnail img-responsive" style="width: 100%;" alt="Quiz 8 - 9" />
+                    The Netherlands was the first country to legalise same-sex marriages.  Which was the second?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Leafminer</p>
+                    <p class="answer">Answer 9</p>
                 </div>
             </div>
 
@@ -228,14 +226,13 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
                     <p>
-                    Identify this type of lettuce<br>
-                    <img src="/assets/img/quiz/quiz8/image2.jpg" class="img img-thumbnail img-responsive" style="width: 100%;" alt="Quiz 8 - 10" />
+                    Fish and chips is the UK's favourite meal.  What is the second?
                     </p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Webbs Wonder(ful)</p>
+                    <p class="answer">Answer 10</p>
                 </div>
             </div>
 

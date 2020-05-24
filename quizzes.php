@@ -51,13 +51,13 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/gardeningposter.jpg)'>Haughty Culture</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/secondsposter.jpg)'>Second best</div>
                         <div class="card-body">
-                            <p>Easy peasy gardening</p>
+                            <p>How well do you remember the runners-up?</p>
                             <p>&nbsp;</p>
-                            <p>Answers on 24<sup>th</sup> May 2020</p>
+                            <p>Answers on 31<sup>st</sup> May 2020</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz8.php" title="Quiz #7" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz9.php" title="Quiz #9" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
@@ -73,6 +73,18 @@
             </div>
 
             <div class="row mb justify-content-md-center">
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/gardeningposter.jpg)'>Haughty Culture<br>Closing date 24<sup>th</sup> May 2020</div>
+                        <div class="card-body">
+                            <p>Easy peasy gardening</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>Ingrid, Gill and "The Top Bottoms"</b>, this week's joint winners.</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz8.php" title="Quiz #7" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">

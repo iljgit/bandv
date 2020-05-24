@@ -426,8 +426,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "17 May 2020",
-    "text" => "The results of the last set of quizzes (week-ending 17<sup>th</sup> May 2020) and the next is now available.",
+    "date" => "24 May 2020",
+    "text" => "The results of the last set of quizzes (week-ending 24<sup>th</sup> May 2020) and the next is now available.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -459,6 +459,12 @@ $wn[] = (object) [
     "date" => "22 May 2020",
     "text" => "Did you know May 23-31 is National Children’s Gardening Week?",
     "link" => "<a href='weeders-digest.php#childrens-week' title='Click for tips'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "24 May 2020",
+    "text" => "<i class='fas fa-asterisk text-danger'></i> The Society Store is open once again, for online orders only.",
+    "link" => "<a href='weeders-digest.php#store' title='Click for tips'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];

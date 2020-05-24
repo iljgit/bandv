@@ -611,3 +611,18 @@ td {
     }
 }
 
+button[aria-expanded="false"] i.fas.fa-angle-down {
+    display: inline-block;
+}
+
+button[aria-expanded="false"] i.fas.fa-angle-up {
+    display: none;
+}
+
+button[aria-expanded="true"] i.fas.fa-angle-up {
+    display: inline-block;
+}
+
+button[aria-expanded="true"] i.fas.fa-angle-down {
+    display: none;
+}
