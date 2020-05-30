@@ -16,38 +16,29 @@
             <div class="row mb justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 8<sup>th</sup> April 2020 21:30</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 30<sup>th</sup> May 2020 11:30</i></h2>
                     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#covidinfo" aria-expanded="false">Details <i class="fas fa-angle-down"></i><i class="fas fa-angle-up"></i></button><br><br>
                     <div id="covidinfo" class="collapse">
                         <ul class="ul-separated">
                             <li>
-                            <b>Government advice</b>: It is still permitted to cultivate your plot for daily exercise, provided you follow all 
-                            advice about social distancing and hygiene and limit your time outside the home.
+                            <b>Government advice</b>: You can work your plot, provided you follow all 
+                            advice about social distancing and hygiene.  The Government has now removed the limit on time outside your home.
                             </li>
-                            <li>
-                            <b>NSALG</b> believe it is reasonable to spend an hour or so doing essential tasks on the plot and then return home.
-                            </li>
-                            <li>
-                            If allotments are to continue to be legitimate exercise, we <b>must</b> follow all guidelines. NSALG suggest you work your 
-                            plot <b>on your own</b>, ie not even with household members. The concern is that sites may be shut, 
-                            <b>as they have been in Ireland and France</b>. By visiting alone or staying away for a while, we may reduce the risk of closure.
-                            </li>
-                            <li>Social distancing means keeping an <b>absolute minimum</b> of 2 metres apart. 
-                            Do not gather to chat even if you are 2 metres apart.</li>
+                            <li>Social distancing means keeping an <b>absolute minimum</b> of 2 metres apart.</li>
                             <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> 
                             stay away from the site.</li>
-                            <!--li>The Store is fully stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
-                                Click <a href="#store" title="Click to see store details">here</a> for more details.</li-->
-                            <li>The toilets at Vinery and Burnside are closed until further notice.</li>
+                            <li>The Store is stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
+                                Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
+                            <li>The toilets at Vinery and Burnside remain closed until further notice.</li>
                             <li>The Vinery Pavilion is not to be used until further notice.  <b>Do not</b> 
                             even open the door.</li>
-                            <li>Vinery gates: the top gate is locked until further notice; the other gate will be 
-                            opened by Suzy at 8:30am and closed at 7pm.  
-                                <b>Do not</b> open or touch it yourself.</li>
-                            <li>Burnside gates: use gloves when locking and unlocking.</li>
+                            <li>Vinery gates: from Monday 1<sup>st</sup> June, Suzy will no longer be opening and closing the gate.  
+                            The gate should be left open during the day and locked by the last person to leave.  
+                            Please maintain hand hygiene if you touch the gate.
+                            </li>
+                            <li>Burnside gates: please maintain hand hygiene when touching the gates.</li>
                             <li><b>Bonfires</b>: as a courtesy to our neighbours on both sites, please don’t light any bonfires; 
                             for some people, an open window may be their only fresh air.</li>
-                            <li><b>Livestock on site</b>: animal welfare considerations mean this will be seen as essential travel even if movement is restricted further.</li>
                             <li><b>PLEASE</b> ensure that there is no unauthorised access to your site.</li>
                             <li><b>Do not</b> share tools or use communal equipment</li>
                             <li><b>Do not</b> wash your hands, tools or crops in water troughs</li>
