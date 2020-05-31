@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -91,8 +91,8 @@
                     <p>Please don't look the answers up on the internet - pretty please.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 31<sup>st</sup> May.</p>
-                    <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">The closing date, 31<sup>st</sup> May, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">Well done to <b>Seamus, Niamh and Debbie</b> - this week's winners.</p>
                 </div>
             </div>
 
@@ -106,7 +106,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Answer 1</p>
+                    <p class="answer">Charles "Pete" Conrad, Alan L. Bean - Richard F. Gordon remained in lunar orbit.</p>
                 </div>
             </div>
 
@@ -120,7 +120,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Answer 2</p>
+                    <p class="answer">K2 (aka Chhogori, or Mount Godwin-Austen)</p>
                 </div>
             </div>
 
@@ -134,7 +134,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Answer 3</p>
+                    <p class="answer">Novak Djokovic</p>
                 </div>
             </div>
 
@@ -148,7 +148,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Answer 4</p>
+                    <p class="answer">John Adams</p>
                 </div>
             </div>
 
@@ -162,7 +162,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Answer 5</p>
+                    <p class="answer">Jones</p>
                 </div>
             </div>
 
@@ -176,7 +176,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Answer 6</p>
+                    <p class="answer">John Landy (Australia)</p>
                 </div>
             </div>
 
@@ -190,7 +190,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Answer 7</p>
+                    <p class="answer">Susan Boyle</p>
                 </div>
             </div>
 
@@ -204,7 +204,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Answer 8</p>
+                    <p class="answer">Canada</p>
                 </div>
             </div>
 
@@ -218,7 +218,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Answer 9</p>
+                    <p class="answer">Belgium</p>
                 </div>
             </div>
 
@@ -232,7 +232,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Answer 10</p>
+                    <p class="answer">Chicken korma</p>
                 </div>
             </div>
 

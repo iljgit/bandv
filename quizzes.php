@@ -36,7 +36,9 @@
             </div>
 
             <div class="row mb justify-content-md-center">
-
+                <div class="col-12 text-center">
+                    The quiz-master is taking a break for a while.  He'll be back later in the summer.
+                </div>
                 <!--div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz</div>
@@ -48,18 +50,6 @@
                         <div class="card-footer"><a href="childrens-quiz2.php" title="Children's Quiz #2" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div-->
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/secondsposter.jpg)'>Second best</div>
-                        <div class="card-body">
-                            <p>How well do you remember the runners-up?</p>
-                            <p>&nbsp;</p>
-                            <p>Answers on 31<sup>st</sup> May 2020</p>
-                        </div> 
-                        <div class="card-footer"><a href="quiz9.php" title="Quiz #9" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
 
             </div>
 
@@ -73,6 +63,18 @@
             </div>
 
             <div class="row mb justify-content-md-center">
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/secondsposter.jpg)'>Second best<br>Closing date 31<sup>st</sup> May 2020</div>
+                        <div class="card-body">
+                            <p>How well do you remember the runners-up?</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to <b>Seamus, Niamh and Debbie</b>, winners once again.</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz9.php" title="Quiz #9" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
