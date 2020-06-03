@@ -15,7 +15,7 @@
                                 
                     <div class="row mb" id="home">
                         <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                            <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 8<sup>th</sup> April 2020 9:30pm</i></h2>
+                            <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 30<sup>th</sup> May 2020 11:30am</i></h2>
                             <p>
                                 Click <a href="weeders-digest.php" title="Coronavirus information">here</a> for our latest information, including NHS and NSALG advice.
                             </p>
