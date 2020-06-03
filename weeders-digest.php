@@ -441,23 +441,6 @@
                     </div>                    
                     
                 </div>
-                
-                <div class="col-12 col-lg-4">                    
-
-                    <div class="quote-container postit">
-                        <i class="pin"></i>
-                        <blockquote class="note general">
-                            <div class="title">
-                                <div style="font-size: 80%; width: 100%;">
-                                    <span class="pull-left">Burnside Store</span><span class="pull-right">14/07/2018</span>
-                                </div><br>For sale
-                            </div>
-                            <img class="img-responsive img-thumbnail" style="width: 100%;" src="assets/img/weeders-digest/notices/blackbarrow.jpg" />
-                            Builder's wheelbarrow - new. £50
-                        </blockquote>
-                    </div>                    
-                    
-                </div>
                
             </div>
 
@@ -518,7 +501,7 @@
                             <tr><td  valign="top">Miracle Gro All Purpose Liquid Plant Food 1L</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Bird Netting (4m wide - per m)</td><td  valign="top">&pound;1.50</td></tr>
                             <tr><td  valign="top">Standard Insect Mesh 1.3mm (3.6m wide - per m)</td><td  valign="top">&pound;4.00</td></tr>
-                            <tr><td  valign="top">Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td  valign="top">&pound;4.50</td></tr>
+                            <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Fine Insect Mesh 0.6mm (3.6m wide - per m)</span></td><td  valign="top">&pound;4.50</td></tr>
                             <tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
                             <tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Extra-strong woven rubbish sacks</td><td>&pound;1.00 each</td></tr>
