@@ -99,7 +99,7 @@
 
             </div>
 
-            <div class="row mb mt-5">
+            <!--div class="row mb mt-5">
 
                 <div class="col-12">
                     <h2>Did you know May 23-31 is National Children’s Gardening Week?</h2>
@@ -127,7 +127,7 @@
                     </p>
                 </div>
 
-            </div>
+            </div-->
 
             <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 
@@ -168,9 +168,8 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <!--p><i><?php echo(getDaysToGo('2020-03-29'));?> days until British Summer Time starts.</i></p-->
                             <p><i><?php echo(getDaysSince('2020-03-23'));?> days since lockdown started.</i></p>
-                            <p style="color: red;">This year's AGM is <b>cancelled</b> due to concerns over coronavirus</p>
+                            <p><i><?php echo(getDaysToGo('2020-10-25'));?> days until British Summer Time ends.</i></p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -243,19 +242,8 @@
                     <table>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
-                            <td style="color: red;">This year's AGM, scheduled for Wednesday 22<sup>nd</sup> April, is <b>cancelled</b> due to concerns over coronavirus</td>
-                        </tr>
-                        <tr>
-                            <td><i class="far fa-calendar"></i></td>
-                            <td>The Society's store at Burnside is open from March 22<sup>nd</sup> for online orders only. 
+                            <td>The Society's store at Burnside is open for online orders only. 
                                 Click <a href="#store" title="Click to see store details">here</a> for more details.</td>
-                        </tr>
-                        <tr>
-                            <td><i class="far fa-calendar"></i></td>
-                            <td><p>Burnside's troughs were cleaned and refilled for summer on Thursday 26<sup>th</sup> March.
-                            Please read and follow the instructions shown on notices attached to the side of each trough,  regarding their use.</p>
-                            <img style="width: 100%;" src="assets/img/weeders-digest/burnside-trough.jpg" alt="Burnside trough, cleaned and refilled" title="Burnside trough, cleaned and refilled" class="img img-responsive" />
-                            </td> 
                         </tr>
                     </table>
                 </div>
@@ -501,7 +489,7 @@
                             <tr><td  valign="top">Miracle Gro All Purpose Liquid Plant Food 1L</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Bird Netting (4m wide - per m)</td><td  valign="top">&pound;1.50</td></tr>
                             <tr><td  valign="top">Standard Insect Mesh 1.3mm (3.6m wide - per m)</td><td  valign="top">&pound;4.00</td></tr>
-                            <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Fine Insect Mesh 0.6mm (3.6m wide - per m)</span></td><td  valign="top">&pound;4.50</td></tr>
+                            <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Fine Insect Mesh 0.6mm (3.6m wide - per m)</span></td><td  valign="top">&pound;4.50 Sold out</td></tr>
                             <tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
                             <tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Extra-strong woven rubbish sacks</td><td>&pound;1.00 each</td></tr>
