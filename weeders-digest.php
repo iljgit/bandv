@@ -484,7 +484,7 @@
                             <tr><td  valign="top">Blended Farmyard Manure 40L</td><td  valign="top">&pound;5.00</td></tr>
                             <tr><td  valign="top">Multi-Purpose Compost 75L</td><td  valign="top">&pound;5.50</td></tr>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Peat Free Organic Compost 60L</span></td><td  valign="top">&pound;6.00 Sold out</td></tr>
-                            <tr><td  valign="top">Clover Peat Free Organic Compost 40L</td><td  valign="top">&pound;4.50</td></tr>
+                            <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Clover Peat Free Organic Compost 40L</span></td><td  valign="top">&pound;4.50 Sold out</td></tr>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">4 Plant Grow-Bag</span></td><td  valign="top">&pound;3.50 Sold out</td></tr>
                             <tr><td  valign="top">Miracle Gro All Purpose Liquid Plant Food 1L</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Bird Netting (4m wide - per m)</td><td  valign="top">&pound;1.50</td></tr>
@@ -497,7 +497,7 @@
                             <tr><td  valign="top">6 inch weed fabric staples</td><td  valign="top">20p ea</td></tr>
                             <tr><td  valign="top">Tomorite tomato Feed 1L</td><td  valign="top">&pound;3.50</td></tr>
                             <tr><td  valign="top">Maxicrop Organic Tomato Feed 1L</td><td  valign="top">&pound;6.25</td></tr>
-                            <tr><td  valign="top">Garden Twine (green)</td><td  valign="top">&pound;1.75</td></tr>
+                            <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Garden Twine (green)</span></td><td  valign="top">&pound;1.75 Sold out</td></tr>
                             <tr><td  valign="top">Garden Twine (brown)</td><td  valign="top">&pound;2.00</td></tr>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Extra Thick Bamboo Canes 8ft</span></td><td  valign="top">&pound;2.50 Sold out</td></tr>
                             <tr><td  valign="top">Thick Bamboo Canes 8ft</td><td  valign="top">80p ea</td></tr>
