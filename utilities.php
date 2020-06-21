@@ -468,8 +468,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "15 Jun 2020",
-    "text" => "Burnside burn-bin at 6pm on Monday 15<sup>th</sup> June. Please dry items as long as possible. Loan wheelbarrows will be available.<br><br>Please wait until the bin is running before bringing your stuff around.",
+    "date" => "22 Jun 2020",
+    "text" => "Burnside burn-bin at 6pm on Monday 22<sup>nd</sup> June. Please dry items as long as possible on your own plot. Wait until 6pm on Monday before bringing items to the burn-bin.  Loan wheelbarrows will be available.",
     "link" => ""
 ];
 
