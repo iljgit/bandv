@@ -95,39 +95,38 @@
                     </p>
                 </div>
 
-                <div  id="childrens-week" class='col-12 col-md-4'><hr></div>
+                <div  id="edge-cafe" class='col-12 col-md-4'><hr></div>
 
             </div>
 
-            <!--div class="row mb mt-5">
+            <div class="row mb mt-5" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
 
                 <div class="col-12">
-                    <h2>Did you know May 23-31 is National Children’s Gardening Week?</h2>
+                    <h2 style="color: darkred;">Too many tomatoes?</h2>
+                    <h2 style="color: #000080;">A profusion of peas?</h2>
+                    <h2 style="color: orange;">A surplus of shallots?</p>
                 </div>
 
-                <div class="col-12 col-md-6">
-                    <img src="assets/img/weeders-digest/childrens-week.jpg" class="img img-responsive img-thumbnail" style="width: 100%" alt="Children's week" title="Children's week May 2020" />
-                </div>
-
-                <div class="col-12 col-md-6">
+                <div class="col-12">
                     <p>
-                    This coming week is National Children’s Gardening Week.  See page 16 of the current issue of Allotment & Leisure Gardener, 
-                    the NSALG magazine if you can get hold of it (Issue 2, 2020). This includes a link to a nice website – 
-                    <a href="www.childrensgardeningweek.co.uk/fun-things-to-do/" target="_blank" title="Fun things for children to do">
-                    www.childrensgardeningweek.co.uk / fun-things-to-do</a> which is full of lovely ideas for garden related activities for children.
+                    <img src="https://www.theedgecafecambridge.org/images/gallery/1503522495_hero-04_a.jpg" class="img img-thumbnail pull-right" alt="The Edge Cafe" style="width: 40%;" />
+                    The <span style="font-weight: bolder;">Edge Café</span> on <span style="font-weight: bolder;">Mill Road</span> is currently closed but they are being used as part of the Cambridge Food hub during the pandemic. 
+                    As such, they welcome pretty much any contributions, so if you have spare allotment fruit and veg do donate if you can. 
                     </p>
                     <p>
-                    We can’t hold communal activities under Covid-19 restrictions, which means there are no children’s gatherings on the site at the moment. 
-                    But we thought it would be nice to mark National Children’s Gardening Week by inviting you to send photographs of your recent 
-                    gardening and craft activities with the children. Please send them to <a href="mailto:rachel.epoche@gmail.com">rachel.epoche@gmail.com</a> in the 
-                    first instance and they will be uploaded to the website photograph gallery as soon as possible.
+                    Drop it off just after 11.30am when they are setting things up, at the usual entrance. They then open at 12 noon for two hours.
                     </p>
                     <p>
-                    Happy gardening and crafting!
+                    The Edge Café,<br>
+                    351 Mill Road, Cambridge,<br>
+                    CB1 3DF                    
+                    </p>
+                    <p>
+                        Click <a href="https://www.theedgecafecambridge.org/index.php" target="_blank">here</a> for more details.
                     </p>
                 </div>
 
-            </div-->
+            </div>
 
             <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 

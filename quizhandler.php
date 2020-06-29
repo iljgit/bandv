@@ -36,6 +36,10 @@ $results->answer7 = geturi('answer7');
 $results->answer8 = geturi('answer8');
 $results->answer9 = geturi('answer9');
 $results->answer10 = geturi('answer10');
+$results->answer11 = geturi('answer11');
+$results->answer12 = geturi('answer12');
+$results->answer13 = geturi('answer13');
+$results->answer14 = geturi('answer14');
 
 // create the file name
 $quizid = geturi('quizid');

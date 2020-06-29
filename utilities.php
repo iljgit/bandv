@@ -473,6 +473,12 @@ $wn[] = (object) [
     "link" => ""
 ];
 
+$wn[] = (object) [
+    "date" => "30 Jun 2020",
+    "text" => "The Edge Cafe on Mill Road needs <b>your</b> help.",
+    "link" => "<a href='weeders-digest.php#edge-cafe' title='Click for the Edge Cafe'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
