@@ -88,11 +88,12 @@
 
                 <div class="col-12">
                     <h2>How well do you know Cambridge?</h2>
-                    <p>You have probably passed these bits of Cambridge 101 times - but can you remember where they are?</p>
+                    <p>You have probably passed these bits of Cambridge 101 times - but can you remember where they are?  If you can't, now is an excellent 
+                    opportunity to get out and get reacquainted with some of the less well-known parts.</p>
           <p>Two points per question.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 12<sup>th</sup> July.</p>
-                    <p class="past-quiz">The closing date, 10<sup>th</sup> Jul, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="past-quiz">The closing date, 12<sup>th</sup> Jul, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to <b></b> - this week's winners and the team currently to beat.</p>
                 </div>
             </div>
@@ -146,7 +147,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
                     <p>
-                    Where is this pineapple and which Cambridge institution occupied the building opposite originally?
+                    Where is this pineapple and which Cambridge institution occupied the building opposite(-ish) originally?
                     <br><img class="img img-responsive" style="max-width: 100%;" src="/assets/img/quiz/quiz10/4.jpg" alt="Question 4" title="Question 4"/>
                     </p>
                 </div>
@@ -236,7 +237,7 @@
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
                     <p>
-                    A slighly unusual and certainly less attractive view of one of the older Colleges?  Which College and from which street was the shot taken?
+                    A slighly unusual and certainly less attractive view of one of the older Colleges.  Which College and from which street was the shot taken?
                     <br><img class="img img-responsive" style="max-width: 100%;" src="/assets/img/quiz/quiz10/10.jpg" alt="Question 10" title="Question 10"/>
                     </p>
                 </div>

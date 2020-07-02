@@ -426,8 +426,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "24 May 2020",
-    "text" => "The results of the last set of quizzes (week-ending 31<sup>st</sup> May 2020) are now available.",
+    "date" => "03 Jul 2020",
+    "text" => "The next in the occasional series of quizzes is available.  Answers on the 12<sup>th</sup> July.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -468,7 +468,7 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "22 Jun 2020",
+    "date" => "01 Jun 2020",
     "text" => "Burnside burn-bin at 6pm on Monday 22<sup>nd</sup> June. Please dry items as long as possible on your own plot. Wait until 6pm on Monday before bringing items to the burn-bin.  Loan wheelbarrows will be available.",
     "link" => ""
 ];
