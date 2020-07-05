@@ -12,6 +12,10 @@
     --clickherevisited: rgb(0, 64, 0);
     --navlink: #f0f000;
     --quote: #808080;
+    --background-highlight-varying-colour1: rgba(256, 0, 0, 0.8);
+    --background-highlight-varying-colour2: rgba(0, 128, 0, 0.8);
+    --background-highlight-varying-colour3: rgba(0, 0, 128, 0.8);
+    --background-highlight-varying-text-colour: white;
 }
 
 html {
@@ -625,4 +629,45 @@ button[aria-expanded="true"] i.fas.fa-angle-up {
 
 button[aria-expanded="true"] i.fas.fa-angle-down {
     display: none;
+}
+
+.legend {
+    font-size: 90%;
+    font-style: italic;   
+}
+
+.embed-container { 
+    position: relative; 
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden; 
+    max-width: 100%; 
+} 
+
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+}
+
+.background-highlight-varying {
+    border-radius: 10px;
+    border: 1px solid transparent;
+    background-color: var(--background-highlight-varying-colour1);
+}
+
+.background-highlight-varying p.legend {
+    color: var(--background-highlight-varying-text-colour);
+}
+
+.background-highlight-varying:nth-child(2) {
+    background-color: var(--background-highlight-varying-colour2);
+}
+
+.background-highlight-varying:nth-child(3) {
+    background-color: var(--background-highlight-varying-colour3);
 }

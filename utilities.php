@@ -378,7 +378,7 @@ $blogs[] = (object) [
     "subtitle" => "Subtitle",
     "image" => "/assets/img/blog/allotment-camera/film-poster.jpg",
     "author" => "Andy K, Burnside",
-    "date" => "11 May 2020",
+    "date" => "05 Jul 2020",
     "excerpt" => "What happens on the site when no-one is looking",
     "category" => "Experience",
     "link" => "/blog/allotment-camera.php",
@@ -438,8 +438,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "11 May 2020",
-    "text" => "New time-lapsed video of the night-life at Burnside.",
+    "date" => "05 Jul 2020",
+    "text" => "More of the thriving night-life at Burnside.",
     "link" => "<a href='/blog/allotment-camera.php' title='Click for the latest video'><button class='btn btn-success'>More...</button></a>"
 ];
 
