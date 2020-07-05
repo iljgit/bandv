@@ -400,9 +400,9 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "08 Apr 2020",
-    "text" => "Coronavirus advice on this page updated on 8<sup>th</sup> April 2020 9:30pm",
-    "link" => "<a href='#home' title='Click for coronavirus advice'><button class='btn btn-success'>More...</button></a>"
+    "date" => "05 Jul 2020",
+    "text" => "Coronavirus advice on this page updated on 5<sup>th</sup> July 2020 5:00pm",
+    "link" => "<a href='#title' title='Click for coronavirus advice'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $wn[] = (object) [

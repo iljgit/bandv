@@ -13,10 +13,10 @@
 
         <div class="container" id="pagebody">
                                 
-            <div class="row mb justify-content-md-center" id="home">
+            <div class="row mb mt-5 justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 30<sup>th</sup> May 2020 11:30</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 5<sup>th</sup> July 2020 5:00pm</i></h2>
                     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#covidinfo" aria-expanded="false">Details <i class="fas fa-angle-down"></i><i class="fas fa-angle-up"></i></button><br><br>
                     <div id="covidinfo" class="collapse">
                         <ul class="ul-separated">
@@ -24,7 +24,7 @@
                             <b>Government advice</b>: You can work your plot, provided you follow all 
                             advice about social distancing and hygiene.  The Government has now removed the limit on time outside your home.
                             </li>
-                            <li>Social distancing means keeping an <b>absolute minimum</b> of 2 metres apart.</li>
+                            <li>Social distancing means keeping an <b>absolute minimum</b> of 1 metre apart and preferably 2.</li>
                             <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> 
                             stay away from the site.</li>
                             <li>The Store is stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
