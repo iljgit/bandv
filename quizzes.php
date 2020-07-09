@@ -42,7 +42,7 @@
                         <div class="card-body">
                             <p>How well do you know Cambridge?</p>
                             <p>&nbsp;</p>
-                            <p>Closing date 12<sup>th</sup> July 2020</p>
+                            <p>Closing date 19<sup>th</sup> July 2020</p>
                         </div> 
                         <div class="card-footer"><a href="quiz10.php" title="Quiz #10" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

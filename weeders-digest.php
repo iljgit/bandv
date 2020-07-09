@@ -95,7 +95,7 @@
                     </p>
                 </div>
 
-                <div  id="edge-cafe" class='col-12 col-md-4'><hr></div>
+                <div  id="food-hubs" class='col-12 col-md-4'><hr></div>
 
             </div>
 
@@ -108,6 +108,18 @@
                 </div>
 
                 <div class="col-12">
+                    <p>
+                    The Covid-19 pandemic has brought hard times to a lot of people. We are receiving requests from a number of Cambridge food hubs for help from anyone who may have surplus produce from their plot. They are all very grateful for any support or donations - see below for details:
+                    </p>
+                    <p>
+                    <b style="color: darkred;">Coleridge Community Food Bank</b> has been running since June 5th. Produce is checked, washed and air dried in St Thomas’s high spec kitchen. Contact Andrew Drury by email at centre@st-martins-cambridge.org.uk
+                    </p>
+                    <p>
+                    <b style="color: #000080;">The C3 Church</b> is running an initiative called ‘Love Your Neighbour’, supporting people in different ways during the crisis. By early July, they had already provided over 30,000 meals since the beginning of lockdown. They are happy to collect surplus produce. Phone 01223 844415 or email receptionteam@thec3.uk See also their Facebook page at https://www.facebook.com/thec3.impact
+                    </p>
+                    <p>
+                    <b style="color: orange;">Cambridge Sustainable Food</b> are running an emergency food programme over the summer. Details of the scheme can be found on their website – www.cambridgesustainablefood.org/allotmentvegdonations
+                    </p>
                     <p>
                     <img src="https://www.theedgecafecambridge.org/images/gallery/1503522495_hero-04_a.jpg" class="img img-thumbnail pull-right" alt="The Edge Cafe" style="width: 40%;" />
                     The <span style="font-weight: bolder;">Edge Café</span> on <span style="font-weight: bolder;">Mill Road</span> is currently closed but they are being used as part of the Cambridge Food hub during the pandemic. 

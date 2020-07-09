@@ -92,8 +92,8 @@
                     opportunity to get out and get reacquainted with some of the less well-known parts.</p>
           <p>Two points per question.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 12<sup>th</sup> July.</p>
-                    <p class="past-quiz">The closing date, 12<sup>th</sup> Jul, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
+                    <p class="current-quiz">The closing date is the 19<sup>th</sup> July.</p>
+                    <p class="past-quiz">The closing date, 19<sup>th</sup> July, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to <b></b> - this week's winners and the team currently to beat.</p>
                 </div>
             </div>

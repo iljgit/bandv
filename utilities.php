@@ -427,7 +427,7 @@ $wn[] = (object) [
 
 $wn[] = (object) [
     "date" => "03 Jul 2020",
-    "text" => "The next in the occasional series of quizzes is available.  Answers on the 12<sup>th</sup> July.",
+    "text" => "The next in the occasional series of quizzes is available.  Answers on the 19<sup>th</sup> July.",
     "link" => "<a href='quizzes.php' title='Click for quizzes'><button class='btn btn-success'>More...</button></a>"
 ];
 
@@ -474,9 +474,9 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "30 Jun 2020",
-    "text" => "The Edge Cafe on Mill Road needs <b>your</b> help.",
-    "link" => "<a href='weeders-digest.php#edge-cafe' title='Click for the Edge Cafe'><button class='btn btn-success'>More...</button></a>"
+    "date" => "10 Jul 2020",
+    "text" => "Cambridge food hubs need <b>your</b> help.",
+    "link" => "<a href='weeders-digest.php#food-hubs' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];
