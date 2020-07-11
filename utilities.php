@@ -479,6 +479,13 @@ $wn[] = (object) [
     "link" => "<a href='weeders-digest.php#food-hubs' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "12 Jul 2020",
+    "text" => "<i class='fa fa-exclamation-triangle text-danger' aria-hidden='true'></i> PRODUCT RECALL:<br>
+    Mr Fothergill’s Courgette Zucchini BATCH I.",
+    "link" => "<a href='/assets/docs/courgette-seeds-warning.pdf' target='_blank' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
