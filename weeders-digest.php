@@ -122,7 +122,7 @@
                     </p>
                     <p>
                     <img src="https://www.theedgecafecambridge.org/images/gallery/1503522495_hero-04_a.jpg" class="img img-thumbnail pull-right" alt="The Edge Cafe" style="width: 40%;" />
-                    The <span style="font-weight: bolder;">Edge Café</span> on <span style="font-weight: bolder;">Mill Road</span> is currently closed but they are being used as part of the Cambridge Food hub during the pandemic. 
+                    The <span style="font-weight: bolder;">Edge Café</span> on <span style="font-weight: bolder;">Mill Road</span> is now re-open. They are being used as part of the Cambridge Food hub during the pandemic. 
                     As such, they welcome pretty much any contributions, so if you have spare allotment fruit and veg do donate if you can. 
                     </p>
                     <p>
@@ -493,7 +493,7 @@
                         <tbody>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Grow Organic 50L</span></td><td  valign="top">&pound;6.00 Sold out</td></tr>
                             <tr><td  valign="top">Blended Farmyard Manure 40L</td><td  valign="top">&pound;5.00</td></tr>
-                            <tr><td  valign="top">Multi-Purpose Compost 75L</td><td  valign="top">&pound;5.50</td></tr>
+                            <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Multi-Purpose Compost 75L</span></td><td  valign="top">&pound;5.50 Sold out</td></tr>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Peat Free Organic Compost 60L</span></td><td  valign="top">&pound;6.00 Sold out</td></tr>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Clover Peat Free Organic Compost 40L</span></td><td  valign="top">&pound;4.50 Sold out</td></tr>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">4 Plant Grow-Bag</span></td><td  valign="top">&pound;3.50 Sold out</td></tr>
