@@ -74,7 +74,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -94,7 +94,7 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 19<sup>th</sup> July.</p>
                     <p class="past-quiz">The closing date, 19<sup>th</sup> July, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winners and the team currently to beat.</p>
+                    <!--p class="past-quiz">Well done to <b></b> - this week's winners and the team currently to beat.</p-->
                 </div>
             </div>
 
@@ -109,7 +109,9 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">The Dinky Door is on Downing Street, attached to the New Museum Site.  There are Dinky Doors around Cambridge 
+                    and as far as Wandelbury.  They are well worth an afternoon's walk. 
+                    Click <a href="https://www.dinkydoors.co.uk/" target="_blank">here</a> for more details.</p>
                 </div>
             </div>
 
@@ -124,7 +126,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is on Hills Road, near the railway bridge.  It goes with Academy House which is inhabited by AstraZeneca.
+                    When the quiz was originally set, the statue wasn't quite as prominent as it is now.</p>
                 </div>
             </div>
 
@@ -139,7 +142,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is the Hobson Conduit memorial at the corner of Trumpington Street and Lensfield Road.</p>
                 </div>
             </div>
 
@@ -154,7 +157,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">The pineapple is in the courtyard of the Fitzwilliam Museum.  It is almost opposite the original site of Addenbrooke's Hospital.</p>
                 </div>
             </div>
 
@@ -169,7 +172,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is the much reduced graveyard of Holy Trinity in the centre of Cambridge.  It is in the passageway leading to the back entrance 
+                    of M&S.</p>
                 </div>
             </div>
 
@@ -184,7 +188,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is the Leper Chapel on Newmarket Road.  It is near the new Chisholm Trail.</p>
                 </div>
             </div>
 
@@ -199,7 +203,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is the Antarctic Sledge Dog memorial outside the Scott Polar Institute and commemorates various expeditions between 1945 and 1993.</p>
                 </div>
             </div>
 
@@ -214,7 +218,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is the Bishop of Ely's gate leading to Peterhouse College.  The Bishop was punted through the fens to Peterhouse in the late 1200s.</p>
                 </div>
             </div>
 
@@ -229,7 +233,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is Honey Hill, just off Northampton Street.  It was called Honey Hill in the middle ages because there was a ditch there 
+                    which was used as a rubbush dump.  The name is ironic.</p>
                 </div>
             </div>
 
@@ -244,7 +249,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is a view of St John's College taken from Northampton Street opposite Honey Hill.</p>
                 </div>
             </div>
 
@@ -259,7 +264,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer11" placeholder="Answer to question 11" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is Kettle's Yard, with St Peter's in the background.</p>
                 </div>
             </div>
 
@@ -274,7 +279,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer12" placeholder="Answer to question 12" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is officially Car Park 2 in Addenbrooke's.</p>
                 </div>
             </div>
 
@@ -289,7 +294,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer13" placeholder="Answer to question 13" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is on Hills Road, no. 44.  It is on the Cambridge Oven building, next to Cambridge International Book Centre.</p>
                 </div>
             </div>
 
@@ -304,7 +309,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer14" placeholder="Answer to question 14" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">This is on the side of A&E at Addenbrooke's: Futurian by Michael Kenny.</p>
                 </div>
             </div>
 
