@@ -513,7 +513,7 @@
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Extra Thick Bamboo Canes 8ft</span></td><td  valign="top">&pound;2.50 Sold out</td></tr>
                             <tr><td  valign="top">Thick Bamboo Canes 8ft</td><td  valign="top">80p ea</td></tr>
                             <tr><td  valign="top">Bamboo Canes 6ft</td><td  valign="top">40p ea</td></tr>
-                            <tr><td  valign="top">Bamboo Canes 4ft</td><td  valign="top">25p ea</td></tr>
+                            <tr class="sold"><td  valign="top">Bamboo Canes 4ft</td><td  valign="top">25p ea Sold out</td></tr>
                             <tr><td  valign="top">Security clutch screws – prevent shed hinge removal</td><td  valign="top">10p ea</td></tr>
                             <tr><td  valign="top">Permanent marker for plant labels</td><td  valign="top">&pound;2.50</td></tr>
                             <tr><td  valign="top">150mm white plant label x10</td><td  valign="top">20p</td></tr>

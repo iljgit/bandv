@@ -671,3 +671,11 @@ button[aria-expanded="true"] i.fas.fa-angle-down {
 .background-highlight-varying:nth-child(3) {
     background-color: var(--background-highlight-varying-colour3);
 }
+
+.sold {
+    color: #808080;
+}
+
+.sold td:first-child {
+    text-decoration: line-through;
+}
