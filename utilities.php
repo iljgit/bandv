@@ -385,6 +385,18 @@ $blogs[] = (object) [
     "active" => "true"
 ];
 
+$blogs[] = (object) [
+    "title" => "Using water wisely",
+    "subtitle" => "Subtitle",
+    "image" => "/assets/img/blog/water-use/poster.jpg",
+    "author" => "John McGill, Burnside",
+    "date" => "25 Jul 2020",
+    "excerpt" => "Minimising water use on your plot",
+    "category" => "Tip",
+    "link" => "/blog/water-use.php",
+    "active" => "true"
+];
+
 $wn = [];
 
 $wn[] = (object) [
@@ -484,6 +496,12 @@ $wn[] = (object) [
     "text" => "<i class='fa fa-exclamation-triangle text-danger' aria-hidden='true'></i> PRODUCT RECALL:<br>
     Mr Fothergill’s Courgette Zucchini BATCH I.",
     "link" => "<a href='/assets/docs/courgette-seeds-warning.pdf' target='_blank' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "25 Jul 2020",
+    "text" => "Suffering with water retention?  No?<br>John McGill may just have the answer.",
+    "link" => "<a href='/blog/water-use.php' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];
