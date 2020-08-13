@@ -502,7 +502,7 @@
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Standard Insect Mesh 1.3mm (3.6m wide - per m)</span></td><td  valign="top">&pound;4.00 Sold out</td></tr>
                             <tr style="color: #808080;"><td  valign="top"><span style="text-decoration: line-through;">Fine Insect Mesh 0.6mm (3.6m wide - per m)</span></td><td  valign="top">&pound;4.50 Sold out</td></tr>
                             <tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
-                            <tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
+                            <tr class="sold"><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00 Sold out</td></tr>
                             <tr><td  valign="top">Extra-strong woven rubbish sacks</td><td>&pound;1.00 each</td></tr>
                             <tr><td  valign="top">Garden twine (plastic)</td><td  valign="top">&pound;2.50</td></tr>
                             <tr><td  valign="top">6 inch weed fabric staples</td><td  valign="top">20p ea</td></tr>
