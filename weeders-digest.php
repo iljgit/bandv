@@ -16,7 +16,7 @@
             <div class="row mb mt-5 justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 5<sup>th</sup> July 2020 5:00pm</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated for Vinery 19<sup>th</sup> September 2020 11:00am</i></h2>
                     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#covidinfo" aria-expanded="false">Details <i class="fas fa-angle-down"></i><i class="fas fa-angle-up"></i></button><br><br>
                     <div id="covidinfo" class="collapse">
                         <ul class="ul-separated">
@@ -30,10 +30,9 @@
                             <li>The Store is stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
                                 Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
                             <li>The toilets at Vinery and Burnside remain closed until further notice.</li>
-                            <li>The Vinery Pavilion is not to be used until further notice.  <b>Do not</b> 
-                            even open the door.</li>
-                            <li>Vinery gates: from Monday 1<sup>st</sup> June, Suzy will no longer be opening and closing the gate.  
-                            The gate should be left open during the day and locked by the last person to leave.  
+                            <li>The Vinery Pavilion is open again - please ensure you maintain social distancing and hygiene measures.
+                                <i style="font-size: smaller">Updated 19 Sep 2020</i></li>
+                            <li>Vinery gates should be left open during the day and locked by the last person to leave.  
                             Please maintain hand hygiene if you touch the gate.
                             </li>
                             <li>Burnside gates: please maintain hand hygiene when touching the gates.</li>

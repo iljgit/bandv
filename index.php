@@ -15,7 +15,7 @@
                                 
                     <div class="row mb" id="home">
                         <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                            <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 5<sup>th</sup> July 2020 5:00pm</i></h2>
+                            <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated for Vinery 19<sup>th</sup> September 2020 11:00am</i></h2>
                             <p>
                                 Click <a href="weeders-digest.php" title="Coronavirus information">here</a> for our latest information, including NHS and NSALG advice.
                             </p>
@@ -87,14 +87,35 @@ The site also has a composting toilet and a picnic area.
                 <div class="col-12 col-md-6">
 <iframe src="https://www.google.com/maps/embed?z=13&pb=!1m18!1m12!1m3!1d520.6283304236833!2d0.1579339500009567!3d52.19282952200698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTLCsDExJzM0LjIiTiAwwrAwOSczMC41IkU!5e1!3m2!1sen!2suk!4v1481567031652" xwidth="600" xheight="450" frameborder="0" style="border:0; width:100%;" allowfullscreen></iframe>
                 </div>
+            </div>
 
+            <div class="row d-flex justify-content-around">
                 <div class="col-12">
-<p>The Store is open from spring to early summer. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of 
+                <p>
+The site is managed by a team of volunteers, led by the two site managers, Andy and Matthew.
+                </p>
+                </div>
+                <div class="col-12 col-md-5 col-lg-4 text-center">
+                    <figure class="figure">
+                        <img src="assets/img/committee/andy.jpg" class="figure-img img-fluid rounded" alt="Andy Kurdynowski"  style="height: 250px;">
+                        <figcaption class="figure-caption text-center">Andy Kurdynowski</figcaption>
+                    </figure>
+                </div>
+                <div class="col-12 col-md-5 col-lg-4 text-center">
+                    <figure class="figure">
+                        <img src="assets/img/committee/mattheww.jpg" class="figure-img img-fluid rounded" alt="Matthew Whitelegg"  style="height: 250px;">
+                        <figcaption class="figure-caption text-center">Matthew Whitelegg</figcaption>
+                    </figure>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                <p>The Society Store is located at Burnside and is open from spring to early summer. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of 
 all Society members. 
-Click <a title="Click to view the store details" class="click-here" href="weeders-digest.php#store">here</a> for store details.</p>
+Click <a title="Click to view the store details" href="weeders-digest.php#store">here</a> for store details.</p>
 
 <p>A communal orchard was planted near the Burnside entrance in 2015: members will be welcome to pick fruit from this once it is established. 
-Click <a class="click-here" href="/assets/docs/orchardlistnov2018.pdf" target="orchard">here</a> for a list of the trees.</p>
+Click <a href="/assets/docs/orchardlistnov2018.pdf" target="orchard">here</a> for a list of the trees.</p>
 
 <p>A ‘Burn Bin’ facility is available for the disposal of non-compostable green waste. Burn days take place when the weather and the wind conditions are suitable. 
 Click <a title="Click to see the Burnside burn bin regulations" target="burnbin" href="assets/docs/BurnBin.pdf">here</a> for the regulations for its use.
@@ -102,21 +123,8 @@ Click <a title="Click to see the Burnside burn bin regulations" target="burnbin"
 
 
 <p>
-There is an apiary on the Burnside site, near the burn-bin and honey is available at certain times of year: current price is £5 per jar. If there is none in the box next to the apiary and you would like to enquire about supplies, please contact Hamish on 07815 081282.
-</p>
-
-<p>
-The site is managed by a team of volunteers, led by the two site managers, Andy and Matthew.
-                    <figure class="figure" style="width: 40%;">
-                        <img src="assets/img/committee/andy.jpg" class="figure-img img-fluid rounded" alt="Andy Kurdynowski" style="width: 100%;">
-                        <figcaption class="figure-caption">Andy Kurdynowski</figcaption>
-                    </figure>
-
-                    <figure class="figure" style="width: 40%; float: right;">
-                        <img src="assets/img/committee/mattheww.jpg" class="figure-img img-fluid rounded" alt="Matthew Whitelegg" style="width: 100%;">
-                        <figcaption class="figure-caption">Matthew Whitelegg</figcaption>
-                    </figure>
-
+There is an apiary on site, near the Burn Bin. Honey is available at certain times of year in a box next to the apiary: current price is £5 per jar. 
+If the box is empty and you would like to enquire about supplies, please mail Hamish at <a href="mailto:me@hamishsymington.com" title="Hamish's email">me@hamishsymington.com</a>.
 </p>
                 </div>
                 
@@ -155,15 +163,17 @@ Tenants can use it to meet and make hot drinks.
 
 <p>
 The main Society Store is on the Burnside site and is open from early Spring until mid-summer. It sells compost, fleece, weed control fabric, fertilisers, canes, netting etc and is for the use of both Burnside and Vinery tenants. 
-Click <a title="Click to view the store details" class="click-here" href="weeders-digest.php#store">here</a> for store details.
+Click <a title="Click to view the store details" href="weeders-digest.php#store">here</a> for store details.
 </p>
 <p>
 The site is managed by a team of volunteers, led by Barry.
 </p>
+</div>
+<div class="col-12 text-center">
 
-                    <figure class="figure" style="width: 40%;">
-                        <img src="assets/img/committee/barry.jpg" class="figure-img img-fluid rounded" alt="Barry South" style="width: 100%;">
-                        <figcaption class="figure-caption">Barry South</figcaption>
+                    <figure class="figure">
+                        <img src="assets/img/committee/barry.jpg" class="figure-img img-fluid rounded" alt="Barry South" style="height: 250px;">
+                        <figcaption class="figure-caption text-center">Barry South</figcaption>
                     </figure>
                 </div>
                 
