@@ -504,6 +504,11 @@ $wn[] = (object) [
     "link" => "<a href='/blog/water-use.php' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "21 Sep 2020",
+    "text" => "The Society Store is now closed for 2020.  It will re-open in Spring 2021."
+];
+
 $gallery = (object)[];
 
 /*

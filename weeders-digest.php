@@ -452,11 +452,10 @@
         <div class="container">
             <div class="row mb">
                 <div class="col-12">
-                    <p>The store is located at the Burnside entrance to the Burnside site. It was revamped in 2017. 
-                    <!--It sells essential supplies on weekend mornings during the spring and early summer months and is for the use of Burnside and Vinery Road tenants. 
-                    It is staffed by volunteers.-->
+                    <p>The Store is located at the Burnside entrance to the Burnside site. It was revamped in 2017.</p>
+                    <p>The Store is now closed for 2020.  It will re-open in Spring 2021.
                     </p>
-                    <h4>How to buy your allotment goods</h4>
+                    <!--h4>How to buy your allotment goods</h4>
                     <p>
                         <b>24<sup>th</sup> May 2020</b>: The store is open, once again, for <span style="text-decoration: underline">online orders only</span>.                         
                     </p>
@@ -479,11 +478,11 @@
                         For more information email the
                         <a id="storeemail" title="store@burnsideandvineryallotments.org" href="mailto:store@burnsideandvineryallotments.org"></span>store manager</a> 
                         <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'storeemail');"></i>
-                    </p>
+                    </p-->
                 </div>
             </div>
 
-            <div class="row mb">
+            <!--div class="row mb">
                 <div class="col-12">
                     <h4>
                         Burnside Store Price list 2020
@@ -527,7 +526,7 @@
                     </table>                    
                     
                 </div>
-            </div>
+            </div-->
         </div>
 
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/footer.php" ?>
