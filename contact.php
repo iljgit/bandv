@@ -67,9 +67,9 @@
             <div class="col-xs-12 col-md-8">
 	 			<h4>Contact us if you would like to know more about renting</h4>
 	 			<div class="hline"></div>
-         <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; background: rgba(0, 0, 255, 0.2); padding:10px;">
-         Both sites, Vinery Road and Burnside, are currently fully let. You are welcome to apply and join either or both sites' waiting list. 
-         However, new applicants are very unlikely to be offered a plot within the next 12 months. 
+         <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; padding: 10px; background: rgba(0, 0, 255, 0.1); padding:10px;">
+          Both sites, Vinery Road and Burnside, are currently fully let. Anybody who is over 18 and lives in the CB1 area is welcome to apply and join either or both sites' waiting list. 
+         However, new applicants are very unlikely to be offered a plot within the next 12 months.
          </div>
          <br>
 		 			<p class="large-text">If you are interested in renting a plot please complete the following form and we will be in touch as soon as we can.</p>

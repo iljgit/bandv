@@ -57,8 +57,8 @@
                             <div class="card">
                                 <div class="card-header img" style="background-image: url(assets/img/index/header3.jpg);"><h3>Applying for a plot</h3></div>
                                 <div class="card-body">
-                                    New allotment holders are allocated a half plot in the first instance.  There is currently a waiting list at both sites. 
-                                    You are welcome to contact us to be put on the list.
+                                    There is currently a waiting list at both sites. 
+                                    Anybody who is over 18 and lives in the CB1 area is welcome to apply.
                                 </div>
                                 <div class="card-footer"><a title="Click to apply for a plot" class="btn btn-success stretched-link" href="contact.php">Apply...</a></div>
                             </div>
