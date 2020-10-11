@@ -397,6 +397,18 @@ $blogs[] = (object) [
     "active" => "true"
 ];
 
+$blogs[] = (object) [
+    "title" => "Burnside Tea Room",
+    "subtitle" => "Subtitle",
+    "image" => "/assets/img/blog/tea-room/picture2.jpg",
+    "author" => "Andy K, Burnside",
+    "date" => "11 Oct 2020",
+    "excerpt" => "Creating a communal tea-room from the ground up",
+    "category" => "Experience",
+    "link" => "/blog/tea-room.php",
+    "active" => "true"
+];
+
 $wn = [];
 
 $wn[] = (object) [
@@ -507,6 +519,12 @@ $wn[] = (object) [
 $wn[] = (object) [
     "date" => "21 Sep 2020",
     "text" => "The Society Store is now closed for 2020.  It will re-open in Spring 2021."
+];
+
+$wn[] = (object) [
+    "date" => "11 Oct 2020",
+    "text" => "Andy K's vision for a new communal facility at Burnside",
+    "link" => "<a href='/blog/tea-room.php' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];

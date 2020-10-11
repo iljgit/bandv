@@ -679,3 +679,19 @@ button[aria-expanded="true"] i.fas.fa-angle-down {
 .sold td:first-child {
     text-decoration: line-through;
 }
+
+.imgw-50,
+.imgw-45 {
+    width: 100%;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .imgw-50 {
+        width: 50%;
+    }
+
+    .imgw-45 {
+        width: 45%;
+    }
+}
