@@ -21,14 +21,11 @@
                     <div id="covidinfo" class="collapse">
                         <ul class="ul-separated">
                             <li>
-                            <b>Government advice</b>: You can work your plot, provided you follow all 
-                            advice about social distancing and hygiene.  The Government has now removed the limit on time outside your home.
+                            You can work your plot, provided you follow all official advice about social distancing and hygiene.
                             </li>
                             <li>Social distancing means keeping an <b>absolute minimum</b> of 1 metre apart and preferably 2.</li>
                             <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> 
                             stay away from the site.</li>
-                            <li>The Store is stocked and is open now for online orders only. Sales can be arranged for Burnside and Vinery tenants. 
-                                Click <a href="#store" title="Click to see store details">here</a> for more details.</li>
                             <li>The toilets at Vinery and Burnside remain closed until further notice.</li>
                             <li>The Vinery Pavilion is open again - please ensure you maintain social distancing and hygiene measures.
                                 <i style="font-size: smaller">Updated 19 Sep 2020</i></li>
