@@ -57,8 +57,7 @@
                             <div class="card">
                                 <div class="card-header img" style="background-image: url(assets/img/index/header3.jpg);"><h3>Applying for a plot</h3></div>
                                 <div class="card-body">
-                                    There is currently a waiting list at both sites. 
-                                    Anybody who is over 18 and lives in the CB1 area is welcome to apply.
+                                    Anybody who is over 18 and lives in the CB1 area is welcome to apply. However, the waiting lists at both sites are very long and new applicants are unlikely to be offered a plot within the next 12 months.
                                 </div>
                                 <div class="card-footer"><a title="Click to apply for a plot" class="btn btn-success stretched-link" href="contact.php">Apply...</a></div>
                             </div>

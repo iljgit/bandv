@@ -401,7 +401,7 @@ $blogs[] = (object) [
     "title" => "Burnside Tea Room",
     "subtitle" => "Subtitle",
     "image" => "/assets/img/blog/tea-room/picture2.jpg",
-    "author" => "Andy K, Burnside",
+    "author" => "Andy, Burnside",
     "date" => "11 Oct 2020",
     "excerpt" => "Creating a communal tea-room from the ground up",
     "category" => "Experience",
@@ -523,7 +523,7 @@ $wn[] = (object) [
 
 $wn[] = (object) [
     "date" => "11 Oct 2020",
-    "text" => "Andy K's vision for a new communal facility at Burnside",
+    "text" => "Andy's vision for a new communal facility at Burnside",
     "link" => "<a href='/blog/tea-room.php' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 

@@ -8,14 +8,14 @@
 
         <!-- Banner image -->
         <div class="container-fluid parallax banner" style="background-image: url(/assets/img/blog/tea-room/picture1.jpg);">
-            <h1 id="title"><span class="title-background">Creating a communal tea-room at Burnside</span><br><br><span class="byline">Andy K - Burnside</span></h1>
+            <h1 id="title"><span class="title-background">Creating a communal tea-room at Burnside</span><br><br><span class="byline">Andy - Burnside</span></h1>
         </div>
 
         <div class="container" id="pagebody">
                                 
             <div class="row mb" id="home">
                 <div class="col-12 mb-3 text-center">
-                    <h3>Andy K's vision for a new communal facility at Burnside</h3>
+                    <h3>Andy's vision for a new communal facility at Burnside</h3>
                 </div>
                 <div class="col-12">
 <h4>History</h4>
