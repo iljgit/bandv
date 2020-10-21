@@ -527,6 +527,12 @@ $wn[] = (object) [
     "link" => "<a href='/blog/tea-room.php' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "21 Oct 2020",
+    "text" => "Penny has updated the list of trees in the Burnside orchard",
+    "link" => "<a href='/assets/docs/orchard-list-oct-2020.pdf' target='_blank' title='Click for more info'><button class='btn btn-success'>View</button></a>"
+];
+
 $gallery = (object)[];
 
 /*

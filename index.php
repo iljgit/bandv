@@ -114,7 +114,7 @@ all Society members.
 Click <a title="Click to view the store details" href="weeders-digest.php#store">here</a> for store details.</p>
 
 <p>A communal orchard was planted near the Burnside entrance in 2015: members will be welcome to pick fruit from this once it is established. 
-Click <a href="/assets/docs/orchardlistnov2018.pdf" target="orchard">here</a> for a list of the trees.</p>
+Click <a href="/assets/docs/orchard-list-oct-2020.pdf" target="orchard">here</a> for a list of the trees.</p>
 
 <p>A ‘Burn Bin’ facility is available for the disposal of non-compostable green waste. Burn days take place when the weather and the wind conditions are suitable. 
 Click <a title="Click to see the Burnside burn bin regulations" target="burnbin" href="assets/docs/BurnBin.pdf">here</a> for the regulations for its use.
