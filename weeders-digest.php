@@ -175,8 +175,8 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
-                            <p><i><?php echo(getDaysSince('2020-03-23'));?> since lockdown started.</i></p>
-                            <p><i><?php echo(getDaysToGo('2020-10-25'));?> until British Summer Time ends.</i></p>
+                            <p><i><?php echo(getDaysSince('2020-03-23'));?> since lockdown first started.</i></p>
+                            <p><i><?php echo(getDaysToGo('2021-03-28'));?> until British Summer Time starts.</i></p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

@@ -64,7 +64,15 @@
                                 
             <div class="row mb" id="home">
 
-            <div class="col-xs-12 col-md-8">
+              <div class="col-xs-12 col-md-8">
+                <h4>Renting a plot</h4>
+                <p>
+                    Owing to the unprecedented demand for plots since the start of the pandemic, our waiting list has become extremely long. 
+                    The list is currently closed to new applicants until January 2022.
+                </p>
+              </div>
+
+            <!--div class="col-xs-12 col-md-8">
 	 			<h4>Contact us if you would like to know more about renting</h4>
 	 			<div class="hline"></div>
          <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; padding: 10px; background: rgba(0, 0, 255, 0.1); padding:10px;">
@@ -121,7 +129,7 @@
 					  <h4 id="message"></h4>
 					  <br>
 					</span>
-			</div><! --/col-lg-8 -->
+			</div--><!--/col-lg-8 -->
 	 		
 	 		<div class="col-xs-12 col-md-4">
 		 		<h4>Our registered address</h4>

@@ -56,10 +56,18 @@
                         <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch">
                             <div class="card">
                                 <div class="card-header img" style="background-image: url(assets/img/index/header3.jpg);"><h3>Applying for a plot</h3></div>
-                                <div class="card-body">
+                                <!--div class="card-body">
                                     Anybody who is over 18 and lives in the CB1 area is welcome to apply. However, the waiting lists at both sites are very long and new applicants are unlikely to be offered a plot within the next 12 months.
+                                </div-->
+                                <div class="card-body">
+                                    <p>
+                                        Owing to the unprecedented demand for plots since the start of the pandemic, our waiting list has become extremely long. 
+                                        The list is currently closed to new applicants until January 2022.
+                                    </p>
                                 </div>
-                                <div class="card-footer"><a title="Click to apply for a plot" class="btn btn-success stretched-link" href="contact.php">Apply...</a></div>
+                                <div class="card-footer">
+                                    <span class="btn btn-success" style="border: none; background: transparent;">&nbsp;</span><!--a title="Click to apply for a plot" class="btn btn-success stretched-link" href="contact.php">Apply...</a-->
+                                </div>
                             </div>
                         </div>
 

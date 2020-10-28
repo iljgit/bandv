@@ -212,18 +212,14 @@
                 
             </div>
             <div class="row mb" style="margin-bottom: 10px;">
-                <div class="col-xs-12 col-md-6">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Webmaster</h4><i>Joan Bullock-Anderson - Burnside</i><br></p>
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Suzy Ashworth - Vinery</i></p>
                     <blockquote class="blockquote">
-                    <img title="Joan - webmaster" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/joan.jpg"/> 
-                    I have had a half plot at Burnside since 2012. I still feel like a bit of a novice but I usually have the satisfaction of a glut 
-                    from at least one crop per season. Anyone who wants to grow Jerusalem artichokes, please just ask!<br><br>
-                    I joined the Committee in 2016 and currently have responsibility for maintenance of the website.
+                    <img  class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/suzy-ashworth.jpeg"/>
+                    I joined the committee in 2019. 
+                    I am one of those unusual people who loves globe artichokes! 
+                    I also like growing flowers and unusual vegetables - anything that’s pretty or tasty, and preferably both.
                     </blockquote>
-                    <p class="large-text text-center">
-                        <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;webmaster</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
-                    </p>
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
@@ -257,19 +253,23 @@
                 </div>
 
             </div>
-            <div class="row mb">                        
+            <!--div class="row mb">                        
 
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Suzy Ashworth - Vinery</i></p>
+                <div class="col-xs-12 col-md-6">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Webmaster</h4><i>Joan Bullock-Anderson - Burnside</i><br></p>
                     <blockquote class="blockquote">
-                    <img  class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/suzy-ashworth.jpeg"/>
-                    I joined the committee in 2019. 
-                    I am one of those unusual people who loves globe artichokes! 
-                    I also like growing flowers and unusual vegetables - anything that’s pretty or tasty, and preferably both.
+                    <img title="Joan - webmaster" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/joan.jpg"/> 
+                    I have had a half plot at Burnside since 2012. I still feel like a bit of a novice but I usually have the satisfaction of a glut 
+                    from at least one crop per season. Anyone who wants to grow Jerusalem artichokes, please just ask!<br><br>
+                    I joined the Committee in 2016 and currently have responsibility for maintenance of the website.
                     </blockquote>
+                    <p class="large-text text-center">
+                        <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;webmaster</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
+                    </p>
                 </div>
 
-            </div>
+            </div-->
 
         </div>
 
