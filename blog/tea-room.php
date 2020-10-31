@@ -46,15 +46,19 @@ The groundwork has progressed well as follows:
 <li>The slab base for the building is done</li>
 <li>With help from volunteers a trench from the building base to the nearest water trough was dug. A water pipe was laid and connected, and the trench was backfilled</li>
 <li>The planned grass area has been cleared of weeds, rotovated, trodden and raked level and grass seeded</li>
-<li>The slabs for the hard area are gradually going down</li>
+<li>By the end of October, the whole of the slabbed area had been completed</li>
+<li>Even though much of October was horribly wet, the grass seed had taken and greened up beautifully</li>
 </ul>
             </div>
             <div class="col-12">
 <h5>The building:</h5>
             </div>
-            <div class="col-12">
-<img class="img img-thumbnail pull-left imgw-45" alt="Burnside tea-room preparation part 2" src="/assets/img/blog/tea-room/picture4.jpg" />
-<img class="img img-thumbnail pull-right imgw-45" alt="Burnside tea-room preparation part 3" src="/assets/img/blog/tea-room/picture5.jpg" />
+            <div class="col-12 d-flex justify-content-around mb-2">
+                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room preparation part 2" src="/assets/img/blog/tea-room/picture4.jpg" />
+                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room preparation part 3" src="/assets/img/blog/tea-room/picture5.jpg" />
+            </div>
+            <div class="col-12 d-flex justify-content-around mb-3">
+                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room preparation part 4" src="/assets/img/blog/tea-room/picture6.jpg" />
             </div>
             <div class="col-12">
 <ul>
