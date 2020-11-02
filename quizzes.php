@@ -29,7 +29,7 @@
 
             <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 
-            <!--div class="row mb  justify-content-md-center">
+            <div class="row mb  justify-content-md-center">
                 <div class="col-12">
                     <h2 class="text-center">Current</h2>
                 </div>
@@ -38,19 +38,21 @@
             <div class="row mb justify-content-md-center">
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/cambridgeposter.jpg)'>Cambridge</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/celebreity-header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">Celebrities</div>
+                        </div>
                         <div class="card-body">
-                            <p>How well do you know Cambridge?</p>
+                            <p>Well known people like you have never seen them before!</p>
                             <p>&nbsp;</p>
-                            <p>Closing date 19<sup>th</sup> July 2020</p>
+                            <p>Closing date 21<sup>st</sup> November 2020</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz10.php" title="Quiz #10" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz11.php" title="Quiz #10" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
             </div>
 
-            <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div-->
+            <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 
             <div class="row mb">
                 <div class="col-12">
