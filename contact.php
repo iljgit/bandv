@@ -139,7 +139,7 @@
 92 Coleridge Road<br>Cambridge<br>CB1 3PJ<br><br>
 Email: 
 <a id="webmasteremail" href="mailto:webmaster@burnsideandvineryallotments.org" title="Mail the webmaster at mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
-<i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
+<i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
 	 		</div>
 	 	</div><! --/row -->
 	 </div><! --/container -->

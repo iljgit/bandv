@@ -57,39 +57,36 @@
                     <p>
                         For Vinery-specific enquiries, please email 
                         <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
                     </p>
 
                     <p>
                         For Burnside-specific enquiries, please email 
                         <a id="viceemail" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
                     </p>
                 </div>
 
-                <?php echo(getWhatsNew()); ?>
-
-                <div class="col-12" style="border: 2px solid green; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
+                <div class="col-12 mb-5 mt-2" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
                     <h2>Welcome to your Society site!</h2>
+                    <p>For many years, <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
+                    which usually included growing tips, general allotment news and recipes.  Here is our equivalent.</p>
+                    <p>
+                    This page is an at-a-glance view of what is new, what is happening and, hopefully, what is interesting in the worlds of allotmenteering and of the Society.
+                    If there is anything you think we should be talking about, or anything you would like to contribute, let us know.
+                    </p>
                     <p>Follow the links on this page to keep up to date with what is going, look at our photo albums, get growing and cooking ideas, check out the store,
                     and much more.</p>
                     <p>Let us know what you think about the site and any suggestions you have about content.  Better still, send us an article or 
                     some photos.
                     </p>
                     <p>Email me, Joan, at <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
-                    <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
+                    <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
                     </p>
                 </div>
 
-                <div class="col-12">
-                    <p>For many years, <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
-                    which usually included growing tips, general allotment news and recipes.  Here is our equivalent.</p>
-                    <p>
-                    This page is an at-a-glance view of what is new, what is happening and, hopefully, what is interesting in the world of allotmenteering and of the Society.
-                    If there is anything you think we should be talking about, or anything you would like to contribute, let us know.
-                    </p>
-                </div>
+                <?php echo(getWhatsNew()); ?>
 
                 <div  id="food-hubs" class='col-12 col-md-4'><hr></div>
 
@@ -98,9 +95,7 @@
             <div class="row mb mt-5" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
 
                 <div class="col-12">
-                    <h2 style="color: darkred;">Too many tomatoes?</h2>
-                    <h2 style="color: #000080;">A profusion of peas?</h2>
-                    <h2 style="color: orange;">A surplus of shallots?</p>
+                    <h2 style="color: darkred;">Do you have any unwanted produce?</h2>
                 </div>
 
                 <div class="col-12">
@@ -240,7 +235,7 @@
                 <div class="col-12">
                     <p>If you have any dates you would like us to put in the diary, email the 
                     <a id="webmasteremail2" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
-                    <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail2');"></i>
+                    <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail2');"></i>
                     </p>
                 </div>
 
@@ -282,7 +277,7 @@
                     <p>
                     If you have a favourite site which you think would interest others, please email 
                     <a id="webmasteremail3" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
-                    <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail3');"></i>
+                    <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail3');"></i>
                     <br><hr>
                     </p>
                 </div>
@@ -377,7 +372,7 @@
                     <p>This is the place for all your allotment-related needs and offers. These can be anything from help, to equipment, to sheds and greenhouses, through to plants and produce.</p>
                     <p>Email the 
                         <a id="webmasteremail4" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'webmasteremail4');"></i> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail4');"></i> 
                         to post a notice, 
                     including what it is you are offering or want, a price, if appropriate, and how you may be contacted.  Attach a photo if you would like that to be shown.</p>
                 </div>
@@ -473,7 +468,7 @@
                     <p>
                         For more information email the
                         <a id="storeemail" title="store@burnsideandvineryallotments.org" href="mailto:store@burnsideandvineryallotments.org"></span>store manager</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-clipboard" style="cursor: pointer; color: grey;" onclick="BandV.copyAddressToCB(this, 'storeemail');"></i>
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'storeemail');"></i>
                     </p-->
                 </div>
             </div>

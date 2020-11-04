@@ -138,12 +138,10 @@ let BandV = {
 		document.execCommand("copy");
 		document.body.removeChild(dummy);
 
-		btn.style.color = 'red';
-		$(btn).addClass('fa-spin');
+		$(btn).addClass('animate');
 
 		setTimeout(() => {
-			btn.style.color = 'grey';
-			$(btn).removeClass('fa-spin');
+			$(btn).removeClass('animate');
 		}, 750);
 
 	}

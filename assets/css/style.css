@@ -680,6 +680,20 @@ button[aria-expanded="true"] i.fas.fa-angle-down {
     text-decoration: line-through;
 }
 
+i.fas.fa-copy {
+    cursor: pointer;
+    color: #a0a0a0;
+    transition: color 0.75s, transform 0.75s;
+    padding-left: 10px;
+    transform: scale(0.9,0.9);
+}
+
+i.fas.fa-copy.animate {
+    cursor: pointer;
+    color: #00ff00;
+    transform: scale(1.5,1.5);
+}
+
 .imgw-50,
 .imgw-45 {
     width: 100%;
