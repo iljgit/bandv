@@ -203,8 +203,7 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/store.jpg)'>Store</div>
                         <div class="card-body">
-                            <p>The Society runs a Store, open now to early summer, selling allotment essentials at low prices.</p>
-                            <p>This year, while coronavirus is a threat, only online orders will be taken.</p>
+                            <p>The Society usually runs a Store in the summer months, selling allotment essentials at low prices.</p>
                         </div> 
                         <div class="card-footer"><a href="#store" title="Read about the Store" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -450,7 +449,7 @@
             <div class="row mb">
                 <div class="col-12">
                     <p>The Store is located at the Burnside entrance to the Burnside site. It was revamped in 2017.</p>
-                    <p>The Store is now closed for 2020.  It will re-open in Spring 2021.
+                    <p>The Store is now closed for 2020.
                     </p>
                     <!--h4>How to buy your allotment goods</h4>
                     <p>
