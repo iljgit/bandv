@@ -27,7 +27,7 @@ Thoughts of using the Burn Bin heat to cook some food, and the need for a replac
 However, on too many occasions the weather had deteriorated during the day resulting in eating huddled, under tarpaulins, or having to decamp to the Store. Also, making hot drinks during the burn session, and after, was never easy, and the space around the Burn Bin has proved to be too small.
 </p>
             </div>
-            <div class="col-12">
+            <div class="col-12 mb-3">
 <h4>Plan</h4>
 <p>
 <img class="img img-thumbnail pull-left imgw-50" alt="Burnside tea room plan" src="/assets/img/blog/tea-room/picture2.jpg" />
@@ -35,7 +35,7 @@ A larger green space. A building of some kind, to contain a stove and sink with 
 At the end of 2019 the half plot opposite the picnic area, which had regularly been part “borrowed” for these events, was acquired and re-designated as communal space. 
 </p>
             </div>
-            <div class="col-12">
+            <div class="col-12 mb-3">
 <h4>Construction</h4>
 <p>
 <img class="img img-thumbnail pull-right imgw-50" alt="Burnside tea-room preparation" src="/assets/img/blog/tea-room/picture3.jpg" />
@@ -50,8 +50,29 @@ The groundwork has progressed well as follows:
 <li>Even though much of October was horribly wet, the grass seed had taken and greened up beautifully</li>
 </ul>
             </div>
-            <div class="col-12">
-<h5>The building:</h5>
+            <div class="col-12 mb-1">
+<h4>Soakaway</h4>
+            </div>
+            <div class="col-12 d-flex justify-content-around mb-2">
+                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakaway part 1" src="/assets/img/blog/tea-room/picture7.jpg" />
+                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakawy part 2" src="/assets/img/blog/tea-room/picture8.jpg" />
+            </div>
+            <div class="col-12 d-flex justify-content-around mb-3">
+                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakawy part 3" src="/assets/img/blog/tea-room/picture9.jpg" />
+                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakawy part 4" src="/assets/img/blog/tea-room/picture10.jpg" />
+            </div>
+            <div class="col-12 mb-3">
+The soakaway is required to take water from the Tearoom sink, plus the overflow from the rainwater butt.
+<ul>
+<li>A large deep hole was dug several metres away, and the sides were lined with spaced scrap bricks.</li>
+<li>With needed help from a willing volunteer, a 2ft x 3ft council style paving slab (one with a corner missing, so no good for the paved area), was then lowered by rope to lay it on top.</li>
+<li>The waste pipe went into the trench which had been dug between the soakaway and the tearoom.</li>
+<li>The whole thing was then backfilled.</li>
+</ul>
+A lot of essential hard work, but it’s now almost invisible.  
+            </div>
+            <div class="col-12 mb-3">
+<h4>The building</h4>
             </div>
             <div class="col-12 d-flex justify-content-around mb-2">
                 <img class="img img-thumbnail imgw-45" alt="Burnside tea-room preparation part 2" src="/assets/img/blog/tea-room/picture4.jpg" />
@@ -79,10 +100,11 @@ A building which had seen better days, but which could be re-worked to form the 
 </ul>
             </div>
             <div class="col-12">
-<h5>Covered area:</h5>
+<h4>Covered area</h4>
 <ul>
 <li>The front portico cover will be made from a large old greenhouse acquired a few years ago</li>
 <li>The rear will be of corrugated tin and corrugated clear plastic, all of which has been recovered from other dismantled buildings on the Burnside site</li>
+<li>Once all the slabbing had been completed it was clear that a single blue bin, the type often used for water butts on the Burnside site, would not cope with the amount of water that would be gathered from the total covered area. Two linked bins are now planned. They have been acquired and are being prepared.</li>
 </ul>
             </div>
             <div class="col-12 mt-4">
