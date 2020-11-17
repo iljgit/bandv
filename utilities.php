@@ -539,6 +539,13 @@ $wn[] = (object) [
     "link" => "<a href='/quiz11.php' title='Click for the quiz'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "17 Nov 2020",
+    "text" => "
+    Mains water on Burnside has been turned off for winter. Now is a good time to set up a rainwater recovery system, as per John McGill’s advice.",
+    "link" => "<a href='/blog/water-use.php' title='Click for the advice'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
