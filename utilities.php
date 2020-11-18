@@ -522,8 +522,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "13 Nov 2020",
-    "text" => "Andy's vision for a new communal facility at Burnside - latest news",
+    "date" => "18 Nov 2020",
+    "text" => "Andy's vision for a new communal facility at Burnside - updated 18 Nov<br>All the groundworks are now complete!",
     "link" => "<a href='/blog/tea-room.php' title='Click for more info'><button class='btn btn-success'>More...</button></a>"
 ];
 

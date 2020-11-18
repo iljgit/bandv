@@ -51,17 +51,28 @@ The groundwork has progressed well as follows:
 </ul>
             </div>
             <div class="col-12 mb-1">
-<h4>Soakaway</h4>
+                <h4>Soakaway</h4>
             </div>
-            <div class="col-12 d-flex justify-content-around mb-2">
-                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakaway part 1" src="/assets/img/blog/tea-room/picture7.jpg" />
-                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakawy part 2" src="/assets/img/blog/tea-room/picture8.jpg" />
+            <div class="col-12 col-md-4 mb-1">
+                <div class="row">
+                    <div class="col-12">
+                        <img class="img img-thumbnail img-fluid" alt="Burnside tea-room soakaway part 1" src="/assets/img/blog/tea-room/picture7.jpg" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <img class="img img-thumbnail img-fluid" alt="Burnside tea-room soakawy part 2" src="/assets/img/blog/tea-room/picture8.jpg" />
+                    </div>
+                </div>
             </div>
-            <div class="col-12 d-flex justify-content-around mb-3">
-                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakawy part 3" src="/assets/img/blog/tea-room/picture9.jpg" />
-                <img class="img img-thumbnail imgw-45" alt="Burnside tea-room soakawy part 4" src="/assets/img/blog/tea-room/picture10.jpg" />
+            <div class="col-12 col-md-4 d-flex justify-content-around mb-1">
+                <img class="img img-thumbnail img-fluid" alt="Burnside tea-room soakawy part 3" src="/assets/img/blog/tea-room/picture9.jpg" />
             </div>
-            <div class="col-12 mb-3">
+            <div class="col-12 col-md-4 d-flex justify-content-around mb-1">
+                <img class="img img-thumbnail img-fluid" alt="Burnside tea-room soakawy part 4" src="/assets/img/blog/tea-room/picture10.jpg" />
+            </div>
+
+            <div class="col-12 mt-2 mb-3">
 The soakaway is required to take water from the Tearoom sink, plus the overflow from the rainwater butt.
 <ul>
 <li>A large deep hole was dug several metres away, and the sides were lined with spaced scrap bricks.</li>
@@ -99,23 +110,29 @@ A building which had seen better days, but which could be re-worked to form the 
 </li>
 </ul>
             </div>
-            <div class="col-12">
+            <div class="col-12 mt-3">
 <h4>Covered area</h4>
 <ul>
 <li>The front portico cover will be made from a large old greenhouse acquired a few years ago</li>
 <li>The rear will be of corrugated tin and corrugated clear plastic, all of which has been recovered from other dismantled buildings on the Burnside site</li>
 <li>Once all the slabbing had been completed it was clear that a single blue bin, the type often used for water butts on the Burnside site, would not cope with the amount of water that would be gathered from the total covered area. Two linked bins are now planned. They have been acquired and are being prepared.</li>
+<li>6 extra slabs were laid to take the water butts, and the whole area was levelled off and tidied</li>
 </ul>
             </div>
-            <div class="col-12 mt-4">
-<p>
-Look back here from time to time to see what progress has been made.
-</p>
 
-
-                    
-                </div>
+            <div class="col-12 d-flex justify-content-around mb-3">
+                <img class="img img-thumbnail w-50" alt="Covered area part 1" src="/assets/img/blog/tea-room/picture11.jpg" />
             </div>
+
+            <div class="col-12 mt-4">
+                <p>
+                    <hr class="mt-3 mb-2 w-75 text-center"/>
+                </p>
+            </div>
+            <div class="col-12 mt-3 text-center">
+                    <h5 class="">Look back here from time to time to see what progress has been made.</h5>                    
+            </div>
+        </div>
 
         
             
