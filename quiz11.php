@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -91,7 +91,7 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 21<sup>st</sup> November.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">Well done to the <b>Top Bottoms</b> - this week's winners.  And an honourable mention to Ingrid who was sooooo close.</p>
                 </div>
             </div>
 
@@ -104,7 +104,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Answer 1</p>
+                    <p class="answer">Keir Starmer and Boris Johnson</p>
                 </div>
             </div>
 
@@ -117,7 +117,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Answer 2</p>
+                    <p class="answer">Michelle Obama and Oprah Winfrey</p>
                 </div>
             </div>
 
@@ -130,7 +130,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Answer 3</p>
+                    <p class="answer">Simon Cowell and Amanda Holden</p>
                 </div>
             </div>
 
@@ -143,7 +143,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Answer 4</p>
+                    <p class="answer">Will Smith and Morgan Freeman</p>
                 </div>
             </div>
 
@@ -156,7 +156,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Answer 5</p>
+                    <p class="answer">Dwayne "the Rock" Johnson and Arnie Schwarzenegger</p>
                 </div>
             </div>
 
@@ -169,7 +169,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Answer 6</p>
+                    <p class="answer">Paul Hollywood and Prue Leith</p>
                 </div>
             </div>
 
@@ -182,7 +182,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Answer 7</p>
+                    <p class="answer">Monty Don and Carol Klein</p>
                 </div>
             </div>
 
@@ -195,7 +195,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Answer 8</p>
+                    <p class="answer">Robbie Williams and Gary Barlow</p>
                 </div>
             </div>
 
@@ -208,7 +208,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Answer 9</p>
+                    <p class="answer">Queen Elizabeth II and Freddie Mercury</p>
                 </div>
             </div>
 
@@ -221,7 +221,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Answer 10</p>
+                    <p class="answer">Serena Williams and Andy Murray</p>
                 </div>
             </div>
 

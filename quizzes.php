@@ -36,18 +36,8 @@
             </div>
 
             <div class="row mb justify-content-md-center">
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/celebreity-header.jpg)'>
-                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">Celebrities</div>
-                        </div>
-                        <div class="card-body">
-                            <p>Well known people like you have never seen them before!</p>
-                            <p>&nbsp;</p>
-                            <p>Closing date 21<sup>st</sup> November 2020</p>
-                        </div> 
-                        <div class="card-footer"><a href="quiz11.php" title="Quiz #10" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
+                <div class="col-12 text-center">
+                    There will be more quizzes before Christmas - keep checking back here.
                 </div>
 
             </div>
@@ -62,6 +52,22 @@
             </div>
 
             <div class="row mb justify-content-md-center">
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/celebreity-header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Celebrities<br>Closing date 23<sup>rd</sup> November 2020
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>Well known people like you have never seen them before!</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to the Top Bottoms who got 100%</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz11.php" title="Quiz #10" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
