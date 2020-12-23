@@ -37,8 +37,23 @@
 
             <div class="row mb justify-content-md-center">
                 <div class="col-12 text-center">
-                    There will be more quizzes before Christmas - keep checking back here.
+                    There will be more quizzes soon - keep checking back here.
                 </div>
+
+                <!--div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/intros-poster.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Musical Intros
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>Easy musical intros to get your quizing juices flowing</p>
+                            <p>Closing date is 20<sup>th</sup> December</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz12.php" title="Quiz #12" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div-->
 
             </div>
 
@@ -55,6 +70,22 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/intros-poster.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Musical Intros<br/>Closing date 20<sup>th</sup> December
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>Easy musical intros to get your quizing juices flowing</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to the Top Bottoms - winners once again!</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz12.php" title="Quiz #12" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/celebreity-header.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
                                 Celebrities<br>Closing date 23<sup>rd</sup> November 2020
@@ -65,7 +96,7 @@
                             <p>&nbsp;</p>
                             <p>Well done to the Top Bottoms who got 100%</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz11.php" title="Quiz #10" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz11.php" title="Quiz #11" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
