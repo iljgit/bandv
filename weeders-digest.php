@@ -16,10 +16,10 @@
             <div class="row mb mt-5 justify-content-md-center" id="home">
 
                 <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated for Vinery 19<sup>th</sup> September 2020 11:00am</i></h2>
+                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 12<sup>th</sup> January 2021</i></h2>
                     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#covidinfo" aria-expanded="false">Details <i class="fas fa-angle-down"></i><i class="fas fa-angle-up"></i></button><br><br>
                     <div id="covidinfo" class="collapse">
-                        <ul class="ul-separated">
+                        <!-- <ul class="ul-separated">
                             <li>
                             You can work your plot, provided you follow all official advice about social distancing and hygiene.
                             </li>
@@ -39,7 +39,15 @@
                             <li><b>Do not</b> share tools or use communal equipment</li>
                             <li><b>Do not</b> wash your hands, tools or crops in water troughs</li>
                             <li><b>PLEASE</b> check this website regularly for new information and updates.</li>
-                        </ul>
+                        </ul> -->
+                        <p>
+                            During the current lockdown it is still okay to work your plot, provided you continue to social distance and take hygiene precautions when 
+                            visiting the site and touching communal surfaces (gates etc). You can work your plot with your household or support bubble but should limit 
+                            it to once per day. 
+                        </p>
+                        <p>
+                            NSALG emphasise that there are still risks even though it may feel safe on an allotment site.
+                        </p>
                     </div>
 
                     <h4><br>External links</h4>

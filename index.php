@@ -15,7 +15,7 @@
                                 
                     <div class="row mb" id="home">
                         <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                            <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated for Vinery 19<sup>th</sup> September 2020 11:00am</i></h2>
+                            <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 12<sup>th</sup> January 2021 </i></h2>
                             <p>
                                 Click <a href="weeders-digest.php" title="Coronavirus information">here</a> for our latest information, including NHS and NSALG advice.
                             </p>
