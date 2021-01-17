@@ -212,15 +212,6 @@
                 
             </div>
             <div class="row mb" style="margin-bottom: 10px;">
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Suzy Ashworth - Vinery</i></p>
-                    <blockquote class="blockquote">
-                    <img  class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/suzy-ashworth.jpeg"/>
-                    I joined the committee in 2019. 
-                    I am one of those unusual people who loves globe artichokes! 
-                    I also like growing flowers and unusual vegetables - anything that’s pretty or tasty, and preferably both.
-                    </blockquote>
-                </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Alex Considine Tong - Vinery</i></p>
@@ -231,11 +222,7 @@
                     and I love nothing more than pottering around the plot, looking for jobs to do and just enjoying being outside. 
                     </blockquote>
                 </div>
-                               
-            </div>
-            
-            <div class="row mb" style="margin-bottom: 10px;">
-                
+
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Maxim Scheremetjew - Burnside</i></p>
                     <blockquote class="blockquote">
@@ -243,6 +230,10 @@
                     I got a half plot for my partner's birthday in 2015 at Burnside, because we both love gardening and we got sick of starting from scratch every time we had to move house. Since then we've loved spending time outside on the plot, showing our two young kids how to grow different sorts of veggies. I joined the committee in 2017 to share my views on all the different topics with a key focus on the website.
                     </blockquote>
                 </div>
+                               
+            </div>
+            
+            <div class="row mb" style="margin-bottom: 10px;">
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>John McGill - Burnside</i></p>
