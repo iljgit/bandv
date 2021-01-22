@@ -94,6 +94,23 @@
                 </div>
 
                 <div class="col-12">
+                    <p>Current Tenancy Agreements
+                    </p>
+                    <p>
+                                <a href="assets/docs/Burnside and Vinery Road Tenants V2 - Burnside.pdf" target="doc" title="Click for the Burnside Tenancy Agreement">
+                                <button class="btn btn-xs btn-primary" style="width:90px">
+                                    Burnside
+                                </button></a>
+                                &nbsp;&nbsp;&nbsp;
+                                <a href="assets/docs/Burnside and Vinery Road Tenants V2 - Vinery.pdf" target="doc" title="Click for the Vinery Tenancy Agreement">
+                                <button class="btn btn-xs btn-primary" style="width:90px">
+                                    Vinery
+                                </button></a>
+                    </p>
+                    <hr>
+                </div>
+
+                <div class="col-12">
                     <p>Constitution of the Burnside and Vinery Road Allotment Society
                     </p>
                     <p>
