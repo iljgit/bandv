@@ -54,114 +54,130 @@
 
         <div class="container">
             <div class="row mb">
-                <div class="col-12">
-                    <p>
-                    Periodically, we like to keep the City Council up-to-date with what has been happening on our two sites.  
-                                The following link will take you to the summary of a document which Penny sent in 2019 detailing 
-                                the major highlights of the last ten years.
-                    </p>
-                    <p>
-                        <a href="assets/docs/council-2019.pdf" target="doc" title="Click for the summary Penny sent to the Council in 2019">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    PDF
-                                </button></a>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>City Council Update</div>
+                        <div class="card-body simple">
+                            <p>Periodically, we keep the City Council up-to-date with what has been happening on our two sites.</p>
+                            <p>Penny sent an update in 2019 detailing the major highlights of the previous ten years.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for 2019 update" href="assets/docs/council-2019.pdf" target="_blank" class='btn btn-primary'>Update...</a>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-12">
-                    <p><span id="gdpr">GDPR (General Data Protection Regulation)</span>
-                    </p>
-                    <p>
-                                <a href="assets/docs/Burnside and Vinery Allotments GDPR.pdf" target="doc" title="Click for our GDPR info">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    PDF
-                                </button></a>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Society Rules and Regulations</div>
+                        <div class="card-body simple">
+                            <p>Please ensure that you make sure you are up to date with the small number of rules.</p>
+                            <p>Updated 6<sup>th</sup> April 2020</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for 2020 update" href="assets/docs/Allotment Rules April 2020.pdf" target="_blank" class='btn btn-primary'>Rules...</a>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-12">
-                    <p>Society Rules and Regulations - Updated 6<sup>th</sup> April 2020
-                    </p>
-                    <p>
-                                <a href="assets/docs/Allotment Rules April 2020.pdf" target="doc" title="Click for the Society's rules and regulations">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    PDF
-                                </button></a>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>GDPR</div>
+                        <div class="card-body simple">
+                            <p>GDPR (General Data Protection Regulation)</p>
+                            <p>We hold absolutely minimal data tenants.  The GDPR document details our obligations.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for GDPR" href="assets/docs/Burnside and Vinery Allotments GDPR.pdf" target="_blank" class='btn btn-primary'>GDPR...</a>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-12">
-                    <p>Current Tenancy Agreements
-                    </p>
-                    <p>
-                                <a href="assets/docs/Burnside and Vinery Road Tenants V2 - Burnside.pdf" target="doc" title="Click for the Burnside Tenancy Agreement">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    Burnside
-                                </button></a>
-                                &nbsp;&nbsp;&nbsp;
-                                <a href="assets/docs/Burnside and Vinery Road Tenants V2 - Vinery.pdf" target="doc" title="Click for the Vinery Tenancy Agreement">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    Vinery
-                                </button></a>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Current Tenancy Agreements</div>
+                        <div class="card-body simple">
+                            <p>All tenants will have had a copy of the agreement to sign and keep.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for Vinery" href="assets/docs/Burnside and Vinery Road Tenants V2 - Vinery.pdf" target="_blank" class='btn btn-primary'>Vinery...</a>
+                            <a title="Click for Burnside" href="assets/docs/Burnside and Vinery Road Tenants V2 - Burnside.pdf" target="_blank" class='btn btn-primary'>Burnside...</a>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-12">
-                    <p>Constitution of the Burnside and Vinery Road Allotment Society
-                    </p>
-                    <p>
-                                <a href="assets/docs/Constitution_17-03-2020.pdf" target="doc" title="Click for the Society's constitution">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    PDF
-                                </button></a>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Constitution</div>
+                        <div class="card-body simple">
+                            <p>Constitution of the Burnside and Vinery Road Allotment Society.</p>
+                            <p>Last updated 17<sup>th</sup> March 2020.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for latest Society Constitution" href="assets/docs/Constitution_17-03-2020.pdf" target="_blank" class='btn btn-primary'>Constitution...</a>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-12">
-                    <p>Burnside Burn-bin Regulations
-                    </p>
-                    <p>
-                                <a href="assets/docs/BurnBin.pdf" target="doc" title="Click for Burnside's burnbin regulations">
-                                <button class="btn btn-xs btn-primary" style="width:90px">
-                                    PDF
-                                </button></a>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Burnside Burn-bin</div>
+                        <div class="card-body simple">
+                            <p>Burnside Burn-bin Regulations.</p>
+                            <p>Please ensure you know the regulations for everyone's safety and comfort.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for Burnside Burn-bin regulations" href="assets/docs/BurnBin.pdf" target="_blank" class='btn btn-primary'>Regulations...</a>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-12">
-                    <p>AGM Documents
-                    </p>
-                    <p>
-                        <select class="form-control inline" id="agm" style="width: auto; display: inline-block;">
-                            <option value="assets/docs/2020 AGM.pdf" selected>2020</option>
-                            <option value="assets/docs/2019 AGM.pdf">2019</option>
-                            <option value="assets/docs/2018 AGM.pdf">2018</option>
-                            <option value="assets/docs/2017 AGM.pdf">2017</option>
-                            <option value="assets/docs/2016 AGM.pdf">2016</option>
-                        </select>&nbsp;
-                        <button title="Click for a copy of the AGM minutes" class="btn btn-xs btn-primary inline" onclick="BandV.showFromSelect('agm');">PDF</button>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>AGM</div>
+                        <div class="card-body simple">
+                            <p>AGM Minutes since 2016.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <select class="form-control inline" id="agm" style="width: auto; display: inline-block;">
+                                <option value="assets/docs/2020 AGM.pdf" selected>2020</option>
+                                <option value="assets/docs/2019 AGM.pdf">2019</option>
+                                <option value="assets/docs/2018 AGM.pdf">2018</option>
+                                <option value="assets/docs/2017 AGM.pdf">2017</option>
+                                <option value="assets/docs/2016 AGM.pdf">2016</option>
+                            </select>&nbsp;
+                            <button title="Click for a copy of the AGM minutes" class="btn btn-primary inline" onclick="BandV.showFromSelect('agm');">Minutes...</button>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="col-12">
-                    <p>
-                        Society Accounts
-                    </p>
-                    <p>
-                                <select class="form-control inline" id="accounts" style="width: auto; display: inline-block;">
-                                    <option value="assets/docs/Accounts 2018 - 2019.pdf" selected>2018-19</option>
-                                    <option value="assets/docs/accounts2017.pdf">2017-18</option>
-                                </select>&nbsp;
-                                <button title="Click for a copy of the Society's accounts" class="btn btn-xs btn-primary inline" onclick="BandV.showFromSelect('accounts');">PDF</button>
-                    </p>
-                    <hr>
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Accounts</div>
+                        <div class="card-body simple">
+                            <p>The Society publishes its accounts annually.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <select class="form-control inline" id="accounts" style="width: auto; display: inline-block;">
+                                <option value="assets/docs/Accounts 2018 - 2019.pdf" selected>2018-19</option>
+                                <option value="assets/docs/accounts2017.pdf">2017-18</option>
+                            </select>&nbsp;
+                            <button title="Click for a copy of the Society's accounts" class="btn btn-primary inline" onclick="BandV.showFromSelect('accounts');">Accounts...</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Council Lease</div>
+                        <div class="card-body simple">
+                            <p>The City Council periodically updates the lease agreement for the Society.</p>
+                            <p>This was last updated in May 2020.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for current Council lease agreement" href="assets/docs/Lease agreement final VINERY ROAD PERMANENT ALLOTMENT SOCIETY LIMITED.pdf" target="_blank" class='btn btn-primary'>Lease...</a>
+                        </div>
+                    </div>
                 </div>
 
             </div>

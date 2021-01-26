@@ -179,14 +179,40 @@ h3 {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    background-image: url(../img/society/docs2.jpg);
     text-align: center;
     color: white;
     text-shadow: 2px 2px 5px #404040;
     font-size: 32px;
 }
 
+.card-header.simple {
+    height: 110px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+    color: black;
+    /* text-shadow: 2px 2px 5px #808080; */
+    text-shadow: none;
+    font-size: 32px;
+}
+
+.card-footer.simple {
+    text-align: center;
+}
+
+/* .card-footer.simple .btn {
+    background: blue;
+    color: white;
+} */
+
 .card-body p {
     margin-bottom: 0;
+}
+
+.card-body.simple p {
+    margin-bottom: 10px;
 }
 
 .row.albums {

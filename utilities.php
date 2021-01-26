@@ -558,6 +558,18 @@ $wn[] = (object) [
     "link" => "<a href='/society.php#documents' title='Click for the tenancy agreements'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "26 Jan 2021",
+    "text" => "The latest version of the City Council Lease is available",
+    "link" => "<a href='/society.php#documents' title='Click for the lease agreement'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "26 Jan 2021",
+    "text" => "Burnside seed potato orders will be ready for collection from the Burnside Store on Saturday January 30th between 10am and 12 noon. Please follow the instructions in the email sent today.",
+    // "link" => "<a href='/society.php#documents' title='Click for the tenancy agreements'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
