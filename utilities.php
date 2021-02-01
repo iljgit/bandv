@@ -565,9 +565,15 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "26 Jan 2021",
-    "text" => "Burnside seed potato orders will be ready for collection from the Burnside Store on Saturday January 30th between 10am and 12 noon. Please follow the instructions in the email sent today.",
-    // "link" => "<a href='/society.php#documents' title='Click for the tenancy agreements'><button class='btn btn-success'>More...</button></a>"
+    "date" => "01 Feb 2021",
+    "text" => "Cambridge Sustainable Food welcomes your surplus fruit and veg to keep its services running and support those struggling to access food.",
+    "link" => "<a href='#food-hubs' title='Click for details'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "01 Feb 2021",
+    "text" => "For a short time only, Hayley Wood Nature Reserve near Great Gransden is offering a delivery service for pea-sticks and beanpoles (amongst others) from a local, sustainable source.",
+    "link" => "<a href='#beanpoles' title='Click for details'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];

@@ -103,38 +103,70 @@
             <div class="row mb mt-5" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
 
                 <div class="col-12">
-                    <h2 style="color: darkred;">Do you have any unwanted produce?</h2>
+                    <h2>Cambridge Sustainable Food</h2>
+                    <p>
+                        <img src="/assets/img/weeders-digest/cambridge-sustainable-food.jpg" class="img img-thumbnail float-right w-25 ml-2" alt="Cambridge Sustainable Food" />
+                        <blockquote>Cambridge Sustainable Food is an innovative and growing partnership of public, private and community organisations in Cambridge 
+                        and the surrounding villages. We work with each other to promote a vibrant local food system all along the supply chain and in our community.</blockquote>
+                    </p>
+
+                    <p>
+                    CSF welcomes your surplus fruit and veg on behalf of the organisations they represent to keep their services running and support those struggling to access food. 
+                    They are running their ‘Grow a Row’ campaign again this year. Click <a href="https://cambridgesustainablefood.org/allotmentvegdonations" target=_blank" >here</a> for more information.
+                    </p>
+
                 </div>
 
+                <div  id="beanpoles" class='col-12 col-md-4'>&nbsp;</div>
+
+            </div>
+
+            <div class="row mb mt-5" style="border: 2px solid blue; border-radius: 10px; padding: 10px;">
+
                 <div class="col-12">
-                    <p>
-                    The Covid-19 pandemic has brought hard times to a lot of people. We are receiving requests from a number of Cambridge food hubs for help from anyone who may have surplus produce from their plot. They are all very grateful for any support or donations - see below for details:
-                    </p>
-                    <p>
-                    <b style="color: darkred;">Coleridge Community Food Bank</b> has been running since June 5th. Produce is checked, washed and air dried in St Thomas’s high spec kitchen. Contact Andrew Drury by email at centre@st-martins-cambridge.org.uk
-                    </p>
-                    <p>
-                    <b style="color: #000080;">The C3 Church</b> is running an initiative called ‘Love Your Neighbour’, supporting people in different ways during the crisis. By early July, they had already provided over 30,000 meals since the beginning of lockdown. They are happy to collect surplus produce. Phone 01223 844415 or email receptionteam@thec3.uk See also their Facebook page at https://www.facebook.com/thec3.impact
-                    </p>
-                    <p>
-                    <b style="color: orange;">Cambridge Sustainable Food</b> are running an emergency food programme over the summer. Details of the scheme can be found on their website – www.cambridgesustainablefood.org/allotmentvegdonations
-                    </p>
-                    <p>
-                    <img src="https://www.theedgecafecambridge.org/images/gallery/1503522495_hero-04_a.jpg" class="img img-thumbnail pull-right" alt="The Edge Cafe" style="width: 40%;" />
-                    The <span style="font-weight: bolder;">Edge Café</span> on <span style="font-weight: bolder;">Mill Road</span> is now re-open. They are being used as part of the Cambridge Food hub during the pandemic. 
-                    As such, they welcome pretty much any contributions, so if you have spare allotment fruit and veg do donate if you can. 
-                    </p>
-                    <p>
-                    Drop it off just after 11.30am when they are setting things up, at the usual entrance. They then open at 12 noon for two hours.
-                    </p>
-                    <p>
-                    The Edge Café,<br>
-                    351 Mill Road, Cambridge,<br>
-                    CB1 3DF                    
-                    </p>
-                    <p>
-                        Click <a href="https://www.theedgecafecambridge.org/index.php" target="_blank">here</a> for more details.
-                    </p>
+                    <h2>Spring is (almost) in the air - so order your beanpoles now!</h2>
+
+<p>
+Glenn Hadley, a coppice worker at Hayley Wood Nature Reserve near Great Gransden, is offering a delivery service for small orders of 
+beanpoles, pea sticks and garden canes and more. The sticks are cut as part of the coppice cycle at Hayley Wood, so they are a local and 
+sustainable resource which helps a diverse woodland structure for wildlife.
+</p>
+<p> 
+Glenn is accepting orders on a first come first served basis up until Thursday 18th February. A full price list is available 
+<a href="/assets/docs/beanpoles2021.pdf" target=_blank> here</a>. Please note:
+</p>
+<ul>
+<li>due to their bulky nature, pea sticks will be limited to 2 bundles per order.</li>
+<li>there will be a delivery charge per order, based on location and order size. Glenn will keep this charge as low as he can to cover his costs.</li>
+<li>he will confirm all orders and delivery charges by email and provide details of how to pay.</li>
+<li>it may take some time to process emails so please don’t worry if you do not receive confirmation straight away.</li>
+<li>payment must be made by bank transfer before delivery.</li>
+<li>deliveries will be made throughout February, on a pre-agreed date.</li>
+<li>please provide details of where to leave your order in order to reduce contact.</li>
+</ul>
+
+<p>
+When you have decided what you want, please email Glenn at 
+<a id="glennhadley" title="glenn.c.hadley@gmail.com" href="mailto:glenn.c.hadley@gmail.com">Glenn Hadley</a> 
+<i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'glennhadley');"></i> <br/>
+including the following information:
+<ul>
+<li>your name</li>
+<li>your email address</li>
+<li>a contact telephone number</li>
+<li>the delivery address (must be easily accessible)</li>
+<li>instructions on where to leave your purchases (to minimise contact)</li>
+<li>the products you require with quantities</li>
+<li>any other information</li>
+</ul>
+
+Glenn will confirm the order and price by email.  Glenn's payment details are on the form.
+<p>
+ 
+<p>
+<b>Please note</b>: Glenn will handle all products with gloves and would advise that you do the same, as well as washing your hands thoroughly after handling.
+</p>
+
                 </div>
 
             </div>
@@ -292,6 +324,20 @@
             </div>
 
             <div class="row mb">
+
+                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                    
+                    <img src="/assets/img/weeders-digest/links/cambridge-sustainable-food.jpg" class="img-thumbnail pull-right" style="height: 150px; margin-left: 10px; margin-bottom: 5px;" />
+                    <h4>Cambridge Sustainable Food</h4>
+                    Cambridge Sustainable Food welcomes your surplus fruit and veg to keep its services running and support those struggling to access food.
+                    <br>
+                    <a title="Visit the CSF web site" href="https://cambridgesustainablefood.org/allotmentvegdonations" target="ext">
+                        <i>cambridgesustainablefood.org</i>
+                    </a>
+
+                    
+                </div>
+
                 <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                     
                     <img src="/assets/img/weeders-digest/links/childrensweek.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 5px;" />
