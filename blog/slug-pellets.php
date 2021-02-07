@@ -16,7 +16,7 @@
             <div class="row mb" id="home">
                 <div class="col-12">
                 <h2>Non-organic Blue Pellets</h2>
-<p><img src="/assets/img/blog/slug-pellets/metaldehyde.jpg" class="img-responsive img-rounded img-thumbnail pull-left" />
+<p><img src="/assets/img/blog/slug-pellets/metaldehyde.jpg" class="img-responsive img-rounded img-thumbnail pull-right" />
 
 The most popular method of slug and snail control used in the garden is slug pellets. The pellets are manufactured from cereal and yeast 
 that lures the slugs and snails to them and they contain a poison that kills the slugs and snails after they have consumed the pellets.
@@ -24,13 +24,18 @@ that lures the slugs and snails to them and they contain a poison that kills the
 <p>
 There are three main types of poison used in slug pellets:
 <p>
-<b>Metaldehyde</b> – to be BANNED from spring 2020. A ban on the outdoor use of metaldehyde, a pesticide used to control slugs in a range of 
-crops and in gardens, is to be introduced across Great Britain from Spring 2020, the Environment Secretary announced today (19 December). 
-The decision to prohibit the use of metaldehyde, except in permanent greenhouses, follows advice from the UK Expert Committee on Pesticides (ECP) 
-and the Health and Safety Executive (HSE) that metaldehyde poses an unacceptable risk to wildlife. Metaldehyde causes the slug or snail to swell up 
-eventually leading to death. It damages the mucus cells resulting in the production of masses of slime which causes dehydration of the slug or snail. 
-The slug/snail isn’t always killed outright but becomes immobilised and is prevented from returning to the safety of its daytime shelter. 
-Metaldehyde doesn’t have to be ingested to be effective it can also kill slugs/snails through contact.
+<b>Metaldehyde</b> – When slugs and snails ingest metaldehyde it causes them to swell up and dehydrate. 
+They become immobilised and are prevented from returning to the safety of their daytime shelter and ultimately die. 
+Metaldehyde can also kill slugs and snails merely through contact. It also has the potential to harm other creatures that eat the pellets and, in turn, 
+creatures that eat the affected slugs and snails, such as birds and hedgehogs.
+</p><p>
+Because of the risks to wildlife and the environment, a ban on blue metaldehyde slug pellets was announced in September 2020:<br>
+
+<a href="https://deframedia.blog.gov.uk/2020/09/21/ban-on-the-use-of-metaldehyde-announced/" target="_blank">Ban on the use of metaldehyde announced - Defra in the media</a>
+</p><p>
+This is applicable across the whole of Great Britain. It will be phased to give growers time to switch to alternative measures.
+</p><p>
+From 31 March 2021 no further supply is permitted but distributors can still sell any stock they have in hand, and use can continue until 31 March 2022. From 1 April 2022 it will be illegal to either sell or use metaldehyde products.
 <br><br></p>
 <p>
 <b>Methiocarb</b> – (BANNED from late 2014) this is about ten times more poisonous than metaldehyde. It poses a greater risk to wildlife. 

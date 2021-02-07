@@ -147,9 +147,9 @@ $blogs[] = (object) [
     "title" => "Slug Pellets",
     "subtitle" => "Subtitle",
     "image" => "/assets/img/blog/slug-pellets/slugapple.jpg",
-    "author" => "Andy K",
-    "date" => "01 Jan 2019",
-    "excerpt" => "An extract from NSALG, re the legailty of using blue slug pellets.",
+    "author" => "Andy and Joan",
+    "date" => "07 Feb 2021",
+    "excerpt" => "The imminent ban on using blue slug pellets and what alternatives are available.",
     "category" => "Tip",
     "link" => "/blog/slug-pellets.php",
     "active" => "true"
@@ -574,6 +574,12 @@ $wn[] = (object) [
     "date" => "01 Feb 2021",
     "text" => "For a short time only, Hayley Wood Nature Reserve near Great Gransden is offering a delivery service for pea-sticks and beanpoles (amongst others) from a local, sustainable source.",
     "link" => "<a href='#beanpoles' title='Click for details'><button class='btn btn-success'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "07 Feb 2021",
+    "text" => "New information on the use of Metaldehyde (blue slug pellets)",
+    "link" => "<a href='/blog/slug-pellets.php' title='Click for details'><button class='btn btn-success'>More...</button></a>"
 ];
 
 $gallery = (object)[];
