@@ -64,7 +64,7 @@
                                 
             <div class="row mb" id="home">
 
-              <div class="col-xs-12 col-md-8">
+              <div class="col-12 col-md-8">
                 <h4>Renting a plot</h4>
                 <p>
                     Owing to the unprecedented demand for plots since the start of the pandemic, our waiting list has become extremely long. 
@@ -72,7 +72,7 @@
                 </p>
               </div>
 
-            <!--div class="col-xs-12 col-md-8">
+      <!--div class="col-xs-12 col-md-8">
 	 			<h4>Contact us if you would like to know more about renting</h4>
 	 			<div class="hline"></div>
          <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; padding: 10px; background: rgba(0, 0, 255, 0.1); padding:10px;">
@@ -131,17 +131,41 @@
 					</span>
 			</div--><!--/col-lg-8 -->
 	 		
-	 		<div class="col-xs-12 col-md-4">
+
+	 		
+	 		<div class="col-12 col-md-4">
 		 		<h4>Our registered address</h4>
 		 		<div class="hline"></div>
 		 			<p class="large-text">
                             The Vinery Road Permanent Allotment Society<br>
-92 Coleridge Road<br>Cambridge<br>CB1 3PJ<br><br>
-Email: 
-<a id="webmasteremail" href="mailto:webmaster@burnsideandvineryallotments.org" title="Mail the webmaster at mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
-<i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
+92 Coleridge Road<br>Cambridge<br>CB1 3PJ</p>
+      </div>
+      <div class="col-12">
+        <h4>Email contact details</h4>
+
+            <p>
+              <a id="chairemail" title="chair@burnsideandvineryallotments.org" href="mailto:chair@burnsideandvineryallotments.org">Society chair</a> 
+              <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'chairemail');"></i>
+            </p>
+
+            <p class="mt-2">
+                <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org">Vinery site manager</a> 
+                <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
+            </p>
+
+            <p class="mt-2">
+                <a id="viceemail" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org">Burnside site manager</a> 
+                <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
+            </p>
+
+            <p class="mt-2">
+                <a id="webmasteremail" href="mailto:webmaster@burnsideandvineryallotments.org" title="webmaster@burnsideandvineryallotments.org">Webmaster</a> 
+                <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
+            </p>
 	 		</div>
+
 	 	</div><! --/row -->
+
 	 </div><! --/container -->
 	 
 	 <!-- MODAL -->
