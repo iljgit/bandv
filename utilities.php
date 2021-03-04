@@ -868,7 +868,7 @@ $gallery->ancasterway202103 = (object) [
     "title" => "Repairs to Ancaster Way - March 2021",
     "banner" => "header.jpg",
     "date" => "04 Mar 2021",
-    "body" => "<p>Repairs have been made to the Ancaster Way gate and the area just inside it has been overhauled. To prevent this area becoming boggy due to rainwater draining off Ancaster Way, a dished channel has been formed at the threshold and the water drained to a soakaway. In addition, an area of the adjacent plot has been levelled so that it can be used as a setting down area for deliveries, such as skiploads of compost.   Many thanks are due to the Burnside site managers and willing volunteers for a lot of hard graft and complex work.</p>",
+    "body" => "<p>Repairs have been made to the Ancaster Way gate and the area just inside it has been overhauled. To prevent this area becoming boggy due to rainwater draining off Ancaster Way, a dished channel has been formed at the threshold and the water drained to a soakaway. In addition, an area of the adjacent plot has been levelled so that it can be used as a setting down area for deliveries, such as skiploads of compost.   Many thanks are due to the Burnside site managers for a lot of hard graft and complex work.</p>",
     "excerpt" => "Ancaster Way entrance to Burnside having some much needed TLC",
     "active" => true
 ];
@@ -878,7 +878,7 @@ $gallery->plotclearance202103 = (object) [
     "banner" => "header.jpg",
     "date" => "04 Mar 2021",
     "body" => "<p>Four half plots have recently been cleared ready for letting. A lot of metal and other debris has been removed and some trees have had to be cut down. 
-    All the resulting debris has now been removed from the site by a scrap dealer. Many thanks are due to the Burnside site managers and willing volunteers for a lot of hard graft.</p>",
+     Many thanks are due to the Burnside site managers and willing volunteers for a lot of hard graft.</p>",
     "excerpt" => "Volunteers working hard to clear a plot waiting to be let",
     "active" => true
 ];
