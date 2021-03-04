@@ -121,56 +121,6 @@
 
             </div>
 
-            <div class="row mb mt-5" style="border: 2px solid blue; border-radius: 10px; padding: 10px;">
-
-                <div class="col-12">
-                    <h2>Spring is (almost) in the air - so order your beanpoles now!</h2>
-
-<p>
-Glenn Hadley, a coppice worker at Hayley Wood Nature Reserve near Great Gransden, is offering a delivery service for small orders of 
-beanpoles, pea sticks and garden canes and more. The sticks are cut as part of the coppice cycle at Hayley Wood, so they are a local and 
-sustainable resource which helps a diverse woodland structure for wildlife.
-</p>
-<p> 
-Glenn is accepting orders on a first come first served basis up until Thursday 18th February. A full price list is available 
-<a href="/assets/docs/beanpoles2021.pdf" target=_blank> here</a>. Please note:
-</p>
-<ul>
-<li>due to their bulky nature, pea sticks will be limited to 2 bundles per order.</li>
-<li>there will be a delivery charge per order, based on location and order size. Glenn will keep this charge as low as he can to cover his costs.</li>
-<li>he will confirm all orders and delivery charges by email and provide details of how to pay.</li>
-<li>it may take some time to process emails so please don’t worry if you do not receive confirmation straight away.</li>
-<li>payment must be made by bank transfer before delivery.</li>
-<li>deliveries will be made throughout February, on a pre-agreed date.</li>
-<li>please provide details of where to leave your order in order to reduce contact.</li>
-</ul>
-
-<p>
-When you have decided what you want, please email Glenn at 
-<a id="glennhadley" title="glenn.c.hadley@gmail.com" href="mailto:glenn.c.hadley@gmail.com">Glenn Hadley</a> 
-<i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'glennhadley');"></i> <br/>
-including the following information:
-<ul>
-<li>your name</li>
-<li>your email address</li>
-<li>a contact telephone number</li>
-<li>the delivery address (must be easily accessible)</li>
-<li>instructions on where to leave your purchases (to minimise contact)</li>
-<li>the products you require with quantities</li>
-<li>any other information</li>
-</ul>
-
-Glenn will confirm the order and price by email.  Glenn's payment details are on the form.
-<p>
- 
-<p>
-<b>Please note</b>: Glenn will handle all products with gloves and would advise that you do the same, as well as washing your hands thoroughly after handling.
-</p>
-
-                </div>
-
-            </div>
-
             <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 
             <div class="row mb">
