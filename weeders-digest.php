@@ -229,7 +229,7 @@
                     </p>
                 </div>
 
-                <div class="col-12 calendar-entry">
+                <!-- <div class="col-12 calendar-entry">
                     <table>
                         <tr>
                             <td><i class="far fa-calendar"></i></td>
@@ -237,7 +237,7 @@
                                 Click <a href="#store" title="Click to see store details">here</a> for more details.</td>
                         </tr>
                     </table>
-                </div>
+                </div> -->
 
                 <!--div class="col-12 calendar-entry">
                     <p><img src="/assets/img/weeders-digest/calendar/seed-potato.jpg" class="img img-thumbnail img-responsive img-pull-right" style="width: 25%;">
@@ -448,7 +448,7 @@
             <div class="row mb">
                 <div class="col-12">
                     <p>The Store is located at the Burnside entrance to the Burnside site. It was revamped in 2017.</p>
-                    <p>The Store is now closed for 2020.
+                    <p>The Store is now closed.
                     </p>
                     <!--h4>How to buy your allotment goods</h4>
                     <p>
