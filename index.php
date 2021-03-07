@@ -7,7 +7,7 @@
         <?php include "inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(assets/img/index/header.jpg); background-position: bottom center;">
+        <div class="container-fluid parallax banner" style="background-image: url(assets/img/index/header2.jpg); background-position: bottom center;">
             <h1 id="title"><span class="title-background">Burnside and Vinery Road Allotment Society</span></h1>
         </div>
 
