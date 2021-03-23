@@ -361,7 +361,18 @@ let PFModal = {
                                 args.header = 'Error';
 				args.body =	'Please ensure that you have completed all the fields highlighted in red.';
 			break;
+
+			case 'siteupdateok':
+				args.type = 'info';
+				args.body = 'Your information has been updated.';
+			break;
 			
+			case 'siteupdatefail':
+				args.type = 'danger';
+				args.header = 'Error';
+				args.body =	args.msg || 'Please ensure that you have completed all the fields highlighted in red.';
+			break;
+
 			default:
 				args.type = 'info';
 				args.body = '';

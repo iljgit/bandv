@@ -588,6 +588,12 @@ $wn[] = (object) [
     "link" => "<a href='/photos.php' title='Click for details'><button class='btn btn-success'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "23 Mar 2021",
+    "text" => "There are two new pages which you can find under the Site Update menu. You can see the latest information from the two sites.",
+    "link" => ""
+];
+
 $gallery = (object)[];
 
 /*
@@ -1140,6 +1146,31 @@ if (!function_exists('array_column')) {
         }
         return $array;
     }
+}
+
+
+function readSiteUpdate($site) {
+    $string = file_get_contents("{$site}.json");
+
+    if ($string === false) {
+        $date = date('Y-m-d');
+        $dateStr = date('j M Y');
+        $contents = array(
+            'date' => $date, 
+            'dateStr' => $dateStr,
+            'waitinglist' => 0,
+            'pendingplots' => 0,
+            'planned' => 'No activities planned',
+            'past' => 'No recent activities',
+            'issues' => 'No site issues'
+        );
+
+        return $contents;
+    }
+    
+    $json = json_decode($string, true);
+
+    return $json;
 }
 
 ?>

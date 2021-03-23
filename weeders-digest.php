@@ -72,6 +72,11 @@
                         For Burnside-specific enquiries, please email 
                         <a id="viceemail" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a> 
                         <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
+                        <!--?php
+                            $info = readSiteUpdate('burnside');
+                            echo "Issues: {$info['issues']}";
+                            echo '<pre>' . print_r($info, true) . '</pre>'
+                        ?-->
                     </p>
                 </div>
 
