@@ -45,7 +45,7 @@
                 <div class="col-12" style="padding-bottom: 20px;">
                     <h4 style="color: blue;">Site managers</h4>
                     <p>Burnside has two site managers: Andy Kurdynowski and Matthew Whitelegg.</p>
-                    <p>If you have any thoughts, questions or suggestions, or you would like to get involved with ther activities on the site, you can email them at 
+                    <p>If you have any thoughts, questions or suggestions, or you would like to get involved with their activities on the site, you can email them at 
                         <a id="sitemanager" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a> 
                         <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'sitemanager');"></i>
                     </p>
