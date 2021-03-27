@@ -138,4 +138,13 @@ function getGalleryBody() {
     return $g->body;
 }
 
+function getGalleryVideos() {
+    global $gallery;
+
+    $index = getGalleryIndex();
+    $g = $gallery->$index;
+
+    return $g->videos;
+}
+
 ?>

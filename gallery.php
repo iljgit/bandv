@@ -30,6 +30,23 @@
 
             </div>
 
+            
+            <?php
+                $videos = getGalleryVideos();
+                if ($videos) {
+                    echo ('<div class="row" style="margin: 30px 0 20px 0">');
+                    foreach($videos as $video) {
+                        $src = $video['src'];
+                        echo ("<div class='col-12'><h3 class='text-center'>{$video['title']}</h3>");
+                        echo ("<div class='embed-responsive embed-responsive-16by9'>
+                                <video controls><source src='{$src}' type='video/mp4'></video>
+                        </div></div>");
+                    }
+                    echo('</div>');
+                }
+            ?>
+            
+
             <div class="row mb">
 
                 <div class="col-12">&nbsp;</div>

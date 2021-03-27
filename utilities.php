@@ -594,6 +594,12 @@ $wn[] = (object) [
     "link" => ""
 ];
 
+$wn[] = (object) [
+    "date" => "26 Mar 2021",
+    "text" => "See the repairs to the Ancaster Way gate in action!  OK - it is only water draining away, but previously this was causing a quagmire at the entrance.",
+    "link" => "<a href='/gallery.php?index=ancasterway202103' title='Click for details'><button class='btn btn-success'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -876,7 +882,10 @@ $gallery->ancasterway202103 = (object) [
     "date" => "04 Mar 2021",
     "body" => "<p>Repairs have been made to the Ancaster Way gate and the area just inside it has been overhauled. To prevent this area becoming boggy due to rainwater draining off Ancaster Way, a dished channel has been formed at the threshold and the water drained to a soakaway. In addition, an area of the adjacent plot has been levelled so that it can be used as a setting down area for deliveries, such as skiploads of compost.   Many thanks are due to the Burnside site managers for a lot of hard graft and complex work.</p>",
     "excerpt" => "Ancaster Way entrance to Burnside having some much needed TLC",
-    "active" => true
+    "active" => true,
+    "videos" => array(
+        array("title" => "The new drain in action - March 2021", "src" => "/assets/video/ancaster-gate-rain.mp4")
+    )
 ];
 
 $gallery->plotclearance202103 = (object) [
