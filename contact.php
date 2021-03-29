@@ -64,18 +64,10 @@
                                 
             <div class="row mb" id="home">
 
-              <div class="col-12 col-md-8">
-                <h4>Renting a plot</h4>
-                <p>
-                    Owing to the unprecedented demand for plots since the start of the pandemic, our waiting list has become extremely long. 
-                    The list is currently closed to new applicants until January 2022.
-                </p>
-              </div>
-
-      <!--div class="col-xs-12 col-md-8">
+      <div class="col-xs-12 col-md-8">
 	 			<h4>Contact us if you would like to know more about renting</h4>
 	 			<div class="hline"></div>
-         <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; padding: 10px; background: rgba(0, 0, 255, 0.1); padding:10px;">
+         <div class="large-text" style="margin-top: 10px; margin-bottom: 10px; width: 100%; border: 1px solid blue; border-radius: 5px; padding: 10px; background: rgba(128, 128, 255, 0.1); padding:10px;">
           Both sites, Vinery Road and Burnside, are currently fully let. Anybody who is over 18 and lives in the CB1 area is welcome to apply and join either or both sites' waiting list. 
          However, the waiting lists are very long and new applicants are unlikely to be offered a plot within the next 12 months.
          </div>
@@ -108,7 +100,7 @@
 					    <input type="telephone" class="form-control" id="tel2" placeholder="Alternative telephone number">
 					  </div>
 					  <div class="form-group required">
-					    <label for="site">Site</label>
+					    <label for="site">Site <span style="font-size: 0.8rem"> (Please choose an option)</span></label>
 					    <select id="site" class="form-control" required>
                                                 <option value="Burnside">Burnside</option>
                                                 <option value="Vinery Road">Vinery Road</option>
@@ -129,11 +121,11 @@
 					  <h4 id="message"></h4>
 					  <br>
 					</span>
-			</div--><!--/col-lg-8 -->
+			</div-->
 	 		
 
 	 		
-	 		<div class="col-12 col-md-4">
+	 		<div class="col-12">
 		 		<h4>Our registered address</h4>
 		 		<div class="hline"></div>
 		 			<p class="large-text">

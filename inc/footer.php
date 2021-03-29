@@ -11,8 +11,7 @@
                                 <td><a href="/blog.php" style="border-left: 1px solid white; padding-left: 10px;">Blogs</a></td></tr>
                                 <tr><td><a href="/photos.php" style="">Photos</a></td>
                                 <td><a href="/weeders-digest.php" style="border-left: 1px solid white; padding-left: 10px;">Weeder's Digest</a></td></tr>
-                                <tr><td><a href="/society.php" style="padding-right: 10px;">Society</a></td>
-                                <td><a href="/contact.php" style="border-left: 1px solid white; padding-left: 10px;">Apply</a></td>
+                                <tr><td><a href="/society.php" style="padding-right: 10px;">Society</a></td>Contact</a></td>
                                 </tr>
                                 </table>
                             </p>

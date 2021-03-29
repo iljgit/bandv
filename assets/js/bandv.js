@@ -2,6 +2,7 @@ let BandV = {
     $pageBody: undefined, 
     navbar: undefined,
 	menuColour: '128, 128, 128',
+	menuColour2: '158, 158, 158',
 	navbarClicked: false,
 
     onload: function() {
@@ -51,7 +52,7 @@ let BandV = {
         let offset = eTop - $(window).scrollTop();   
 
         if (offset <= 80) {
-            this.navbar.style.background = `rgba(${this.menuColour}, 1)`;
+            this.navbar.style.background = `rgba(${this.menuColour2}, 1)`;
         }
         else if (offset < 120) {
             offset = 120 - offset;

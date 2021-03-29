@@ -87,7 +87,7 @@ $message = $templateApp;
 
 $message .= $footer;
 $message = params($message);
-$email = 'burnsidesitemanager@burnsideandvineryallotments.org';
+$email = 'treasurer@burnsideandvineryallotments.org';
 
 $ret = mail ( $email , $subject , $message, $headers );
 ?>
