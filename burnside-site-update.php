@@ -4,6 +4,8 @@
         <?php include "inc/header.php" ?>
         <?php
             $info = readSiteUpdate('burnside');
+            $class1 = $info['default'] ? 'd-none' : '';
+            $class2 = $info['default'] ? '' : 'd-none';
         ?>
     </head>
     <body onload="BandV.onload();">
@@ -17,27 +19,32 @@
         <div class="container" id="pagebody">
                                 
             <div class="row mb" id="home">
-                <div class="col-12" style="padding-bottom: 20px;">
+
+                <div class="col-12 <?php echo($class2); ?>" style="padding-bottom: 20px;">
+                    <h4>Awaiting site update...</h4>
+                </div>
+
+                <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
                     <h2>Here is the latest news from the Burnside site manager<br><i style="font-size: 60%;">Updated <?php echo($info['dateStr']); ?> </i></h2>
                 </div>
 
-                <div class="col-12" style="padding-bottom: 20px;">
+                <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
                     <h4 style="color: blue;">Plots</h4>
                     As at <?php echo($info['dateStr']); ?> there <?php echo($info['waitinglist'] === 1 ? 'was one person' : 'were ' . $info['waitinglist'] . ' people'); ?> 
                     on the waiting lists and <?php echo($info['pendingplots'] === 1 ? 'one plot' : $info['pendingplots'] . ' plots'); ?> being prepared for letting.
                 </div>
 
-                <div class="col-12" style="padding-bottom: 20px;">
+                <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
                     <h4 style="color: blue;">What's coming up?</h4>
                     <?php echo($info['planned']); ?>
                 </div>
 
-                <div class="col-12" style="padding-bottom: 20px;">
+                <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
                     <h4 style="color: blue;">What's happened recently?</h4>
                     <?php echo($info['past']); ?>
                 </div>
 
-                <div class="col-12" style="padding-bottom: 20px;">
+                <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
                     <h4 style="color: blue;">Site issues</h4>
                     <?php echo($info['issues']); ?>
                 </div>

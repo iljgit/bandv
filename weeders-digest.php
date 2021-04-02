@@ -146,18 +146,18 @@
                         <div class="card-body para-highlight">
                             <p>Tips, recipes, personal experiences - all here</p>
                         </div> 
-                        <div class="card-footer"><a href="blog.php" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="blog.php" title="Tips etc..." class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/photos.jpg)'>Photos</div>
-                        <div class="card-body para-highlight">
-                            <p>We always like to record events, people, plots, and the changing of the seasons in photographs. 
-                            If you have any you'd like to display, let the webmaster know.</p>
+                        <div class="card-body para-highlight overflow-auto">
+                            <p>What's been happening on your site. 
+                            If you have photos you'd like to display, let the webmaster know.</p>
                         </div> 
-                        <div class="card-footer"><a href="photos.php" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="photos.php" title="Photos" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
@@ -166,7 +166,7 @@
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
                         <div class="card-body para-highlight">
                             <p><i><?php echo(getDaysSince('2020-03-23'));?> since lockdown first started.</i></p>
-                            <p><i><?php echo(getDaysToGo('2021-03-28'));?> until British Summer Time starts.</i></p>
+                            <p><i><?php echo(getDaysToGo('2021-10-31'));?> until BST ends.</i></p>
                         </div> 
                         <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -174,16 +174,16 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'>Noticeboard</div>
-                        <div class="card-body">This is the place for all your allotment-related needs and offers: 
-                        help, equipment, sheds and greenhouses, plants and produce.</div> 
+                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'>Notices</div>
+                        <div class="card-body overflow-auto">This is the place for all your allotment-related needs and offers: 
+                        help, equipment, plants, produce...</div> 
                         <div class="card-footer"><a href="#noticeboard" title="See what is on the noticeboard" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/garden-jobs.jpg)'>There's always something to do</div>
+                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/garden-jobs.jpg)'>Jobs to do</div>
                         <div class="card-body"><p>NSALG produces a list of jobs to think about each month:</p><?php echo(getNSALGJobs()); ?></div> 
                         <div class="card-footer">&nbsp;</div>
                     </div>
@@ -193,7 +193,7 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/store.jpg)'>Store</div>
                         <div class="card-body">
-                            <p>The Society usually runs a Store in the summer months, selling allotment essentials at low prices.</p>
+                            <p>The Society runs a Store in the summer months, selling allotment essentials at low prices.</p>
                         </div> 
                         <div class="card-footer"><a href="#store" title="Read about the Store" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -202,16 +202,16 @@
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/weeders-digest/links.jpg)'>External Links</div>
-                        <div class="card-body">We are always happy to provide links to external sites which are likely to be of interest to our members.</div> 
+                        <div class="card-body">Links to interesting sites.</div> 
                         <div class="card-footer"><a href="#links" title="Useful links to other sites" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/community.jpg)'>Community projects</div>
-                        <div class="card-body">The Society is delighted to be able to offer its support to a variety of community, charitable and academic projects.
-                        We are always open to new ideas.</div> 
+                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/community.jpg); padding-left: 0; padding-right: 0'>Community projects</div>
+                        <div class="card-body">We support a variety of community, charitable and academic projects.
+                        </div> 
                         <div class="card-footer"><a href="community.php" title="Community projects" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
                 </div>

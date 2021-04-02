@@ -1171,7 +1171,8 @@ function readSiteUpdate($site) {
             'pendingplots' => 0,
             'planned' => 'No activities planned',
             'past' => 'No recent activities',
-            'issues' => 'No site issues'
+            'issues' => 'No site issues',
+            'default' => true
         );
 
         return $contents;
