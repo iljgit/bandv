@@ -118,6 +118,8 @@
                 </div>
 
             </div>
+
+            <?php echo(getWhatsNewList()); ?>
                                 
             <div class="row mb mt-5 justify-content-md-center" id="xhome">
 
@@ -140,7 +142,7 @@
                     </p>
                 </div>
 
-                <?php echo(getWhatsNew()); ?>
+                <!--?php echo(getWhatsNew()); ?-->
 
                 <div  id="sustainable" class='col-12 col-md-4'><hr></div>
 

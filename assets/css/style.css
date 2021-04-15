@@ -807,3 +807,11 @@ i.fas.fa-copy.animate {
     font-size: 0.8rem;
     font-style: italic;
 }
+
+.whatsnew:hover {
+    box-shadow: 1px 1px 5px silver;
+}
+
+.whatsnew .card-title {
+    color: darkblue;
+}

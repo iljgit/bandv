@@ -597,7 +597,7 @@ $wn[] = (object) [
 $wn[] = (object) [
     "date" => "26 Mar 2021",
     "text" => "See the repairs to the Ancaster Way gate in action!  OK - it is only water draining away, but previously this was causing a quagmire at the entrance.",
-    "link" => "<a href='/gallery.php?index=ancasterway202103' title='Click for details'><button class='btn btn-success'>More...</button></a>"
+    "link" => "<a href='/gallery.php?index=ancasterway202103' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
 $gallery = (object)[];
@@ -956,6 +956,81 @@ function getWhatsNew() {
     return $ret;
 }
 
+function getWhatsNewList() {
+    global $wn;
+    $ret = "";
+    $template = '
+    <div class="col-12 col-md-4 mb-2 d-flex align-items-stretch">    
+        <div class="card whatsnew" style="width: 100%">   
+            <div class="card-body">             
+                <div class="card-title text-center">
+                    xxxdate
+                </div>
+                <div class="card-text">
+                    xxxbody
+                </div>
+                <div class="card-link mt-2">
+                    xxxlink
+                </div> 
+            </div>
+        </div>
+    </div>';
+
+    // do we need to add in anything for the site updates
+    $binfo = readSiteUpdate('burnside');
+    $vinfo = readSiteUpdate('vinery');
+
+    if (!$binfo['default']) {
+        $wn[] = (object) [
+            "date" => "{$binfo['dateStr']}",
+            "text" => "Latest update from Burnside",
+            "link" => "<a href='/burnside-site-update.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+        ];
+    }
+    
+    if (!$vinfo['default']) {
+        $wn[] = (object) [
+            "date" => "{$vinfo['dateStr']}",
+            "text" => "Latest update from Vinery",
+            "link" => "<a href='/vinery-site-update.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+        ];
+    }
+    $wn[] = (object) [
+        "date" => "26 Mar 2021",
+        "text" => "See the repairs to the Ancaster Way gate in action!  OK - it is only water draining away, but previously this was causing a quagmire at the entrance.",
+        "link" => "<a href='/gallery.php?index=ancasterway202103' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+    ];
+
+    // add a timestamp field for sorting
+    foreach ($wn as $w) {
+        $w->timestamp = strtotime($w->date);
+    }
+
+    $timestamp = array_map(function($e) {
+        return is_object($e) ? $e->timestamp : $e['timestamp'];
+    }, $wn);
+    array_multisort($timestamp, SORT_DESC, SORT_NUMERIC, $wn);
+
+    $last14 = strtotime(date('Y-m-d', strtotime('-14 days')));
+    $det = '';
+    foreach ($wn as $w) {
+        if ($w->timestamp >= $last14) {
+            $link = strlen($w->link) > 0 ? $w->link : '';
+            $el = $template;
+            $el = str_ireplace('xxxdate', $w->date, $el);
+            $el = str_ireplace('xxxbody', $w->text, $el);
+            $el = str_ireplace('xxxlink', $link, $el);
+            $det .= $el;
+        }
+    }
+
+    if (strlen($det) > 0) {
+        $ret = "<div class='row mb'><div class='col-12'><h2>What's new in the last 14 days</h2></div>{$det}
+        </div>";
+    }
+
+    return $ret;
+}
 function getTags() {
     $ret = "";
     $cnt = 1;
