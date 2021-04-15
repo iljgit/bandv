@@ -30,8 +30,46 @@ body {
 
 h1,
 h2,
-h3 {
+h3, 
+h4,
+h5 {
     font-family: 'Poppins', sans-serif;
+}
+
+.site-update h1 {
+    font-size: 2.2rem
+}
+
+.site-update h2 {
+    font-size: 1.8rem
+}
+
+.site-update h3 {
+    font-size: 1.5rem
+}
+
+.site-update h4 {
+    font-size: 1.3rem
+}
+
+.site-update h5 {
+    font-size: 1.1rem
+}
+
+.site-update h2,
+.site-update h3,
+.site-update h4,
+.site-update h5 {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.site-update-title {
+    margin-bottom: 10px;
+    background: rgba(192, 192, 192, 0.25);
+    border-radius: 10px;
+    border: 1px solid transparent;
+    padding: 5px;
 }
 
 .navbar {
@@ -742,4 +780,30 @@ i.fas.fa-copy.animate {
 
 .imgh-45 {
     height: 45%;
+}
+
+.quick {
+    padding-top: 5px ;
+}
+
+.quick a .image {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    border: 1px solid transparent;
+}
+
+.quick:hover {
+    box-shadow: 1px 1px 5px silver;
+}
+
+.updated {
+    font-size: 0.8rem;
+    font-style: italic;
 }

@@ -2,6 +2,20 @@
 <html lang="en">
     <head>
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/header.php" ?>
+        <?php
+            $binfo = readSiteUpdate('burnside');
+            $vinfo = readSiteUpdate('vinery');
+
+            $bupdate = "(Awaiting update)";
+            if (!$binfo['default']) {
+                $bupdate = "(Updated {$binfo['dateStr']})";
+            }
+
+            $vupdate = "(Awaiting update)";
+            if (!$vinfo['default']) {
+                $vupdate = "(Updated {$vinfo['dateStr']})";
+            }
+        ?>
     </head>
     <body onload="BandV.onload();">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
@@ -12,73 +26,100 @@
         </div>
 
         <div class="container" id="pagebody">
-                                
-            <div class="row mb mt-5 justify-content-md-center" id="home">
 
-                <div class="col-12" style="border: 2px solid red; border-radius: 10px; padding: 10px; margin-bottom: 60px;">
-                    <h2>Important - Coronavirus (COVID-19) Information<br><i style="font-size: 60%;">Updated 12<sup>th</sup> January 2021</i></h2>
-                    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#covidinfo" aria-expanded="false">Details <i class="fas fa-angle-down"></i><i class="fas fa-angle-up"></i></button><br><br>
-                    <div id="covidinfo" class="collapse">
-                        <!-- <ul class="ul-separated">
-                            <li>
-                            You can work your plot, provided you follow all official advice about social distancing and hygiene.
-                            </li>
-                            <li>Social distancing means keeping an <b>absolute minimum</b> of 1 metre apart and preferably 2.</li>
-                            <li>If you or anyone else in your household has symptoms of Covid 19 you <b>must</b> 
-                            stay away from the site.</li>
-                            <li>The toilets at Vinery and Burnside remain closed until further notice.</li>
-                            <li>The Vinery Pavilion is open again - please ensure you maintain social distancing and hygiene measures.
-                                <i style="font-size: smaller">Updated 19 Sep 2020</i></li>
-                            <li>Vinery gates should be left open during the day and locked by the last person to leave.  
-                            Please maintain hand hygiene if you touch the gate.
-                            </li>
-                            <li>Burnside gates: please maintain hand hygiene when touching the gates.</li>
-                            <li><b>Bonfires</b>: as a courtesy to our neighbours on both sites, please don’t light any bonfires; 
-                            for some people, an open window may be their only fresh air.</li>
-                            <li><b>PLEASE</b> ensure that there is no unauthorised access to your site.</li>
-                            <li><b>Do not</b> share tools or use communal equipment</li>
-                            <li><b>Do not</b> wash your hands, tools or crops in water troughs</li>
-                            <li><b>PLEASE</b> check this website regularly for new information and updates.</li>
-                        </ul> -->
-                        <p>
-                            During the current lockdown it is still okay to work your plot, provided you continue to social distance and take hygiene precautions when 
-                            visiting the site and touching communal surfaces (gates etc). You can work your plot with your household or support bubble but should limit 
-                            it to once per day. 
-                        </p>
-                        <p>
-                            NSALG emphasise that there are still risks even though it may feel safe on an allotment site.
-                        </p>
-                    </div>
-
-                    <h4><br>External links</h4>
-
-                    <p>
-                        Click <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/" title="NHS web site" target="NHS">here</a> to visit the NHS website for information and advice.
-                    </p>
-
-                    <p>
-                        Click <a href="https://www.nsalg.org.uk/news/covid19-information/" title="NSALG web site" target="NSALG">here</a> to visit the NSALG website for allotment-specific advice.
-                    </p>
-
-                    <h4><br>Site enquiries</h4>
-
-                    <p>
-                        For Vinery-specific enquiries, please email 
-                        <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
-                    </p>
-
-                    <p>
-                        For Burnside-specific enquiries, please email 
-                        <a id="viceemail" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
-                        <!--?php
-                            $info = readSiteUpdate('burnside');
-                            echo "Issues: {$info['issues']}";
-                            echo '<pre>' . print_r($info, true) . '</pre>'
-                        ?-->
-                    </p>
+            <div class="row mb mt-5 xjustify-content-md-center" id="home">
+                <div class="col-12 mb-3">
+                    <h2>Quick links</h2>
+                    Links marked as <span style="color: darkred">external</span> are not maintained by the society and you follow them at your own risk.
                 </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="burnside-site-update.php">
+                        <div class="image" style='background-image: url(assets/img/index/burnside.jpg)'></div>Burnside site update <span class="updated"><?php echo($bupdate); ?></span>
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="vinery-site-update.php">
+                        <div class="image" style='background-image: url(assets/img/index/vinery.jpg)'></div>Vinery site update <span class="updated"><?php echo($vupdate); ?></span>
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="society.php#committee">
+                        <div class="image" style='background-image: url(/assets/img/society/committee.jpg)'></div>The society committee
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="society.php#documents">
+                        <div class="image" style='background-image: url(/assets/img/society/documents.jpg)'></div>Important documents
+                    </a>
+                </div>
+                
+                <div class="col-12 col-md-6 quick">
+                    <a href="blog.php">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/blog.jpg)'></div>Blogs - tips, recipes, ideas
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="photos.php">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/photos.jpg)'></div>Photo galleries
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="#calendar">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'></div>Calendar
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="#noticeboard">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'></div>Noticeboard
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="#store">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/store.jpg)'></div>The store
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="community.php">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/community.jpg)'></div>Community projects
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="#sustainable">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/cambridge-sustainable-food.jpg)'></div>Cambridge Sustainable Food
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="#links">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/links.jpg)'></div>Links to external sites
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="https://www.nhs.uk/conditions/coronavirus-covid-19" target="_blank">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/nhs.png)'></div>NHS Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-6 quick">
+                    <a href="https://www.nsalg.org.uk/news/covid19-information/" target="_blank">
+                        <div class="image" style='background-image: url(/assets/img/weeders-digest/nsalg.jpg)'></div>NSALG Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
+                    </a>
+                </div>
+
+            </div>
+                                
+            <div class="row mb mt-5 justify-content-md-center" id="xhome">
 
                 <div class="col-12 mb-5 mt-2" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
@@ -101,7 +142,7 @@
 
                 <?php echo(getWhatsNew()); ?>
 
-                <div  id="food-hubs" class='col-12 col-md-4'><hr></div>
+                <div  id="sustainable" class='col-12 col-md-4'><hr></div>
 
             </div>
 
@@ -128,58 +169,7 @@
 
             <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 
-            <div class="row mb">
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/society.jpg)'>Society</div>
-                        <div class="card-body para-highlight">
-                            <p>The Society page contains important documentation and details of your committee representatives.</p>
-                        </div> 
-                        <div class="card-footer"><a href="society.php" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/blog.jpg)'>Blogs</div>
-                        <div class="card-body para-highlight">
-                            <p>Tips, recipes, personal experiences - all here</p>
-                        </div> 
-                        <div class="card-footer"><a href="blog.php" title="Tips etc..." class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/photos.jpg)'>Photos</div>
-                        <div class="card-body para-highlight overflow-auto">
-                            <p>What's been happening on your site. 
-                            If you have photos you'd like to display, let the webmaster know.</p>
-                        </div> 
-                        <div class="card-footer"><a href="photos.php" title="Photos" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'>Calendar</div>
-                        <div class="card-body para-highlight">
-                            <p><i><?php echo(getDaysSince('2020-03-23'));?> since lockdown first started.</i></p>
-                            <p><i><?php echo(getDaysToGo('2021-10-31'));?> until BST ends.</i></p>
-                        </div> 
-                        <div class="card-footer"><a href="#calendar" title="What's on the calendar" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'>Notices</div>
-                        <div class="card-body overflow-auto">This is the place for all your allotment-related needs and offers: 
-                        help, equipment, plants, produce...</div> 
-                        <div class="card-footer"><a href="#noticeboard" title="See what is on the noticeboard" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
+            <!-- <div class="row mb">
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
@@ -189,34 +179,7 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/store.jpg)'>Store</div>
-                        <div class="card-body">
-                            <p>The Society runs a Store in the summer months, selling allotment essentials at low prices.</p>
-                        </div> 
-                        <div class="card-footer"><a href="#store" title="Read about the Store" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/links.jpg)'>External Links</div>
-                        <div class="card-body">Links to interesting sites.</div> 
-                        <div class="card-footer"><a href="#links" title="Useful links to other sites" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/weeders-digest/community.jpg); padding-left: 0; padding-right: 0'>Community projects</div>
-                        <div class="card-body">We support a variety of community, charitable and academic projects.
-                        </div> 
-                        <div class="card-footer"><a href="community.php" title="Community projects" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
-            </div>
+            </div> -->
             
         </div><!--container-->
 
@@ -453,7 +416,7 @@
             <div class="row mb">
                 <div class="col-12">
                     <p>The Store is located at the Burnside entrance to the Burnside site. It was revamped in 2017.</p>
-                    <p>The Store is now closed.
+                    <p>The Store will re-open on Saturday 24<sup>th</sup> April at 10am.  Product list to follow.
                     </p>
                     <!--h4>How to buy your allotment goods</h4>
                     <p>

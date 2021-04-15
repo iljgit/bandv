@@ -29,28 +29,28 @@
                 </div>
 
                 <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
-                    <h4 style="color: blue;">Plots</h4>
+                    <h4 class="site-update-title" style="color: darkblue;">Plots</h4>
                     As at <?php echo($info['dateStr']); ?> there <?php echo($info['waitinglist'] === 1 ? 'was one person' : 'were ' . $info['waitinglist'] . ' people'); ?> 
                     on the waiting lists and <?php echo($info['pendingplots'] === 1 ? 'one plot' : $info['pendingplots'] . ' plots'); ?> being prepared for letting.
                 </div>
 
                 <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
-                    <h4 style="color: blue;">What's coming up?</h4>
+                    <h4 class="site-update-title" style="color: darkblue;">What's coming up?</h4>
                     <?php echo($info['planned']); ?>
                 </div>
 
                 <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
-                    <h4 style="color: blue;">What's happened recently?</h4>
+                    <h4 class="site-update-title" style="color: darkblue;">What's happened recently?</h4>
                     <?php echo($info['past']); ?>
                 </div>
 
                 <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
-                    <h4 style="color: blue;">Site issues</h4>
+                    <h4 class="site-update-title" style="color: darkblue;">Site issues</h4>
                     <?php echo($info['issues']); ?>
                 </div>
 
                 <div class="col-12" style="padding-bottom: 20px;">
-                    <h4 style="color: blue;">Site manager</h4>
+                    <h4 class="site-update-title" style="color: darkblue;">Site manager</h4>
                     <p>Barry South is the site manager for Vinery Road</p>
                     <p>If you have any thoughts, questions or suggestions, or you would like to get involved with the activities on the site, you can email him at 
                         <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a> 

@@ -1179,6 +1179,9 @@ function readSiteUpdate($site) {
     }
     
     $json = json_decode($string, true);
+    $json['planned'] = "<div class='site-update'>{$json['planned']}</div>";
+    $json['past'] = "<div class='site-update'>{$json['past']}</div>";
+    $json['issues'] = "<div class='site-update'>{$json['issues']}</div>";
 
     return $json;
 }
