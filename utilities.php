@@ -600,6 +600,12 @@ $wn[] = (object) [
     "link" => "<a href='/gallery.php?index=ancasterway202103' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "16 Apr 2021",
+    "text" => "The Store will re-open on Saturday 24<sup>th</sup> April at 10am.",
+    "link" => "<a href='#store' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -995,11 +1001,6 @@ function getWhatsNewList() {
             "link" => "<a href='/vinery-site-update.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
         ];
     }
-    $wn[] = (object) [
-        "date" => "26 Mar 2021",
-        "text" => "See the repairs to the Ancaster Way gate in action!  OK - it is only water draining away, but previously this was causing a quagmire at the entrance.",
-        "link" => "<a href='/gallery.php?index=ancasterway202103' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
-    ];
 
     // add a timestamp field for sorting
     foreach ($wn as $w) {
