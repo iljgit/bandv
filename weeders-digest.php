@@ -463,7 +463,7 @@
                             <tr><td  valign="top">Miracle Gro All Purpose Liquid Plant Food 1L</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Bird Netting (4m wide - per m)</td><td  valign="top">&pound;1.50</td></tr>
                             <tr ><td valign="top">Standard Insect Mesh 1.3mm (3.6m wide - per m)</td><td  valign="top">&pound;4.00</td></tr>
-                            <tr ><td valign="top">Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td  valign="top">&pound;4.50</td></tr>
+                            <tr ><td valign="top">Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td  valign="top">&pound;5.00</td></tr>
                             <tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
                             <tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
                             <tr><td  valign="top">Garden twine (plastic)</td><td  valign="top">&pound;2.50</td></tr>
