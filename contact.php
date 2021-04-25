@@ -121,7 +121,7 @@
 					  <h4 id="message"></h4>
 					  <br>
 					</span>
-			</div-->
+			</div>
 	 		
 
 	 		
