@@ -601,8 +601,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "16 Apr 2021",
-    "text" => "The Store will re-open on Saturday 24<sup>th</sup> April at 10am.<br>Price list now available",
+    "date" => "25 Apr 2021",
+    "text" => "It was a busy start for the store on 24<sup>th</sup> April.  The new price list and opening times are now available.",
     "link" => "<a href='#store' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
@@ -967,7 +967,7 @@ function getWhatsNewList() {
     $ret = "";
     $template = '
     <div class="col-12 col-md-4 mb-2 d-flex align-items-stretch">    
-        <div class="card whatsnew" style="width: 100%">   
+        <div class="card whatsnew  h-100" style="width: 100%">   
             <div class="card-body">             
                 <div class="card-title text-center">
                     xxxdate
@@ -975,6 +975,8 @@ function getWhatsNewList() {
                 <div class="card-text">
                     xxxbody
                 </div>
+            </div>
+            <div class="card-footer" style="background: transparent; border: none;">
                 <div class="card-link mt-2">
                     xxxlink
                 </div> 

@@ -69,17 +69,17 @@
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 quick">
+                <!-- <div class="col-12 col-md-6 quick">
                     <a href="#calendar">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'></div>Calendar
                     </a>
-                </div>
+                </div> -->
 
-                <div class="col-12 col-md-6 quick">
+                <!-- <div class="col-12 col-md-6 quick">
                     <a href="#noticeboard">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'></div>Noticeboard
                     </a>
-                </div>
+                </div> -->
 
                 <div class="col-12 col-md-6 quick">
                     <a href="#store">
@@ -185,19 +185,19 @@
             
         </div><!--container-->
 
-        <div id="calendar" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/calendar.jpg); margin-top: 60px;">
+        <!-- <div id="calendar" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/calendar.jpg); margin-top: 60px;">
             <h2 id="title"><span class="title-background">Calendar</span></h2>
-        </div>
+        </div> -->
 
         <!-- Calendar -->
-        <div class="container">
+        <!-- <div class="container">
             <div class="row mb calendar-row">
                 <div class="col-12">
                     <p>If you have any dates you would like us to put in the diary, email the 
                     <a id="webmasteremail2" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org">webmaster</a> 
                     <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail2');"></i>
                     </p>
-                </div>
+                </div> -->
 
                 <!-- <div class="col-12 calendar-entry">
                     <table>
@@ -219,8 +219,8 @@
                 </div-->
 
 
-            </div>
-        </div>
+            <!-- </div>
+        </div> -->
 
         <div id="links" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/links.jpg); margin-top: 60px;">
             <h2 id="title"><span class="title-background">External Links</span></h2>
@@ -335,12 +335,12 @@
 
         </div>
 
-        <div id="noticeboard" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/noticeboard.jpg); margin-top: 60px;">
+        <!-- <div id="noticeboard" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/noticeboard.jpg); margin-top: 60px;">
             <h2 id="title"><span class="title-background">Notices</span></h2>
-        </div>
+        </div -->
 
         <!-- Noticeboard -->
-        <div class="container" style="margin-bottom: 40px;">
+        <!-- <div class="container" style="margin-bottom: 40px;">
             <div class="row mb">
                 <div class="col-12">
                     <p>This is the place for all your allotment-related needs and offers. These can be anything from help, to equipment, to sheds and greenhouses, through to plants and produce.</p>
@@ -407,10 +407,10 @@
                
             </div>
 
-	    </div>
+	    </div> -->
 
         <div id="store" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/store2.jpg); margin-top: 80px;">
-                <h2 id="title"><span class="title-background">The Store</span></h2>
+                <h2 id="title"><span class="title-background">The Store - 2021</span></h2>
         </div>
 
         <!-- Links -->
@@ -418,32 +418,8 @@
             <div class="row mb">
                 <div class="col-12">
                     <p>The Store is located at the Burnside entrance to the Burnside site. It was revamped in 2017.</p>
-                    <p>The Store will re-open on Saturday 24<sup>th</sup> April at 10am until 2pm
-                    </p>
-                    <!--h4>How to buy your allotment goods</h4>
-                    <p>
-                        <b>24<sup>th</sup> May 2020</b>: The store is open, once again, for <span style="text-decoration: underline">online orders only</span>.                         
-                    </p>
-                    <p>
-                        The process for placing your orders is detailed below.  Everything is being done 
-                        to provide as good a service as possible, whilst minimising any potential risks to all concerned.
-                    </p>
-                    <p>
-                        <h5>Placing an order</h5>
-                        <ol>
-                            <li>Check the price list below and select the items and quantities you require.</li>
-                            <li>Email your order to the Store Manager (see below for the email address).</li>
-                            <li>The Store Manager will confirm if all items and quantities are in stock, provide a total price, give bank account details, and offer an order collection date and time.</li>
-                            <li>Pay by on-line bank transfer. Advise the Store Manager when payment is complete and agree the collection time or request a different one.</li>
-                            <li>Collect your order from outside the Burnside store at the time agreed. You will also receive an "order ready to collect" email.</li>
-
-                        </ol>
-                    </p>
-                    <p>
-                        For more information email the
-                        <a id="storeemail" title="store@burnsideandvineryallotments.org" href="mailto:store@burnsideandvineryallotments.org"></span>store manager</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'storeemail');"></i>
-                    </p-->
+                    <p>The Store is open 10 - 12 Saturdays and Sundays in May, and Saturdays only in June and July.</p>
+                    <p>If possible, please pay for items online - details available from the store.</p>
                 </div>
             </div>
 
@@ -455,41 +431,42 @@
                     <table style="border-spacing: 15px; border-collapse:separate;">
                         <tbody>
                         <!-- <tr class="sold"> -->
-                            <tr ><td valign="top">Grow Organic 50L</td><td  valign="top">&pound;7.50</td></tr>
-                            <tr><td  valign="top">Blended Farmyard Manure 40L</td><td  valign="top">&pound;5.00</td></tr>
-                            <tr ><td valign="top">Clover Multi-Purpose Compost 75L</td><td  valign="top">&pound;5.50</td></tr>
-                            <tr ><td valign="top">Melcourt All Purpose Peat Free Compost 50L</td><td  valign="top">&pound;6.50</td></tr>
-                            <tr ><td valign="top">Clover 4 Plant Grow-Bag</td><td  valign="top">&pound;3.50</td></tr>
-                            <tr><td  valign="top">Miracle Gro All Purpose Liquid Plant Food 1L</td><td  valign="top">&pound;4.00</td></tr>
-                            <tr><td  valign="top">Bird Netting (4m wide - per m)</td><td  valign="top">&pound;1.50</td></tr>
-                            <tr ><td valign="top">Standard Insect Mesh 1.3mm (3.6m wide - per m)</td><td  valign="top">&pound;4.00</td></tr>
-                            <tr ><td valign="top">Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td  valign="top">&pound;5.00</td></tr>
-                            <tr><td  valign="top">MDPE pipe for netting loops (25mm - per m)</td><td  valign="top">&pound;1.00</td></tr>
-                            <tr><td  valign="top">125gsm weed control fabric (4m wide – per m)</td><td  valign="top">&pound;4.00</td></tr>
-                            <tr><td  valign="top">Garden twine (plastic)</td><td  valign="top">&pound;2.50</td></tr>
-                            <tr><td  valign="top">6 inch weed fabric staples</td><td  valign="top">20p ea</td></tr>
-                            <tr><td  valign="top">Tomorite tomato Feed 1L</td><td  valign="top">&pound;3.50</td></tr>
-                            <tr><td  valign="top">Maxicrop Organic Tomato Feed 1L</td><td  valign="top">&pound;6.25</td></tr>
-                            <tr><td valign="top">Garden Twine (green)</td><td  valign="top">&pound;1.75</td></tr>
-                            <tr><td  valign="top">Garden Twine (brown)</td><td  valign="top">&pound;2.00</td></tr>
-                            <tr ><td valign="top">Extra Thick Bamboo Canes 8ft</td><td  valign="top">&pound;2.50 ea</td></tr>
-                            <tr><td  valign="top">Thick Bamboo Canes 8ft</td><td  valign="top">80p ea</td></tr>
-                            <tr><td  valign="top">Bamboo Canes 6ft</td><td  valign="top">40p ea</td></tr>
-                            <tr><td  valign="top">Bamboo Canes 4ft</td><td  valign="top">25p ea</td></tr>
-                            <tr><td  valign="top">Permanent marker for plant labels</td><td  valign="top">&pound;2.50</td></tr>
-                            <tr><td  valign="top">150mm white plant label x10</td><td  valign="top">20p</td></tr>
-                            <tr><td  valign="top">17gsm Fleece (1.5m – per m)</td><td  valign="top">20p</td></tr>
-                            <tr><td  valign="top">Rock Dust 20kg</td><td  valign="top">&pound;10.00</td></tr>
-                            <tr><td  valign="top">Rock Dust 5kg</td><td  valign="top">&pound;3.00</td></tr>
-                            <tr><td  valign="top">OSMO PRO 4 Organic Fertiliser 1kg</td><td  valign="top">&pound;1.50</td></tr>
-                            <tr><td  valign="top">Fish, Blood and Bone 1kg</td><td  valign="top">&pound;1.00</td></tr>
-                            <tr><td  valign="top">Chicken Pellets (6X) 1kg</td><td  valign="top">&pound;1.50</td></tr>
+                            <tr ><td>Grow Organic 50L</td><td >&pound;7.50</td></tr>
+                            <tr><td >Blended Farmyard Manure 40L</td><td >&pound;5.00</td></tr>
+                            <tr ><td>Clover Multi-Purpose Compost 75L</td><td >&pound;5.50</td></tr>
+                            <tr ><td>Melcourt All Purpose Peat Free Compost 50L</td><td >&pound;6.50</td></tr>
+                            <tr ><td>Clover 4 Plant Grow-Bag</td><td >&pound;3.50</td></tr>
+                            <tr><td >Miracle Gro All Purpose Liquid Plant Food 1L</td><td >&pound;4.00</td></tr>
+                            <tr><td >Bird Netting (4m wide - per m)</td><td >&pound;1.50</td></tr>
+                            <tr ><td>Standard Insect Mesh 1.3mm (3.6m wide - per m)</td><td >&pound;4.00</td></tr>
+                            <tr ><td>Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td >&pound;5.00</td></tr>
+                            <tr><td >MDPE pipe for netting loops (25mm - per m)</td><td >&pound;1.00</td></tr>
+                            <tr><td >125gsm weed control fabric (4m wide – per m)</td><td >&pound;4.00</td></tr>
+                            <tr><td >Garden twine (plastic)</td><td >&pound;2.50</td></tr>
+                            <tr><td >6 inch weed fabric staples</td><td >20p ea</td></tr>
+                            <tr><td >Tomorite tomato Feed 1L</td><td >&pound;3.50</td></tr>
+                            <tr><td >Maxicrop Organic Tomato Feed 1L</td><td >&pound;6.25</td></tr>
+                            <tr><td>Garden Twine (green)</td><td >&pound;1.75</td></tr>
+                            <tr><td >Garden Twine (brown)</td><td >&pound;2.00</td></tr>
+                            <tr ><td>Extra Thick Bamboo Canes 8ft</td><td >&pound;2.50 ea</td></tr>
+                            <tr><td >Thick Bamboo Canes 8ft</td><td >80p ea</td></tr>
+                            <tr><td >Bamboo Canes 6ft</td><td >40p ea</td></tr>
+                            <tr><td >Bamboo Canes 4ft</td><td >25p ea</td></tr>
+                            <tr><td >Permanent marker for plant labels</td><td >&pound;2.50</td></tr>
+                            <tr><td >150mm white plant label x10</td><td >20p</td></tr>
+                            <tr><td >17gsm Fleece (1.5m – per m)</td><td >20p</td></tr>
+                            <tr><td >Rock Dust 20kg</td><td >&pound;10.00</td></tr>
+                            <tr><td >Rock Dust 5kg</td><td >&pound;3.00</td></tr>
+                            <tr><td >OSMO PRO 4 Organic Fertiliser 1kg</td><td >&pound;1.50</td></tr>
+                            <tr><td >Fish, Blood and Bone 1kg</td><td >&pound;1.00</td></tr>
+                            <tr><td >Chicken Pellets (6X) 1kg</td><td >&pound;1.50</td></tr>
                         </tbody>
                     </table>                    
                     
                 </div>
-            </div
+            </div>
         </div>
+        
 
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/footer.php" ?>
      </body>
