@@ -423,6 +423,12 @@
                 </div>
             </div>
 
+            <div class="row mb" style="margin-bottom: 20px;">
+                <div class="col-12">
+                    <span style="color: red; font-size: 1.4rem;">The store will <b>not</b> be open on Sat 8<sup>th</sup> May</span>
+                </div>
+            </div>
+
             <div class="row mb">
                 <div class="col-12">
                     <h4>
