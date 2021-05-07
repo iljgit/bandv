@@ -43,11 +43,13 @@ At the end of 2019 the half plot opposite the picnic area, which had regularly b
 The groundwork has progressed well as follows:
 </p>
 <ul>
-<li>The slab base for the building is done</li>
-<li>With help from volunteers a trench from the building base to the nearest water trough was dug. A water pipe was laid and connected, and the trench was backfilled</li>
-<li>The planned grass area has been cleared of weeds, rotovated, trodden and raked level and grass seeded</li>
-<li>By the end of October, the whole of the slabbed area had been completed</li>
-<li>Even though much of October was horribly wet, the grass seed had taken and greened up beautifully</li>
+    <li>The slab base for the building is done</li>
+    <li>With help from volunteers a trench from the building base to the nearest water trough was dug. A water pipe was laid and connected, and the trench was backfilled</li>
+    <li>The planned grass area has been cleared of weeds, rotovated, trodden and raked level and grass seeded</li>
+    <li>By the end of October, the whole of the slabbed area had been completed</li>
+    <li>Even though much of October was horribly wet, the grass seed had taken and greened up beautifully. 
+            It grew nicely over the winter and early spring; it has now been cut twice and looks great.
+    </li>
 </ul>
             </div>
             <div class="col-12 mb-1">
@@ -101,12 +103,15 @@ A building which had seen better days, but which could be re-worked to form the 
     <ul>
     <li>Floor – repaired - READY</li>
     <li>Back – repaired, raised, window added – READY</li>
-    <li>Roof</li>
-    <li>Side 1</li>
-    <li>Side 2</li>
-    <li>Front</li>
-    <li>Doors</li>
+    <li>Roof - repaired, modified and improved - READY</li>
+    <li>Side 1 - repaired and raised - READY</li>
+    <li>Side 2 - repaired and raised - READY</li>
+    <li>Front - repaired and raised - READY</li>
+    <li>Doors - height increased; just a small area of cladding to complete</li>
     </ul>
+</li>
+<li>
+    All the parts, except the doors, have been transferred to the tearoom site and are covered with a tarpaulin
 </li>
 </ul>
             </div>
