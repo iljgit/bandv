@@ -190,8 +190,8 @@
         <div class="container">
         <div class="row mb">
                 <div class="col-xs-12  col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Chair</h4><i>Penny Henderson - Burnside</i></p>
-                    <blockquote class="blockquote">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Chair - currently vacant</h4></p>
+                    <!-- <blockquote class="blockquote">
                         <img title="Penny - Chair" class="img img-responsive img-rounded img-thumbnail pull-right margin" style="max-width: 40%;" src="/assets/img/society/committee/penny.jpg"/>
                         I took on my plot in 2012, 
                             I think, as a complete novice vegetable grower, and through regular and intensive effort, it is quite productive.<br>
@@ -200,7 +200,8 @@
                     <p class="large-text text-center">
                         <a id="chairemail" title="chair@burnsideandvineryallotments.org" href="mailto:chair@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;chair</a> 
                         <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'chairemail');"></i>
-                    </p>
+                    </p> -->
+                    <p class="large-text">Awaiting the election of a new chair</p>
                 </div>
 
                 <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">
