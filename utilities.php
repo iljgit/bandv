@@ -618,6 +618,12 @@ $wn[] = (object) [
     "link" => ""
 ];
 
+$wn[] = (object) [
+    "date" => "14 Aug 2021",
+    "text" => "Pictures of the summer volunteering day at Burnside",
+    "link" => "<a href='/gallery.php?index=burnsidevolunteering202107' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -916,6 +922,14 @@ $gallery->plotclearance202103 = (object) [
     "active" => true
 ];
 
+$gallery->burnsidevolunteering202107 = (object) [
+    "title" => "Burnside volunteering day - July 2021",
+    "banner" => "header.jpg",
+    "date" => "17 Jul 2021",
+    "body" => "<p>Lots of tidying and clearing at Burnside - all done by a large group of volunteers.  It was a lovely day, if perhaps, a little warm.</p>",
+    "excerpt" => "The first Burnside volunteering day of the summer.",
+    "active" => true
+];
 
 function getWhatsNew() {
     global $wn;
