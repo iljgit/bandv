@@ -419,11 +419,12 @@
                 <div class="col-12">
                     <p>The Store is located at the Burnside entrance to the Burnside site. It was revamped in 2017.</p>
                     <p>The Store is open 10 - 12 Saturdays and Sundays in May, and Saturdays only in June and July.</p>
-                    <p>If possible, please pay for items online - details available from the store.</p>
+                    <!-- <p>If possible, please pay for items online - details available from the store.</p> -->
+                    <p>The Store is now closed until Spring 2022.</p>
                 </div>
             </div>
 
-            <div class="row mb">
+            <!--div class="row mb">
                 <div class="col-12">
                     <h4>
                         Price list 2021
@@ -431,7 +432,7 @@
                     <table style="border-spacing: 15px; border-collapse:separate;">
                         <tbody>
                         <!-- <tr class="sold"> -->
-                            <tr ><td>Grow Organic 50L</td><td >&pound;7.50</td></tr>
+                            <!--tr ><td>Grow Organic 50L</td><td >&pound;7.50</td></tr>
                             <tr><td >Blended Farmyard Manure 40L</td><td >&pound;5.00</td></tr>
                             <tr ><td>Clover Multi-Purpose Compost 75L</td><td >&pound;5.50</td></tr>
                             <tr ><td>Melcourt All Purpose Peat Free Compost 50L</td><td >&pound;6.50</td></tr>
@@ -463,7 +464,7 @@
                         </tbody>
                     </table>                    
                     
-                </div>
+                </div-->
             </div>
         </div>
         
