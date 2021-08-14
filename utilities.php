@@ -613,9 +613,9 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "08 May 2021",
-    "text" => "<span style='color: red; padding-bottom: 10px;'>Store closed on Sat 8<sup>th</sup> May.</span><br/><br/>Open as normal on Sun 9<sup>th</sup> May",
-    "link" => ""
+    "date" => "10 May 2021",
+    "text" => "Just a reminder that the store is open 10-12 on Saturdays <b>and</b> Sundays in May - Saturdays only June and July",
+    "link" => "<a href='#store' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
 $wn[] = (object) [
