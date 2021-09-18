@@ -624,6 +624,12 @@ $wn[] = (object) [
     "link" => "<a href='/gallery.php?index=burnsidevolunteering202107' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "18 Sep 2021",
+    "text" => "Pictures of a loveley, late September morning, 2021, at Burnside",
+    "link" => "<a href='/gallery.php?index=burnside20210918' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -928,6 +934,15 @@ $gallery->burnsidevolunteering202107 = (object) [
     "date" => "17 Jul 2021",
     "body" => "<p>Lots of tidying and clearing at Burnside - all done by a large group of volunteers.  It was a lovely day, if perhaps, a little warm.</p>",
     "excerpt" => "The first Burnside volunteering day of the summer.",
+    "active" => true
+];
+
+$gallery->burnside20210918 = (object) [
+    "title" => "Early autumn morning at Burnside",
+    "banner" => "header.jpg",
+    "date" => "18 Sep 2021",
+    "body" => "<p>Just a few random photos of Burnside on a glorious mid-September morning.  The fruit trees were dripping, flowers out, all was good with the world.</p>",
+    "excerpt" => "Early morning on the site, warm, sun streaming, hardly a soul around.",
     "active" => true
 ];
 
