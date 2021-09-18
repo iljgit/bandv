@@ -626,7 +626,7 @@ $wn[] = (object) [
 
 $wn[] = (object) [
     "date" => "18 Sep 2021",
-    "text" => "Pictures of a loveley, late September morning, 2021, at Burnside",
+    "text" => "Pictures of a lovely, late September morning, 2021, at Burnside",
     "link" => "<a href='/gallery.php?index=burnside20210918' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
