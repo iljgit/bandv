@@ -630,6 +630,12 @@ $wn[] = (object) [
     "link" => "<a href='/gallery.php?index=burnside20210918' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "09 Nov 2021",
+    "text" => "The Society AGM will be on Tuesday 23<sup>rd</sup> November at St Thomas' Hall, Ancaster Way starting at 7pm",
+    "link" => "<a href='/weeders-digest.php#top-content' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
@@ -1057,6 +1063,7 @@ function getWhatsNewList() {
 
     $last14 = strtotime(date('Y-m-d', strtotime('-14 days')));
     $det = '';
+
     foreach ($wn as $w) {
         if ($w->timestamp >= $last14) {
             $link = strlen($w->link) > 0 ? $w->link : '';
@@ -1068,10 +1075,13 @@ function getWhatsNewList() {
         }
     }
 
+    $ret = '';
     if (strlen($det) > 0) {
-        $ret = "<div class='row mb'><div class='col-12'><h2>What's new in the last 14 days</h2></div>{$det}
+        $ret = "<div class='row mb mt-5'><div class='col-12'><h2>What's new in the last 14 days</h2></div>{$det}
         </div>";
     }
+
+    $ret .= "<div id='top-content' style='margin-bottom: 120px' ></div>";
 
     return $ret;
 }
@@ -1080,7 +1090,21 @@ function getTags() {
     $cnt = 1;
     global $pages;
 
-    $ret = "<meta name=\"description\" content=\"xxxdescription\"><title>xxxtitle</title>";
+    $ret = "<title>{title}</title>
+<meta property=\"og:site_name\" content=\"Burnside and Vinery Allotment Society, Cambridge, UK\">
+<meta property=\"og:title\" content=\"{title}\">
+<meta property=\"og:url\" content=\"{url}\">
+<meta property=\"og:type\" content=\"website\">
+<meta property=\"og:description\" content=\"{description}\">
+<meta itemprop=\"name\" content=\"{title}\">
+<meta itemprop=\"url\" content=\"{url}\">
+<meta itemprop=\"description\" content=\"{description}\">
+<meta name=\"twitter:title\" content=\"{title}\">
+<meta name=\"twitter:url\" content=\"{url}\">
+<meta name=\"twitter:card\" content=\"summary\">
+<meta name=\"twitter:description\" content=\"{description}\">
+<meta name=\"description\" content=\"{description}\">
+";
 
     $page = $pages->default;
 
@@ -1093,10 +1117,15 @@ function getTags() {
     if (property_exists($pages, $uri)) {
         $page = $pages->$uri;
     }
+    else {
+        $page = $pages->index;
+    }
     
     foreach ($page as $key => $value) {
-        $ret = str_replace("xxx". $key, $value, $ret);
+        $ret = str_replace("{". $key ."}", $value, $ret);
     }
+
+    $ret = str_replace("{url}", "http://burnsideandvineryallotments.org" . $_SERVER['REQUEST_URI'], $ret);
 
     return $ret;
 }

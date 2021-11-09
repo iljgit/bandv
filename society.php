@@ -248,26 +248,12 @@
             <div class="row mb" style="margin-bottom: 10px;">
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Alex Considine Tong - Vinery</i></p>
-                    <blockquote class="blockquote">
-                    <img title="Alex - Committee Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/alexandra-tong.jpg"/> 
-                    I have a half plot at Vinery which I took over in 2018 when it was covered in 6ft-tall weeds, and I joined the committee in 2019. 
-                    I've been steadfastly growing veggies wherever I could since I was a child - especially radishes, lettuce and potatoes - 
-                    and I love nothing more than pottering around the plot, looking for jobs to do and just enjoying being outside. 
-                    </blockquote>
-                </div>
-
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Maxim Scheremetjew - Burnside</i></p>
                     <blockquote class="blockquote">
                     <img title="Maxim - Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/max.jpg"/> 
                     I got a half plot for my partner's birthday in 2015 at Burnside, because we both love gardening and we got sick of starting from scratch every time we had to move house. Since then we've loved spending time outside on the plot, showing our two young kids how to grow different sorts of veggies. I joined the committee in 2017 to share my views on all the different topics with a key focus on the website.
                     </blockquote>
                 </div>
-                               
-            </div>
-            
-            <div class="row mb" style="margin-bottom: 10px;">
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>John McGill - Burnside</i></p>
@@ -276,8 +262,9 @@
                     I've had a plot at Burnside since about 2010 and have been on the committee since 2014. I've always found it a very friendly environment, with great collaboration among all other lot-holders.
                     </blockquote>
                 </div>
-
+                               
             </div>
+            
             <!--div class="row mb">                        
 
                 <div class="col-xs-12 col-md-6">
