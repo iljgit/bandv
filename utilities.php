@@ -636,6 +636,12 @@ $wn[] = (object) [
     "link" => "<a href='/weeders-digest.php#top-content' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "24 Nov 2021",
+    "text" => "The Society AGM was held on Tuesday 23<sup>rd</sup> November - minutes to follow.  The constitution has been amended.",
+    "link" => "<a href='assets/docs/Constitution_24-11-2021.pdf' target='_blank' title='Click to read the constitution'><button class='btn btn-success btn-sm'>Constitution...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*

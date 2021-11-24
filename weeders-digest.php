@@ -125,37 +125,12 @@
 
                 <div class="col-12 mb-5 mt-2" style="border: 2px solid red; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px #c0c0c0">
                     <h2 class="text-center">Society AGM 2021</h2>
-                    <p>The 2021 AGM (delayed from the spring) will take place at St Thomas’s Hall, Ancaster Way, on Tuesday November 23rd, starting at 7pm. 
-                        Due to the ongoing Covid 19 concerns this year’s AGM will be shorter than normal, lasting about an hour and sadly will not include any refreshments. 
-                        The seating will be well spaced out, and attendees should wear a face covering if they want to.
+                    <p>The 2021 AGM (delayed from the spring) took place at St Thomas’s Hall, Ancaster Way, on Tuesday November 23rd 2021. 
+                        Minutes of the meeting will be available in due course from the <a href="/society.php#documents" title="AGM minutes">Society</a> page.
                     </p>   
-                    <p>New committee members are voted in at the AGM, so if you would like to help run our allotment society, please put yourself forward on the 23rd. 
-                        Please remember too, that as well as the new committee, any society changes are voted on at the AGM, so the more attendees at the meeting, the better.
-                    </p>
-                    <h4>Agenda</h4>
                     <p>
-                        <ul>
-                            <li>Welcome</li>
-                            <li>Society update, to include:-
-                                <ul>
-                                    <li>the move to running the two sites autonomously, while continuing to follow the core society constitution, procedures, and site rules. This will reduce and simplify the workload of the committee members but will need an amendment to the constitution.
-                                    </li>
-                                    <li>website update</li>
-                                </ul>
-                            </li>
-                            <li>Financial report, to include:-
-                                <ul>
-                                    <li>Society accounts for year ending September 2021</li>
-                                    <li>agree budgeting for the coming year.</li>
-                                </ul>
-                            </li>
-                            <li>Burnside site report</li>
-                            <li>Vinery site report</li>
-                            <li>Electing the committee for the coming year<br>Since the start of the pandemic the number of committee members has slowly fallen. 
-                            We should have 10 people helping to run the society, but currently only have 5.
-                            </li>
-                            <li>Any other business</li>
-                        </ul>
+                        <b>Importantly</b>, amendments to the constitution were voted through and are available 
+                        <a title="Click for latest Society Constitution" href="assets/docs/Constitution_24-11-2021.pdf" target="_blank" class=''>here</a>.
                     </p>
                 </div>
 

@@ -111,10 +111,10 @@
                         <div class='card-header simple'>Constitution</div>
                         <div class="card-body simple">
                             <p>Constitution of the Burnside and Vinery Road Allotment Society.</p>
-                            <p>Last updated 17<sup>th</sup> March 2020.</p>
+                            <p>Last updated 24<sup>th</sup> November 2021.</p>
                         </div> 
                         <div class="card-footer simple">
-                            <a title="Click for latest Society Constitution" href="assets/docs/Constitution_17-03-2020.pdf" target="_blank" class='btn btn-primary'>Constitution...</a>
+                            <a title="Click for latest Society Constitution" href="assets/docs/Constitution_24-11-2021.pdf" target="_blank" class='btn btn-primary'>Constitution...</a>
                         </div>
                     </div>
                 </div>
