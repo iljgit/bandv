@@ -189,9 +189,9 @@
 
         <div class="container">
         <div class="row mb">
-                <div class="col-xs-12  col-md-6" style="margin-bottom: 10px;">
+                <!-- <div class="col-xs-12  col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Chair - currently vacant</h4></p>
-                    <!-- <blockquote class="blockquote">
+                    <blockquote class="blockquote">
                         <img title="Penny - Chair" class="img img-responsive img-rounded img-thumbnail pull-right margin" style="max-width: 40%;" src="/assets/img/society/committee/penny.jpg"/>
                         I took on my plot in 2012, 
                             I think, as a complete novice vegetable grower, and through regular and intensive effort, it is quite productive.<br>
@@ -200,9 +200,9 @@
                     <p class="large-text text-center">
                         <a id="chairemail" title="chair@burnsideandvineryallotments.org" href="mailto:chair@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;chair</a> 
                         <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'chairemail');"></i>
-                    </p> -->
+                    </p>
                     <p class="large-text">Awaiting the election of a new chair</p>
-                </div>
+                </div> -->
 
                 <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Vice chair and Burnside site co-manager</h4><i>Andy Kurdynowski - Burnside</i></p> 
@@ -215,9 +215,21 @@
                         <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
                     </p>
                 </div>
-            </div>
 
-            <div class="row mb" style="margin-bottom: 10px;">
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vice chair and Vinery site manager</h4><i>Barry South - Vinery</i></p>
+                    <blockquote class="blockquote">
+                        <img title="Barry - Vinery Manager" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/barry.jpg"/> 
+                        I’ve had a plot on the Vinery site since 2004 growing mostly fruit and veg that you can’t find easily in the supermarkets or that are just better eaten fresh. 
+                        I’m keen to both reclaim the real definition of fresh and minimise food miles. 
+                        Along with Alex and Suzy, I’m responsible for the management of the Vinery site.
+                    </blockquote>
+                    <p class="large-text text-center">
+                        <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
+                    </p>
+                </div>
+
                 <div class="col-xs-12 col-md-6">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Secretary, Treasurer and Burnside site co-manager</h4><i>Matthew Whitelegg - Burnside</i></p>
                     <blockquote class="blockquote">
@@ -231,57 +243,46 @@
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery site manager</h4><i>Barry South - Vinery</i></p>
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>John McGill</i></p>
                     <blockquote class="blockquote">
-                        <img title="Barry - Vinery Manager" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/barry.jpg"/> 
-                        I’ve had a plot on the Vinery site since 2004 growing mostly fruit and veg that you can’t find easily in the supermarkets or that are just better eaten fresh. 
-                        I’m keen to both reclaim the real definition of fresh and minimise food miles. 
-                        Along with Alex and Suzy, I’m responsible for the management of the Vinery site.
-                    </blockquote>
-                    <p class="large-text text-center">
-                        <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;vinery</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>
-                    </p>
-                </div>
-                
-            </div>
-            <div class="row mb" style="margin-bottom: 10px;">
-
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>Maxim Scheremetjew - Burnside</i></p>
-                    <blockquote class="blockquote">
-                    <img title="Maxim - Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/max.jpg"/> 
-                    I got a half plot for my partner's birthday in 2015 at Burnside, because we both love gardening and we got sick of starting from scratch every time we had to move house. Since then we've loved spending time outside on the plot, showing our two young kids how to grow different sorts of veggies. I joined the committee in 2017 to share my views on all the different topics with a key focus on the website.
-                    </blockquote>
-                </div>
-
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Committee member</h4><i>John McGill - Burnside</i></p>
-                    <blockquote class="blockquote">
-                        <img title="John - Committee Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/johnmcgill.jpg"/>
+                        <img title="John - Burnside Committee Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/johnmcgill.jpg"/>
                     I've had a plot at Burnside since about 2010 and have been on the committee since 2014. I've always found it a very friendly environment, with great collaboration among all other lot-holders.
                     </blockquote>
                 </div>
-                               
-            </div>
-            
-            <!--div class="row mb">                        
 
-                <div class="col-xs-12 col-md-6">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Webmaster</h4><i>Joan Bullock-Anderson - Burnside</i><br></p>
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery committee member</h4><i>Peter Harrison</i></p>
                     <blockquote class="blockquote">
-                    <img title="Joan - webmaster" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/joan.jpg"/> 
-                    I have had a half plot at Burnside since 2012. I still feel like a bit of a novice but I usually have the satisfaction of a glut 
-                    from at least one crop per season. Anyone who wants to grow Jerusalem artichokes, please just ask!<br><br>
-                    I joined the Committee in 2016 and currently have responsibility for maintenance of the website.
+                    <img title="Peter Harrison - Vinery Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
+                    Bio coming...
                     </blockquote>
-                    <p class="large-text text-center">
-                        <a id="webmasteremail" title="webmaster@burnsideandvineryallotments.org" href="mailto:webmaster@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;webmaster</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
-                    </p>
                 </div>
 
-            </div-->
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Olivia Bull</i></p>
+                    <blockquote class="blockquote">
+                    <img title="Olivia Bull - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
+                    Bio coming...
+                    </blockquote>
+                </div>
+
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Emma Lacy</i></p>
+                    <blockquote class="blockquote">
+                    <img title="Emma Lacy - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
+                    Bio coming...
+                    </blockquote>
+                </div>
+
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Hamish Symington</i></p>
+                    <blockquote class="blockquote">
+                    <img title="Hamish Symington - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
+                    Bio coming...
+                    </blockquote>
+                </div>
+
+            </div>
 
         </div>
 

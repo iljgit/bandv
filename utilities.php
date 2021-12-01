@@ -642,6 +642,12 @@ $wn[] = (object) [
     "link" => "<a href='assets/docs/Constitution_24-11-2021.pdf' target='_blank' title='Click to read the constitution'><button class='btn btn-success btn-sm'>Constitution...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "01 Dec 2021",
+    "text" => "Following the recent AGM, the membership of the Committee has changed.",
+    "link" => "<a href='society.php#committee' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
