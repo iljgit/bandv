@@ -205,9 +205,9 @@
                 </div> -->
 
                 <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vice chair and Burnside site co-manager</h4><i>Andy Kurdynowski - Burnside</i></p> 
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside site co-manager</h4><i>Andy Kurdynowski - Burnside</i></p> 
                     <blockquote class="blockquote">
-                        <img title="Andy - Vice-chair, Store Manager, and Burnside Site Manager" class="img margin img-responsive img-rounded thumbnail-lg pull-right" style="max-width: 40%;" src="/assets/img/society/committee/andy.jpg"/>
+                        <img title="Andy - Store Manager, and Burnside Site Manager" class="img margin img-responsive img-rounded thumbnail-lg pull-right" style="max-width: 40%;" src="/assets/img/society/committee/andy.jpg"/>
                         I’ve had my plot on Burnside for about 15 years, starting as a complete allotment novice, and have been a member of the committee for much of that time. I am one of the two Burnside site managers, often spending too much time maintaining the site and not enough working my plot, but I do get enjoyment from both.
                     </blockquote>
                     <p class="large-text text-center">
@@ -217,7 +217,7 @@
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vice chair and Vinery site manager</h4><i>Barry South - Vinery</i></p>
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery site manager</h4><i>Barry South - Vinery</i></p>
                     <blockquote class="blockquote">
                         <img title="Barry - Vinery Manager" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/barry.jpg"/> 
                         I’ve had a plot on the Vinery site since 2004 growing mostly fruit and veg that you can’t find easily in the supermarkets or that are just better eaten fresh. 
@@ -279,6 +279,20 @@
                     <blockquote class="blockquote">
                     <img title="Hamish Symington - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
                     Bio coming...
+                    </blockquote>
+                </div>
+
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery committee member</h4><i>Position vacant</i></p>
+                    <blockquote class="blockquote">
+                    <img title="Vinery Committe Member - vacant" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
+                    </blockquote>
+                </div>
+
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery committee member</h4><i>Position vacant</i></p>
+                    <blockquote class="blockquote">
+                    <img title="Vinery Committe Member - vacant" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
                     </blockquote>
                 </div>
 
