@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <?php include "inc/header.php" ?>
+        <meta name="google-site-verification" content="MrKBOi68xbmx8rKmG6rgilpqy-n8DFoBZ35cWCscMEc" />
     </head>
     <body onload="BandV.onload();">
         <?php include "inc/menu.php" ?>
