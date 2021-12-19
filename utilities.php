@@ -648,6 +648,12 @@ $wn[] = (object) [
     "link" => "<a href='society.php#committee' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "19 Dec 2021",
+    "text" => "Just to keep you entertained (?) over the Christmas period, there will be a few quizzes, just for fun",
+    "link" => "<a href='quizzes.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*

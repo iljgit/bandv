@@ -35,32 +35,34 @@
                 </div>
             </div>
 
-            <div class="row mb justify-content-md-center">
-                <div class="col-12 text-center">
-                    There will be more quizzes soon - keep checking back here.
+            <div class="row mb-4 justify-content-md-center">
+                <div class="col-12 text-center mb-4">
+                    <p>Back, despite no demand whatsoever, some quizzes to keep you busy over the festive period.</p>
+                    <p>The first one is available now, with more coming in the next few days.</p>
                 </div>
 
-                <!--div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/intros-poster.jpg)'>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz13/pageheader.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Musical Intros
+                                Famous Chins
                             </div>
                         </div>
                         <div class="card-body">
-                            <p>Easy musical intros to get your quizing juices flowing</p>
-                            <p>Closing date is 20<sup>th</sup> December</p>
+                            <p>Identify the celebrity from their chin</p>
+                            <p><br/></p>
+                            <p>Closing date is 28<sup>th</sup> December</p>
                         </div> 
-                        <div class="card-footer"><a href="quiz12.php" title="Quiz #12" class='btn btn-success stretched-link'>More...</a></div>
+                        <div class="card-footer"><a href="quiz13.php" title="Quiz #13" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
-                </div-->
+                </div
 
             </div>
 
-            <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
+            <div class='row mb mt-2 justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
 
             <div class="row mb">
-                <div class="col-12">
+                <div class="col-12 mt-4">
                     <h2 class="text-center">Past quizzes</h2>
                     <p class="text-center">You can still have a go at the quizzes - you can see the answers by pressing the <i>Reveal</i> button on the quiz page.</p>
                 </div>
