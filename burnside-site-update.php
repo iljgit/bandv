@@ -35,7 +35,7 @@
                 </div>
 
                 <div class="col-12 <?php echo($class1); ?>" style="padding-bottom: 20px;">
-                    <h4 class="site-update-title" style="color: darkblue;">What's coming up?</h4>
+                    <h4 class="site-update-title" style="color: darkblue;">What's happening and coming up?</h4>
                     <?php echo($info['planned']); ?>
                 </div>
 
