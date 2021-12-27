@@ -37,8 +37,24 @@
 
             <div class="row mb-4 justify-content-md-center">
                 <div class="col-12 text-center mb-4">
-                    <p>Back, despite no demand whatsoever, some quizzes to keep you busy over the festive period.</p>
-                    <p>The first one is available now, with more coming in the next few days.</p>
+                    <p>Some quizzes to keep you busy over the festive period.</p>
+                    <p>The second one is available now, with more coming in the next few days.</p>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz14/header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Advertising Slogans
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>10 advertising slogans from the last 80 years or so</p>
+                            <p><br/></p>
+                            <p>Closing date is 8<sup>th</sup> January</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz14.php" title="Quiz #14" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
                 </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
@@ -51,7 +67,7 @@
                         <div class="card-body">
                             <p>Identify the celebrity from their chin</p>
                             <p><br/></p>
-                            <p>Closing date is 28<sup>th</sup> December</p>
+                            <p>Closing date is 1<sup>st</sup> January</p>
                         </div> 
                         <div class="card-footer"><a href="quiz13.php" title="Quiz #13" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

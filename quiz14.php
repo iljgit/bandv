@@ -24,7 +24,7 @@
                 let delim = '&';
                 let fname;
                 let button = document.getElementById('submitbutton');
-                let quizid = "quiz13";
+                let quizid = "quiz14";
 
                 url += `?quizid=${quizid}`;
                 
@@ -59,7 +59,7 @@
                     }
                     
                     $(button).addClass('disabled');
-                    PFModal.showStaticPopup({type: 'quizok', date: '01 Jan 2022'});
+                    PFModal.showStaticPopup({type: 'quizok', date: '08 January 2022'});
                     $.ajax({
                         type: "GET",
                         url: url,
@@ -77,8 +77,8 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/quiz13/pageheader.jpg);">
-            <h1 id="title"><span class="title-background">Quiz #13</span></h1>
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/quiz/quiz14/header.jpg);">
+            <h1 id="title"><span class="title-background">Quiz #14</span></h1>
         </div>
 
         <div class="container" id="pagebody">
@@ -86,123 +86,134 @@
             <div class="row mb" id="home">
 
                 <div class="col-12">
-                    <h2>Famous Chins</h2>
-                    <p>Here are 10 questions about celebrities.  All you have to do is name the person in each picture.  
-                        Just to make it a little more of a challenge, I'm not giving you any more help!</p>
+                    <h2>Advertising Slogans</h2>
+                    <p>Here are 10 questions about advertising slogans through the (recent) ages.</p>
+                    <p>All we want is the name of the product and the first year the slogan was used.  You get one point for the product.  If you guess the year
+                        within 3 of when it was used you get another point; guess it exactly right and you get 2 points.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 1<sup>st</sup> January.</p>
+                    <p class="current-quiz">The closing date is the 8<sup>th</sup> January.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to the <b>Top Bottoms</b> - this week's winners.  And an honourable mention to Ingrid who was sooooo close.</p>
+                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 1.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/1.png"  class="img img-thumbnail" alt="Image for question 1" />
+                    <p><blockquote>Say it with flowers</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
+                    <p class="answer">Answer 1</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 2.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/2.png"  class="img img-thumbnail" alt="Image for question 2" />
+                    <p><blockquote>I’m a secret lemonade drinker</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
+                    <p class="answer">Answer 2</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 3.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/3.png"  class="img img-thumbnail" alt="Image for question 3" />
+                    <p><blockquote>Soft, strong and very long</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
+                    <p class="answer">Answer 3</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 4.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/4.png"  class="img img-thumbnail" alt="Image for question 4" />
+                    <p><blockquote>Snap! Crackle! Pop!</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
+                    <p class="answer">Answer 4</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 5.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/5.png"  class="img img-thumbnail" alt="Image for question 5" />
+                    <p><blockquote>Loves the jobs you hate</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
+                    <p class="answer">Answer 5</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 6.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/6.png"  class="img img-thumbnail" alt="Image for question 6" />
+                    <p><blockquote>One slice is never enough</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
+                    <p class="answer">Answer 6</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 7.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/7.png"  class="img img-thumbnail" alt="Image for question 7" />
+                    <p><blockquote>Hello Boys</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
+                    <p class="answer">Answer 7</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 8.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/8.png"  class="img img-thumbnail" alt="Image for question 8" />
+                    <p><blockquote>Only the crumbliest, flakiest chocolate</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
+                    <p class="answer">Answer 8</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 9.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/9.png"  class="img img-thumbnail" alt="Image for question 9" />
+                    <p><blockquote>Because I’m Worth It.</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
+                    <p class="answer">Answer 9</p>
                 </div>
             </div>
 
-            <div class="row mb-3">
+            <div class="row mb">
                 <div class="col-sm-12 col-md-6">
                     <h5>Question 10.</h5>
-                    <img style="width:100%;" src="assets/img/quiz/quiz13/10.png"  class="img img-thumbnail" alt="Image for question 10" />
+                    <p><blockquote>The best a man can get</blockquote></p>
                 </div>
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
+                    <p class="answer">Answer 10</p>
                 </div>
             </div>
 
