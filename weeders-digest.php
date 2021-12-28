@@ -33,91 +33,91 @@
                     Links marked as <span style="color: darkred">external</span> are not maintained by the society and you follow them at your own risk.
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="burnside-site-update.php">
                         <div class="image" style='background-image: url(assets/img/index/burnside.jpg)'></div>Burnside site update <span class="updated"><?php echo($bupdate); ?></span>
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="vinery-site-update.php">
                         <div class="image" style='background-image: url(assets/img/index/vinery.jpg)'></div>Vinery site update <span class="updated"><?php echo($vupdate); ?></span>
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="society.php">
                         <div class="image" style='background-image: url(/assets/img/society/committee.jpg)'></div>The Society
                     </a>
                 </div>
 
-                <!-- <div class="col-12 col-md-6 col-lg-4 quick">
+                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="society.php#committee">
                         <div class="image" style='background-image: url(/assets/img/society/committee.jpg)'></div>The society committee
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="society.php#documents">
                         <div class="image" style='background-image: url(/assets/img/society/documents.jpg)'></div>Important documents
                     </a>
                 </div> -->
                 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="blog.php">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/blog.jpg)'></div>Tips, Recipes, Ideas
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="photos.php">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/photos.jpg)'></div>Photo Galleries
                     </a>
                 </div>
 
-                <!-- <div class="col-12 col-md-6 col-lg-4 quick">
+                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="#calendar">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'></div>Calendar
                     </a>
                 </div> -->
 
-                <!-- <div class="col-12 col-md-6 col-lg-4 quick">
+                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="#noticeboard">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'></div>Noticeboard
                     </a>
                 </div> -->
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="#store">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/store.jpg)'></div>The Store
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="community.php">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/community.jpg)'></div>Community Projects
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="#sustainable">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/cambridge-sustainable-food.jpg)'></div>Cambridge Sustainable Food
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="#links">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/links.jpg)'></div>Links to External Sites
                     </a>
                 </div>
 <!-- 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="https://www.nhs.uk/conditions/coronavirus-covid-19" target="_blank">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/nhs.png)'></div>NHS Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
                     </a>
                 </div>
 
-                <div class="col-12 col-md-6 col-lg-4 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="https://www.nsalg.org.uk/news/covid19-information/" target="_blank">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/nsalg.jpg)'></div>NSALG Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
                     </a>
