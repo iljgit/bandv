@@ -38,7 +38,23 @@
             <div class="row mb-4 justify-content-md-center">
                 <div class="col-12 text-center mb-4">
                     <p>Some quizzes to keep you busy over the festive period.</p>
-                    <p>The second one is available now, with more coming in the next few days.</p>
+                    <p>The third one is available now.  There may be one or two more overthe next couple of weeks.</p>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz15/header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Porn or Paint
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>How well do you know your 50 shades of grey from your 50 Shades of Grey?</p>
+                            <p><br/></p>
+                            <p>Closing date is 15<sup>th</sup> January</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz15.php" title="Quiz #15" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
                 </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
