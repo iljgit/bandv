@@ -90,7 +90,7 @@
                     <p>Just how well do you know your rock and pop standards?</p>
                     <p>Here are 10 clips of really well known songs - played backwards.  All we need is the name of the song and the name of the artist.</p>
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
-                    <p class="current-quiz">The closing date is the 22<sup>nd</sup> Janjuary.</p>
+                    <p class="current-quiz">The closing date is the 22<sup>nd</sup> January.</p>
                     <p class="past-quiz">The closing date, 22<sup>nd</sup> January, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
                     <p class="past-quiz">Well done to</b> - this week's winners.</p>
                 </div>
