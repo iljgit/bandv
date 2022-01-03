@@ -261,24 +261,31 @@
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Olivia Bull</i></p>
                     <blockquote class="blockquote">
-                    <img title="Olivia Bull - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
-                    Bio coming...
+                    <img title="Olivia Bull - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/olivia-bull.jpg"/> 
+                    My partner and I gratefully received a half plot at Burnside in May 2020 and it has been an incredible adventure since. 
+                    I must admit I was more of a houseplant person then an outdoor gardener, but having the allotment has definitely changed that! 
+                    You will often find us pottering around the plot or sometimes enjoying a drink in the sunshine. 
+                    I am always up for a chat, so do come say hello if you see me. I look forward to being able to further support the society as a member of the committee. 
                     </blockquote>
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Emma Lacy</i></p>
                     <blockquote class="blockquote">
-                    <img title="Emma Lacy - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
-                    Bio coming...
+                    <img title="Emma Lacy - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/emma-lacy.jpg"/> 
+                    I got my plot at Burnside right at the start of the pandemic in 2020. It's my little Eden and a place away from the hustle and bustle. 
+                    Having worked at The RSPB and at environmental organisations, before going gardener full time, it's an environment I'm really passionate about. 
+                    Putting nature and the climate first by growing my own.
                     </blockquote>
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Hamish Symington</i></p>
                     <blockquote class="blockquote">
-                    <img title="Hamish Symington - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
-                    Bio coming...
+                    <img title="Hamish Symington - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/hamish-symington.jpg"/> 
+                    My wife and I have had a half plot for about six years, and I've kept bees in an apiary on the site for nine. 
+                    We’re aiming to work on our vegetables in the next few years, after decent success with currants, tayberries, strawberries and greengages. 
+                    Like most others, I think we always hope to spend more time on our plot than we actually do! 
                     </blockquote>
                 </div>
 
