@@ -649,8 +649,8 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "31 Dec 2021",
-    "text" => "Just to keep you entertained (?) over the Christmas period, there will be a few quizzes, just for fun.  Number 3 is available now.",
+    "date" => "02 Jan 2022",
+    "text" => "Just to keep you entertained (?) over the Christmas period and beyond, there will be a few quizzes, just for fun.  Number 4 is available now.",
     "link" => "<a href='quizzes.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
