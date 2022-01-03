@@ -38,7 +38,7 @@
             <div class="row mb-4 justify-content-md-center">
                 <div class="col-12 text-center mb-4">
                     <p>Some quizzes to keep you busy over the festive period.</p>
-                    <p>The third one is available now.  There may be one or two more overthe next couple of weeks.</p>
+                    <p>The fourth one is available now.  There may be one or two more over the next couple of weeks.</p>
                 </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
