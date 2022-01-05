@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -92,7 +92,7 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 1<sup>st</sup> January.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to the <b>Top Bottoms</b> - this week's winners.  And an honourable mention to Ingrid who was sooooo close.</p>
+                    <p class="past-quiz">Well done to the <b>Top Bottoms</b> - this week's winners.  And an honourable mention to Ingrid who was sooooo not close.</p>
                 </div>
             </div>
 
@@ -104,6 +104,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/1-boris-johnson.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Boris Johnson
+                    </p>
                 </div>
             </div>
 
@@ -115,6 +119,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/2-dara-obriain.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Dara O'Briain
+                    </p>
                 </div>
             </div>
 
@@ -126,6 +134,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/3-jennifer-aniston.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Jennifer Anniston
+                    </p>
                 </div>
             </div>
 
@@ -137,6 +149,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/4-naga-munchetty.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Naga Munchetty
+                    </p>
                 </div>
             </div>
 
@@ -148,6 +164,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/5-andy-murray.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Andy Murray
+                    </p>
                 </div>
             </div>
 
@@ -159,6 +179,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/6-ed-sheeran.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Ed Sheeran
+                    </p>
                 </div>
             </div>
 
@@ -170,6 +194,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/7-david-bowie.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    David Bowie
+                    </p>
                 </div>
             </div>
 
@@ -181,6 +209,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/8-dwayne-the-rock-johnson.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Dwayne "The Rock" Johnson
+                    </p>
                 </div>
             </div>
 
@@ -192,6 +224,9 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/9-jackie-chan.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Jackie Chan
+                    </p>
                 </div>
             </div>
 
@@ -203,6 +238,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
+                    <p class="answer">
+                    <img style="width:50%; float: right;" src="assets/img/quiz/quiz13/10-tina-turner.jpg"  class="img img-thumbnail" alt="Image for question 1" />
+                    Tina Turner
+                    </p>
                 </div>
             </div>
 

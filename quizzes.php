@@ -89,22 +89,6 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz13/pageheader.jpg)'>
-                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Famous Chins
-                            </div>
-                        </div>
-                        <div class="card-body">
-                            <p>Identify the celebrity from their chin</p>
-                            <p><br/></p>
-                            <p>Closing date is 1<sup>st</sup> January</p>
-                        </div> 
-                        <div class="card-footer"><a href="quiz13.php" title="Quiz #13" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div
-
             </div>
 
             <div class='row mb mt-2 justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
@@ -120,9 +104,25 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz13/pageheader.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Famous Chins<br/><small>Closed 1<sup>st</sup> January 2022</small>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>Identify the celebrity from their chin</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to the Top Bottoms - winners once again, again!</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz13.php" title="Quiz #13" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/intros-poster.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Musical Intros<br/>Closing date 20<sup>th</sup> December
+                                Musical Intros<br/><small>Closed 20<sup>th</sup> December 2020</small>
                             </div>
                         </div>
                         <div class="card-body">
@@ -138,7 +138,7 @@
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/celebreity-header.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Celebrities<br>Closing date 23<sup>rd</sup> November 2020
+                                Celebrities<br><small>Closed 23<sup>rd</sup> November 2020</small>
                             </div>
                         </div>
                         <div class="card-body">
@@ -152,7 +152,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/cambridgeposter.jpg)'>Cambridge<br>Closing date 19<sup>th</sup> July 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/cambridgeposter.jpg)'>Cambridge<br><small>Closed 19<sup>th</sup> July 2020</small></div>
                         <div class="card-body">
                             <p>How well do you know Cambridge?</p>
                             <p>&nbsp;</p>
@@ -164,7 +164,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/secondsposter.jpg)'>Second best<br>Closing date 31<sup>st</sup> May 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/secondsposter.jpg)'>Second best<br><small>Closed 31<sup>st</sup> May 2020</small></div>
                         <div class="card-body">
                             <p>How well do you remember the runners-up?</p>
                             <p>&nbsp;</p>
@@ -176,7 +176,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/gardeningposter.jpg)'>Haughty Culture<br>Closing date 24<sup>th</sup> May 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/gardeningposter.jpg)'>Haughty Culture<br/><small>Closed 24<sup>th</sup> May 2020</small></div>
                         <div class="card-body">
                             <p>Easy peasy gardening</p>
                             <p>&nbsp;</p>
@@ -188,7 +188,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/oddoneposter.jpg)'>Odd Ones In<br>Closing date 17<sup>th</sup> May 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/oddoneposter.jpg)'>Odd Ones In<br><small>Closed 17<sup>th</sup> May 2020</small></div>
                         <div class="card-body">
                             <p>Not the odd ones out.</p>
                             <p>&nbsp;</p>
@@ -200,7 +200,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/ambottom.jpg)'>Bottoms<br>Closing date 10<sup>th</sup> May 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/ambottom.jpg)'>Bottoms<br><small>Closed 10<sup>th</sup> May 2020</small></div>
                         <div class="card-body">
                             <p>Bottoms up!</p>
                             <p>&nbsp;</p>
@@ -212,7 +212,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/gksm.jpg)'>General Knowledge<br>Closing date 3<sup>rd</sup> May 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/gksm.jpg)'>General Knowledge<br><small>Closed 3<sup>rd</sup> May 2020</small></div>
                         <div class="card-body">
                             <p>Trivia at its worst.</p>
                             <p>&nbsp;</p>
@@ -224,7 +224,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/singing.jpg)'>Song Lyrics<br>Closing date 26<sup>th</sup> April 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/singing.jpg)'>Song Lyrics<br><small>Closed 26<sup>th</sup> April 2020</small></div>
                         <div class="card-body">
                             <p>How well do you know your pop songs.</p>
                             <p>&nbsp;</p>
@@ -236,7 +236,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz<br>Closing date 19<sup>th</sup> April 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/childrensheader.jpg)'>Children's Quiz<br><small>Closed 19<sup>th</sup> April 2020</small></div>
                         <div class="card-body">
                             <p>Children's TV programmes</p>
                             <p>&nbsp;</p>
@@ -248,7 +248,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/family-fortune.jpg)'>Family Fortunes<br>Closing date 19<sup>th</sup> April 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/family-fortune.jpg)'>Family Fortunes<br><small>Closed 19<sup>th</sup> April 2020</small></div>
                         <div class="card-body">
                             <p>The ever-popular (?) Family Fortunes</p>
                             <p>&nbsp;</p>
@@ -260,7 +260,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/music.jpg)'>Music<br>Closing date 12<sup>th</sup> April 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/music.jpg)'>Music<br><small>Closed12<sup>th</sup> April 2020</small></div>
                         <div class="card-body">
                             <p>How well do you know your music?</p>
                             <p>&nbsp;</p>
@@ -272,7 +272,7 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/film.jpg)'>Films<br>Closing date 5<sup>th</sup> April 2020</div>
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/film.jpg)'>Films<br><small>Closed 5<sup>th</sup> April 2020</small></div>
                         <div class="card-body">
                             <p>Test your knowledge of popular films.</p>
                             <p>&nbsp;</p>

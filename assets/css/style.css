@@ -236,6 +236,10 @@ h5 {
     font-size: 32px;
 }
 
+.card-header small {
+    font-size: 60% !important;
+}
+
 .card-footer.simple {
     text-align: center;
 }
