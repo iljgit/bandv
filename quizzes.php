@@ -43,6 +43,22 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz17/header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Lists
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>A more straightforward quiz - simply put each of the 10 lists in order.</p>
+                            <p><br/></p>
+                            <p>Closing date is 29<sup>th</sup> January</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz17.php" title="Quiz #16" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/quiz16/header.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
                                 Music in Reverse
