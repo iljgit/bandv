@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -93,7 +93,7 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 8<sup>th</sup> January.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">Well done to <b>Toby Clark</b> - this week's winner.</p>
                 </div>
             </div>
 
@@ -105,7 +105,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer">Answer 1</p>
+                    <p class="answer">Interflora - 1953</p>
                 </div>
             </div>
 
@@ -117,7 +117,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer">Answer 2</p>
+                    <p class="answer">R White's Lemonade - 1973</p>
                 </div>
             </div>
 
@@ -129,7 +129,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer">Answer 3</p>
+                    <p class="answer">Andrex - 1972</p>
                 </div>
             </div>
 
@@ -141,7 +141,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer">Answer 4</p>
+                    <p class="answer">Kellogg's Rice Krispies - 1933</p>
                 </div>
             </div>
 
@@ -153,7 +153,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer">Answer 5</p>
+                    <p class="answer">Mr Muscle - 2004</p>
                 </div>
             </div>
 
@@ -165,7 +165,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer">Answer 6</p>
+                    <p class="answer">Vienetta - 1980</p>
                 </div>
             </div>
 
@@ -177,7 +177,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer">Answer 7</p>
+                    <p class="answer">Wonderbra - 1995</p>
                 </div>
             </div>
 
@@ -189,7 +189,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer">Answer 8</p>
+                    <p class="answer">Cadbury's Flake - 1959</p>
                 </div>
             </div>
 
@@ -201,7 +201,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer">Answer 9</p>
+                    <p class="answer">L'Oreal - 1956</p>
                 </div>
             </div>
 
@@ -213,7 +213,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer">Answer 10</p>
+                    <p class="answer">Gillette - 1989</p>
                 </div>
             </div>
 

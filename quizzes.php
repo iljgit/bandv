@@ -89,22 +89,6 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz14/header.jpg)'>
-                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Advertising Slogans
-                            </div>
-                        </div>
-                        <div class="card-body">
-                            <p>10 advertising slogans from the last 80 years or so</p>
-                            <p><br/></p>
-                            <p>Closing date is 8<sup>th</sup> January</p>
-                        </div> 
-                        <div class="card-footer"><a href="quiz14.php" title="Quiz #14" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
             </div>
 
             <div class='row mb mt-2 justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
@@ -119,10 +103,26 @@
             <div class="row mb justify-content-md-center">
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                        <div class="card">
+                            <div class='card-header' style='background-image: url(/assets/img/quiz/quiz14/header.jpg); padding-left: 0px; padding-right: 0px;'>
+                                <div style="border-radius: 5px; margin-right: 0px; margin-left: 0px; padding-right: 2px; padding-left: 2px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                    Advertising Slogans<br/><small>Closed 8<sup>th</sup> January 2022</small>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <p>10 advertising slogans from the last 80 years or so</p>
+                                <p>&nbsp;</p>
+                                <p>Well done to Toby Clark - this week's winner</p>
+                            </div> 
+                            <div class="card-footer"><a href="quiz14.php" title="Quiz #14" class='btn btn-success stretched-link'>More...</a></div>
+                        </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/quiz13/pageheader.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Famous Chins<br/><small>Closed 1<sup>st</sup> January 2022</small>
+                                Famous Chins
                             </div>
                         </div>
                         <div class="card-body">
