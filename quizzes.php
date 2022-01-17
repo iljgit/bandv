@@ -73,22 +73,6 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz15/header.jpg)'>
-                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Porn or Paint
-                            </div>
-                        </div>
-                        <div class="card-body">
-                            <p>How well do you know your 50 shades of grey from your 50 Shades of Grey?</p>
-                            <p><br/></p>
-                            <p>Closing date is 15<sup>th</sup> January</p>
-                        </div> 
-                        <div class="card-footer"><a href="quiz15.php" title="Quiz #15" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
             </div>
 
             <div class='row mb mt-2 justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
@@ -103,6 +87,22 @@
             <div class="row mb justify-content-md-center">
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz15/header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Porn or Paint<br/><small>Closed 15<sup>th</sup> January 2022</small>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>How well do you know your 50 shades of grey from your 50 Shades of Grey?</p>
+                            <p>&nbsp;</p>
+                            <p class="winners">Well done to <b>Michelle Hill</b> and <b>Phil Bales</b> - this week's joint winners</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz15.php" title="Quiz #15" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                         <div class="card">
                             <div class='card-header' style='background-image: url(/assets/img/quiz/quiz14/header.jpg); padding-left: 0px; padding-right: 0px;'>
                                 <div style="border-radius: 5px; margin-right: 0px; margin-left: 0px; padding-right: 2px; padding-left: 2px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
@@ -112,7 +112,7 @@
                             <div class="card-body">
                                 <p>10 advertising slogans from the last 80 years or so</p>
                                 <p>&nbsp;</p>
-                                <p>Well done to Toby Clark - this week's winner</p>
+                                <p class="winners">Well done to <b>Toby Clark</b> - this week's winner</p>
                             </div> 
                             <div class="card-footer"><a href="quiz14.php" title="Quiz #14" class='btn btn-success stretched-link'>More...</a></div>
                         </div>
@@ -128,7 +128,7 @@
                         <div class="card-body">
                             <p>Identify the celebrity from their chin</p>
                             <p>&nbsp;</p>
-                            <p>Well done to the Top Bottoms - winners once again, again!</p>
+                            <p class="winners">Well done to the <b>Top Bottoms</b> - winners once again, again!</p>
                         </div> 
                         <div class="card-footer"><a href="quiz13.php" title="Quiz #13" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -144,7 +144,7 @@
                         <div class="card-body">
                             <p>Easy musical intros to get your quizing juices flowing</p>
                             <p>&nbsp;</p>
-                            <p>Well done to the Top Bottoms - winners once again!</p>
+                            <p class="winners">Well done to the <b>Top Bottoms</b> - winners once again!</p>
                         </div> 
                         <div class="card-footer"><a href="quiz12.php" title="Quiz #12" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -160,7 +160,7 @@
                         <div class="card-body">
                             <p>Well known people like you have never seen them before!</p>
                             <p>&nbsp;</p>
-                            <p>Well done to the Top Bottoms who got 100%</p>
+                            <p class="winners">Well done to the <b>Top Bottoms</b> who got 100%</p>
                         </div> 
                         <div class="card-footer"><a href="quiz11.php" title="Quiz #11" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -184,7 +184,7 @@
                         <div class="card-body">
                             <p>How well do you remember the runners-up?</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Seamus, Niamh and Debbie</b>, winners once again.</p>
+                            <p class="winners">Well done to <b>Seamus, Niamh and Debbie</b>, winners once again.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz9.php" title="Quiz #9" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -196,7 +196,7 @@
                         <div class="card-body">
                             <p>Easy peasy gardening</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Ingrid, Gill and "The Top Bottoms"</b>, this week's joint winners.</p>
+                            <p class="winners">Well done to <b>Ingrid, Gill and "The Top Bottoms"</b>, this week's joint winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz8.php" title="Quiz #7" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -208,7 +208,7 @@
                         <div class="card-body">
                             <p>Not the odd ones out.</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Debbie, Seamus and Niamh</b>, this week's winners.</p>
+                            <p class="winners">Well done to <b>Debbie, Seamus and Niamh</b>, this week's winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz7.php" title="Quiz #7" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -220,7 +220,7 @@
                         <div class="card-body">
                             <p>Bottoms up!</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Andy, Sally, Stel and Beverley</b>, this week's winners - again.</p>
+                            <p class="winners">Well done to <b>Andy, Sally, Stel and Beverley</b>, this week's winners - again.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz6.php" title="Quiz #6" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -232,7 +232,7 @@
                         <div class="card-body">
                             <p>Trivia at its worst.</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Ingrid</b> and to <b>Andy, Sally, Stel and Beverley</b>, this week's joint winners.</p>
+                            <p class="winners">Well done to <b>Ingrid</b> and to <b>Andy, Sally, Stel and Beverley</b>, this week's joint winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz5.php" title="Quiz #5" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -244,7 +244,7 @@
                         <div class="card-body">
                             <p>How well do you know your pop songs.</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Seamus, Niamh and Debbie</b> - this week's winners.</p>
+                            <p class="winners">Well done to <b>Seamus, Niamh and Debbie</b> - this week's winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz4.php" title="Quiz #4" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -256,7 +256,7 @@
                         <div class="card-body">
                             <p>Children's TV programmes</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>the Watts Family</b> - this week's winners.</p>
+                            <p class="winners">Well done to <b>the Watts Family</b> - this week's winners.</p>
                         </div> 
                         <div class="card-footer"><a href="childrens-quiz1.php" title="Children's Quiz #1" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -268,7 +268,7 @@
                         <div class="card-body">
                             <p>The ever-popular (?) Family Fortunes</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Ingrid</b> - this week's winners.</p>
+                            <p class="winners">Well done to <b>Ingrid</b> - this week's winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz3.php" title="Quiz #3" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -280,7 +280,7 @@
                         <div class="card-body">
                             <p>How well do you know your music?</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Debbie Whitfield, Seamus and Niamh Doherty</b> - this week's winners</p>
+                            <p class="winners">Well done to <b>Debbie Whitfield, Seamus and Niamh Doherty</b> - this week's winners</p>
                         </div> 
                         <div class="card-footer"><a href="quiz2.php" title="Quiz #2" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
@@ -292,7 +292,7 @@
                         <div class="card-body">
                             <p>Test your knowledge of popular films.</p>
                             <p>&nbsp;</p>
-                            <p>Well done to <b>Andy K et al</b> - this week's winners.</p>
+                            <p class="winners">Well done to <b>Andy K et al</b> - this week's winners.</p>
                         </div> 
                         <div class="card-footer"><a href="quiz1.php" title="Quiz #1" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

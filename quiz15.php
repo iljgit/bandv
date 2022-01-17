@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -93,7 +93,7 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 15<sup>th</sup> January.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">Well done to <b>Michelle Hill and Phil Bales</b> - this week's joint winners.  Obviously a common interest there!</p>
                 </div>
             </div>
 
@@ -108,7 +108,21 @@
                 <div class="col-12 col-md-4">
                     <h5>&nbsp;</h5>
                     <textarea class="form-control" id="answer1" placeholder="Your answers" rows="10" style="width: 100%;" required></textarea>
-                    <p class="answer">Answers</p>
+                    <p class="answer">
+                        The following are the 10 adult films hidden amongst the shades of paint:
+                        <ul class="answer">
+                            <li>Maraschino Cherry</li>
+                            <li>Obsession</li>
+                            <li>Bound</li>
+                            <li>Taboo</li>
+                            <li>Chemistry</li>
+                            <li>Perspective</li>
+                            <li>Babylon Pink</li>
+                            <li>Insatiable</li>
+                            <li>Bijou</li>
+                            <li>Pink Prison</li>
+                        </ul>
+                    </p>
                 </div>
             </div>
 
