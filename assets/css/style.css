@@ -168,8 +168,9 @@ h5 {
 	top: 150px;
 	position: relative;
 	color: white;
-	text-shadow: 2px 2px 5px #404040;
 	text-align: center;
+	width: auto;
+	padding: 0 5px;
 }
 
 /*.parallax #title .byline,
@@ -182,7 +183,8 @@ h5 {
 
 .parallax h1,
 .parallax h2 {
-	background: rgba(128, 128, 128, 0.4);
+	text-shadow: 1px 1px 2px black, 0 0 25px #606060, 0 0 15px #505050,
+		0 0 5px #404040;
 	padding: 20px;
 	border-radius: 10px;
 	border: 5px solid transparent;
