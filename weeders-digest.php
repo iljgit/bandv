@@ -21,7 +21,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/header5.jpg); background-position: center bottom;">
+        <div class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/butterfly.jpg); background-position: 0% 0%;">
             <h1 id="title"><span class="title-background">Weeder's Digest</span></h1>
         </div>
 
