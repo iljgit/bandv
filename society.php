@@ -292,9 +292,10 @@
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery committee member</h4><i>Position vacant</i></p>
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery committee member</h4><i>Patrick Joyce</i></p>
                     <blockquote class="blockquote">
                     <img title="Vinery Committe Member - vacant" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/gardener.jpg"/> 
+                    Bio coming...
                     </blockquote>
                 </div>
 

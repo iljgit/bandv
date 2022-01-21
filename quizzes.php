@@ -65,7 +65,7 @@
                             </div>
                         </div>
                         <div class="card-body">
-                            <p>Do you know your rock and pop miusic backwards?  Time to find out.</p>
+                            <p>Do you know your rock and pop music backwards?  Time to find out.</p>
                             <p><br/></p>
                             <p>Closing date is 22<sup>nd</sup> January</p>
                         </div> 
