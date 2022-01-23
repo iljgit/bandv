@@ -57,22 +57,6 @@
                     </div>
                 </div>
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
-                    <div class="card">
-                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz16/header.jpg)'>
-                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
-                                Music in Reverse
-                            </div>
-                        </div>
-                        <div class="card-body">
-                            <p>Do you know your rock and pop music backwards?  Time to find out.</p>
-                            <p><br/></p>
-                            <p>Closing date is 22<sup>nd</sup> January</p>
-                        </div> 
-                        <div class="card-footer"><a href="quiz16.php" title="Quiz #16" class='btn btn-success stretched-link'>More...</a></div>
-                    </div>
-                </div>
-
             </div>
 
             <div class='row mb mt-2 justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
@@ -85,6 +69,22 @@
             </div>
 
             <div class="row mb justify-content-md-center">
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz16/header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Music in Reverse<br/><small>Closed 22<sup>th</sup> January 2022</small>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>Do you know your rock and pop music backwards?  Time to find out.</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to the <b>top Bottoms</b> this week's winners</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz16.php" title="Quiz #16" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">

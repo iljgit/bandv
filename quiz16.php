@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -92,7 +92,7 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 22<sup>nd</sup> January.</p>
                     <p class="past-quiz">The closing date, 22<sup>nd</sup> January, has now passed.  If you would like to see the answers, press&nbsp;&nbsp;<button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to</b> - this week's winners.</p>
+                    <p class="past-quiz">Well done to the <b>Top Bottoms</b> - this week's winners.</p>
                 </div>
             </div>
 
@@ -106,7 +106,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Elvis Presley - Heartbreak Hotel</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/1 Elvis Presley - Heartbreak Hotel.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -120,7 +123,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">ABBA - Waterloo</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/2 ABBA - Waterloo.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -134,7 +140,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Queen - We Will Rock You</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/3 Queen - We Will Rock You.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -148,7 +157,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Adele - Rolling in the Deep</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/4 Adele - Rolling in the Deep.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -162,7 +174,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Status Quo - Caroline</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/5. Status Quo - Caroline.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -176,7 +191,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Simon & Garfunkel - Bridge Over Troubled Water</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/6 Simon & Garfunkel - Bridge Over Troubled Water.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -190,7 +208,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Neil Diamond - Sweet Caroline</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/7. Neil Diamond - Sweet Caroline.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -204,7 +225,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Katy Perry - Roar</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/8 Katy Perry - Roar.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -218,7 +242,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">Elton John - Crocodile Rock</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/9 Elton John - Crocodile Rock.mp3">
+                    </audio>
                 </div>
             </div>
 
@@ -232,7 +259,10 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="2" required></textarea>
-                    <p class="answer"></p>
+                    <p class="answer">The Stranglers - Golden Brown</p>
+                    <audio controls class="answer">
+                        <source  type="audio/mpeg" src="assets/audio/quiz16/10 The Stranglers - Golden Brown.mp3">
+                    </audio>
                 </div>
             </div>
 
