@@ -650,7 +650,7 @@ $wn[] = (object) [
 
 $wn[] = (object) [
     "date" => "23 Jan 2022",
-    "text" => "Still time to enter the final Christmas Quiz!.",
+    "text" => "Still time to enter the final Christmas Quiz!",
     "link" => "<a href='quizzes.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
@@ -663,6 +663,12 @@ $wn[] = (object) [
 $wn[] = (object) [
     "date" => "13 Jan 2022",
     "text" => "2021 AGM Minutes now available.",
+    "link" => "<a href='/society.php#documents' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
+$wn[] = (object) [
+    "date" => "28 Jan 2022",
+    "text" => "Minor amendments to the constitution",
     "link" => "<a href='/society.php#documents' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
