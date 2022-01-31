@@ -37,11 +37,11 @@
 
             <div class="row mb-4 justify-content-md-center">
                 <div class="col-12 text-center mb-4">
-                    <p>Some quizzes to keep you busy over the festive period.</p>
-                    <p>The fourth one is available now.  There may be one or two more over the next couple of weeks.</p>
+                    <p>There are no new quizzes available - but do check back from time to time.</p>
+                    <p>You can still have a go at the past ones if you have missed any.</p>
                 </div>
 
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                <!-- <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/quiz17/header.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
@@ -55,7 +55,7 @@
                         </div> 
                         <div class="card-footer"><a href="quiz17.php" title="Quiz #16" class='btn btn-success stretched-link'>More...</a></div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
 
@@ -72,6 +72,22 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">
+                        <div class='card-header' style='background-image: url(/assets/img/quiz/quiz17/header.jpg)'>
+                            <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
+                                Lists<br/><small>Closed 29<sup>th</sup> January 2022</small>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p>A more straightforward quiz - simply put each of the 10 lists in order.</p>
+                            <p>&nbsp;</p>
+                            <p>Well done to the <b>Top Bottoms</b> this week's winners</p>
+                        </div> 
+                        <div class="card-footer"><a href="quiz17.php" title="Quiz #16" class='btn btn-success stretched-link'>More...</a></div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
+                    <div class="card">
                         <div class='card-header' style='background-image: url(/assets/img/quiz/quiz16/header.jpg)'>
                             <div style="border-radius: 5px; margin-right: 10px; margin-left: 10px; padding-right: 5px; padding-left: 5px; background: rgba(128, 128, 128, 0.4); border: 1px solid transparent;">
                                 Music in Reverse<br/><small>Closed 22<sup>th</sup> January 2022</small>
@@ -80,7 +96,7 @@
                         <div class="card-body">
                             <p>Do you know your rock and pop music backwards?  Time to find out.</p>
                             <p>&nbsp;</p>
-                            <p>Well done to the <b>top Bottoms</b> this week's winners</p>
+                            <p>Well done to the <b>Top Bottoms</b> this week's winners</p>
                         </div> 
                         <div class="card-footer"><a href="quiz16.php" title="Quiz #16" class='btn btn-success stretched-link'>More...</a></div>
                     </div>

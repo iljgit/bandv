@@ -73,7 +73,7 @@
             };
         </script>
     </head>
-    <body onload="BandV.onload(); PFModal.init();" class="current">
+    <body onload="BandV.onload(); PFModal.init();" class="past">
         <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/menu.php" ?>
 
         <!-- Banner image -->
@@ -91,7 +91,7 @@
                     <p class="current-quiz">You can send us your answers (fill in your name, and press <i>Submit</i>) if you would like to be included in our wall of fame / shame.</p>
                     <p class="current-quiz">The closing date is the 29<sup>th</sup> January.</p>
                     <p class="past-quiz">The closing date has now passed.  If you would like to see the answers, press <button class="btn btn-info" onclick="reveal();">Reveal</button></p>
-                    <p class="past-quiz">Well done to <b></b> - this week's winner.</p>
+                    <p class="past-quiz">Well done to the <b>Top Bottoms</b> - this week's winner.  With honourable mentions to Michelle and Ingrid</p>
                 </div>
             </div>
 
@@ -111,7 +111,7 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer1" placeholder="Answer to question 1" rows="4" required></textarea>
-                    <p class="answer">Answer 1</p>
+                    <p class="answer">Cambridgeshire<br/>Shropshire<br/>Norfolk<br/>Devon</p>
                 </div>
             </div>
 
@@ -131,7 +131,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer2" placeholder="Answer to question 2" rows="4" required></textarea>
-                    <p class="answer">Answer 2</p>
+                    <p class="answer">Jereboam (3L)<br/>Balthazar (12L)<br/>Sovereign (26.25L)<br/>Melchizedek (30L)
+</p>
                 </div>
             </div>
 
@@ -151,7 +152,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer3" placeholder="Answer to question 3" rows="4" required></textarea>
-                    <p class="answer">Answer 3</p>
+                    <p class="answer">After Dinner Willies (£4.80)<br/>Studded Buckle Handcuffs (£14)<br/>Pom Pom Bunny Lounge Set (£24.50)<br/>Arrest Me Officer Outfit (£28)
+</p>
                 </div>
             </div>
 
@@ -171,7 +173,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer4" placeholder="Answer to question 4" rows="4" required></textarea>
-                    <p class="answer">Answer 4</p>
+                    <p class="answer">Turnips (1st C)<br/>Cabbage (14th C)<br/>Cauliflower (16th C)<br/>Beetroot (17th C)
+</p>
                 </div>
             </div>
 
@@ -191,7 +194,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer5" placeholder="Answer to question 5" rows="4" required></textarea>
-                    <p class="answer">Answer 5</p>
+                    <p class="answer">YMCA – Village People (1.5M)<br/> Two Tribes – Frankie Goes to Holywood (1.6M)<br/>Barbie Girl – Aqua (1.8M)<br/>Mull of Kintyre – Wings (2M)
+</p>
                 </div>
             </div>
 
@@ -211,7 +215,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer6" placeholder="Answer to question 6" rows="4" required></textarea>
-                    <p class="answer">Answer 6</p>
+                    <p class="answer">Crunchie (4.7/g)<br/>Picnic (4.9/g)<br/>Star Bar (5.1/g)<br/>Wispa (5.5/g)
+</p>
                 </div>
             </div>
 
@@ -231,7 +236,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer7" placeholder="Answer to question 7" rows="4" required></textarea>
-                    <p class="answer">Answer 7</p>
+                    <p class="answer">Logan (37th)<br/>Alfie (18th)<br/>Muhammad (5th)<br/>Noah(4th)
+</p>
                 </div>
             </div>
 
@@ -251,7 +257,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer8" placeholder="Answer to question 8" rows="4" required></textarea>
-                    <p class="answer">Answer 8</p>
+                    <p class="answer">Maisie (41st)<br/>Sienna (22nd)<br/>Florence (14th)<br/>Olivia (1st)
+</p>
                 </div>
             </div>
 
@@ -271,7 +278,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer9" placeholder="Answer to question 9" rows="4" required></textarea>
-                    <p class="answer">Answer 9</p>
+                    <p class="answer">Boris Johnson on Covid (2020 - 27.1m)<br/>Wedding of Princess Anne and Mark Phillips (1973 - 28.4m)<br/>Apollo 13 Splashdown (1970 - 28.6m)<br/>Funeral of Diana (1997 - 32.1m)
+</p>
                 </div>
             </div>
 
@@ -291,7 +299,8 @@
 
                 <div class="col-sm-12 col-md-6">
                     <textarea class="form-control" id="answer10" placeholder="Answer to question 10" rows="4" required></textarea>
-                    <p class="answer">Answer 10</p>
+                    <p class="answer">Sofia Veraga ($43m)<br/>Akshay Kumar ($48.5)<br/>Mark Wahlberg ($58m)<br/>Dwayne Johnson ($87.5m)
+</p>
                 </div>
             </div>
 
