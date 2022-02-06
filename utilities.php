@@ -649,12 +649,6 @@ $wn[] = (object) [
 ];
 
 $wn[] = (object) [
-    "date" => "23 Jan 2022",
-    "text" => "Still time to enter the final Christmas Quiz!",
-    "link" => "<a href='quizzes.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
-];
-
-$wn[] = (object) [
     "date" => "02 Jan 2022",
     "text" => "Updates for Olivia, Emma and Hamish on the Committee page.",
     "link" => "<a href='/society.php#committee' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
@@ -1049,7 +1043,7 @@ function getWhatsNewList() {
     global $wn;
     $ret = "";
     $template = '
-    <div class="col-12 col-md-4 mb-2 d-flex align-items-stretch">    
+    <div class="col-12 col-md-4 xmb-2 d-flex align-items-stretch">    
         <div class="card whatsnew  h-100" style="width: 100%">   
             <div class="card-body">             
                 <div class="card-title text-center">
@@ -1113,11 +1107,11 @@ function getWhatsNewList() {
 
     $ret = '';
     if (strlen($det) > 0) {
-        $ret = "<div class='row mb mt-5'><div class='col-12'><h2>What's new in the last 14 days</h2></div>{$det}
+        $ret = "<div class='row mb-2 mt-1'><div class='col-12'><h2>What's new in the last 14 days</h2></div>{$det}
         </div>";
     }
 
-    $ret .= "<div id='top-content' style='margin-bottom: 120px' ></div>";
+    $ret .= "<div id='top-content' style='margin-bottom: 20px' ></div>";
 
     return $ret;
 }

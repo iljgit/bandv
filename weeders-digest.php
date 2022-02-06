@@ -93,17 +93,11 @@
                     </a>
                 </div>
 
-                <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="community.php">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/community.jpg)'></div>Community Projects
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-4 col-lg-3 quick">
+                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="#sustainable">
                         <div class="image" style='background-image: url(/assets/img/weeders-digest/cambridge-sustainable-food.jpg)'></div>Cambridge Sustainable Food
                     </a>
-                </div>
+                </div> -->
 
                 <div class="col-12 col-md-4 col-lg-3 quick">
                     <a href="#links">
@@ -127,9 +121,9 @@
 
             <?php echo(getWhatsNewList()); ?>
 
-            <div class="row mb mt-5 justify-content-md-center">
+            <div class="row xmb xmt-5 justify-content-md-center">
 
-                <div class="col-12 mb-5 mt-2" style="border: 2px solid red; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px #c0c0c0">
+                <!-- <div class="col-12 mb-5 mt-2" style="border: 2px solid red; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px #c0c0c0">
                     <h2 class="text-center">Society AGM 2021</h2>
                     <p>The 2021 AGM (delayed from the spring) took place at St Thomas’s Hall, Ancaster Way, on Tuesday November 23rd 2021. 
                         Minutes of the meeting will be available in due course from the <a href="/society.php#documents" title="AGM minutes">Society</a> page.
@@ -138,7 +132,7 @@
                         <b>Importantly</b>, amendments to the constitution were voted through and are available 
                         <a title="Click for latest Society Constitution" href="assets/docs/Constitution_24-11-2021.pdf" target="_blank" class=''>here</a>.
                     </p>
-                </div>
+                </div> -->
 
                 <!--?php echo(getWhatsNew()); ?-->
 
@@ -146,7 +140,7 @@
 
             </div>
                                 
-            <div class="row mb mt-5 justify-content-md-center" id="xhome">
+            <div class="row mb xmt-5 justify-content-md-center" id="xhome">
 
                 <div class="col-12 mb-5 mt-2" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
@@ -169,11 +163,11 @@
 
                 <!--?php echo(getWhatsNew()); ?-->
 
-                <div  id="sustainable" class='col-12 col-md-4'><hr></div>
+                <!-- <div  id="sustainable" class='col-12 col-md-4'><hr></div> -->
 
             </div>
 
-            <div class="row mb mt-5" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
+            <!-- <div class="row mb mt" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
 
                 <div class="col-12">
                     <h2>Cambridge Sustainable Food</h2>
@@ -194,7 +188,7 @@
 
             </div>
 
-            <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div>
+            <div class='row mb justify-content-md-center'><div class='col-12 col-md-4'><hr/></div></div> -->
 
             <!-- <div class="row mb">
 
@@ -283,7 +277,7 @@
                     
                 </div>
 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                <!-- <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                     
                     <img src="/assets/img/weeders-digest/links/childrensweek.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 5px;" />
                     <h4>Gardening for children</h4>
@@ -294,7 +288,7 @@
                     </a>
 
                     
-                </div>
+                </div> -->
 
                 <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                     
@@ -306,7 +300,7 @@
                     
                 </div>
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                <!-- <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                 
                     <img src="/assets/img/weeders-digest/links/tvgarden.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" />
                     <h4>Allotment &amp; Gardens - Advice and useful information</h4>
@@ -314,16 +308,16 @@
                     <a title="Visit the allotment garden web site at http://www.allotment-garden.org/" href="http://www.allotment-garden.org/" target="ext"><i>allotment-garden.org</i></a>
 
                     
-                </div>
+                </div> -->
                 
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                <!-- <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                 
                     <img src="/assets/img/weeders-digest/links/carrots.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" /><h4>Everything you always wanted to know about carrots, and more besides</h4>
                     Allegedly the world's first virtual museum of the carrot - and who are we to judge?<br><br>
                     <a title="Visit the carrot museum at http://www.carrotmuseum.co.uk/" href="http://www.carrotmuseum.co.uk/" target="ext"><i>carrotmuseum.co.uk</i></a>
 
                     
-                </div>
+                </div> -->
                 
                 <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">   
                     <h4>The National Allotment Society</h4>
@@ -333,12 +327,12 @@
                     </p>
                 </div>
                     
-                <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
+                <!-- <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                     <p><img src="/assets/img/weeders-digest/links/thirsty.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" /><h4>Two Thirsty Gardeners</h4>
                     Digging and swigging through the seasons.<br><br>
                     <a title="Visit the Two Thirsty Gardener's website at http://twothirstygardeners.co.uk/" href="http://twothirstygardeners.co.uk/" target="ext"><i>twothirstygardeners.co.uk</i></a>
                     </p>
-                </div>
+                </div> -->
                 
                 <div class="col-sm-12 col-md-6" style="padding-bottom: 10px; padding-top: 20px;">  
                     <p><img src="/assets/img/weeders-digest/links/organicsite.jpg" class="img-thumbnail pull-right" style="height: 100px; margin-left: 10px; margin-bottom: 10px;" /><h4>No Dig Organic Gardening</h4>

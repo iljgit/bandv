@@ -44,6 +44,7 @@
           <a class="dropdown-item" href="/history.php">History</a>
           <a class="dropdown-item" href="/trevor-taylor.php">Trevor Taylor</a>
           <a class="dropdown-item" href="/media.php">Mutimedia</a>
+          <a class="dropdown-item" href="/community.php">Community</a>
         </div>
       </li>
       <li class="nav-item">
