@@ -25,7 +25,7 @@
 
             </div>
 
-            <div class="row mb">
+            <div class="row mb justify-content-around">
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card">
                     <div class="card">

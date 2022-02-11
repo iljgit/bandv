@@ -206,12 +206,30 @@
                     <p class="large-text">Awaiting the election of a new chair</p>
                 </div> -->
 
-                <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside site co-manager</h4><i>Andy Kurdynowski - Burnside</i></p> 
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Secretary</h4><i>Hamish Symington</i></p>
                     <blockquote class="blockquote">
-                        <img title="Andy - Store Manager, and Burnside Site Manager" class="img margin img-responsive img-rounded thumbnail-lg pull-right" style="max-width: 40%;" src="/assets/img/society/committee/andy.jpg"/>
+                    <img title="Hamish Symington - Secretary and Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/hamish-symington.jpg"/> 
+                    My wife and I have had a half plot for about six years, and I've kept bees in an apiary on the site for nine. 
+                    We’re aiming to work on our vegetables in the next few years, after decent success with currants, tayberries, strawberries and greengages. 
+                    Like most others, I think we always hope to spend more time on our plot than we actually do! 
+                    </blockquote>
+                    <p class="large-text text-center">
+                        <a id="secretaryemail" title="secretary@burnsideandvineryallotments.org" href="mailto:secretary@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;secretary</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'secretaryemail');"></i>
+                    </p>
+                </div>
+
+                <div class="col-xs-12 col-md-6"  style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Treasurer and Burnside site co-manager</h4><i>Andy Kurdynowski - Burnside</i></p> 
+                    <blockquote class="blockquote">
+                        <img title="Andy - Treasurer, Store Manager, and Burnside Site Manager" class="img margin img-responsive img-rounded thumbnail-lg pull-right" style="max-width: 40%;" src="/assets/img/society/committee/andy.jpg"/>
                         I’ve had my plot on Burnside for about 15 years, starting as a complete allotment novice, and have been a member of the committee for much of that time. I am one of the two Burnside site managers, often spending too much time maintaining the site and not enough working my plot, but I do get enjoyment from both.
                     </blockquote>
+                    <p class="large-text text-center">
+                        <a id="treasureremail" title="treasurer@burnsideandvineryallotments.org" href="mailto:treasurer@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;treasurer</a> 
+                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'treasureremail');"></i>
+                    </p>
                     <p class="large-text text-center">
                         <a id="viceemail" title="burnsidesitemanager@burnsideandvineryallotments.org" href="mailto:burnsidesitemanager@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;burnsidesitemanager</a> 
                         <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
@@ -219,7 +237,7 @@
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery site manager</h4><i>Barry South - Vinery</i></p>
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Vinery site chair and manager</h4><i>Barry South - Vinery</i></p>
                     <blockquote class="blockquote">
                         <img title="Barry - Vinery Manager" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/barry.jpg"/> 
                         I’ve had a plot on the Vinery site since 2004 growing mostly fruit and veg that you can’t find easily in the supermarkets or that are just better eaten fresh. 
@@ -232,16 +250,23 @@
                     </p>
                 </div>
 
-                <div class="col-xs-12 col-md-6">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Secretary, Treasurer and Burnside site co-manager</h4><i>Matthew Whitelegg - Burnside</i></p>
+                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside site chair</h4><i>Olivia Bull</i></p>
                     <blockquote class="blockquote">
-                        <img title="Matthew - Treasurer, Secretary, and Burnside Site Manager" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/mattheww.jpg"/> 
+                    <img title="Olivia Bull - Burnside site chair" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/olivia-bull.jpg"/> 
+                    My partner and I gratefully received a half plot at Burnside in May 2020 and it has been an incredible adventure since. 
+                    I must admit I was more of a houseplant person then an outdoor gardener, but having the allotment has definitely changed that! 
+                    You will often find us pottering around the plot or sometimes enjoying a drink in the sunshine. 
+                    I am always up for a chat, so do come say hello if you see me. I look forward to being able to further support the society as a member of the committee. 
+                    </blockquote>
+                </div>
+
+                <div class="col-xs-12 col-md-6">
+                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside site co-manager</h4><i>Matthew Whitelegg - Burnside</i></p>
+                    <blockquote class="blockquote">
+                        <img title="Matthew - Burnside Site Manager" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/mattheww.jpg"/> 
                         I started on the allotment in the Spring of 2009. Since then we have enjoyed abundant crops of bindweed and mare’s tail. As well as tending the plot I have the role of Burnside site manager along with Andy K. Over the years this has involved letting out plots to new tenants and generally working on the site as a whole.
                     </blockquote>
-                    <p class="large-text text-center">
-                        <a id="treasureremail" title="treasurer@burnsideandvineryallotments.org" href="mailto:treasurer@burnsideandvineryallotments.org"><i class="fas fa-envelope"></i>&nbsp;treasurer</a> 
-                        <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'treasureremail');"></i>
-                    </p>
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
@@ -261,33 +286,12 @@
                 </div>
 
                 <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Olivia Bull</i></p>
-                    <blockquote class="blockquote">
-                    <img title="Olivia Bull - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/olivia-bull.jpg"/> 
-                    My partner and I gratefully received a half plot at Burnside in May 2020 and it has been an incredible adventure since. 
-                    I must admit I was more of a houseplant person then an outdoor gardener, but having the allotment has definitely changed that! 
-                    You will often find us pottering around the plot or sometimes enjoying a drink in the sunshine. 
-                    I am always up for a chat, so do come say hello if you see me. I look forward to being able to further support the society as a member of the committee. 
-                    </blockquote>
-                </div>
-
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
                     <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Emma Lacy</i></p>
                     <blockquote class="blockquote">
                     <img title="Emma Lacy - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/emma-lacy.jpg"/> 
                     I got my plot at Burnside right at the start of the pandemic in 2020. It's my little Eden and a place away from the hustle and bustle. 
                     Having worked at The RSPB and at environmental organisations, before going gardener full time, it's an environment I'm really passionate about. 
                     Putting nature and the climate first by growing my own.
-                    </blockquote>
-                </div>
-
-                <div class="col-xs-12 col-md-6" style="margin-bottom: 10px;">
-                    <p style="margin-bottom: 10px;"><h4 class="text-primary">Burnside committee member</h4><i>Hamish Symington</i></p>
-                    <blockquote class="blockquote">
-                    <img title="Hamish Symington - Burnside Committe Member" class="img margin img-responsive img-rounded img-thumbnail pull-right" style="max-width: 40%;" src="/assets/img/society/committee/hamish-symington.jpg"/> 
-                    My wife and I have had a half plot for about six years, and I've kept bees in an apiary on the site for nine. 
-                    We’re aiming to work on our vegetables in the next few years, after decent success with currants, tayberries, strawberries and greengages. 
-                    Like most others, I think we always hope to spend more time on our plot than we actually do! 
                     </blockquote>
                 </div>
 
