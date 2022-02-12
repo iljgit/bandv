@@ -135,11 +135,6 @@
       <div class="col-12">
         <h4>Email contact details</h4>
 
-            <p>
-              <a id="chairemail" title="chair@burnsideandvineryallotments.org" href="mailto:chair@burnsideandvineryallotments.org">Society chair</a> 
-              <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'chairemail');"></i>
-            </p>
-
             <p class="mt-2">
                 <a id="vineryemail" title="vinery@burnsideandvineryallotments.org" href="mailto:vinery@burnsideandvineryallotments.org">Vinery site manager</a> 
                 <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'vineryemail');"></i>

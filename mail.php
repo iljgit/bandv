@@ -35,6 +35,7 @@ function params($m) {
 // do we have an email address - stops crawlers activating the script
 $email = geturi('email');
 if (!$email || strlen($email) === 0) {
+    echo 'No email';
     exit();
 }
 
@@ -80,14 +81,38 @@ $message = $templateConf;
 $message .= $footer;
 $message = params($message);
 
-$ret = mail ( $email , $subject , $message, $headers );
+try {
+    $ret = mail ( $email , $subject , $message, $headers );
+    echo 'Message1 sent';
+}
+//catch exception
+catch(Exception $e) {
+    echo 'Message error1: ' .$e->getMessage();
+}
 
 // send an email to the site manager
 $message = $templateApp;
 
 $message .= $footer;
 $message = params($message);
-$email = 'treasurer@burnsideandvineryallotments.org';
+$email = 'matthew.whitelegg@ntlworld.com';
 
-$ret = mail ( $email , $subject , $message, $headers );
+try {
+    $ret = mail ( $email , $subject , $message, $headers );
+    echo ' Message2 sent';
+}
+catch(Exception $e) {
+    echo ' Message error2: ' .$e->getMessage();
+}
+
+$email = 'allocation@burnsideandvineryallotments.org';
+try {
+    $ret = mail ( $email , $subject , $message, $headers );
+    echo ' Message3 sent';
+}
+catch(Exception $e) {
+    echo ' Message error3: ' .$e->getMessage();
+}
+
+echo ' All Messages sent';
 ?>

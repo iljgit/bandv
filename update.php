@@ -178,7 +178,7 @@
                     </div>
 
                     <div class="form-group">
-                      <label for="planned">Planned activities</label>
+                      <label for="planned">Current and planned activities</label>
                       <div id="toolbar-planned"></div>
                       <div class="form-control editor" id="planned" placeholder="Planned activities" style="width: 100%; height: 150px; border: 1px solid silver;"></div>
                     </div>
