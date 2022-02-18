@@ -348,7 +348,7 @@ let PFModal = {
 			case 'applicationok':
 				args.type = 'info';
 				args.body = 'Thank you for your application.<br><br>' +
-							'We have sent you an automated email confirming your details.  We will be in touch shortly to discuss your application.';
+							'We have sent you an email confirming your details (you may need to check your Bin / Spam folders).  We will be in touch to discuss your application.';
 			break;
 
 			case 'quizok':
