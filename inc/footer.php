@@ -1,6 +1,14 @@
 <div id="footerwrap">
     <div class="container">
             <div class="row">
+            <div class="col-12 col-md-8">
+                            <h4>Registered address</h4>
+                            <div class="hline-w"></div>
+                            <p>
+                                The Vinery Road Permanent Allotment Society<br>
+                                15 St. Thomas's Square<br>Cambridge<br>CB1 3TG
+                            </p>
+                    </div>
                     <div class="col-12 col-md-4">
                             <h4>Site map</h4>
                             <div class="hline-w"></div>
@@ -17,22 +25,14 @@
                                 </table>
                             </p>
                     </div>
-                    <div class="col-12 col-md-4">
+                    <!-- <div class="col-12 col-md-4">
                             <h4>Social Links</h4>
                             <div class="hline-w"></div>
                             <p>
                                     <a href="https://twitter.com/burnvine"><i style="font-size: 20px;"class="fab fa-twitter-square"></i></a>
-                                    <!--a href="https://burnsideandvineryallotments.org/forum"><i class="fa fa-share"></i></a-->
+                                    a href="https://burnsideandvineryallotments.org/forum"><i class="fa fa-share"></i></a
                             </p>
-                    </div>
-                    <div class="col-4">
-                            <h4>Registered address</h4>
-                            <div class="hline-w"></div>
-                            <p>
-                            The Vinery Road Permanent Allotment Society<br>
-92 Coleridge Road<br>Cambridge<br>CB1 3PJ
-                            </p>
-                    </div>
+                    </div> -->
             
             </div><! --/row -->
 
