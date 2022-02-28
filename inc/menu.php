@@ -32,9 +32,9 @@
       <li class="nav-item">
         <a class="nav-link" href="/photos.php">Photos</a>
       </li>
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a class="nav-link" href="/quizzes.php">Quizzes</a>
-      </li>
+      </li> -->
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
           About
@@ -43,7 +43,7 @@
           <a class="dropdown-item" href="/society.php">Society</a>
           <a class="dropdown-item" href="/history.php">History</a>
           <a class="dropdown-item" href="/trevor-taylor.php">Trevor Taylor</a>
-          <a class="dropdown-item" href="/media.php">Mutimedia</a>
+          <a class="dropdown-item" href="/media.php">Multimedia</a>
           <a class="dropdown-item" href="/community.php">Community</a>
         </div>
       </li>
