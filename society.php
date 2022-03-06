@@ -72,7 +72,7 @@
                         <div class='card-header simple'>Society Rules and Regulations</div>
                         <div class="card-body simple">
                             <p>Please ensure that you make sure you are up to date with the small number of rules.</p>
-                            <p>Updated 6<sup>th</sup> April 2020</p>
+                            <p><i>Updated 6<sup>th</sup> April 2020</i></p>
                         </div> 
                         <div class="card-footer simple">
                             <a title="Click for 2020 update" href="assets/docs/Allotment Rules April 2020.pdf" target="_blank" class='btn btn-primary'>Rules...</a>
@@ -85,7 +85,8 @@
                         <div class='card-header simple'>GDPR</div>
                         <div class="card-body simple">
                             <p>GDPR (General Data Protection Regulation)</p>
-                            <p>We hold absolutely minimal data tenants.  The GDPR document details our obligations.</p>
+                            <p>This document details what personal data is held and our obligations.</p>
+                            <p><i>Updated 6<sup>th</sup> March 2022</i></p>
                         </div> 
                         <div class="card-footer simple">
                             <a title="Click for GDPR" href="assets/docs/Burnside and Vinery Allotments GDPR.pdf" target="_blank" class='btn btn-primary'>GDPR...</a>
@@ -111,7 +112,7 @@
                         <div class='card-header simple'>Constitution</div>
                         <div class="card-body simple">
                             <p>Constitution of the Burnside and Vinery Road Allotment Society.</p>
-                            <p>Last updated 27<sup>th</sup> January 2022.</p>
+                            <p><i>Updated 27<sup>th</sup> January 2022.</i></p>
                         </div> 
                         <div class="card-footer simple">
                             <a title="Click for latest Society Constitution" href="assets/docs/Constitution_28_01_2022.pdf" target="_blank" class='btn btn-primary'>Constitution...</a>
@@ -174,7 +175,7 @@
                         <div class='card-header simple'>Council Lease</div>
                         <div class="card-body simple">
                             <p>The City Council periodically updates the lease agreement for the Society.</p>
-                            <p>This was last updated in May 2020.</p>
+                            <p><i>Updated in May 2020.</i></p>
                         </div> 
                         <div class="card-footer simple">
                             <a title="Click for current Council lease agreement" href="assets/docs/Lease agreement final VINERY ROAD PERMANENT ALLOTMENT SOCIETY LIMITED.pdf" target="_blank" class='btn btn-primary'>Lease...</a>
