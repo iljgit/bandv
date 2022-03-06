@@ -125,14 +125,17 @@
 	 		
 
 	 		
-	 		<div class="col-12">
+	 		<div class="col-12 col-md-6">
 		 		<h4>Our registered address</h4>
 		 		<div class="hline"></div>
 		 			<p class="large-text">
-                            The Vinery Road Permanent Allotment Society<br>
-92 Coleridge Road<br>Cambridge<br>CB1 3PJ</p>
+            The Vinery Road Permanent Allotment Society<br>
+            15 St. Thomas's Square<br>
+            Cambridge<br>
+            CB1 3TG
+          </p>
       </div>
-      <div class="col-12">
+      <div class="col-12 col-md-6">
         <h4>Email contact details</h4>
 
             <p class="mt-2">
@@ -145,10 +148,10 @@
                 <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'viceemail');"></i>
             </p>
 
-            <p class="mt-2">
+            <!-- <p class="mt-2">
                 <a id="webmasteremail" href="mailto:webmaster@burnsideandvineryallotments.org" title="webmaster@burnsideandvineryallotments.org">Webmaster</a> 
                 <i title="Click to copy the email address to the clipboard" class="fas fa-copy" onclick="BandV.copyAddressToCB(this, 'webmasteremail');"></i>
-            </p>
+            </p> -->
 	 		</div>
 
 	 	</div><! --/row -->
