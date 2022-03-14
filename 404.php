@@ -2,11 +2,11 @@
 <html lang="en">
     <head>
         <?php include "inc/header.php" ?>
+        <meta http-equiv="refresh" content="0;URL='https://burnsideandvineryallotments.org/'" />
     </head>
-    <body onload="BandV.onload();">
-        <?php include "inc/menu.php" ?>
+    <body xonload="BandV.onload();">
+        <!-- <?php include "inc/menu.php" ?>
 
-        <!-- Banner image -->
         <div class="container-fluid parallax banner" style="background-image: url(assets/img/index/header.jpg); background-position: bottom center;">
             <h1 id="title"><span class="title-background">Burnside and Vinery Road Allotment Society</span></h1>
         </div>
@@ -21,8 +21,8 @@
                     </div>
 
                             
-         </div><!--/container --> 
+         </div> 
 
-        <?php include "inc/footer.php" ?>
+        <?php include "inc/footer.php" ?> -->
     </body>
 </html>
