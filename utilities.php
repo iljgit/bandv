@@ -441,6 +441,12 @@ $wn[] = (object) [
     "link" => "<a href='society.php#documents' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "02 Apr 2022",
+    "text" => "Photos from the first Burnside volunteering day of the year",
+    "link" => "<a href='gallery.php?index=burnsidevday_20220402' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 
 $gallery = (object)[];
 
@@ -755,6 +761,15 @@ $gallery->burnside20210918 = (object) [
     "date" => "18 Sep 2021",
     "body" => "<p>Just a few random photos of Burnside on a glorious mid-September morning.  The fruit trees were dripping, flowers out, all was good with the world.</p>",
     "excerpt" => "Early morning on the site, warm, sun streaming, hardly a soul around.",
+    "active" => true
+];
+
+$gallery->burnsidevday_20220402 = (object) [
+    "title" => "Burnside Volunteering Day - April 2022",
+    "banner" => "img_20220402_114355__r2S6g.jpg",
+    "date" => "04 Apr 2022",
+    "body" => "<p>It was a bright, cool day - ideal for knocking down disused sheds, clearing over-grown patches, and just generally tidying up.  And lots of people there to help.</p>",
+    "excerpt" => "The first volunteering day of the year at Burnside",
     "active" => true
 ];
 
