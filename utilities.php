@@ -447,6 +447,12 @@ $wn[] = (object) [
     "link" => "<a href='gallery.php?index=burnsidevday_20220402' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "02 Apr 2022",
+    "text" => "A reminder that blue (metaldehyde) slug pellets can no longer be used",
+    "link" => "<a href='blog/slug-pellets.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 
 $gallery = (object)[];
 
