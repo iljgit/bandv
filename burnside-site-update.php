@@ -12,7 +12,7 @@
         <?php include "inc/menu.php" ?>
 
         <!-- Banner image -->
-        <div class="container-fluid parallax banner" style="background-image: url(assets/img/index/burnside2.jpg); background-position: bottom center;">
+        <div class="container-fluid parallax banner" style="background-image: url(assets/img/index/burnside3.jpg); background-position: bottom center;">
             <h1 id="title"><span class="title-background">Burnside Site Update</span></h1>
         </div>
 
