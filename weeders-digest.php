@@ -429,17 +429,18 @@
 	    </div> -->
 
         <div id="store" class="container-fluid parallax banner" style="background-image: url(/assets/img/weeders-digest/store2.jpg); margin-top: 80px;">
-                <h2 id="title"><span class="title-background">The Store - 2021</span></h2>
+                <h2 id="title"><span class="title-background">The Store - 2022</span></h2>
         </div>
 
         <!-- Links -->
         <div class="container">
             <div class="row mb">
                 <div class="col-12">
-                    <p>The Store is located at the Burnside entrance to the Burnside site. It was revamped in 2017.</p>
+                    <p>The Store is located at the Burnside entrance to the Burnside site. It will re-open on <b>Saturday 30<sup>th</sup> April, 10 - 4</b></p>
                     <p>The Store is open 10 - 12 Saturdays and Sundays in May, and Saturdays only in June and July.</p>
+                    <p>The price list will be coming shortly.</p>
                     <!-- <p>If possible, please pay for items online - details available from the store.</p> -->
-                    <p>The Store is now closed until Spring 2022.</p>
+                    <!-- <p>The Store is now closed until Spring 2022.</p> -->
                 </div>
             </div>
 

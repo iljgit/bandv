@@ -453,6 +453,12 @@ $wn[] = (object) [
     "link" => "<a href='blog/slug-pellets.php' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "04 Apr 2022",
+    "text" => "A reminder that the Store at Burnside re-opens on Saturday 30<sup>th</sup> April",
+    "link" => "<a href='weeders-digest.php#store' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
+];
+
 
 $gallery = (object)[];
 
