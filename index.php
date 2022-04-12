@@ -125,7 +125,7 @@ Click <a title="Click to see the Burnside burn bin regulations" target="burnbin"
 
 
 <p>
-There is an apiary on site, near the Burn Bin. Honey is available at certain times of year in a box next to the apiary: current price is £5 per jar. 
+There is an apiary on site, near the Burn Bin. Honey is available at certain times of year in a box next to the apiary: current price is £6 per jar. 
 If the box is empty and you would like to enquire about supplies, please mail Hamish at <a href="mailto:me@hamishsymington.com" title="Hamish's email">me@hamishsymington.com</a>.
 </p>
                 </div>
