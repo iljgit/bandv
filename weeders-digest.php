@@ -499,7 +499,7 @@
                             <!-- <tr><td >Rock Dust 20kg</td><td >&pound;10.00</td></tr> -->
                             <!-- <tr><td >Rock Dust 5kg</td><td >&pound;3.00</td></tr> -->
                             <tr><td >OSMO PRO 4 Organic Fertiliser 1kg</td><td >&pound;1.50</td></tr>
-                            <tr><td >Fish, Blood and Bone 1kg</td><td >&pound;1.00</td></tr>
+                            <tr><td >Fish, Blood and Bone 1kg</td><td >&pound;1.50</td></tr>
                             <tr><td >Chicken Pellets (6X) 1kg</td><td >&pound;1.50</td></tr>
                         </tbody>
                     </table>                    
