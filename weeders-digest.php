@@ -457,6 +457,9 @@
                         </ul>
                     </p>
                     <p>
+                        Details of how to bid and bidding forms will be available from the store on the day.
+                    </p>
+                    <p>
                         Many other one offs for opening day only. PLUS, cakes and hot and cold drinks all day form 10 till 4.
                     </p>
                 </div>
