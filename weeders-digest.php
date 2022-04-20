@@ -436,26 +436,44 @@
         <div class="container">
             <div class="row mb">
                 <div class="col-12">
-                    <p>The Store is located at the Burnside entrance to the Burnside site. It will re-open on <b>Saturday 30<sup>th</sup> April, 10 - 4</b></p>
-                    <p>The Store is open 10 - 12 Saturdays and Sundays in May, and Saturdays only in June and July.</p>
-                    <p>The price list will be coming shortly.</p>
-                    <!-- <p>If possible, please pay for items online - details available from the store.</p> -->
+                    <p>
+                        The Store is located at the Burnside entrance to the Burnside site. 
+                        It re-opens on <b>Saturday 30<sup>th</sup> April, 10 - 4</b> (note the extended opening hours for the first day only)
+                    </p>
+                    <p>The Store is normally open 10 - 12 Saturdays and Sundays in May, and Saturdays only in June and July.</p>
+                    <!-- <p>The price list will be coming shortly.</p> -->
+                    <p>If possible, please pay for items online - details available from the store.</p>
                     <!-- <p>The Store is now closed until Spring 2022.</p> -->
+                    <p>
+                        <h4 style="margin-top: 40px">Store opening day April 30th specials:</h4>
+                    </p>
+                    <p>
+                        All the following For Sale by sealed bid auctions, NO reserves - grab a real bargain!
+                        <ul>
+                            <li>Old but reliable workhorse rotavator</li>
+                            <li>Nearly new, hardly used, Einhell rotavator</li>
+                            <li>Top quality Exbury mini greenhouse by Access Garden products. Powder coated aluminium frame and toughened glass – new price £1500. Exbury 5' 0" classic growhouse - Access Garden Products (garden-products.co.uk)</li>
+                            <li>Small, galvanised frame, poly tunnel</li>
+                        </ul>
+                    </p>
+                    <p>
+                        Many other one offs for opening day only. PLUS, cakes and hot and cold drinks all day form 10 till 4.
+                    </p>
                 </div>
             </div>
 
-            <!--div class="row mb">
+            <div class="row mb">
                 <div class="col-12">
                     <h4>
-                        Price list 2021
+                        Price list 2022
                     </h4>
                     <table style="border-spacing: 15px; border-collapse:separate;">
                         <tbody>
                         <!-- <tr class="sold"> -->
-                            <!--tr ><td>Grow Organic 50L</td><td >&pound;7.50</td></tr>
-                            <tr><td >Blended Farmyard Manure 40L</td><td >&pound;5.00</td></tr>
-                            <tr ><td>Clover Multi-Purpose Compost 75L</td><td >&pound;5.50</td></tr>
-                            <tr ><td>Melcourt All Purpose Peat Free Compost 50L</td><td >&pound;6.50</td></tr>
+                            <tr ><td>Grow Organic 50L</td><td >&pound;7.50</td></tr>
+                            <!-- <tr><td >Blended Farmyard Manure 40L</td><td >&pound;5.00</td></tr> -->
+                            <tr ><td>Clover Multi-Purpose Compost 75L</td><td >&pound;7.00</td></tr>
+                            <tr ><td>New Horizon Peat Free Compost 50L</td><td >&pound;6.50</td></tr>
                             <tr ><td>Clover 4 Plant Grow-Bag</td><td >&pound;3.50</td></tr>
                             <tr><td >Miracle Gro All Purpose Liquid Plant Food 1L</td><td >&pound;4.00</td></tr>
                             <tr><td >Bird Netting (4m wide - per m)</td><td >&pound;1.50</td></tr>
@@ -463,28 +481,30 @@
                             <tr ><td>Fine Insect Mesh 0.6mm (3.6m wide - per m)</td><td >&pound;5.00</td></tr>
                             <tr><td >MDPE pipe for netting loops (25mm - per m)</td><td >&pound;1.00</td></tr>
                             <tr><td >125gsm weed control fabric (4m wide – per m)</td><td >&pound;4.00</td></tr>
-                            <tr><td >Garden twine (plastic)</td><td >&pound;2.50</td></tr>
                             <tr><td >6 inch weed fabric staples</td><td >20p ea</td></tr>
-                            <tr><td >Tomorite tomato Feed 1L</td><td >&pound;3.50</td></tr>
-                            <tr><td >Maxicrop Organic Tomato Feed 1L</td><td >&pound;6.25</td></tr>
-                            <tr><td>Garden Twine (green)</td><td >&pound;1.75</td></tr>
-                            <tr><td >Garden Twine (brown)</td><td >&pound;2.00</td></tr>
+                            <tr><td >Garden twine (plastic)</td><td >&pound;2.50</td></tr>
+                            <tr><td>Garden twine (green)</td><td >&pound;2.00</td></tr>
+                            <tr><td >Garden twine (brown)</td><td >&pound;4.00</td></tr>
+                            
+                            <tr><td >Tomorite Tomato Feed 1L</td><td >&pound;5.00</td></tr>
+                            <!-- <tr><td >Maxicrop Organic Tomato Feed 1L</td><td >&pound;6.25</td></tr> -->
+                            
                             <tr ><td>Extra Thick Bamboo Canes 8ft</td><td >&pound;2.50 ea</td></tr>
                             <tr><td >Thick Bamboo Canes 8ft</td><td >80p ea</td></tr>
-                            <tr><td >Bamboo Canes 6ft</td><td >40p ea</td></tr>
-                            <tr><td >Bamboo Canes 4ft</td><td >25p ea</td></tr>
-                            <tr><td >Permanent marker for plant labels</td><td >&pound;2.50</td></tr>
+                            <tr><td >Bamboo Canes 6ft</td><td >60p ea</td></tr>
+                            <tr><td >Bamboo Canes 4ft</td><td >40p ea</td></tr>
+                            <tr><td >Permanent marker for plant labels</td><td >&pound;1.00</td></tr>
                             <tr><td >150mm white plant label x10</td><td >20p</td></tr>
                             <tr><td >17gsm Fleece (1.5m – per m)</td><td >20p</td></tr>
-                            <tr><td >Rock Dust 20kg</td><td >&pound;10.00</td></tr>
-                            <tr><td >Rock Dust 5kg</td><td >&pound;3.00</td></tr>
+                            <!-- <tr><td >Rock Dust 20kg</td><td >&pound;10.00</td></tr> -->
+                            <!-- <tr><td >Rock Dust 5kg</td><td >&pound;3.00</td></tr> -->
                             <tr><td >OSMO PRO 4 Organic Fertiliser 1kg</td><td >&pound;1.50</td></tr>
                             <tr><td >Fish, Blood and Bone 1kg</td><td >&pound;1.00</td></tr>
                             <tr><td >Chicken Pellets (6X) 1kg</td><td >&pound;1.50</td></tr>
                         </tbody>
                     </table>                    
                     
-                </div-->
+                </div>
             </div>
         </div>
         
