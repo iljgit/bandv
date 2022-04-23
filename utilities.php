@@ -459,6 +459,11 @@ $wn[] = (object) [
     "link" => "<a href='weeders-digest.php#store' title='Click for details'><button class='btn btn-success btn-sm'>More...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "23 Apr 2022",
+    "text" => "The Site Rules have been updated.  Please read them carefully.",
+    "link" => "<a href='assets/docs/Site-Rules-April-2022.pdf' target='_blank' title='Click to view'><button class='btn btn-success btn-sm'>View...</button></a>"
+];
 
 $gallery = (object)[];
 

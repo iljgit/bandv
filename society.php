@@ -54,42 +54,16 @@
 
         <div class="container">
             <div class="row mb">
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
-                    <div class="card">
-                        <div class='card-header simple'>City Council Update</div>
-                        <div class="card-body simple">
-                            <p>Periodically, we keep the City Council up-to-date with what has been happening on our two sites.</p>
-                            <p>Penny sent an update in 2019 detailing the major highlights of the previous ten years.</p>
-                        </div> 
-                        <div class="card-footer simple">
-                            <a title="Click for 2019 update" href="assets/docs/council-2019.pdf" target="_blank" class='btn btn-primary'>Update...</a>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
                     <div class="card">
-                        <div class='card-header simple'>Society Rules and Regulations</div>
+                        <div class='card-header simple'>Site Rules</div>
                         <div class="card-body simple">
                             <p>Please ensure that you make sure you are up to date with the small number of rules.</p>
-                            <p><i>Updated 6<sup>th</sup> April 2020</i></p>
+                            <p><i>Updated 23<sup>rd</sup> April 2022</i></p>
                         </div> 
                         <div class="card-footer simple">
-                            <a title="Click for 2020 update" href="assets/docs/Allotment Rules April 2020.pdf" target="_blank" class='btn btn-primary'>Rules...</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
-                    <div class="card">
-                        <div class='card-header simple'>GDPR</div>
-                        <div class="card-body simple">
-                            <p>GDPR (General Data Protection Regulation)</p>
-                            <p>This document details what personal data is held and our obligations.</p>
-                            <p><i>Updated 6<sup>th</sup> March 2022</i></p>
-                        </div> 
-                        <div class="card-footer simple">
-                            <a title="Click for GDPR" href="assets/docs/Burnside and Vinery Allotments GDPR.pdf" target="_blank" class='btn btn-primary'>GDPR...</a>
+                            <a title="Click for April 2022 update" href="assets/docs/Site-Rules-April-2022.pdf" target="_blank" class='btn btn-primary'>Rules...</a>
                         </div>
                     </div>
                 </div>
@@ -116,19 +90,6 @@
                         </div> 
                         <div class="card-footer simple">
                             <a title="Click for latest Society Constitution" href="assets/docs/Constitution_28_01_2022.pdf" target="_blank" class='btn btn-primary'>Constitution...</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
-                    <div class="card">
-                        <div class='card-header simple'>Burnside Burn-bin</div>
-                        <div class="card-body simple">
-                            <p>Burnside Burn-bin Regulations.</p>
-                            <p>Please ensure you know the regulations for everyone's safety and comfort.</p>
-                        </div> 
-                        <div class="card-footer simple">
-                            <a title="Click for Burnside Burn-bin regulations" href="assets/docs/BurnBin.pdf" target="_blank" class='btn btn-primary'>Regulations...</a>
                         </div>
                     </div>
                 </div>
@@ -166,6 +127,46 @@
                                 <option value="assets/docs/accounts2017.pdf">2017-18</option>
                             </select>&nbsp;
                             <button title="Click for a copy of the Society's accounts" class="btn btn-primary inline" onclick="BandV.showFromSelect('accounts');">Accounts...</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>GDPR</div>
+                        <div class="card-body simple">
+                            <p>GDPR (General Data Protection Regulation)</p>
+                            <p>This document details what personal data is held and our obligations.</p>
+                            <p><i>Updated 6<sup>th</sup> March 2022</i></p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for GDPR" href="assets/docs/Burnside and Vinery Allotments GDPR.pdf" target="_blank" class='btn btn-primary'>GDPR...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>City Council Update</div>
+                        <div class="card-body simple">
+                            <p>Periodically, we keep the City Council up-to-date with what has been happening on our two sites.</p>
+                            <p>Penny sent an update in 2019 detailing the major highlights of the previous ten years.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for 2019 update" href="assets/docs/council-2019.pdf" target="_blank" class='btn btn-primary'>Update...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Burnside Burn-bin</div>
+                        <div class="card-body simple">
+                            <p>Burnside Burn-bin Regulations.</p>
+                            <p>Please ensure you know the regulations for everyone's safety and comfort.</p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for Burnside Burn-bin regulations" href="assets/docs/BurnBin.pdf" target="_blank" class='btn btn-primary'>Regulations...</a>
                         </div>
                     </div>
                 </div>

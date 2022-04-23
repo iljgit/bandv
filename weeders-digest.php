@@ -33,21 +33,32 @@
                     Links marked as <span style="color: darkred">external</span> are not maintained by the society and you follow them at your own risk.
                 </div>
 
-                <div class="col-12 col-md-4 col-lg-3 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                    <a  href="assets/docs/Site-Rules-April-2022.pdf" target="_blank">
+                    <i class="fas fa-file-pdf"></i>&nbsp;Site Rules<br><span class="updated">Last updated 23<sup>rd</sup> April 2022</updated>
+                    </a>
+                </div>
+
+
+            </div>
+            <div class="row mb mt-3 xjustify-content-md-center" id="home">
+
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                     <a href="burnside-site-update.php">
-                        <div class="image" style='background-image: url(assets/img/index/burnside.jpg)'></div>Burnside site update <span class="updated"><?php echo($bupdate); ?></span>
+                    <i class="fas fa-map-marker"></i>&nbsp;Burnside site update<br><span class="updated"><?php echo($bupdate); ?></span>
                     </a>
                 </div>
 
-                <div class="col-12 col-md-4 col-lg-3 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                     <a href="vinery-site-update.php">
-                        <div class="image" style='background-image: url(assets/img/index/vinery.jpg)'></div>Vinery site update <span class="updated"><?php echo($vupdate); ?></span>
+                    <i class="fas fa-map-marker"></i>&nbsp;Vinery site update<br><span class="updated"><?php echo($vupdate); ?></span>
                     </a>
                 </div>
-
-                <div class="col-12 col-md-4 col-lg-3 quick">
+            </div>
+            <div class="row mb mt-3 xjustify-content-md-center" id="home">
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                     <a href="society.php">
-                        <div class="image" style='background-image: url(/assets/img/society/committee.jpg)'></div>The Society
+                    <i class="fas fa-info-circle"></i>&nbsp;The Society
                     </a>
                 </div>
 
@@ -63,15 +74,15 @@
                     </a>
                 </div> -->
                 
-                <div class="col-12 col-md-4 col-lg-3 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                     <a href="blog.php">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/blog.jpg)'></div>Tips, Recipes, Ideas
+                    <i class="fas fa-info-circle"></i>&nbsp;Tips, Recipes, Ideas
                     </a>
                 </div>
 
-                <div class="col-12 col-md-4 col-lg-3 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                     <a href="photos.php">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/photos.jpg)'></div>Photo Galleries
+                    <i class="fas fa-info-circle"></i>&nbsp;Photo Galleries
                     </a>
                 </div>
 
@@ -87,9 +98,9 @@
                     </a>
                 </div> -->
 
-                <div class="col-12 col-md-4 col-lg-3 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                     <a href="#store">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/store.jpg)'></div>The Store
+                    <i class="fas fa-info-circle"></i>&nbsp;The Store
                     </a>
                 </div>
 
@@ -99,9 +110,9 @@
                     </a>
                 </div> -->
 
-                <div class="col-12 col-md-4 col-lg-3 quick">
+                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                     <a href="#links">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/links.jpg)'></div>Links to External Sites
+                    <i class="fas fa-info-circle"></i>&nbsp;Links to External Sites
                     </a>
                 </div>
 <!-- 

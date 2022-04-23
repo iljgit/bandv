@@ -37,6 +37,15 @@
       </li> -->
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+          Documents
+        </a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="assets/docs/Site-Rules-April-2022.pdf" target="_blank">Site Rules</a>
+          <a class="dropdown-item" href="/society.php#documents">All Documents</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
           About
         </a>
         <div class="dropdown-menu">

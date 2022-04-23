@@ -801,9 +801,15 @@ i.fas.fa-copy.animate {
 	height: 45%;
 }
 
-.quick {
+.quick,
+.quick a {
 	padding-top: 5px;
 	margin-bottom: 5px;
+	color: black !important;
+}
+
+.quick i {
+	color: #007bff;
 }
 
 .quick a .image {
@@ -817,6 +823,7 @@ i.fas.fa-copy.animate {
 	background-size: cover;
 	border-radius: 5px;
 	border: 1px solid transparent;
+	color: black !important;
 }
 
 .quick:hover {
