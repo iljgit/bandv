@@ -27,112 +27,117 @@
 
         <div class="container" id="pagebody">
 
-            <div class="row mb mt-3 xjustify-content-md-center" id="home">
+            <div class="row mb-5 mt-3 xjustify-content-md-center" id="home" style="border: 2px solid darkblue; border-radius:20px">
                 <div class="col-12 mb-3">
-                    <h2>Quick links</h2>
+                    <h2 style="background: white; width: fit-content !important; padding: 0 10px 0 10px; top: -20px; position: relative;">Quick links</h2>
                     Links marked as <span style="color: darkred">external</span> are not maintained by the society and you follow them at your own risk.
                 </div>
 
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a  href="assets/docs/Site-Rules-April-2022.pdf" target="_blank">
-                    <i class="fas fa-file-pdf"></i>&nbsp;Site Rules<br><span class="updated">Last updated 23<sup>rd</sup> April 2022</updated>
-                    </a>
+                <div class="container">
+                    <div class="row mb mt-3 xjustify-content-md-center">
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a  href="assets/docs/Site-Rules-April-2022.pdf" target="_blank">
+                            <i class="fas fa-file-pdf"></i>&nbsp;Site Rules<br><span class="updated">Last updated 23<sup>rd</sup> April 2022</updated>
+                            </a>
+                        </div>
+
+
+                    </div>
+                    <div class="row mb mt-3 xjustify-content-md-center" id="home">
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a href="burnside-site-update.php">
+                            <i class="fas fa-map-marker"></i>&nbsp;Burnside site update<br><span class="updated"><?php echo($bupdate); ?></span>
+                            </a>
+                        </div>
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a href="vinery-site-update.php">
+                            <i class="fas fa-map-marker"></i>&nbsp;Vinery site update<br><span class="updated"><?php echo($vupdate); ?></span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row mb mt-3 xjustify-content-md-center" id="home">
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a href="society.php">
+                            <i class="fas fa-info-circle"></i>&nbsp;The Society
+                            </a>
+                        </div>
+
+                        <!-- <div class="col-12 col-md-4 col-lg-3 quick">
+                            <a href="society.php#committee">
+                                <div class="image" style='background-image: url(/assets/img/society/committee.jpg)'></div>The society committee
+                            </a>
+                        </div>
+
+                        <div class="col-12 col-md-4 col-lg-3 quick">
+                            <a href="society.php#documents">
+                                <div class="image" style='background-image: url(/assets/img/society/documents.jpg)'></div>Important documents
+                            </a>
+                        </div> -->
+                        
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a href="blog.php">
+                            <i class="fas fa-info-circle"></i>&nbsp;Tips, Recipes, Ideas
+                            </a>
+                        </div>
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a href="photos.php">
+                            <i class="fas fa-info-circle"></i>&nbsp;Photo Galleries
+                            </a>
+                        </div>
+
+                        <!-- <div class="col-12 col-md-4 col-lg-3 quick">
+                            <a href="#calendar">
+                                <div class="image" style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'></div>Calendar
+                            </a>
+                        </div> -->
+
+                        <!-- <div class="col-12 col-md-4 col-lg-3 quick">
+                            <a href="#noticeboard">
+                                <div class="image" style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'></div>Noticeboard
+                            </a>
+                        </div> -->
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a href="#store">
+                            <i class="fas fa-info-circle"></i>&nbsp;The Store
+                            </a>
+                        </div>
+
+                        <!-- <div class="col-12 col-md-4 col-lg-3 quick">
+                            <a href="#sustainable">
+                                <div class="image" style='background-image: url(/assets/img/weeders-digest/cambridge-sustainable-food.jpg)'></div>Cambridge Sustainable Food
+                            </a>
+                        </div> -->
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a href="#links">
+                            <i class="fas fa-info-circle"></i>&nbsp;Links to External Sites
+                            </a>
+                        </div>
+        <!-- 
+                        <div class="col-12 col-md-4 col-lg-3 quick">
+                            <a href="https://www.nhs.uk/conditions/coronavirus-covid-19" target="_blank">
+                                <div class="image" style='background-image: url(/assets/img/weeders-digest/nhs.png)'></div>NHS Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
+                            </a>
+                        </div>
+
+                        <div class="col-12 col-md-4 col-lg-3 quick">
+                            <a href="https://www.nsalg.org.uk/news/covid19-information/" target="_blank">
+                                <div class="image" style='background-image: url(/assets/img/weeders-digest/nsalg.jpg)'></div>NSALG Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
+                            </a>
+                        </div> -->
+                    </div>
                 </div>
-
-
-            </div>
-            <div class="row mb mt-3 xjustify-content-md-center" id="home">
-
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a href="burnside-site-update.php">
-                    <i class="fas fa-map-marker"></i>&nbsp;Burnside site update<br><span class="updated"><?php echo($bupdate); ?></span>
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a href="vinery-site-update.php">
-                    <i class="fas fa-map-marker"></i>&nbsp;Vinery site update<br><span class="updated"><?php echo($vupdate); ?></span>
-                    </a>
-                </div>
-            </div>
-            <div class="row mb mt-3 xjustify-content-md-center" id="home">
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a href="society.php">
-                    <i class="fas fa-info-circle"></i>&nbsp;The Society
-                    </a>
-                </div>
-
-                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="society.php#committee">
-                        <div class="image" style='background-image: url(/assets/img/society/committee.jpg)'></div>The society committee
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="society.php#documents">
-                        <div class="image" style='background-image: url(/assets/img/society/documents.jpg)'></div>Important documents
-                    </a>
-                </div> -->
-                
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a href="blog.php">
-                    <i class="fas fa-info-circle"></i>&nbsp;Tips, Recipes, Ideas
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a href="photos.php">
-                    <i class="fas fa-info-circle"></i>&nbsp;Photo Galleries
-                    </a>
-                </div>
-
-                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="#calendar">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/calendar.jpg)'></div>Calendar
-                    </a>
-                </div> -->
-
-                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="#noticeboard">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/noticeboard.jpg)'></div>Noticeboard
-                    </a>
-                </div> -->
-
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a href="#store">
-                    <i class="fas fa-info-circle"></i>&nbsp;The Store
-                    </a>
-                </div>
-
-                <!-- <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="#sustainable">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/cambridge-sustainable-food.jpg)'></div>Cambridge Sustainable Food
-                    </a>
-                </div> -->
-
-                <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                    <a href="#links">
-                    <i class="fas fa-info-circle"></i>&nbsp;Links to External Sites
-                    </a>
-                </div>
-<!-- 
-                <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="https://www.nhs.uk/conditions/coronavirus-covid-19" target="_blank">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/nhs.png)'></div>NHS Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
-                    </a>
-                </div>
-
-                <div class="col-12 col-md-4 col-lg-3 quick">
-                    <a href="https://www.nsalg.org.uk/news/covid19-information/" target="_blank">
-                        <div class="image" style='background-image: url(/assets/img/weeders-digest/nsalg.jpg)'></div>NSALG Covid advice <span style="color: darkred; font-size: 0.8rem;">(external)</span>
-                    </a>
-                </div> -->
 
             </div>
 
             <?php echo(getWhatsNewList()); ?>
 
-            <div class="row xmb xmt-5 justify-content-md-center">
+            <div class="row mb-5 xmt-5 justify-content-md-center">
 
                 <!-- <div class="col-12 mb-5 mt-2" style="border: 2px solid red; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px #c0c0c0">
                     <h2 class="text-center">Society AGM 2021</h2>
@@ -147,15 +152,15 @@
 
                 <!--?php echo(getWhatsNew()); ?-->
 
-                <div  id="sustainable" class='col-12 col-md-4'><hr></div>
+                <div  id="sustainable" class='col-12 col-md-4'>&nbsp;</div>
 
             </div>
                                 
             <div class="row mb xmt-5 justify-content-md-center" id="xhome">
 
                 <div class="col-12 mb-5 mt-2" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
+                    <h3 style="background: white; width: fit-content !important; padding: 0 10px 0 10px; top: -30px; position: relative;">Welcome to your site</h3>
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
-                    <h2>Welcome to your Society site!</h2>
                     <p>For many years, <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
                     which usually included growing tips, general allotment news and recipes.  Here is our equivalent.</p>
                     <p>
