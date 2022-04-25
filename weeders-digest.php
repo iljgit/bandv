@@ -27,7 +27,7 @@
 
         <div class="container" id="pagebody">
 
-            <div class="row mb-5 mt-3 xjustify-content-md-center" id="home" style="border: 2px solid darkblue; border-radius:20px">
+            <div class="row mb-5 mt-3 xjustify-content-md-center" id="home" style="border: 2px solid #007bff; border-radius:20px">
                 <div class="col-12 mb-3">
                     <h2 style="background: white; width: fit-content !important; padding: 0 10px 0 10px; top: -20px; position: relative;">Quick links</h2>
                     Links marked as <span style="color: darkred">external</span> are not maintained by the society and you follow them at your own risk.
@@ -37,11 +37,16 @@
                     <div class="row mb mt-3 xjustify-content-md-center">
 
                         <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a  href="assets/docs/Constitution_28_01_2022.pdf" target="_blank">
+                            <i class="fas fa-file-pdf"></i>&nbsp;Constitution<br><span class="updated">Last updated 27<sup>th</sup> January 2022</updated>
+                            </a>
+                        </div>
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                             <a  href="assets/docs/Site-Rules-April-2022.pdf" target="_blank">
                             <i class="fas fa-file-pdf"></i>&nbsp;Site Rules<br><span class="updated">Last updated 23<sup>rd</sup> April 2022</updated>
                             </a>
                         </div>
-
 
                     </div>
                     <div class="row mb mt-3 xjustify-content-md-center" id="home">
@@ -158,7 +163,7 @@
                                 
             <div class="row mb xmt-5 justify-content-md-center" id="xhome">
 
-                <div class="col-12 mb-5 mt-2" style="border: 2px solid green; border-radius: 10px; padding: 10px;">
+                <div class="col-12 mb-5 mt-2" style="border: 2px solid #007bff; border-radius: 10px; padding: 10px;">
                     <h3 style="background: white; width: fit-content !important; padding: 0 10px 0 10px; top: -30px; position: relative;">Welcome to your site</h3>
                     <img title="Joan - webmaster" src="/assets/img/weeders-digest/joan.jpg" class="img img-thumbnail img-responsive margin pull-right" style="width: 25%;">
                     <p>For many years, <a title="Click to here to visit a page dedicated to Trevor Taylor" href="trevor-taylor.php">Trevor Taylor</a>, the Society's Honorary President, produced a regular allotment newsletter called Weeder’s Digest, 
