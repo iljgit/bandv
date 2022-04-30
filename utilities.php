@@ -465,6 +465,12 @@ $wn[] = (object) [
     "link" => "<a href='assets/docs/Site-Rules-April-2022.pdf' target='_blank' title='Click to view'><button class='btn btn-success btn-sm'>View...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "30 Apr 2022",
+    "text" => "There have been major changes to the documentation.  New Society Rules replace the Constitution. A single Tenancy Agreement covers both sites.  There are new Grievance Procedure and Behaviour Policy documents",
+    "link" => "<a href='/society.php#documents' title='Click to view'><button class='btn btn-success btn-sm'>View...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*

@@ -40,8 +40,9 @@
           Documents
         </a>
         <div class="dropdown-menu">
+          <a class="dropdown-item" href="/assets/docs/Rules 04_2022.pdf" target="_blank">Society Rules</a>
+          <a class="dropdown-item" href="/assets/docs/2022-04 Tenancy Agreement.pdf" target="_blank">Tenancy Agreement</a>
           <a class="dropdown-item" href="/assets/docs/Site-Rules-April-2022.pdf" target="_blank">Site Rules</a>
-          <a class="dropdown-item" href="/assets/docs/Constitution_28_01_2022.pdf" target="_blank">Constitution</a>
           <a class="dropdown-item" href="/society.php#documents">All Documents</a>
         </div>
       </li>

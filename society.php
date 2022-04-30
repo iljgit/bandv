@@ -57,39 +57,39 @@
 
                 <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
                     <div class="card">
+                        <div class='card-header simple'>Society Rules</div>
+                        <div class="card-body simple">
+                            <p>The Society Rules replace the Constitution</p>
+                            <p><i>Released April 2022</i></p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for latest Society Rules" href="assets/docs/Rules 04_2022.pdf" target="_blank" class='btn btn-primary'>Society Rules...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Tenancy Agreements</div>
+                        <div class="card-body simple">
+                            <p>There is now a single Tenancy Agreement covering both sites</p>
+                            <p><i>Released April 2022</i></p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for Vinery" href="assets/docs/2022-04 Tenancy Agreement.pdf" target="_blank" class='btn btn-primary'>Tenancy Agreement...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
                         <div class='card-header simple'>Site Rules</div>
                         <div class="card-body simple">
-                            <p>Please ensure that you make sure you are up to date with the small number of rules.</p>
+                            <p>Please ensure you are up to date with the small number of rules.</p>
                             <p><i>Updated 23<sup>rd</sup> April 2022</i></p>
                         </div> 
                         <div class="card-footer simple">
                             <a title="Click for April 2022 update" href="assets/docs/Site-Rules-April-2022.pdf" target="_blank" class='btn btn-primary'>Rules...</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
-                    <div class="card">
-                        <div class='card-header simple'>Current Tenancy Agreements</div>
-                        <div class="card-body simple">
-                            <p>All tenants will have had a copy of the agreement to sign and keep.</p>
-                        </div> 
-                        <div class="card-footer simple">
-                            <a title="Click for Vinery" href="assets/docs/Burnside and Vinery Road Tenants V2 - Vinery.pdf" target="_blank" class='btn btn-primary'>Vinery...</a>
-                            <a title="Click for Burnside" href="assets/docs/Burnside and Vinery Road Tenants V2 - Burnside.pdf" target="_blank" class='btn btn-primary'>Burnside...</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
-                    <div class="card">
-                        <div class='card-header simple'>Constitution</div>
-                        <div class="card-body simple">
-                            <p>Constitution of the Burnside and Vinery Road Allotment Society.</p>
-                            <p><i>Updated 27<sup>th</sup> January 2022.</i></p>
-                        </div> 
-                        <div class="card-footer simple">
-                            <a title="Click for latest Society Constitution" href="assets/docs/Constitution_28_01_2022.pdf" target="_blank" class='btn btn-primary'>Constitution...</a>
                         </div>
                     </div>
                 </div>
@@ -141,6 +141,32 @@
                         </div> 
                         <div class="card-footer simple">
                             <a title="Click for GDPR" href="assets/docs/Burnside and Vinery Allotments GDPR.pdf" target="_blank" class='btn btn-primary'>GDPR...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Grievance Procedure</div>
+                        <div class="card-body simple">
+                            <p>How to raise a formal complaint</p>
+                            <p><i>Released April 2022</i></p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for Grievance Procedure" href="assets/docs/Grievance procedure.pdf" target="_blank" class='btn btn-primary'>Grievance Procedure...</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-sm-6 col-md-4 blog-summary-card mx-auto">
+                    <div class="card">
+                        <div class='card-header simple'>Behaviour Policy</div>
+                        <div class="card-body simple">
+                            <p>What the Society deems to be unacceptable behaviour</p>
+                            <p><i>Released April 2022</i></p>
+                        </div> 
+                        <div class="card-footer simple">
+                            <a title="Click for Behaviour Policy" href="assets/docs/Behaviour policy.pdf" target="_blank" class='btn btn-primary'>Beaviour Policy...</a>
                         </div>
                     </div>
                 </div>

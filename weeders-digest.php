@@ -37,14 +37,20 @@
                     <div class="row mb mt-3 xjustify-content-md-center">
 
                         <div class="col-12 col-md-4 col-lg-3 quick mb-3">
-                            <a  href="assets/docs/Constitution_28_01_2022.pdf" target="_blank">
-                            <i class="fas fa-file-pdf"></i>&nbsp;Constitution<br><span class="updated">Last updated 27<sup>th</sup> January 2022</updated>
+                            <a  href="assets/docs/Rules 04_2022.pdf" target="_blank">
+                            <i class="fas fa-file-pdf"></i>&nbsp;Society Rules<br>(formerly "The Constitution")<br><span class="updated">Released April 2022</updated>
                             </a>
                         </div>
 
                         <div class="col-12 col-md-4 col-lg-3 quick mb-3">
                             <a  href="assets/docs/Site-Rules-April-2022.pdf" target="_blank">
                             <i class="fas fa-file-pdf"></i>&nbsp;Site Rules<br><span class="updated">Last updated 23<sup>rd</sup> April 2022</updated>
+                            </a>
+                        </div>
+
+                        <div class="col-12 col-md-4 col-lg-3 quick mb-3">
+                            <a  href="assets/docs/2022-04 Tenancy Agreement.pdf" target="_blank">
+                            <i class="fas fa-file-pdf"></i>&nbsp;Society Tenancy Agreement<br><span class="updated">Released April 2022</updated>
                             </a>
                         </div>
 
