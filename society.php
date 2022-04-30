@@ -166,7 +166,7 @@
                             <p><i>Released April 2022</i></p>
                         </div> 
                         <div class="card-footer simple">
-                            <a title="Click for Behaviour Policy" href="assets/docs/Behaviour policy.pdf" target="_blank" class='btn btn-primary'>Beaviour Policy...</a>
+                            <a title="Click for Behaviour Policy" href="assets/docs/Behaviour policy.pdf" target="_blank" class='btn btn-primary'>Behaviour Policy...</a>
                         </div>
                     </div>
                 </div>
