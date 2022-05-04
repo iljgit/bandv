@@ -99,11 +99,12 @@
                         <div class='card-header simple'>AGM</div>
                         <div class="card-body simple">
                             <p>AGM Minutes since 2016</p>
-                            <p>2021 Minutes posted on 13<sup>th</sup> January 2022</p>
+                            <p>2022 Minutes posted on 4<sup>th</sup> May 2022</p>
                         </div> 
                         <div class="card-footer simple">
                             <select class="form-control inline" id="agm" style="width: auto; display: inline-block;">
-                                <option value="assets/docs/2021 AGM.pdf" selected>2021</option>
+                                <option value="assets/docs/2022 AGM.pdf" selected>2022</option>
+                                <option value="assets/docs/2021 AGM.pdf">2021</option>
                                 <option value="assets/docs/2020 AGM.pdf">2020</option>
                                 <option value="assets/docs/2019 AGM.pdf">2019</option>
                                 <option value="assets/docs/2018 AGM.pdf">2018</option>

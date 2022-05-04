@@ -471,6 +471,12 @@ $wn[] = (object) [
     "link" => "<a href='/society.php#documents' title='Click to view'><button class='btn btn-success btn-sm'>View...</button></a>"
 ];
 
+$wn[] = (object) [
+    "date" => "04 May 2022",
+    "text" => "The minutes of the latest AGM are now available",
+    "link" => "<a href='/assets/docs/2022 AGM.pdf' target='_blank' title='Click to view'><button class='btn btn-success btn-sm'>View...</button></a>"
+];
+
 $gallery = (object)[];
 
 /*
