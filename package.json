@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "node-php": "0.0.1",
     "php": "0.0.1",
     "php-cgi": "^0.2.0"
